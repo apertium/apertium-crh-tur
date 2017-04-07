@@ -1,0 +1,19 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-crh-tur.crh-tur.dix -text
+/apertium-crh-tur.crh-tur.lrx -text
+/apertium-crh-tur.crh-tur.t1x -text
+/apertium-crh-tur.crh-tur.t2x -text
+/apertium-crh-tur.crh-tur.t3x -text
+/apertium-crh-tur.tur-crh.lrx -text
+/apertium-crh-tur.tur-crh.t1x -text
+/apertium-crh-tur.tur-crh.t2x -text
+/apertium-crh-tur.tur-crh.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
