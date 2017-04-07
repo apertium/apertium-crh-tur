@@ -105,23 +105,47 @@
       <!-- SECTION: Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
       <e><p><l>amma<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ancaq<s n="cnjcoo"/></l><r>ancak<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Postpositions -->
       <e><p><l>soñ<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
+      <e><p><l>qadar<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
       <e><p><l>köre<s n="post"/></l><r>göre<s n="post"/></r></p></e>
       <e><p><l>ile<s n="post"/></l><r>ile<s n="post"/></r></p></e>
+      <e><p><l>içün<s n="post"/></l><r>için<s n="post"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
       <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e>
       <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
+      <e><p><l>olar<s n="prn"/></l><r>olar<s n="prn"/></r></p></e>
+      <e><p><l>öz<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
+
+      <!-- SECTION: Numerals -->
+      <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
       <e><p><l>eali<s n="n"/></l><r>ahali<s n="n"/></r></p></e>
       <e><p><l>til<s n="n"/></l><r>dil<s n="n"/></r></p></e>
       <e><p><l>zaman<s n="n"/></l><r>zaman<s n="n"/></r></p></e>
+      <e><p><l>bala<s n="n"/></l><r>çocuk<s n="n"/></r></p></e>
       <e><p><l>halq<s n="n"/></l><r>halk<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>zümre<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>aile<s n="n"/></r></p></e>
+      <e><p><l>memleket<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
+      <e><p><l>millet<s n="n"/></l><r>millet<s n="n"/></r></p></e>
+      <e><p><l>devlet<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
+      <e><p><l>cumhuriyet<s n="n"/></l><r>cumhuriyet<s n="n"/></r></p></e>
+
+      <!-- SECTION: Proper nouns-->
+      <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
+
+      <!-- SECTION: Adjectives -->
+      <e><p><l>osmanlı<s n="adj"/></l><r>osmanlı<s n="adj"/></r></p></e>
+      <e><p><l>ilk<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
+
+      <!-- SECTION: Adverbs -->
+      <e><p><l>şimdi<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
+      <e><p><l>eñ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
 	
       <!-- SECTION: Verbs -->
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
@@ -130,6 +154,8 @@
 
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><re>[IVXMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
 </dictionary>
