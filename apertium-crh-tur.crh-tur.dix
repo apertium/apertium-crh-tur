@@ -9,7 +9,9 @@
 
     <sdef n="n"               c="Noun"/>
     <sdef n="np"              c="Proper noun"/>
-    <sdef n="vblex"           c="Verb, lexical"/>
+    <sdef n="iv"              c=""/>
+    <sdef n="tv"              c=""/>
+    <sdef n="v"           c="Verb, lexical"/>
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
     <sdef n="vbser"           c="'To be' verb"/>
@@ -96,19 +98,34 @@
 
     <sdef n="cop"           c="Copula"/>
 
-    <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
-    <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
 
    <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
+
+      <!-- SECTION: Conjunctions -->
+      <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
+      <e><p><l>amma<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
+
+      <!-- SECTION: Postpositions -->
+      <e><p><l>soñ<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
+      <e><p><l>köre<s n="post"/></l><r>göre<s n="post"/></r></p></e>
+      <e><p><l>ile<s n="post"/></l><r>ile<s n="post"/></r></p></e>
+
+      <!-- SECTION: Pronouns -->
+      <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e>
+      <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
+
+      <!-- SECTION: Nouns -->
       <e><p><l>eali<s n="n"/></l><r>ahali<s n="n"/></r></p></e>
       <e><p><l>til<s n="n"/></l><r>dil<s n="n"/></r></p></e>
+      <e><p><l>zaman<s n="n"/></l><r>zaman<s n="n"/></r></p></e>
+      <e><p><l>halq<s n="n"/></l><r>halk<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>zümre<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>aile<s n="n"/></r></p></e>
-
-      <e><p><l>soñ<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
 	
+      <!-- SECTION: Verbs -->
+      <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
 
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
