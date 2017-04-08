@@ -151,6 +151,7 @@
       <e><p><l>taraf<s n="n"/></l><r>taraf<s n="n"/></r></p></e>
       <e><p><l>millet<s n="n"/></l><r>millet<s n="n"/></r></p></e>
       <e><p><l>devlet<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
+	  <e><p><l>çöl<s n="n"/></l><r>çöl<s n="n"/></r></p></e>
       <e><p><l>cumhuriyet<s n="n"/></l><r>cumhuriyet<s n="n"/></r></p></e>
 	  <e><p><l>sene<s n="n"/></l><r>sene<s n="n"/></r></p></e>
 	  <e><p><l>tarih<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
@@ -283,6 +284,7 @@
 
       <e><p><l>otur<s n="v"/><s n="iv"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qal<s n="v"/><s n="iv"/></l><r>kal<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>yaşa<s n="v"/><s n="iv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
 
       <e><p><l>tut<s n="v"/><s n="tv"/></l><r>tut<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yarat<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
