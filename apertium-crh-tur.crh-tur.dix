@@ -15,6 +15,7 @@
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
     <sdef n="vbser"           c="'To be' verb"/>
+    <sdef n="abbr"           c=""/>
     <sdef n="vbhaver"         c="'To have' verb"/>
     <sdef n="cnjsub"          c="Subordinating conjunction"/>
     <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
@@ -25,6 +26,7 @@
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
+
 
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
@@ -222,6 +224,7 @@
 	  <e><p><l>repressiya<s n="n"/></l><r>baskı<s n="n"/></r></p></e>
 	  <e><p><l>münever<s n="n"/></l><r>münevver<s n="n"/></r></p></e>
 	  <e><p><l>münever<s n="n"/></l><r>aydın<s n="n"/></r></p></e>
+	  <e><p><l>deñiz<s n="n"/></l><r>deniz<s n="n"/></r></p></e>
 	  <e><p><l>siyasetçi<s n="n"/></l><r>siyasetçi<s n="n"/></r></p></e>
 	  <e><p><l>alim<s n="n"/></l><r>alim<s n="n"/></r></p></e>
 	  <e><p><l>sayı<s n="n"/></l><r>sayı<s n="n"/></r></p></e>
@@ -297,6 +300,10 @@
       <e><p><l>çıqar<s n="v"/><s n="tv"/></l><r>çıkar<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qur<s n="v"/><s n="tv"/></l><r>kur<s n="v"/><s n="tv"/></r></p></e>
 
+      <!-- SECTION: Abbreviations -->
+      <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
+
+      <!-- SECTION: Punctuation -->
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>[IVXMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
       <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
