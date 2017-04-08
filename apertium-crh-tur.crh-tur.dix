@@ -122,6 +122,7 @@
 
       <!-- SECTION: Numerals -->
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
+      <e><p><l>eki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
       <e><p><l>eali<s n="n"/></l><r>ahali<s n="n"/></r></p></e>
@@ -136,13 +137,67 @@
       <e><p><l>millet<s n="n"/></l><r>millet<s n="n"/></r></p></e>
       <e><p><l>devlet<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
       <e><p><l>cumhuriyet<s n="n"/></l><r>cumhuriyet<s n="n"/></r></p></e>
-
+	  <e><p><l>sene<s n="n"/></l><r>sene<s n="n"/></r></p></e>
+	  <e><p><l>tarih<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
+	  <e><p><l>devam<s n="n"/></l><r>devam<s n="n"/></r></p></e>
+	  <e><p><l>hanlıq<s n="n"/></l><r>hanlıq<s n="n"/></r></p></e>
+	  <e><p><l>ittifaqdaş<s n="n"/></l><r>müttefik<s n="n"/></r></p></e>
+	  <e><p><l>sülâle<s n="n"/></l><r>hanedan<s n="n"/></r></p></e>
+	  <e><p><l>üküm<s n="n"/></l><r>hüküm<s n="n"/></r></p></e>
+	  <e><p><l>temelci<s n="n"/></l><r>kurucu<s n="n"/></r></p></e>
+	  <e><p><l>han<s n="n"/></l><r>han<s n="n"/></r></p></e>
+	  <e><p><l>devir<s n="n"/></l><r>devir<s n="n"/></r></p></e>
+	  <e><p><l>medeniyet<s n="n"/></l><r>medeniyet<s n="n"/></r></p></e>
+	  <e><p><l>sanat<s n="n"/></l><r>sanat<s n="n"/></r></p></e>
+	  <e><p><l>edebiyat<s n="n"/></l><r>edebiyat<s n="n"/></r></p></e>
+	  <e><p><l>inkişaf<s n="n"/></l><r>gelişim<s n="n"/></r></p></e>
+	  <e><p><l>şiiriyet<s n="n"/></l><r>şiir<s n="n"/></r></p></e>
+	  <e><p><l>klassik<s n="n"/></l><r>klasik<s n="n"/></r></p></e>
+	  <e><p><l>aşıq<s n="n"/></l><r>aşık<s n="n"/></r></p></e>
+	  <e><p><l>şair<s n="n"/></l><r>şair<s n="n"/></r></p></e>
+	  <e><p><l>mimarcılıq<s n="n"/></l><r>mimarlık<s n="n"/></r></p></e>
+	  <e><p><l>abide<s n="n"/></l><r>abide<s n="n"/></r></p></e>
+	  <e><p><l>memleket<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
+	  <e><p><l>memleket<s n="n"/></l><r>ülke<s n="n"/></r></p></e>
+	  <e><p><l>asır<s n="n"/></l><r>asır<s n="n"/></r></p></e>
+	  <e><p><l>ücüm<s n="n"/></l><r>hücüm<s n="n"/></r></p></e>
+	  <e><p><l>cenk<s n="n"/></l><r>cenk<s n="n"/></r></p></e>
+	  <e><p><l>eali<s n="n"/></l><r>nüfus<s n="n"/></r></p></e>
+	  <e><p><l>kişi<s n="n"/></l><r>kişi<s n="n"/></r></p></e>
+	  <e><p><l>esir<s n="n"/></l><r>esir<s n="n"/></r></p></e>
+	  <e><p><l>rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
+	  <e><p><l>çarşı<s n="n"/></l><r>çarşı<s n="n"/></r></p></e>
+	  <e><p><l>şarq<s n="n"/></l><r>doğu<s n="n"/></r></p></e>
+	  <e><p><l>yolbaşçılıq<s n="n"/></l><r>liderlik<s n="n"/></r></p></e>
+	  <e><p><l>alt<s n="n"/></l><r>alt<s n="n"/></r></p></e>
+	  <e><p><l>qale<s n="n"/></l><r>kale<s n="n"/></r></p></e>
+	  <e><p><l>civar<s n="n"/></l><r>civar<s n="n"/></r></p></e>
+	  <e><p><l>şeer<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
+	  <e><p><l>kül<s n="n"/></l><r>kül<s n="n"/></r></p></e>
+	  <e><p><l>ordu<s n="n"/></l><r>ordu<s n="n"/></r></p></e>
+	  <e><p><l>köy<s n="n"/></l><r>köy<s n="n"/></r></p></e>
+	  <e><p><l>yan<s n="n"/></l><r>yan<s n="n"/></r></p></e>
+	  <e><p><l>uruş<s n="n"/></l><r>muharebe<s n="n"/></r></p></e>
+	  <e><p><l>mağlübiyet<s n="n"/></l><r>mağlubiyet<s n="n"/></r></p></e>
+	  <e><p><l>mağlübiyet<s n="n"/></l><r>yenilgi<s n="n"/></r></p></e>
+	  <e><p><l>tarz<s n="n"/></l><r>tarz<s n="n"/></r></p></e>
+	  <e><p><l>sefer<s n="n"/></l><r>sefer<s n="n"/></r></p></e>
+	  <e><p><l>icret<s n="n"/></l><r>göç<s n="n"/></r></p></e>
       <!-- SECTION: Proper nouns-->
       <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Lehistan<s n="np"/><s n="top"/></l><r>Lehistan<s n="np"/><s n="top"/></r></p></e>
+
+      <e><p><l>Geray<s n="np"/><s n="cog"/></l><r>Giray<s n="np"/><s n="cog"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>osmanlı<s n="adj"/></l><r>osmanlı<s n="adj"/></r></p></e>
       <e><p><l>ilk<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
+      <e><p><l>bağlı<s n="adj"/></l><r>bağlı<s n="adj"/></r></p></e>
+      <e><p><l>bellı<s n="adj"/></l><r>bellı<s n="adj"/></r></p></e>
+      <e><p><l>müim<s n="adj"/></l><r>mühim<s n="adj"/></r></p></e>
+      <e><p><l>yaqın<s n="adj"/></l><r>yakın<s n="adj"/></r></p></e>
+      <e><p><l>iri<s n="adj"/></l><r>büyük<s n="adj"/></r></p></e>
+      <e><p><l>mecbur<s n="adj"/></l><r>mecbur<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
       <e><p><l>şimdi<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
@@ -151,7 +206,16 @@
       <!-- SECTION: Verbs -->
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>vazgeç<s n="v"/><s n="iv"/></l><r>vazgeç<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>kel<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>cenkleş<s n="v"/><s n="iv"/></l><r>savaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yaqala<s n="v"/><s n="tv"/></l><r>yakala<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yaqalan<s n="v"/><s n="iv"/></l><r>yakalan<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>sat<s n="v"/><s n="tv"/></l><r>sat<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yaq<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yet<s n="v"/><s n="iv"/></l><r>ulaş<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>oğra<s n="v"/><s n="iv"/></l><r>uğra<s n="v"/><s n="iv"/></r></p></e>
 
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
