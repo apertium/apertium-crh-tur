@@ -18,7 +18,7 @@
       <program name="lt-proc -b">
         <file name="crh-tur.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="crh-tur.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -65,7 +65,7 @@
       <program name="lt-proc -b">
         <file name="tur-crh.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="tur-crh.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
