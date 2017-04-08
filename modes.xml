@@ -33,13 +33,16 @@
         <file name="apertium-crh-tur.crh-tur.t3x"/>
         <file name="crh-tur.t3x.bin"/>
       </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-crh-tur.crh-tur.t4x"/>
+        <file name="crh-tur.t4x.bin"/>
+      </program>
       <program name="lt-proc $1">
         <file name="crh-tur.autogen.bin"/>
       </program>
-
-      <program name="lt-proc -p">
+<!--      <program name="lt-proc -p">
         <file name="crh-tur.autopgen.bin"/>
-      </program>
+      </program>-->
     </pipeline>
   </mode>
 
