@@ -136,6 +136,7 @@
       <e><p><l>eki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/></l><r>milyon<s n="num"/><s n="subst"/></r></p></e>
+      <e><p><l>biñ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
