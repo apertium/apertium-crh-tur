@@ -156,7 +156,7 @@
 	  <e><p><l>sene<s n="n"/></l><r>sene<s n="n"/></r></p></e>
 	  <e><p><l>tarih<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
 	  <e><p><l>devam<s n="n"/></l><r>devam<s n="n"/></r></p></e>
-	  <e><p><l>hanlıq<s n="n"/></l><r>hanlıq<s n="n"/></r></p></e>
+	  <e><p><l>hanlıq<s n="n"/></l><r>hanlık<s n="n"/></r></p></e>
 	  <e><p><l>ittifaqdaş<s n="n"/></l><r>müttefik<s n="n"/></r></p></e>
 	  <e><p><l>sülâle<s n="n"/></l><r>hanedan<s n="n"/></r></p></e>
 	  <e><p><l>üküm<s n="n"/></l><r>hüküm<s n="n"/></r></p></e>
@@ -227,6 +227,7 @@
 	  <e><p><l>sayı<s n="n"/></l><r>sayı<s n="n"/></r></p></e>
       <!-- SECTION: Proper nouns-->
       <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Qırım<s n="np"/><s n="top"/></l><r>Kırım<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Bulğaristan<s n="np"/><s n="top"/></l><r>Bulgaristan<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Lehistan<s n="np"/><s n="top"/></l><r>Lehistan<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Romaniya<s n="np"/><s n="top"/></l><r>Romanya<s n="np"/><s n="top"/></r></p></e>
@@ -254,6 +255,7 @@
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
       <e><p><l>ulu<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
       <e><p><l>edebiy<s n="adj"/></l><r>edebi<s n="adj"/></r></p></e>
+      <e><p><l>qara<s n="adj"/></l><r>siyah<s n="adj"/></r></p></e>
       <e><p><l>adlı<s n="adj"/></l><r>adlı<s n="adj"/></r></p></e>
       <e><p><l>qırımlı<s n="adj"/></l><r>kırımlı<s n="adj"/></r></p></e>
       <e><p><l>ziyade<s n="adj"/></l><r>fazla<s n="adj"/></r></p></e>

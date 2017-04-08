@@ -16,4 +16,5 @@
 /apertium-crh-tur.tur-crh.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/bidix-sanity.sh -text
 /modes.xml -text
