@@ -51,6 +51,7 @@
     <sdef n="ut"              c="Utrum"/>
     <sdef n="f"               c="Feminine"/>
     <sdef n="m"               c="Masculine"/>
+    <sdef n="mf"               c="Masculine / feminine"/>
     <sdef n="un"              c="No gender"/>
 
     <sdef n="sg"              c="Singular"/>
@@ -117,6 +118,9 @@
       <e><p><l>ancaq<s n="cnjcoo"/></l><r>ancak<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Postpositions -->
+      <e><p><l>sız<s n="post"/></l><r>sız<s n="post"/></r></p></e>
+      <e><p><l>lı<s n="post"/></l><r>lı<s n="post"/></r></p></e>
+
       <e><p><l>soñ<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
       <e><p><l>qadar<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
       <e><p><l>köre<s n="post"/></l><r>göre<s n="post"/></r></p></e>
@@ -249,6 +253,7 @@
       <e><p><l>İsmail<s n="np"/><s n="ant"/></l><r>İsmail<s n="np"/><s n="ant"/></r></p></e>
 
       <e><p><l>Geray<s n="np"/><s n="cog"/></l><r>Giray<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Stalin<s n="np"/><s n="cog"/><s n="m"/></l><r>Stalin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Çelebicihan<s n="np"/><s n="cog"/></l><r>Çelebicihan<s n="np"/><s n="cog"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
