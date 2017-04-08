@@ -28,6 +28,7 @@
     <sdef n="prn"             c="Pronoun"/>
 
 
+    <sdef n="subst"           c="Attributive"/>
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
@@ -106,6 +107,7 @@
 
       <!-- SECTION: Determiners -->
       <e><p><l>bütün<s n="det"/></l><r>bütün<s n="det"/></r></p></e>
+      <e><p><l>diger<s n="det"/><s n="ind"/></l><r>diğer<s n="adj"/></r></p></e>
       <e><p><l>cümle<s n="det"/></l><r>bütün<s n="det"/></r></p></e>
 
       <!-- SECTION: Conjunctions -->
@@ -132,7 +134,8 @@
       <!-- SECTION: Numerals -->
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>eki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
-      <e><p><l>million<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
+      <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
+      <e><p><l>million<s n="n"/></l><r>milyon<s n="num"/><s n="subst"/></r></p></e>
 
       <!-- SECTION: Nouns -->
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
@@ -183,7 +186,7 @@
 	  <e><p><l>eali<s n="n"/></l><r>nüfus<s n="n"/></r></p></e>
 	  <e><p><l>kişi<s n="n"/></l><r>kişi<s n="n"/></r></p></e>
 	  <e><p><l>esir<s n="n"/></l><r>esir<s n="n"/></r></p></e>
-	  <e><p><l>rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
+	  <e><p><l>rus<s n="n"/></l><r>Rus<s n="n"/></r></p></e>
 	  <e><p><l>çarşı<s n="n"/></l><r>çarşı<s n="n"/></r></p></e>
 	  <e><p><l>şarq<s n="n"/></l><r>doğu<s n="n"/></r></p></e>
 	  <e><p><l>yolbaşçılıq<s n="n"/></l><r>liderlik<s n="n"/></r></p></e>
@@ -228,7 +231,7 @@
 	  <e><p><l>siyasetçi<s n="n"/></l><r>siyasetçi<s n="n"/></r></p></e>
 	  <e><p><l>alim<s n="n"/></l><r>alim<s n="n"/></r></p></e>
 	  <e><p><l>sayı<s n="n"/></l><r>sayı<s n="n"/></r></p></e>
-	  <e><p><l>qırımtatar<s n="n"/></l><r>qırımtatar<s n="n"/></r></p></e>
+	  <e><p><l>qırımtatar<s n="n"/></l><r>Kırımtatar<s n="n"/></r></p></e>
 	  <e><p><l>ükümet<s n="n"/></l><r>hükümet<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
@@ -241,6 +244,7 @@
 
 
       <e><p><l>Noman<s n="np"/><s n="ant"/></l><r>Numan<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Mahmud<s n="np"/><s n="ant"/></l><r>Mahmud<s n="np"/><s n="ant"/></r></p></e>
 
       <e><p><l>Geray<s n="np"/><s n="cog"/></l><r>Giray<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Çelebicihan<s n="np"/><s n="cog"/></l><r>Çelebicihan<s n="np"/><s n="cog"/></r></p></e>
