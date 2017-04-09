@@ -111,8 +111,9 @@
       <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>öz<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
       <e><p><l>diger<s n="det"/><s n="ind"/></l><r>diğer<s n="adj"/></r></p></e>
+      <e><p><l>diger<s n="prn"/><s n="ind"/></l><r>diğer<s n="adj"/><s n="subst"/></r></p></e>
       <e><p><l>cümle<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
-    <e><p><l>bazı<s n="det"/></l><r>bazı<s n="det"/></r></p></e>
+    <e><p><l>bazı<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
 
       <!-- SECTION: Conjunctions -->
