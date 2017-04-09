@@ -151,6 +151,8 @@
       <!-- SECTION: Nouns -->
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
+	  <e><p><l>mart<s n="n"/></l><r>mart<s n="n"/></r></p></e>
+	  <e><p><l>fevral<s n="n"/></l><r>şubat<s n="n"/></r></p></e>
 	  <e><p><l>soñ<s n="n"/></l><r>son<s n="n"/></r></p></e>
 	  <e><p><l>al<s n="n"/></l><r>hal<s n="n"/></r></p></e>
 	  <e><p><l>yarımada<s n="n"/></l><r>yarımada<s n="n"/></r></p></e>
@@ -295,8 +297,9 @@
       <e><p><l>Geray<s n="np"/><s n="cog"/></l><r>Giray<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Stalin<s n="np"/><s n="cog"/><s n="m"/></l><r>Stalin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Çelebicihan<s n="np"/><s n="cog"/></l><r>Çelebicihan<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Çobanzade<s n="np"/><s n="cog"/></l><r>Çobanzade<s n="np"/><s n="cog"/></r></p></e>
 
-    <e><p><l>Minih<s n="np"/><s n="cog"/><s n="m"/></l><r>Minih<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e><p><l>Minih<s n="np"/><s n="cog"/><s n="mf"/></l><r>Minih<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Gasprinskiy<s n="np"/><s n="cog"/><s n="m"/></l><r>Gasprinski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>İbraimov<s n="np"/><s n="cog"/><s n="m"/></l><r>İbrahimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 
