@@ -11,6 +11,7 @@
     <sdef n="np"              c="Proper noun"/>
     <sdef n="iv"              c=""/>
     <sdef n="tv"              c=""/>
+    <sdef n="postadv"              c=""/>
     <sdef n="v"           c="Verb, lexical"/>
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
@@ -107,14 +108,16 @@
    <section id="main" type="standard">
 
       <!-- SECTION: Determiners -->
-      <e><p><l>bütün<s n="det"/></l><r>bütün<s n="det"/></r></p></e>
+      <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>öz<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
       <e><p><l>diger<s n="det"/><s n="ind"/></l><r>diğer<s n="adj"/></r></p></e>
-      <e><p><l>cümle<s n="det"/></l><r>bütün<s n="det"/></r></p></e>
+      <e><p><l>cümle<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>bazı<s n="det"/></l><r>bazı<s n="det"/></r></p></e>
+    <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
-      <e><p><l>ise<s n="cnjcoo"/></l><r>ise<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ise<s n="cnjcoo"/></l><r>ise<s n="postadv"/></r></p></e> <!-- CHECK-->
       <e><p><l>amma<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
 	  <e><p><l>lâkin<s n="cnjcoo"/></l><r>lâkin<s n="cnjcoo"/></r></p></e>
       <e><p><l>ancaq<s n="cnjcoo"/></l><r>ancak<s n="cnjcoo"/></r></p></e>
@@ -134,8 +137,9 @@
       <!-- SECTION: Pronouns -->
       <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e>
       <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
-      <e><p><l>olar<s n="prn"/></l><r>olar<s n="prn"/></r></p></e>
+      <e><p><l>olar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e>
       <e><p><l>öz<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
+      <e><p><l>ekseri<s n="prn"/></l><r>ekseri<s n="prn"/></r></p></e>
 
       <!-- SECTION: Numerals -->
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
@@ -195,6 +199,7 @@
 	  <e><p><l>kişi<s n="n"/></l><r>kişi<s n="n"/></r></p></e>
 	  <e><p><l>esir<s n="n"/></l><r>esir<s n="n"/></r></p></e>
 	  <e><p><l>rus<s n="n"/></l><r>Rus<s n="n"/></r></p></e>
+	  <e><p><l>ukrain<s n="n"/></l><r>Ukraynalı<s n="n"/></r></p></e>
 	  <e><p><l>çarşı<s n="n"/></l><r>çarşı<s n="n"/></r></p></e>
 	  <e><p><l>şarq<s n="n"/></l><r>doğu<s n="n"/></r></p></e>
 	  <e><p><l>yolbaşçılıq<s n="n"/></l><r>liderlik<s n="n"/></r></p></e>
@@ -264,6 +269,7 @@
     <e><p><l>esas<s n="n"/></l><r>esas<s n="n"/></r></p></e>
     <e><p><l>niyet<s n="n"/></l><r>niyet<s n="n"/></r></p></e>
     <e><p><l>ald<s n="n"/></l><r>alt<s n="n"/></r></p></e>
+      <e><p><l>osmanlı<s n="n"/></l><r>Osmanlı<s n="n"/></r></p></e>
 
 
       <!-- SECTION: Proper nouns-->
@@ -290,9 +296,10 @@
       <e><p><l>Stalin<s n="np"/><s n="cog"/><s n="m"/></l><r>Stalin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Çelebicihan<s n="np"/><s n="cog"/></l><r>Çelebicihan<s n="np"/><s n="cog"/></r></p></e>
 
-    <e><p><l>Minih<s n="np"/><s n="cog"/></l><r>Minih<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>Gasprinskiy<s n="np"/><s n="cog"/></l><r>Gasprinski<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>İbraimov<s n="np"/><s n="cog"/></l><r>İbrahimov<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Minih<s n="np"/><s n="cog"/><s n="m"/></l><r>Minih<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e><p><l>Gasprinskiy<s n="np"/><s n="cog"/><s n="m"/></l><r>Gasprinski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e><p><l>İbraimov<s n="np"/><s n="cog"/><s n="m"/></l><r>İbrahimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+
     <e><p><l>Dobruca<s n="np"/><s n="top"/></l><r>Dobruca<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Moskova<s n="np"/><s n="top"/></l><r>Moskova<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kreml<s n="np"/><s n="top"/></l><r>Kremlin<s n="np"/><s n="top"/></r></p></e>
@@ -311,7 +318,6 @@
       <e><p><l>ağır<s n="adj"/></l><r>ağır<s n="adj"/></r></p></e>
       <e><p><l>federativ<s n="adj"/></l><r>federal<s n="adj"/></r></p></e>
       <e><p><l>mustaqil<s n="adj"/></l><r>müstakil<s n="adj"/></r></p></e>
-      <e><p><l>osmanlı<s n="adj"/></l><r>osmanlı<s n="adj"/></r></p></e>
       <e><p><l>ilk<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
       <e><p><l>bağlı<s n="adj"/></l><r>bağlı<s n="adj"/></r></p></e>
       <e><p><l>bellı<s n="adj"/></l><r>bellı<s n="adj"/></r></p></e>
