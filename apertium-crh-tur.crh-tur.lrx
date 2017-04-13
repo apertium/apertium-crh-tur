@@ -11,6 +11,12 @@
 	</match>
 </rule>
 
+<rule>
+	<match lemma = "malümat" tags ="n.pl.*">
+		<select lemma="bilgi" tags = "n.*"/>
+	</match>
+</rule>
+
 </rules>
 
 <!-- 
