@@ -115,6 +115,10 @@
       <e><p><l>cümle<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>bazı<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
+    <e><p><l>çoq<s n="det"/></l><r>çok<s n="det"/></r></p></e>
+
+
+	
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
@@ -361,6 +365,7 @@
       <e><p><l>aslında<s n="adv"/></l><r>aslında<s n="adv"/></r></p></e>
       <e><p><l>büs-bütün<s n="adv"/></l><r>büsbütün<s n="adv"/></r></p></e>
       <e><p><l>eñ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
+      <e><p><l>çoq<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
       <e><p><l>soñ<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
       <e><p><l>yañıdan<s n="adv"/></l><r>yeniden<s n="adv"/></r></p></e>
 
