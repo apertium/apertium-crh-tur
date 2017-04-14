@@ -157,6 +157,7 @@
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
 	  <e><p><l>diaspora<s n="n"/></l><r>diaspora<s n="n"/></r></p></e>
+	  <e><p><l>icra<s n="n"/></l><r>icra<s n="n"/></r></p></e>
 	  <e><p><l>malümat<s n="n"/></l><r>bilgi<s n="n"/></r></p></e>
 	  <e><p><l>malümat<s n="n"/></l><r>malumat<s n="n"/></r></p></e>
 	  <e><p><l>mart<s n="n"/></l><r>mart<s n="n"/></r></p></e>
@@ -282,6 +283,7 @@
     <e><p><l>esas<s n="n"/></l><r>esas<s n="n"/></r></p></e>
     <e><p><l>niyet<s n="n"/></l><r>niyet<s n="n"/></r></p></e>
     <e><p><l>ald<s n="n"/></l><r>alt<s n="n"/></r></p></e>
+	  <e><p><l>terkip<s n="n"/></l><r>dahil<s n="n"/></r></p></e>
       <e><p><l>osmanlı<s n="n"/></l><r>Osmanlı<s n="n"/></r></p></e>
 
 
@@ -329,6 +331,7 @@
       <!-- SECTION: Adjectives -->
 
       <e><p><l>ertesi<s n="adj"/></l><r>sonraki<s n="adj"/></r></p></e>
+      <e><p><l>muhtar<s n="adj"/></l><r>özerk<s n="adj"/></r></p></e>
       <e><p><l>aliy<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>şimaliy<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
       <e><p><l>ağır<s n="adj"/></l><r>ağır<s n="adj"/></r></p></e>
@@ -387,9 +390,11 @@
       <e><p><l>kel<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>cenkleş<s n="v"/><s n="iv"/></l><r>savaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>qatil<b/>et<s n="v"/><s n="tv"/></l><r>katlet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqala<s n="v"/><s n="tv"/></l><r>yakala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqalan<s n="v"/><s n="iv"/></l><r>yakalan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sat<s n="v"/><s n="tv"/></l><r>sat<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>anneksirle<s n="v"/><s n="tv"/></l><r>ilhak<b/>et<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaq<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yet<s n="v"/><s n="iv"/></l><r>ulaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>oğra<s n="v"/><s n="iv"/></l><r>uğra<s n="v"/><s n="iv"/></r></p></e>
