@@ -239,6 +239,8 @@
 	  <e><p><l>noğay<s n="n"/></l><r>nogay<s n="n"/></r></p></e>
 	  <e><p><l>komitet<s n="n"/></l><r>komite<s n="n"/></r></p></e>
 	  <e><p><l>baş<s n="n"/></l><r>baş<s n="n"/></r></p></e>
+	  <e><p><l>başlıq<s n="n"/></l><r>yetkili<s n="adj"/><s n="subst"/></r></p></e>
+	  <e><p><l>başlıq<s n="n"/><s n="attr"/></l><r>yetkili<s n="adj"/></r></p></e>
 	  <e><p><l>müsibet<s n="n"/></l><r>musibet<s n="n"/></r></p></e>
 	  <e><p><l>inqilâp<s n="n"/></l><r>devrim<s n="n"/></r></p></e>
 	  <e><p><l>inqilâp<s n="n"/></l><r>inkılap<s n="n"/></r></p></e>
@@ -327,6 +329,7 @@
       <!-- SECTION: Adjectives -->
 
       <e><p><l>ertesi<s n="adj"/></l><r>sonraki<s n="adj"/></r></p></e>
+      <e><p><l>aliy<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>şimaliy<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
       <e><p><l>ağır<s n="adj"/></l><r>ağır<s n="adj"/></r></p></e>
       <e><p><l>federativ<s n="adj"/></l><r>federal<s n="adj"/></r></p></e>
