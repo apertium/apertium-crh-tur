@@ -7,6 +7,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="ger_past">
+      <cat-item tags="v.*.ger_past.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -15,6 +18,9 @@
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="a_non_fin">
+      <attr-item tags="ger_past"/>
     </def-attr>
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
@@ -76,6 +82,32 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: ger_past">
+      <pattern>
+        <pattern-item n="ger_past"/>
+      </pattern>
+      <action>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/>
+          <concat><lit-tag v="ger"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: SENT">
