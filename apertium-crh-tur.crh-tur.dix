@@ -156,6 +156,7 @@
       <!-- SECTION: Nouns -->
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
+	  <e><p><l>mustaqillik<s n="n"/></l><r>bağımsızlık<s n="n"/></r></p></e>
 	  <e><p><l>ses<s n="n"/></l><r>ses<s n="n"/></r></p></e>
 	  <e><p><l>diaspora<s n="n"/></l><r>diaspora<s n="n"/></r></p></e>
 	  <e><p><l>muhtariyet<s n="n"/></l><r>özerklik<s n="n"/></r></p></e>
@@ -373,6 +374,7 @@
 
       <!-- SECTION: Adverbs -->
       <e><p><l>şimdi<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
+      <e><p><l>tekrar<s n="adv"/></l><r>tekrar<s n="adv"/></r></p></e>
       <e><p><l>beraber<s n="adv"/></l><r>beraber<s n="adv"/></r></p></e>
       <e><p><l>aslında<s n="adv"/></l><r>aslında<s n="adv"/></r></p></e>
       <e><p><l>büs-bütün<s n="adv"/></l><r>büsbütün<s n="adv"/></r></p></e>
@@ -396,6 +398,7 @@
       <e><p><l>kel<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>cenkleş<s n="v"/><s n="iv"/></l><r>savaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>say<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sür<s n="v"/><s n="tv"/></l><r>sür<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sayla<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çaypa<s n="v"/><s n="tv"/></l><r>yağmala<s n="v"/><s n="tv"/></r></p></e>
