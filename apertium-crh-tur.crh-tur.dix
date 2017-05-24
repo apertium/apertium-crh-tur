@@ -156,6 +156,7 @@
       <!-- SECTION: Nouns -->
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
+	  <e><p><l>ses<s n="n"/></l><r>ses<s n="n"/></r></p></e>
 	  <e><p><l>diaspora<s n="n"/></l><r>diaspora<s n="n"/></r></p></e>
 	  <e><p><l>muhtariyet<s n="n"/></l><r>özerklik<s n="n"/></r></p></e>
 	  <e><p><l>icra<s n="n"/></l><r>icra<s n="n"/></r></p></e>
@@ -335,6 +336,7 @@
       <e><p><l>muhtar<s n="adj"/></l><r>özerk<s n="adj"/></r></p></e>
       <e><p><l>aliy<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>şimaliy<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
+      <e><p><l>arbiy<s n="adj"/></l><r>harbi<s n="adj"/></r></p></e>
       <e><p><l>ağır<s n="adj"/></l><r>ağır<s n="adj"/></r></p></e>
       <e><p><l>federativ<s n="adj"/></l><r>federal<s n="adj"/></r></p></e>
       <e><p><l>mustaqil<s n="adj"/></l><r>müstakil<s n="adj"/></r></p></e>
@@ -364,6 +366,8 @@
     <e><p><l>milletli<s n="adj"/></l><r>milletli<s n="adj"/></r></p></e>
     <e><p><l>formal<s n="adj"/></l><r>resmi<s n="adj"/></r></p></e>
     <e><p><l>biñlik<s n="adj"/></l><r>binlik<s n="adj"/></r></p></e>
+
+    <e><p><l>xoş<s n="adj"/></l><r>hoş<s n="adj"/></r></p></e>
     <e><p><l>marum<s n="adj"/></l><r>mahrum<s n="adj"/></r></p></e>
     <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
@@ -392,6 +396,9 @@
       <e><p><l>kel<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>cenkleş<s n="v"/><s n="iv"/></l><r>savaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>sür<s n="v"/><s n="tv"/></l><r>sür<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>sayla<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>çaypa<s n="v"/><s n="tv"/></l><r>yağmala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qatil<b/>et<s n="v"/><s n="tv"/></l><r>katlet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqala<s n="v"/><s n="tv"/></l><r>yakala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqalan<s n="v"/><s n="iv"/></l><r>yakalan<s n="v"/><s n="iv"/></r></p></e>
