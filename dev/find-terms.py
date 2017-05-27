@@ -33,12 +33,26 @@ def szlk_demek(s): #{
 	return katilma
 #}
 
+def skor(c, t): #{
+	s = -1.0;
+
+	cc = set([i for i in c])
+	tt = set([i for i in t])
+
+	# Ideas: bump score for unambiguous
+	#        
+
+	s = len(cc.intersection(tt))/((len(cc)+len(tt))/2.0)
+
+	return s;
+#}
+
 kelime = '';
 ilk = True;
 sozluk = {};
 
 cyrl = re.compile('[а-яёА-ЯЁ]+[а-яёА-ЯЁ ]+[а-яёА-ЯЁ]+');
-latn = re.compile('[öçğşüıâa-zA-ZÖÇĞŞÜIÂ]+[öçğşüâıa-zA-ZÖÇĞŞÜIÂ ]+[öçğşâüıa-zA-ZÖÇĞŞÜIÂ]+');
+latn = re.compile('[öçğşüıâña-zA-ZÖÇĞŞÜIÂÑ]+[öçğşüâñıa-zA-ZÖÇĞŞÜIÂÑ ]+[öçğşâñüıa-zA-ZÖÇĞŞÜIÂÑ]+');
 
 for cizgi in crh_rus.readlines(): #{
 	if cizgi.strip() == '': #{
@@ -73,8 +87,10 @@ for katilma in katilma_o: #{
 		#}
 		for o in kelime['rus']: #{
 			ox = szlk_demek(o);
-			print(katilma,'\t',kelime['crh'],'\t',o,'\t',ox);
+			for oxo in ox: #{
+				sk = skor(katilma, oxo);
+				print(sk,'\t',katilma,'\t',kelime['crh'],'\t',o,'\t',oxo);
+			#}
 		#}
 	#}
-
 #}
