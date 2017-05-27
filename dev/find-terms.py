@@ -51,8 +51,8 @@ kelime = '';
 ilk = True;
 sozluk = {};
 
-cyrl = re.compile('[а-яёА-ЯЁ]+[а-яёА-ЯЁ ]+[а-яёА-ЯЁ]+');
-latn = re.compile('[öçğşüıâña-zA-ZÖÇĞŞÜIÂÑ]+[öçğşüâñıa-zA-ZÖÇĞŞÜIÂÑ ]+[öçğşâñüıa-zA-ZÖÇĞŞÜIÂÑ]+');
+cyrl = re.compile('[а-яёА-ЯЁ]+[а-яёА-ЯЁ\- ]+[а-яёА-ЯЁ]+');
+latn = re.compile('[öçğşüıâña-zA-ZÖÇĞŞÜIÂÑ]+[öçğşüâñıa-zA-ZÖÇĞŞÜIÂÑ\- ]+[öçğşâñüıa-zA-ZÖÇĞŞÜIÂÑ]+');
 
 for cizgi in crh_rus.readlines(): #{
 	if cizgi.strip() == '': #{
