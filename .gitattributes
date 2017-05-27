@@ -18,4 +18,5 @@
 /autogen.sh -text
 /configure.ac -text
 dev/bidix-sanity.sh -text
+dev/find-terms.py -text
 /modes.xml -text
