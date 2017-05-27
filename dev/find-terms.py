@@ -5,20 +5,20 @@ import urllib.parse
 
 crh_rus = open(sys.argv[1]);
 
-def temizle(s): #{
-	o = '';
+def temizle(s, i, o): #{
+	cikis = '';
 	durum = 0;	
 
 	for c in s: #{
-		if c == '[': durum = 1; 
-		if c == ']': durum = 0;
-		if c == ']' or c == '[': continue
+		if c == i: durum = 1; 
+		if c == o: durum = 0;
+		if c == i or c == o: continue
 
 		if durum == 0:  #{
-			o = o + c;
+			cikis = cikis + c;
 		#}
 	#}
-	return o;
+	return cikis;
 #}
 
 def szlk_demek(s): #{
@@ -27,7 +27,10 @@ def szlk_demek(s): #{
 	sablon = re.compile('<div class="item_bsc">[^<]+</div>');
 	sayfa = urllib.request.urlopen(url).read();
 	katilma = sablon.findall(sayfa.decode());
-	return katilma;	
+	for i in range(0, len(katilma)): #{
+		katilma[i] = temizle(katilma[i], '<', '>');
+	#}
+	return katilma
 #}
 
 kelime = '';
@@ -35,7 +38,7 @@ ilk = True;
 sozluk = {};
 
 cyrl = re.compile('[а-яёА-ЯЁ]+[а-яёА-ЯЁ ]+[а-яёА-ЯЁ]+');
-latn = re.compile('[öçğşüıa-zA-Z]+[öçğşüıa-zA-Z ]+[öçğşüıa-zA-Z]+');
+latn = re.compile('[öçğşüıâa-zA-ZÖÇĞŞÜIÂ]+[öçğşüâıa-zA-ZÖÇĞŞÜIÂ ]+[öçğşâüıa-zA-ZÖÇĞŞÜIÂ]+');
 
 for cizgi in crh_rus.readlines(): #{
 	if cizgi.strip() == '': #{
@@ -50,7 +53,7 @@ for cizgi in crh_rus.readlines(): #{
 	#}	
 
 	if cizgi[0] == '\t': #{
-		xcizgi = temizle(cizgi.strip());
+		xcizgi = temizle(cizgi.strip(), '[', ']');
 		k = latn.findall(xcizgi);
 		if k == []: k = [kelime];
 		sozluk[kelime].append({'crh': k, 'rus': cyrl.findall(xcizgi)});
@@ -60,7 +63,10 @@ for cizgi in crh_rus.readlines(): #{
 	#}
 #}
 
-for katilma in sozluk: #{
+katilma_o = list(sozluk.keys())
+katilma_o.sort();
+
+for katilma in katilma_o: #{
 	for kelime in sozluk[katilma]: #{
 		if kelime['rus'] == [] or kelime['rus'] == []: #{
 			continue;
