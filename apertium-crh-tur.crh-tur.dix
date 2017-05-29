@@ -116,6 +116,8 @@
     <e><p><l>bazı<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
     <e><p><l>çoq<s n="det"/></l><r>çok<s n="det"/></r></p></e>
+    <e><p><l>çoqu<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
+    <e><p><l>çoqusı<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
 
 
 	
@@ -291,6 +293,7 @@
     <e><p><l>meydan<s n="n"/></l><r>meydan<s n="n"/></r></p></e>
     <e><p><l>metropoliya<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
     <e><p><l>mefküre<s n="n"/></l><r>fikir<s n="n"/></r></p></e>
+    <e><p><l>mefküre<s n="n"/></l><r>düşünce<s n="n"/></r></p></e>
     <e><p><l>esas<s n="n"/></l><r>esas<s n="n"/></r></p></e>
     <e><p><l>niyet<s n="n"/></l><r>niyet<s n="n"/></r></p></e>
     <e><p><l>ald<s n="n"/></l><r>alt<s n="n"/></r></p></e>
@@ -441,6 +444,7 @@
       <e><p><l>tut<s n="v"/><s n="tv"/></l><r>tut<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yarat<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çıqar<s n="v"/><s n="tv"/></l><r>çıkar<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>çıq<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qur<s n="v"/><s n="tv"/></l><r>kur<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>yan<s n="v"/><s n="iv"/></l><r>yan<s n="v"/><s n="iv"/></r></p></e>

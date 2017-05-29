@@ -3,7 +3,6 @@ import time
 import urllib.request
 import urllib.parse
 
-crh_rus = open(sys.argv[1]);
 
 def temizle(s, i, o): #{
 	cikis = '';
@@ -33,19 +32,30 @@ def szlk_demek(s): #{
 	return katilma
 #}
 
-def skor(c, t): #{
+def skor(c, t, tl): #{
 	s = -1.0;
 
 	cc = set([i for i in c])
 	tt = set([i for i in t])
 
 	# Ideas: bump score for unambiguous
-	#        
 
 	s = len(cc.intersection(tt))/((len(cc)+len(tt))/2.0)
 
+	# bump if lemma known to apertium-tur
+	if t in tl: #{
+		s += 0.2
+	#}
+
+	s = s + (c.count(' ') - t.count(' '));
+
 	return s;
 #}
+
+###############################################################################
+
+crh_rus = open(sys.argv[1]);
+tur_lem = open(sys.argv[2]);
 
 kelime = '';
 ilk = True;
@@ -53,6 +63,8 @@ sozluk = {};
 
 cyrl = re.compile('[а-яёА-ЯЁ]+[а-яёА-ЯЁ\- ]+[а-яёА-ЯЁ]+');
 latn = re.compile('[öçğşüıâña-zA-ZÖÇĞŞÜIÂÑ]+[öçğşüâñıa-zA-ZÖÇĞŞÜIÂÑ\- ]+[öçğşâñüıa-zA-ZÖÇĞŞÜIÂÑ]+');
+
+tur_lems = tur_lem.read().split('\n');
 
 for cizgi in crh_rus.readlines(): #{
 	if cizgi.strip() == '': #{
@@ -77,6 +89,7 @@ for cizgi in crh_rus.readlines(): #{
 	#}
 #}
 
+
 katilma_o = list(sozluk.keys())
 katilma_o.sort();
 
@@ -87,9 +100,12 @@ for katilma in katilma_o: #{
 		#}
 		for o in kelime['rus']: #{
 			ox = szlk_demek(o);
-			for oxo in ox: #{
-				sk = skor(katilma, oxo);
-				print(sk,'\t',katilma,'\t',kelime['crh'],'\t',o,'\t',oxo);
+			for i in ox: #{
+				for j in i.split(','): #{
+					j = j.strip();
+					sk = skor(katilma, j, tur_lems);
+					print(sk,'\t',katilma,'\t',kelime['crh'],'\t',o,'\t',j);
+				#}
 			#}
 		#}
 	#}

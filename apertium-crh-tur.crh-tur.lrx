@@ -1,21 +1,23 @@
 <rules>
-  <!-- 
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
-    Add your own rules within <rule> here, using the resources below as a guide 
-  -->
 
-<rule>
-	<match lemma = "til"/>
-	<match lemma = "zümre" tags="n.*">
-		<select lemma="aile" tags = "n.*"/>
-	</match>
-</rule>
-
-<rule>
-	<match lemma = "malümat" tags ="n.pl.*">
-		<select lemma="bilgi" tags = "n.*"/>
-	</match>
-</rule>
+  <rule>
+    <match lemma="til"/>
+    <match lemma="zümre" tags="n.*">
+      <select lemma="aile" tags="n.*"/>
+    </match>
+  </rule>
+  
+  <rule>
+    <match lemma="malümat" tags ="n.pl.*">
+      <select lemma="bilgi" tags="n.*"/>
+    </match>
+  </rule>
+  
+  <rule>
+    <match lemma="mefküre" tags ="n.*">
+      <select lemma="düşünce" tags="n.*"/>
+    </match>
+  </rule>
 
 </rules>
 

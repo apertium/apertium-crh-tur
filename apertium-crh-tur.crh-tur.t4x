@@ -4,6 +4,8 @@
   <section-def-cats>
     <def-cat n="cop-aor-3sg">
       <cat-item lemma="i" tags="cop.aor.p3.sg"/>
+      <cat-item lemma="i" tags="cop.aor.p3.frm.sg"/>
+      <cat-item lemma="i" tags="cop.aor.p3.frm.pl"/>
     </def-cat>
     <def-cat n="cop-ifi">
       <cat-item lemma="i" tags="cop.ifi.*"/>
