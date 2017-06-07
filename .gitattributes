@@ -20,3 +20,4 @@
 dev/bidix-sanity.sh -text
 dev/find-terms.py -text
 /modes.xml -text
+testvoc/corpus/trimmed-coverage.sh -text
