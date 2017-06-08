@@ -186,6 +186,7 @@
       <e><p><l>til<s n="n"/></l><r>dil<s n="n"/></r></p></e>
       <e><p><l>zaman<s n="n"/></l><r>zaman<s n="n"/></r></p></e>
       <e><p><l>bala<s n="n"/></l><r>çocuk<s n="n"/></r></p></e>
+      <e><p><l>rayon<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
       <e><p><l>halq<s n="n"/></l><r>halk<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>zümre<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>aile<s n="n"/></r></p></e>
@@ -300,6 +301,7 @@
 	  <e><p><l>terkip<s n="n"/></l><r>dahil<s n="n"/></r></p></e>
       <e><p><l>osmanlı<s n="n"/></l><r>Osmanlı<s n="n"/></r></p></e>
 
+    <e><p><l>şeer<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
       <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
@@ -311,6 +313,7 @@
       <e><p><l>Rusiye<s n="np"/><s n="top"/></l><r>Rusya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Dobruca<s n="np"/><s n="top"/></l><r>Dobruca<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Moskva<s n="np"/><s n="top"/></l><r>Moskova<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Ukraina<s n="np"/><s n="top"/></l><r>Ukrayna<s n="np"/><s n="top"/></r></p></e>
 
 
 
