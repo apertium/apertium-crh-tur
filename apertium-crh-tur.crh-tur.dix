@@ -250,6 +250,10 @@
 	  <e><p><l>territoriya<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
 	  <e><p><l>gazeta<s n="n"/></l><r>gazete<s n="n"/></r></p></e>
 	  <e><p><l>neşir<s n="n"/></l><r>neşir<s n="n"/></r></p></e>
+	  <e><p><l>merkez<s n="n"/></l><r>merkez<s n="n"/></r></p></e>
+	  <e><p><l>saife<s n="n"/></l><r>sayfa<s n="n"/></r></p></e>
+	  <e><p><l>qasaba<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
+	  <e><p><l>ad<s n="n"/></l><r>ad<s n="n"/></r></p></e>
 	  <e><p><l>delegat<s n="n"/></l><r>delege<s n="n"/></r></p></e>
 	  <e><p><l>musulman<s n="n"/></l><r>muslüman<s n="n"/></r></p></e>
 	  <e><p><l>noğay<s n="n"/></l><r>nogay<s n="n"/></r></p></e>
@@ -336,6 +340,7 @@
     <e><p><l>İbraimov<s n="np"/><s n="cog"/><s n="m"/></l><r>İbrahimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 
     <e><p><l>Dobruca<s n="np"/><s n="top"/></l><r>Dobruca<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Donetsk<s n="np"/><s n="top"/></l><r>Donetsk<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Moskova<s n="np"/><s n="top"/></l><r>Moskova<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Kreml<s n="np"/><s n="top"/></l><r>Kremlin<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Aqmescit<s n="np"/><s n="top"/></l><r>Akmescit<s n="np"/><s n="top"/></r></p></e>
@@ -367,6 +372,7 @@
       <e><p><l>yaqın<s n="adj"/></l><r>yakın<s n="adj"/></r></p></e>
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
       <e><p><l>ulu<s n="adj"/></l><r>ulu<s n="adj"/></r></p></e>
+      <e><p><l>baş<s n="adj"/></l><r>baş<s n="adj"/></r></p></e>
       <e><p><l>edebiy<s n="adj"/></l><r>edebi<s n="adj"/></r></p></e>
       <e><p><l>qara<s n="adj"/></l><r>siyah<s n="adj"/></r></p></e>
       <e><p><l>adlı<s n="adj"/></l><r>adlı<s n="adj"/></r></p></e>
