@@ -116,12 +116,14 @@
     <e><p><l>bazı<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
     <e><p><l>çoq<s n="det"/></l><r>çok<s n="det"/></r></p></e>
+    <e><p><l>şu<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>çoqu<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
     <e><p><l>çoqusı<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
 
 
-	
+	  <!-- SECTION: Postadv -->
 
+      <e><p><l>da<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e> <!-- CHECK-->
       <!-- SECTION: Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
       <e><p><l>ise<s n="cnjcoo"/></l><r>ise<s n="postadv"/></r></p></e> <!-- CHECK-->
@@ -150,6 +152,7 @@
 
       <!-- SECTION: Pronouns -->
       <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e>
+      <e><p><l>ne<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
       <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
       <e><p><l>olar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e>
       <e><p><l>öz<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
@@ -157,6 +160,7 @@
 
       <!-- SECTION: Numerals -->
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
+      <e><p><l>üç<s n="num"/></l><r>üç<s n="num"/></r></p></e>
       <e><p><l>eki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/></l><r>milyon<s n="num"/><s n="subst"/></r></p></e>
@@ -171,6 +175,7 @@
 
 	  <e><p><l>nazir<s n="n"/></l><r>bakan<s n="n"/></r></p></e>
 	  <e><p><l>iş<s n="n"/></l><r>iş<s n="n"/></r></p></e>
+	  <e><p><l>nazirlik<s n="n"/></l><r>bakanlık<s n="n"/></r></p></e>
 	  <e><p><l>cemaat<s n="n"/></l><r>toplum<s n="n"/></r></p></e>
 	  <e><p><l>birlik<s n="n"/></l><r>iş<s n="n"/></r></p></e>
 	  <e><p><l>haber<s n="n"/></l><r>haber<s n="n"/></r></p></e>
@@ -240,6 +245,7 @@
 	  <e><p><l>mimarcılıq<s n="n"/></l><r>mimarlık<s n="n"/></r></p></e>
 	  <e><p><l>abide<s n="n"/></l><r>abide<s n="n"/></r></p></e>
 	  <e><p><l>memleket<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
+	  <e><p><l>sıra<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
 	  <e><p><l>memleket<s n="n"/></l><r>ülke<s n="n"/></r></p></e>
 	  <e><p><l>asır<s n="n"/></l><r>asır<s n="n"/></r></p></e>
 	  <e><p><l>ücüm<s n="n"/></l><r>hücüm<s n="n"/></r></p></e>
@@ -261,6 +267,7 @@
 	  <e><p><l>ordu<s n="n"/></l><r>ordu<s n="n"/></r></p></e>
 	  <e><p><l>köy<s n="n"/></l><r>köy<s n="n"/></r></p></e>
 	  <e><p><l>yan<s n="n"/></l><r>yan<s n="n"/></r></p></e>
+	  <e><p><l>yol<s n="n"/></l><r>yol<s n="n"/></r></p></e>
 	  <e><p><l>uruş<s n="n"/></l><r>muharebe<s n="n"/></r></p></e>
 	  <e><p><l>mağlübiyet<s n="n"/></l><r>mağlubiyet<s n="n"/></r></p></e>
 	  <e><p><l>mağlübiyet<s n="n"/></l><r>yenilgi<s n="n"/></r></p></e>
@@ -272,6 +279,7 @@
 	  <e><p><l>territoriya<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
 	  <e><p><l>gazeta<s n="n"/></l><r>gazete<s n="n"/></r></p></e>
 	  <e><p><l>neşir<s n="n"/></l><r>neşir<s n="n"/></r></p></e>
+	  <e><p><l>muavin<s n="n"/></l><r>danışman<s n="n"/></r></p></e>
 	  <e><p><l>merkez<s n="n"/></l><r>merkez<s n="n"/></r></p></e>
 	  <e><p><l>saife<s n="n"/></l><r>sayfa<s n="n"/></r></p></e>
 	  <e><p><l>qasaba<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
@@ -312,6 +320,7 @@
 
     <e><p><l>dalğa<s n="n"/></l><r>dalga<s n="n"/></r></p></e>
     <e><p><l>ara<s n="n"/></l><r>ara<s n="n"/></r></p></e>
+    <e><p><l>qarşı<s n="n"/></l><r>karşı<s n="n"/></r></p></e>
     <e><p><l>asılzade<s n="n"/></l><r>asilzade<s n="n"/></r></p></e>
     <e><p><l>müstemleke<s n="n"/></l><r>sömürge<s n="n"/></r></p></e>
     <e><p><l>dağ<s n="n"/></l><r>dağ<s n="n"/></r></p></e>
@@ -355,6 +364,7 @@
       <e><p><l>Dobruca<s n="np"/><s n="top"/></l><r>Dobruca<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Kiyev<s n="np"/><s n="top"/></l><r>Kiev<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Moskva<s n="np"/><s n="top"/></l><r>Moskova<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>AQŞ<s n="np"/><s n="top"/></l><r>ABD<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Ukraina<s n="np"/><s n="top"/></l><r>Ukrayna<s n="np"/><s n="top"/></r></p></e>
 
 
@@ -374,6 +384,7 @@
       <e><p><l>Çobanzade<s n="np"/><s n="cog"/></l><r>Çobanzade<s n="np"/><s n="cog"/></r></p></e>
 
     <e><p><l>Minih<s n="np"/><s n="cog"/><s n="mf"/></l><r>Minih<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e><p><l>Poroşenko<s n="np"/><s n="cog"/><s n="mf"/></l><r>Poroşenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Gasprinskiy<s n="np"/><s n="cog"/><s n="m"/></l><r>Gasprinski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>İbraimov<s n="np"/><s n="cog"/><s n="m"/></l><r>İbrahimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
     <e><p><l>Çubarov<s n="np"/><s n="cog"/><s n="m"/></l><r>Çubarov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -398,6 +409,9 @@
       <!-- SECTION: Adjectives -->
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
 
+      <e><p><l>iqtisadiy<s n="adj"/></l><r>iktisadi<s n="adj"/></r></p></e>
+      <e><p><l>yasaq<s n="adj"/></l><r>yasak<s n="adj"/></r></p></e>
+      <e><p><l>cinaiy<s n="adj"/></l><r>cinai<s n="adj"/></r></p></e>
       <e><p><l>resmiy<s n="adj"/></l><r>resmi<s n="adj"/></r></p></e>
       <e><p><l>azat<s n="adj"/></l><r>özgür<s n="adj"/></r></p></e>
       <e><p><l>büyük<s n="adj"/></l><r>büyük<s n="adj"/></r></p></e>
@@ -517,6 +531,8 @@
     <e><p><l>bulun<s n="v"/><s n="iv"/></l><r>bulun<s n="v"/><s n="iv"/></r></p></e>
 
 
+    <e><p><l>qayd<b/>et<s n="v"/><s n="tv"/></l><r>bildir<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>qayd<b/>et<s n="v"/><s n="tv"/></l><r>kaydet<s n="v"/><s n="tv"/></r></p></e>
 	<!-- autogenerated verbs -->
       <e><p><l>ada<s n="v"/><s n="tv"/></l><r>ada<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>adiyleştir<s n="v"/><s n="tv"/></l><r>sadeleştir<s n="v"/><s n="tv"/></r></p></e>

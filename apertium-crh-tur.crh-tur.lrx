@@ -1,5 +1,11 @@
 <rules>
-
+  <rule>
+    <match lemma="de"/>
+    <match lemma="qayd et" tags="v.*">
+      <select lemma="bildir" tags="v.*"/>
+    </match>
+  </rule>
+ 
   <rule>
     <match lemma="til"/>
     <match lemma="zümre" tags="n.*">
