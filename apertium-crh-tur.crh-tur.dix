@@ -171,6 +171,7 @@
 
       <!-- SECTION: Nouns -->
 	  <e><p><l>yanvar<s n="n"/></l><r>ocak<s n="n"/></r></p></e>
+	  <e><p><l>fevral<s n="n"/></l><r>şubat<s n="n"/></r></p></e>
 	  <e><p><l>aprel<s n="n"/></l><r>nisan<s n="n"/></r></p></e>
 	  <e><p><l>mayıs<s n="n"/></l><r>mayıs<s n="n"/></r></p></e>
 	  <e><p><l>iyün<s n="n"/></l><r>haziran<s n="n"/></r></p></e>
@@ -179,6 +180,7 @@
 
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
+	  <e><p><l>ıstıla<s n="n"/></l><r>terim<s n="n"/></r></p></e>
 	  <e><p><l>vekil<s n="n"/></l><r>vekil<s n="n"/></r></p></e>
 	  <e><p><l>fikir<s n="n"/></l><r>fikir<s n="n"/></r></p></e>
 	  <e><p><l>fikir<s n="n"/></l><r>düşünce<s n="n"/></r></p></e>
@@ -215,7 +217,6 @@
 	  <e><p><l>mart<s n="n"/></l><r>mart<s n="n"/></r></p></e>
 	  <e><p><l>cedvel<s n="n"/></l><r>liste<s n="n"/></r></p></e>
 	  <e><p><l>yer<s n="n"/></l><r>yer<s n="n"/></r></p></e>
-	  <e><p><l>fevral<s n="n"/></l><r>şubat<s n="n"/></r></p></e>
 	  <e><p><l>soñ<s n="n"/></l><r>son<s n="n"/></r></p></e>
 	  <e><p><l>al<s n="n"/></l><r>hal<s n="n"/></r></p></e>
 	  <e><p><l>yarımada<s n="n"/></l><r>yarımada<s n="n"/></r></p></e>
