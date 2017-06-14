@@ -153,6 +153,7 @@
       <!-- SECTION: Pronouns -->
       <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e>
       <e><p><l>ne<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>kendi<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
       <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
       <e><p><l>men<s n="prn"/></l><r>men<s n="prn"/></r></p></e>
       <e><p><l>biz<s n="prn"/></l><r>biz<s n="prn"/></r></p></e>
@@ -181,6 +182,7 @@
 
 	  <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
+	  <e><p><l>adam<s n="n"/></l><r>adam<s n="n"/></r></p></e>
 	  <e><p><l>seviye<s n="n"/></l><r>seviye<s n="n"/></r></p></e>
 	  <e><p><l>vefat<s n="n"/></l><r>vefat<s n="n"/></r></p></e>
 	  <e><p><l>apis<s n="n"/></l><r>hapis<s n="n"/></r></p></e>
@@ -517,6 +519,7 @@
 
       <!-- SECTION: Adverbs -->
       <e><p><l>şimdi<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
+      <e><p><l>nasıl<s n="adv"/><s n="itg"/></l><r>nasıl<s n="adv"/><s n="itg"/></r></p></e>
       <e><p><l>bugün<s n="adv"/></l><r>bugün<s n="adv"/></r></p></e>
       <e><p><l>yalıñız<s n="adv"/></l><r>sadece<s n="adv"/></r></p></e>
       <e><p><l>tekrar<s n="adv"/></l><r>tekrar<s n="adv"/></r></p></e>
