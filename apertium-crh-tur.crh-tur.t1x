@@ -19,6 +19,9 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_err">
+      <attr-item tags="err_orth"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
@@ -42,9 +45,9 @@
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
+    <def-macro n="f_strip_tags" npar="1">
           <let>
-            <var n="number"/>
+            <clip pos="1" side="tl" part="a_err"/>
             <lit v=""/>
           </let>
     </def-macro>
@@ -57,7 +60,7 @@
         <pattern-item n="aor"/>
       </pattern>
       <action>
-
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
 <choose>
    <when>
        <!-- IF: a_pers_nbr IS p2.frm.sg -->
@@ -92,6 +95,7 @@
         <pattern-item n="ger_past"/>
       </pattern>
       <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
         <let>
           <clip pos="1" side="tl" part="a_non_fin"/>
           <concat><lit-tag v="ger"/></concat>
@@ -115,6 +119,7 @@
         <pattern-item n="gpr_past"/>
       </pattern>
       <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
         <let>
           <clip pos="1" side="tl" part="whole"/>
           <concat>
@@ -143,6 +148,7 @@
         <pattern-item n="sent"/>
       </pattern>
       <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="sent" case="caseFirstWord">
             <tags>
@@ -155,6 +161,8 @@
         </out>
       </action>
     </rule>
+
+
   </section-rules>
 </transfer>
 

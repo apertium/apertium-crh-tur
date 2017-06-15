@@ -46,6 +46,45 @@
     </pipeline>
   </mode>
 
+  <mode name="crh-tur-postchunk2" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="crh-tur.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="crh-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -u 2 -g $2">
+        <file name="crh-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="crh-tur.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="crh-tur.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-crh-tur.crh-tur.t1x"/>
+        <file name="crh-tur.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-crh-tur.crh-tur.t2x"/>
+        <file name="crh-tur.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-crh-tur.crh-tur.t3x"/>
+        <file name="crh-tur.t3x.bin"/>
+      </program>
+      <program name="apertium-transfer -t -n">
+        <file name="apertium-crh-tur.crh-tur.t4x"/>
+        <file name="crh-tur.t4x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+
   <!-- tur → crh -->
 
   <mode name="tur-crh" install="yes" gendebug="yes">

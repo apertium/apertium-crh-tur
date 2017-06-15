@@ -20,6 +20,9 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_err">
+      <attr-item tags="err_orth"/>
+    </def-attr>
     <def-attr n="attrstub">
       <attr-item tags="attrstub"/>
     </def-attr>
@@ -29,6 +32,17 @@
     <def-var n="varstub"/>
   </section-def-vars>
 
+
+  <section-def-macros>
+    <def-macro n="f_strip_tags" npar="1">
+          <let>
+            <clip pos="1" side="sl" part="a_err"/>
+            <lit v=""/>
+          </let>
+    </def-macro>
+  </section-def-macros>
+
+
   <section-rules>
 
     <rule comment="">
@@ -37,6 +51,8 @@
         <pattern-item n="a-post"/>
       </pattern>
       <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+
         <out>
           <mlu>
             <lu><clip pos="1" side="sl" part="whole"/></lu>
@@ -53,6 +69,8 @@
         <pattern-item n="cop-ifi"/>
       </pattern>
       <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+
         <out>
           <mlu>
             <lu><clip pos="1" side="sl" part="whole"/></lu>
@@ -68,11 +86,27 @@
         <pattern-item n="cop-aor-3sg"/>
       </pattern>
       <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+
         <out>
           <lu><clip pos="1" side="sl" part="whole"/></lu>
         </out>
       </action>
     </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 
