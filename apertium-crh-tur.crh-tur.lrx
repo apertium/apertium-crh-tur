@@ -5,6 +5,13 @@
       <select lemma="bildir" tags="v.*"/>
     </match>
   </rule>
+
+  <rule>
+  <or><match lemma="köy"/><match lemma="şeer"/></or>
+    <match lemma="hocalıq" tags="n.*">
+      <select lemma="ekonomi" tags="n.*"/>
+    </match>
+  </rule>
  
   <rule>
     <match lemma="til"/>
