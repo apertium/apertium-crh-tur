@@ -7,6 +7,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="XD">
+      <cat-item tags="n.*.XD.*"/>
+    </def-cat>
     <def-cat n="ger_past">
       <cat-item tags="v.*.ger_past.*"/>
     </def-cat>
@@ -21,6 +24,9 @@
   <section-def-attrs>
     <def-attr n="a_err">
       <attr-item tags="err_orth"/>
+    </def-attr>
+    <def-attr n="a_xd">
+      <attr-item tags="XD"/>
     </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
@@ -104,6 +110,30 @@
           <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: XD">
+      <pattern>
+        <pattern-item n="XD"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_xd"/>
+          <concat><lit-tag v="px3sg"/></concat>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
