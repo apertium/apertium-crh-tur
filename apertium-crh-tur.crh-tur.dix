@@ -132,6 +132,7 @@
       <e><p><l>degil<s n="postadv"/></l><r>değil<s n="adj"/></r></p></e> <!-- CHECK-->
       <!-- SECTION: Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
+      <e><p><l>em<s n="cnjcoo"/></l><r>hem<s n="cnjcoo"/></r></p></e>
       <e><p><l>ise<s n="cnjcoo"/></l><r>ise<s n="postadv"/></r></p></e> <!-- CHECK-->
       <e><p><l>amma<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
       <e><p><l>lâkin<s n="cnjcoo"/></l><r>lakin<s n="cnjcoo"/></r></p></e>
@@ -457,6 +458,8 @@
       <e><p><l>muracaat<s n="n"/></l><r>müracaat<s n="n"/></r></p></e>
       <e><p><l>terk<s n="n"/></l><r>terk<s n="n"/></r></p></e>
       <e><p><l>vasta<s n="n"/></l><r>vasıta<s n="n"/></r></p></e>
+<e><p><l>paytaht<s n="n"/></l><r>başkent<s n="n"/></r></p></e>
+<e><p><l>il<s n="n"/></l><r>il<s n="n"/></r></p></e>
       <e><p><l>temin<s n="n"/></l><r>temin<s n="n"/></r></p></e>
       <e><p><l>deputat<s n="n"/></l><r>danışman<s n="n"/></r></p></e>
       <e><p><l>deputat<s n="n"/></l><r>sözcü<s n="n"/></r></p></e>
@@ -487,6 +490,7 @@
 
       <!-- SECTION: Proper nouns-->
       <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>İstanbul<s n="np"/><s n="top"/></l><r>İstanbul<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Aqyar<s n="np"/><s n="top"/></l><r>Sivastopol<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Avropa<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Avrupa<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
@@ -533,6 +537,8 @@
       <e><p><l>Cemilev<s n="np"/><s n="cog"/><s n="m"/></l><r>Cemilev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Çiygoz<s n="np"/><s n="cog"/><s n="mf"/></l><r>Çiygöz<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 
+      <e><p><l>Afrika<s n="np"/><s n="top"/></l><r>Afrika<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Asiya<s n="np"/><s n="top"/></l><r>Asya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Dobruca<s n="np"/><s n="top"/></l><r>Dobruca<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Donetsk<s n="np"/><s n="top"/></l><r>Donetsk<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Lugansk<s n="np"/><s n="top"/></l><r>Lugansk<s n="np"/><s n="top"/></r></p></e>
