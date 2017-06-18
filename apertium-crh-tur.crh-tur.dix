@@ -124,6 +124,7 @@
       <e><p><l>çoqu<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
       <e><p><l>çoqusı<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
 
+	  
 
 	  <!-- SECTION: Postadv -->
 
@@ -166,6 +167,7 @@
       <e><p><l>olar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e>
       <e><p><l>öz<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
       <e><p><l>ekseri<s n="prn"/></l><r>ekseri<s n="prn"/></r></p></e>
+      <e><p><l>kimse<s n="prn"/><s n="ind"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
 
       <!-- SECTION: Numerals -->
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
@@ -187,6 +189,7 @@
       <e><p><l>aprel<s n="n"/></l><r>nisan<s n="n"/></r></p></e>
       <e><p><l>mayıs<s n="n"/></l><r>mayıs<s n="n"/></r></p></e>
       <e><p><l>iyün<s n="n"/></l><r>haziran<s n="n"/></r></p></e>
+	  <e><p><l>vazife<s n="n"/></l><r>vazife<s n="n"/></r></p></e>
       <e><p><l>iyül<s n="n"/></l><r>temmuz<s n="n"/></r></p></e>
       <e><p><l>avgust<s n="n"/></l><r>ağustos<s n="n"/></r></p></e>
       <e><p><l>sentâbr<s n="n"/></l><r>eylül<s n="n"/></r></p></e>
@@ -534,10 +537,14 @@
       <e><p><l>Refat<s n="np"/><s n="ant"/></l><r>Rıfat<s n="np"/><s n="ant"/></r></p></e>
 
 
+      <e><p><l>Facebook<s n="np"/><s n="al"/></l><r>Facebook<s n="np"/><s n="org"/></r></p></e>
       <!-- SECTION: Adjectives -->
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
 
       <e><p><l>açıq<s n="adj"/></l><r>açık<s n="adj"/></r></p></e>
+	  <e><p><l>yahşı<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
+	  <e><p><l>diniy<s n="adj"/></l><r>dini<s n="adj"/></r></p></e>
+	  <e><p><l>şahsiy<s n="adj"/></l><r>şahsi<s n="adj"/></r></p></e>
       <e><p><l>farqlı<s n="adj"/></l><r>farklı<s n="adj"/></r></p></e>
       <e><p><l>faal<s n="adj"/></l><r>faal<s n="adj"/></r></p></e>
       <e><p><l>silâlı<s n="adj"/></l><r>silahlı<s n="adj"/></r></p></e>
