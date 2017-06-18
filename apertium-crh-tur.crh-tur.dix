@@ -408,6 +408,8 @@
       <e><p><l>bolşevik<s n="n"/></l><r>bolşevik<s n="n"/></r></p></e>
       <e><p><l>taraf<s n="n"/></l><r>taraf<s n="n"/></r></p></e>
       <e><p><l>açlıq<s n="n"/></l><r>açlık<s n="n"/></r></p></e>
+<e><p><l>maliye<s n="n"/></l><r>maliye<s n="n"/></r></p></e>
+<e><p><l>gaz<s n="n"/></l><r>gaz<s n="n"/></r></p></e>
       <e><p><l>şura<s n="n"/></l><r>sovyet<s n="n"/></r></p></e>
       <e><p><l>adise<s n="n"/></l><r>hadise<s n="n"/></r></p></e>
       <e><p><l>repressiya<s n="n"/></l><r>baskı<s n="n"/></r></p></e>
@@ -422,6 +424,8 @@
       <e><p><l>alim<s n="n"/></l><r>alim<s n="n"/></r></p></e>
       <e><p><l>sayı<s n="n"/></l><r>sayı<s n="n"/></r></p></e>
       <e><p><l>sebep<s n="n"/></l><r>sebep<s n="n"/></r></p></e>
+<e><p><l>ümüt<s n="n"/></l><r>umut<s n="n"/></r></p></e>
+<e><p><l>vatandaş<s n="n"/></l><r>vatandaş<s n="n"/></r></p></e>
       <e><p><l>qırımtatar<s n="n"/></l><r>Kırımtatar<s n="n"/></r></p></e>
       <e><p><l>ükümet<s n="n"/></l><r>hükümet<s n="n"/></r></p></e>
       <e><p><l>qarar<s n="n"/></l><r>karar<s n="n"/></r></p></e>
@@ -660,6 +664,7 @@
       <!-- SECTION: Adverbs -->
       <e><p><l>aman<s n="adv"/></l><r>hemen<s n="adv"/></r></p></e>
       <e><p><l>anda<s n="adv"/></l><r>ora<s n="prn"/><s n="adv"/><s n="loc"/></r></p></e>
+      <e><p><l>mında<s n="adv"/></l><r>bura<s n="prn"/><s n="adv"/><s n="loc"/></r></p></e>
       <e><p><l>kene<s n="adv"/></l><r>yine<s n="adv"/></r></p></e>
       <e><p><l>soñra<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
       <e><p><l>daa<s n="adv"/></l><r>daha<s n="adv"/></r></p></e>
