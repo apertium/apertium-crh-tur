@@ -197,7 +197,9 @@
       <e><p><l>oktâbr<s n="n"/></l><r>ekim<s n="n"/></r></p></e>
       <e><p><l>dekabr<s n="n"/></l><r>aralık<s n="n"/></r></p></e>
 
-
+	  <e><p><l>matem<s n="n"/></l><r>yas<s n="n"/></r></p></e>
+	  <e><p><l>tamır<s n="n"/></l><r>tamir<s n="n"/></r></p></e>
+	  <e><p><l>sürgünlik<s n="n"/></l><r>sürgün<s n="n"/></r></p></e>
       <e><p><l>ev<s n="n"/></l><r>ev<s n="n"/></r></p></e>
       <e><p><l>el<s n="n"/></l><r>el<s n="n"/></r></p></e>
       <e><p><l>ceza<s n="n"/></l><r>ceza<s n="n"/></r></p></e>
@@ -287,6 +289,9 @@
       <e><p><l>eali<s n="n"/></l><r>ahali<s n="n"/></r></p></e>
       <e><p><l>region<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
       <e><p><l>faiz<s n="n"/></l><r>yüzde<s n="n"/></r></p></e>
+<e><p><l>organ<s n="n"/></l><r>organ<s n="n"/></r></p></e>
+<e><p><l>dünya<s n="n"/></l><r>dünya<s n="n"/></r></p></e>
+<e><p><l>teşkilât<s n="n"/></l><r>teşkilat<s n="n"/></r></p></e>
       <e><p><l>qurultay<s n="n"/></l><r>kurultay<s n="n"/></r></p></e>
       <e><p><l>til<s n="n"/></l><r>dil<s n="n"/></r></p></e>
       <e><p><l>zaman<s n="n"/></l><r>zaman<s n="n"/></r></p></e>
@@ -500,6 +505,7 @@
       <e><p><l>İsmail<s n="np"/><s n="ant"/></l><r>İsmail<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Andrey<s n="np"/><s n="ant"/></l><r>Andrey<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Veli<s n="np"/><s n="ant"/></l><r>Veli<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Nariman<s n="np"/><s n="ant"/></l><r>Nariman<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>İsmail<s n="np"/><s n="ant"/></l><r>İsmail<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sergey<s n="np"/><s n="ant"/></l><r>Sergey<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ümer<s n="np"/><s n="ant"/></l><r>Ömer<s n="np"/><s n="ant"/></r></p></e>
@@ -661,6 +667,9 @@
       <e><p><l>kel<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>cenkleş<s n="v"/><s n="iv"/></l><r>savaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>kirset<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>lâğu<b/>et<s n="v"/><s n="tv"/></l><r>lağvet<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>red<b/>et<s n="v"/><s n="tv"/></l><r>reddet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qabul<b/>et<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>say<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sür<s n="v"/><s n="tv"/></l><r>sür<s n="v"/><s n="tv"/></r></p></e>
