@@ -173,6 +173,7 @@
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
       <e><p><l>üç<s n="num"/></l><r>üç<s n="num"/></r></p></e>
+      <e><p><l>beş<s n="num"/></l><r>beş<s n="num"/></r></p></e>
       <e><p><l>eki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/></l><r>milyon<s n="num"/><s n="subst"/></r></p></e>
@@ -311,6 +312,7 @@
       <e><p><l>tarih<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
       <e><p><l>ava<s n="n"/></l><r>hava<s n="n"/></r></p></e>
       <e><p><l>status<s n="n"/></l><r>durum<s n="n"/></r></p></e>
+	  <e><p><l>izin<s n="n"/></l><r>izin<s n="n"/></r></p></e>
       <e><p><l>devam<s n="n"/></l><r>devam<s n="n"/></r></p></e>
       <e><p><l>hanlıq<s n="n"/></l><r>hanlık<s n="n"/></r></p></e>
       <e><p><l>ittifaqdaş<s n="n"/></l><r>müttefik<s n="n"/></r></p></e>
@@ -476,6 +478,11 @@
       <e><p><l>tış<s n="n"/></l><r>dış<s n="n"/></r></p></e>
       <e><p><l>ruble<s n="n"/></l><r>ruble<s n="n"/></r></p></e>
       <e><p><l>azatlıq<s n="n"/></l><r>özgürlük<s n="n"/></r></p></e>
+<e><p><l>temsilci<s n="n"/></l><r>temsilci<s n="n"/></r></p></e>
+<e><p><l>ğarp<s n="n"/></l><r>batı<s n="n"/></r></p></e>
+<e><p><l>şarq<s n="n"/></l><r>doğu<s n="n"/></r></p></e>
+<e><p><l>şimal<s n="n"/></l><r>kuzey<s n="n"/></r></p></e>
+<e><p><l>cenüp<s n="n"/></l><r>güney<s n="n"/></r></p></e>
       <e><p><l>hadim<s n="n"/></l><r>çalışan<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
@@ -524,6 +531,7 @@
       <e><p><l>Çubarov<s n="np"/><s n="cog"/><s n="m"/></l><r>Çubarov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Putin<s n="np"/><s n="cog"/><s n="m"/></l><r>Putin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Cemilev<s n="np"/><s n="cog"/><s n="m"/></l><r>Cemilev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Çiygoz<s n="np"/><s n="cog"/><s n="mf"/></l><r>Çiygöz<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 
       <e><p><l>Dobruca<s n="np"/><s n="top"/></l><r>Dobruca<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Donetsk<s n="np"/><s n="top"/></l><r>Donetsk<s n="np"/><s n="top"/></r></p></e>
@@ -544,9 +552,11 @@
 
 
       <e><p><l>Facebook<s n="np"/><s n="al"/></l><r>Facebook<s n="np"/><s n="org"/></r></p></e>
+      <e><p><l>FSB<s n="np"/><s n="al"/></l><r>FSB<s n="np"/><s n="org"/></r></p></e>
       <!-- SECTION: Adjectives -->
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
 
+	  <e><p><l>kütleviy<s n="adj"/></l><r>toplu<s n="adj"/></r></p></e>
       <e><p><l>açıq<s n="adj"/></l><r>açık<s n="adj"/></r></p></e>
 	  <e><p><l>yahşı<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
 	  <e><p><l>diniy<s n="adj"/></l><r>dini<s n="adj"/></r></p></e>
@@ -670,6 +680,7 @@
       <e><p><l>kirset<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>lâğu<b/>et<s n="v"/><s n="tv"/></l><r>lağvet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>red<b/>et<s n="v"/><s n="tv"/></l><r>reddet<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>takbih<b/>et<s n="v"/><s n="tv"/></l><r>kına<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qabul<b/>et<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>say<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sür<s n="v"/><s n="tv"/></l><r>sür<s n="v"/><s n="tv"/></r></p></e>
