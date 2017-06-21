@@ -562,6 +562,34 @@
       <e><p><l>Türk<s n="n"/></l><r>Türk<s n="n"/></r></p></e>
       <e><p><l>yük<s n="n"/></l><r>yük<s n="n"/></r></p></e>
       <e><p><l>federatsiya<s n="n"/></l><r>federasyon<s n="n"/></r></p></e>
+      <e><p><l>qoruyıcı<s n="n"/></l><r>koruyucu<s n="n"/></r></p></e>
+      <e><p><l>müddet<s n="n"/></l><r>müddet<s n="n"/></r></p></e>
+      <e><p><l>blok<s n="n"/></l><r>blok<s n="n"/></r></p></e>
+      <e><p><l>şikâyet<s n="n"/></l><r>şikayet<s n="n"/></r></p></e>
+      <e><p><l>konferentsiya<s n="n"/></l><r>konferans<s n="n"/></r></p></e>
+      <e><p><l>küreş<s n="n"/></l><r>güreş<s n="n"/></r></p></e>
+      <e><p><l>ömür<s n="n"/></l><r>ömür<s n="n"/></r></p></e>
+      <e><p><l>raatlıq<s n="n"/></l><r>rahatlık<s n="n"/></r></p></e>
+      <e><p><l>saye<s n="n"/></l><r>saye<s n="n"/></r></p></e>
+      <e><p><l>muarrir<s n="n"/></l><r>muharrir<s n="n"/></r></p></e>
+      <e><p><l>qurban<s n="n"/></l><r>kurban<s n="n"/></r></p></e>
+      <e><p><l>itiraz<s n="n"/></l><r>itiraz<s n="n"/></r></p></e>
+      <e><p><l>gruppa<s n="n"/></l><r>grup<s n="n"/></r></p></e>
+      <e><p><l>arfe<s n="n"/></l><r>arife<s n="n"/></r></p></e>
+      <e><p><l>agent<s n="n"/></l><r>ajan<s n="n"/></r></p></e>
+      <e><p><l>salı<s n="n"/></l><r>salı<s n="n"/></r></p></e>
+      <e><p><l>vesiqa<s n="n"/></l><r>vesika<s n="n"/></r></p></e>
+      <e><p><l>müfti<s n="n"/></l><r>müftü<s n="n"/></r></p></e>
+      <e><p><l>asker<s n="n"/></l><r>asker<s n="n"/></r></p></e>
+      <e><p><l>yolcu<s n="n"/></l><r>yolcu<s n="n"/></r></p></e>
+      <e><p><l>tüşünce<s n="n"/></l><r>tüşünce<s n="n"/></r></p></e>
+      <e><p><l>sport<s n="n"/></l><r>sport<s n="n"/></r></p></e>
+      <e><p><l>miqdar<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
+      <e><p><l>spiker<s n="n"/></l><r>spiker<s n="n"/></r></p></e>
+      <e><p><l>genotsid<s n="n"/></l><r>soykırım<s n="n"/></r></p></e>
+      <e><p><l>musafir<s n="n"/></l><r>misafir<s n="n"/></r></p></e>
+      <e><p><l>adres<s n="n"/></l><r>adres<s n="n"/></r></p></e>
+
       <e><p><l>hatıra<s n="n"/></l><r>anı<s n="n"/></r></p></e>
       <e><p><l>yaş<s n="n"/></l><r>yaş<s n="n"/></r></p></e>
       <e><p><l>qanun<s n="n"/></l><r>kanun<s n="n"/></r></p></e>
@@ -581,6 +609,20 @@
       <e><p><l>hadim<s n="n"/></l><r>çalışan<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
+      <e><p><l>Eskender<s n="np"/><s n="ant"/></l><r>İskender<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Krım<s n="np"/><s n="top"/></l><r>Kırım<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Amet<s n="np"/><s n="ant"/></l><r>Ahmet<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>İslâmov<s n="np"/><s n="cog"/><s n="m"/></l><r>İslamov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Leonid<s n="np"/><s n="ant"/></l><r>Leonid<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Asanov<s n="np"/><s n="cog"/><s n="m"/></l><r>Asanov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Recep<s n="np"/><s n="ant"/></l><r>Recep<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Enver<s n="np"/><s n="ant"/></l><r>Enver<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Kadırov<s n="np"/><s n="ant"/></l><r>Kadir<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Ayşe<s n="np"/><s n="ant"/></l><r>Ayşe<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Ceppar<s n="np"/><s n="ant"/></l><r>Cabbar<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Osmanov<s n="np"/><s n="cog"/><s n="m"/></l><r>Osmanov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Boris<s n="np"/><s n="ant"/></l><r>Boris<s n="np"/><s n="ant"/></r></p></e>
+
       <e><p><l>Aksenov<s n="np"/><s n="cog"/><s n="m"/></l><r>Akseonv<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Ümerov<s n="np"/><s n="cog"/><s n="m"/></l><r>Ümerov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Natalya<s n="np"/><s n="ant"/></l><r>Natalya<s n="np"/><s n="ant"/></r></p></e>
@@ -711,6 +753,13 @@
 	  <e><p><l>cenübiy<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
 	  <e><p><l>şimali<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
 <!-- -->
+      <e><p><l>adiy<s n="adj"/></l><r>adi<s n="adj"/></r></p></e>
+      <e><p><l>gumanitar<s n="adj"/></l><r>insancıl<s n="adj"/></r></p></e>
+      <e><p><l>uquqiy<s n="adj"/></l><r>hukuki<s n="adj"/></r></p></e>
+      <e><p><l>menfiy<s n="adj"/></l><r>olumsuz<s n="adj"/></r></p></e>
+      <e><p><l>küçük<s n="adj"/></l><r>küçük<s n="adj"/></r></p></e>
+      <e><p><l>raat<s n="adj"/></l><r>rahat<s n="adj"/></r></p></e>
+
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
 
       <e><p><l>yuqarı<s n="adj"/></l><r>yukarı<s n="adj"/></r></p></e>
@@ -811,6 +860,9 @@
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+      <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
+      <e><p><l>belki<s n="adv"/></l><r>belki<s n="adv"/></r></p></e>
+
       <e><p><l>aman<s n="adv"/></l><r>hemen<s n="adv"/></r></p></e>
       <e><p><l>mecburen<s n="adv"/></l><r>mecburen<s n="adv"/></r></p></e>
 
