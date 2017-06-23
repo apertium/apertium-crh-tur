@@ -2,13 +2,21 @@
 <!-- -*- nxml -*- -->
 <transfer>
   <section-def-cats>
-    <def-cat n="cop-aor-3sg">
+    <def-cat n="cop-aor-3">
       <cat-item lemma="i" tags="cop.aor.p3.sg"/>
-      <cat-item lemma="i" tags="cop.aor.p3.frm.sg"/>
-      <cat-item lemma="i" tags="cop.aor.p3.frm.pl"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.sg"/>
+      <cat-item lemma="i" tags="cop.aor.p3.sg.*"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.sg.*"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.pl"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.pl.*"/>
+    </def-cat>
+    <def-cat n="cop-aor-3pl">
+      <cat-item lemma="i" tags="cop.aor.p3.pl"/>
+      <cat-item lemma="i" tags="cop.aor.p3.pl.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n"/>
+      <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="laş">
       <cat-item lemma="laş" tags="v.iv.*"/>
@@ -40,12 +48,29 @@
 
 
   <section-def-macros>
+
+    <def-macro n="f_replace_tags" npar="1">
+          <choose>
+            <when>
+              <test><or><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.sg"/></equal>
+                        <equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.sg.err_orth"/></equal></or></test>
+              <let><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.p3.frm.sg"/></let>
+            </when>
+            <when>
+              <test><or><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.pl"/></equal>
+                        <equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.pl.err_orth"/></equal></or></test>
+              <let><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.p3.frm.pl"/></let>
+            </when>
+          </choose>
+    </def-macro>
+
     <def-macro n="f_strip_tags" npar="1">
           <let>
             <clip pos="1" side="sl" part="a_err"/>
             <lit v=""/>
           </let>
     </def-macro>
+
   </section-def-macros>
 
 
@@ -89,6 +114,23 @@
     <rule comment="">
       <pattern>
         <pattern-item n="nom"/>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom"/>
         <pattern-item n="laş"/>
       </pattern>
       <action>
@@ -104,19 +146,21 @@
     </rule>
 
 
+
+
     <rule comment="">
       <pattern>
         <pattern-item n="default"/>
-        <pattern-item n="cop-aor-3sg"/>
+        <pattern-item n="cop-aor-3"/>
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
         <out>
           <lu><clip pos="1" side="sl" part="whole"/></lu>
         </out>
       </action>
     </rule>
+
 
     <rule comment="">
       <pattern>
