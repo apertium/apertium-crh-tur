@@ -1907,6 +1907,10 @@
       <e><p><l>şübelen<s n="v"/><s n="iv"/></l><r>şüphelen<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>şübelen<s n="v"/><s n="iv"/></l><r>şüphelen<s n="v"/><s n="iv"/></r></p></e>
 
+      <!-- SECTION: Interjections -->
+
+      <e><p><l>yani<s n="ij"/></l><r>yani<s n="ij"/></r></p></e>
+
       <!-- SECTION: Abbreviations -->
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
 	  <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
