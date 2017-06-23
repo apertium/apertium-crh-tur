@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="past">
+      <cat-item tags="v.*.past.*"/>
+    </def-cat>
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
     </def-cat>
@@ -61,6 +64,37 @@
 
   <section-rules>
 
+    <rule comment="REGLA: past">
+      <pattern>
+        <pattern-item n="past"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="REGLA: AOR">
       <pattern>
         <pattern-item n="aor"/>
