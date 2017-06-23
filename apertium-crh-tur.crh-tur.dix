@@ -1114,7 +1114,7 @@
       <e><p><l>sayla<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çaypa<s n="v"/><s n="tv"/></l><r>yağmala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qatil<b/>et<s n="v"/><s n="tv"/></l><r>katlet<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>yaqala<s n="v"/><s n="tv"/></l><r>yakala<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>yaqala<s n="v"/><s n="iv"/></l><r>yakala<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yaqalan<s n="v"/><s n="iv"/></l><r>yakalan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sat<s n="v"/><s n="tv"/></l><r>sat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>anneksirle<s n="v"/><s n="tv"/></l><r>ilhak<b/>et<s n="v"/><s n="tv"/></r></p></e>
@@ -1257,9 +1257,9 @@
       <e><p><l>deñiştir<s n="v"/><s n="tv"/></l><r>değiştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>deñiştir<s n="v"/><s n="tv"/></l><r>değiştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>diñle<s n="v"/><s n="tv"/></l><r>dinle<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>dolan<s n="v"/><s n="tv"/></l><r>dolan<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>dolan<s n="v"/><s n="tv"/></l><r>dolaş<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>dolan<s n="v"/><s n="tv"/></l><r>dolan<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>dolan<s n="v"/><s n="iv"/></l><r>dolan<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>dolan<s n="v"/><s n="iv"/></l><r>dolaş<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>dolan<s n="v"/><s n="iv"/></l><r>dolan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>doğur<s n="v"/><s n="tv"/></l><r>doğur<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>doğur<s n="v"/><s n="tv"/></l><r>doğur<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>duy<s n="v"/><s n="tv"/></l><r>duy<s n="v"/><s n="tv"/></r></p></e>
@@ -1490,9 +1490,6 @@
       <e><p><l>yapıştır<s n="v"/><s n="tv"/></l><r>yapıştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yapıştır<s n="v"/><s n="tv"/></l><r>yapıştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yapıştır<s n="v"/><s n="tv"/></l><r>yapıştır<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>yaqala<s n="v"/><s n="tv"/></l><r>yakala<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>yaqala<s n="v"/><s n="tv"/></l><r>yakala<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>yaqala<s n="v"/><s n="tv"/></l><r>yakala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaq<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaq<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaq<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
