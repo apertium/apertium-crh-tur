@@ -22,3 +22,4 @@ dev/find-terms.py -text
 dev/tur_crh.txt -text
 /modes.xml -text
 testvoc/corpus/trimmed-coverage.sh -text
+texts/challenge.crh.txt -text
