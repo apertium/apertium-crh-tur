@@ -210,6 +210,7 @@
 	  <e><p><l>vazife<s n="n"/></l><r>vazife<s n="n"/></r></p></e>
       <e><p><l>maqsat<s n="n"/></l><r>amaç<s n="n"/></r></p></e>
       <e><p><l>maqsat<s n="n"/></l><r>maksat<s n="n"/></r></p></e>
+      <e><p><l>memuriyet<s n="n"/></l><r>memuriyet<s n="n"/></r></p></e>
       <e><p><l>voyevoda<s n="n"/></l><r>voyvoda<s n="n"/></r></p></e>
       <e><p><l>bahşış<s n="n"/></l><r>bahşiş<s n="n"/></r></p></e>
       <e><p><l>etraf<s n="n"/></l><r>etraf<s n="n"/></r></p></e>
@@ -873,11 +874,12 @@
 			  <!-- SECTION: Adjectives -->
 		<!-- Directions - Not sure about these -->
 
-<e><p><l>şarqiy<s n="adj"/></l><r>doğu<s n="n"/></r></p></e>
-<e><p><l>ğarbiy<s n="adj"/></l><r>batı<s n="n"/></r></p></e>
+<e><p><l>şarqiy<s n="adj"/></l><r>doğu<s n="adj"/></r></p></e>
+<e><p><l>ğarbiy<s n="adj"/></l><r>batı<s n="adj"/></r></p></e>
+<e><p><l>cenüp<s n="adj"/></l><r>güney<s n="adj"/></r></p></e>
 	  <e><p><l>şimdiki<s n="adj"/></l><r>şimdiki<s n="adj"/></r></p></e>
-	  <e><p><l>cenübiy<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
-	  <e><p><l>şimali<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
+	  <e><p><l>cenübiy<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
+	  <e><p><l>şimali<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
 <!-- -->
 	  <e><p><l>ciddiy<s n="adj"/></l><r>ciddi<s n="adj"/></r></p></e>
       <e><p><l>adiy<s n="adj"/></l><r>adi<s n="adj"/></r></p></e>
@@ -887,6 +889,7 @@
       <e><p><l>küçük<s n="adj"/></l><r>küçük<s n="adj"/></r></p></e>
       <e><p><l>raat<s n="adj"/></l><r>rahat<s n="adj"/></r></p></e>
 
+<e><p><l>deyerli<s n="adj"/></l><r>değerli<s n="adj"/></r></p></e>
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
 
       <e><p><l>yuqarı<s n="adj"/></l><r>yukarı<s n="adj"/></r></p></e>
