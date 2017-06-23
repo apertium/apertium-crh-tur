@@ -7,6 +7,12 @@
       <cat-item lemma="i" tags="cop.aor.p3.frm.sg"/>
       <cat-item lemma="i" tags="cop.aor.p3.frm.pl"/>
     </def-cat>
+    <def-cat n="nom">
+      <cat-item tags="n"/>
+    </def-cat>
+    <def-cat n="laş">
+      <cat-item lemma="laş" tags="v.iv.*"/>
+    </def-cat>
     <def-cat n="cop-ifi">
       <cat-item lemma="i" tags="cop.ifi.*"/>
     </def-cat>
@@ -82,12 +88,30 @@
 
     <rule comment="">
       <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="laş"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="">
+      <pattern>
         <pattern-item n="default"/>
         <pattern-item n="cop-aor-3sg"/>
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
         <out>
           <lu><clip pos="1" side="sl" part="whole"/></lu>
         </out>
