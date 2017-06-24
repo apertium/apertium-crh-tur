@@ -12,6 +12,12 @@
       <select lemma="ekonomi" tags="n.*"/>
     </match>
   </rule>
+   <rule>
+    <match lemma="bir"/>
+    <match lemma="vaqıt" tags="n.*">
+      <select lemma="süre" tags="n.*"/>
+    </match>
+  </rule>
  
   <rule>
     <match lemma="til"/>
