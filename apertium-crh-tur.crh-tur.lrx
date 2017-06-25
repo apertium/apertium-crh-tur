@@ -13,11 +13,11 @@
     </match>
   </rule>
 <rule weight="1.0">
-    <match lemma="tarz" tags="n.*">
-      <select lemma="şekil" tags="n.*"/>
+    <match lemma="inqilâp" tags="n.*">
+      <select lemma="devrim" tags="n.*"/>
     </match>
   </rule>
- 
+
 <rule weight="1.0">
     <match lemma="deyerlik">
       <select lemma="neredeyse" tags="adv"/>
@@ -63,7 +63,9 @@
     <match lemma="vatandaşlıq" tags="n.*">
       <select lemma="iç" tags="n.*"/>
     </match>
-    <match lemma="cenk" tags="n.*"/>
+    <match lemma="cenk" tags="n.*">
+      <select lemma="savaş" tags="n.*"/>
+    </match>
   </rule>
 
   <rule weight="1.0">

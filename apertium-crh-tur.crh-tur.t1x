@@ -7,6 +7,10 @@
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
     </def-cat>
+    <def-cat n="fut">
+      <cat-item tags="v.*.fut.*"/>
+      <cat-item tags="v.*.fut2.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -40,6 +44,14 @@
     </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="a_fin">
+      <attr-item tags="fut"/>
+      <attr-item tags="fut2"/>
+      <attr-item tags="aor"/>
+      <attr-item tags="ifi"/>
+      <attr-item tags="past"/>
+      <attr-item tags="pres"/>
     </def-attr>
     <def-attr n="a_non_fin">
       <attr-item tags="ger_past"/>
@@ -87,6 +99,41 @@
       <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
     </when>
 </choose>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: fut">
+      <pattern>
+        <pattern-item n="fut"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+        <let>
+          <clip pos="1" side="tl" part="a_fin"/><lit-tag v="fut"/>
+        </let>
         <let>
           <clip pos="1" side="tl" part="a_pers_nbr"/>
           <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>

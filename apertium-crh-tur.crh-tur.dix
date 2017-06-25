@@ -427,7 +427,6 @@
       <e><p><l>halq<s n="n"/></l><r>halk<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>zümre<s n="n"/></r></p></e>
       <e><p><l>zümre<s n="n"/></l><r>aile<s n="n"/></r></p></e>
-      <e><p><l>memleket<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
       <e><p><l>taraf<s n="n"/></l><r>taraf<s n="n"/></r></p></e>
       <e><p><l>millet<s n="n"/></l><r>millet<s n="n"/></r></p></e>
       <e><p><l>devlet<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
@@ -462,11 +461,13 @@
       <e><p><l>mimarcılıq<s n="n"/></l><r>mimarlık<s n="n"/></r></p></e>
       <e><p><l>abide<s n="n"/></l><r>abide<s n="n"/></r></p></e>
       <e><p><l>memleket<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
-      <e><p><l>sıra<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
+      <e><p><l>memleket<s n="n"/></l><r>milli<s n="n"/></r></p></e>
       <e><p><l>memleket<s n="n"/></l><r>ülke<s n="n"/></r></p></e>
+      <e><p><l>sıra<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
       <e><p><l>asır<s n="n"/></l><r>asır<s n="n"/></r></p></e>
       <e><p><l>ücüm<s n="n"/></l><r>hücüm<s n="n"/></r></p></e>
       <e><p><l>cenk<s n="n"/></l><r>cenk<s n="n"/></r></p></e>
+      <e><p><l>cenk<s n="n"/></l><r>savaş<s n="n"/></r></p></e>
       <e><p><l>eali<s n="n"/></l><r>nüfus<s n="n"/></r></p></e>
       <e><p><l>kişi<s n="n"/></l><r>kişi<s n="n"/></r></p></e>
       <e><p><l>esir<s n="n"/></l><r>esir<s n="n"/></r></p></e>
@@ -1150,6 +1151,7 @@
       <e><p><l>AB<s n="np"/><s n="top"/></l><r>AB<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Ternopil<s n="np"/><s n="top"/></l><r>Ternopil<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Qarasuvbazar<s n="np"/><s n="top"/></l><r>Karasuvpazar<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Qaradeñiz<s n="np"/><s n="top"/></l><r>Karadeniz<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Ametov<s n="np"/><s n="cog"/><s n="m"/></l><r>Ahmetov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Konstantinov<s n="np"/><s n="cog"/><s n="m"/></l><r>Konstantinov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Çerkez<s n="np"/><s n="ant"/></l><r>Çerkes<s n="np"/><s n="ant"/></r></p></e>
@@ -2419,5 +2421,12 @@
       <e><re>[IVXMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
       <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+      <e><p><l>)<s n="rpar"/></l>  <r>)<s n="rpar"/></r></p></e>
+      <e><p><l>(<s n="lpar"/></l>  <r>(<s n="lpar"/></r></p></e>
+      <e><p><l>»<s n="rquot"/></l>  <r>»<s n="rquot"/></r></p></e>
+      <e><p><l>«<s n="lquot"/></l>  <r>«<s n="lquot"/></r></p></e>
+      <e><p><l>–<s n="guio"/></l>  <r>–<s n="guio"/></r></p></e>
+      <e><p><l>—<s n="guio"/></l>  <r>—<s n="guio"/></r></p></e>
+      <e><p><l>-<s n="guio"/></l>  <r>-<s n="guio"/></r></p></e>
    </section>
 </dictionary>
