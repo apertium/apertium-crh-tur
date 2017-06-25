@@ -27,13 +27,20 @@
   </rule>
   
   <rule>
-    <match lemma="malümat" tags ="n.pl.*">
+    <match lemma="malümat" tags="n.pl.*">
       <select lemma="bilgi" tags="n.*"/>
     </match>
   </rule>
   
   <rule>
-    <match lemma="mefküre" tags ="n.*">
+    <match lemma="vatandaşlıq" tags="n.*">
+      <select lemma="iç" tags="n.*"/>
+    </match>
+    <match lemma="cenk" tags="n.*"/>
+  </rule>
+
+  <rule>
+    <match lemma="mefküre" tags="n.*">
       <select lemma="düşünce" tags="n.*"/>
     </match>
   </rule>
