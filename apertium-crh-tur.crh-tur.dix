@@ -29,6 +29,7 @@
     <sdef n="prn"             c="Pronoun"/>
     <sdef n="XD"             c=""/>
 
+    <sdef n="px3sp"           c="Possessive agreement"/>
 
     <sdef n="subst"           c="Attributive"/>
     <sdef n="attr"            c="Attributive"/>
@@ -117,6 +118,7 @@
 
       <!-- SECTION: Determiners -->
       <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>ep<s n="det"/><s n="ind"/></l><r>hep<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>er<s n="det"/><s n="ind"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>öz<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
       <e><p><l>diger<s n="det"/><s n="ind"/></l><r>diğer<s n="adj"/></r></p></e>
@@ -173,11 +175,19 @@
       <e><p><l>kendi<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
       <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
       <e><p><l>men<s n="prn"/></l><r>men<s n="prn"/></r></p></e>
+      <e><p><l>sen<s n="prn"/></l><r>sen<s n="prn"/></r></p></e>
       <e><p><l>biz<s n="prn"/></l><r>biz<s n="prn"/></r></p></e>
+      <e><p><l>siz<s n="prn"/></l><r>siz<s n="prn"/></r></p></e>
+      <e><p><l>bizler<s n="prn"/></l><r>bizler<s n="prn"/></r></p></e>
+      <e><p><l>sizler<s n="prn"/></l><r>sizler<s n="prn"/></r></p></e>
       <e><p><l>olar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e>
       <e><p><l>öz<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
       <e><p><l>ekseri<s n="prn"/></l><r>ekseri<s n="prn"/></r></p></e>
       <e><p><l>kimse<s n="prn"/><s n="ind"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
+      <e><p><l>birev<s n="prn"/><s n="ind"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
+      <e><p><l>erkes<s n="prn"/><s n="ind"/></l><r>herkes<s n="prn"/><s n="qnt"/></r></p></e>
+      <e><p><l>birisi<s n="prn"/><s n="ind"/><s n="px3sp"/></l><r>birisi<s n="prn"/><s n="qnt"/></r></p></e>
+      <e><p><l>kim<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
 
       <!-- SECTION: Numerals -->
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
