@@ -12,7 +12,12 @@
       <select lemma="ekonomi" tags="n.*"/>
     </match>
   </rule>
-
+<rule weight="1.0">
+    <match lemma="tarz" tags="n.*">
+      <select lemma="şekil" tags="n.*"/>
+    </match>
+  </rule>
+ 
 <rule weight="1.0">
     <match lemma="deyerlik">
       <select lemma="neredeyse" tags="adv"/>
