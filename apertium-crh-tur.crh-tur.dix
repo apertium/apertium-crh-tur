@@ -146,13 +146,20 @@
       <e><p><l>em<s n="cnjcoo"/></l><r>hem<s n="cnjcoo"/></r></p></e>
       <e><p><l>ise<s n="cnjcoo"/></l><r>ise<s n="postadv"/></r></p></e> <!-- CHECK-->
       <e><p><l>amma<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ya<s n="cnjcoo"/></l><r>ya<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ya<b/>da<s n="cnjcoo"/></l><r>ya<b/>da<s n="cnjcoo"/></r></p></e>
       <e><p><l>lâkin<s n="cnjcoo"/></l><r>lakin<s n="cnjcoo"/></r></p></e>
       <e><p><l>ancaq<s n="cnjcoo"/></l><r>ancak<s n="cnjcoo"/></r></p></e>
       <e><p><l>ki<s n="cnjsub"/></l><r>ki<s n="cnjsub"/></r></p></e>
+      <e><p><l>eger<s n="cnjsub"/></l><r>eğer<s n="cnjsub"/></r></p></e>
       <e><p><l>çünki<s n="cnjsub"/></l><r>çünkü<s n="cnjadv"/></r></p></e>
+      <e><p><l>guya<s n="cnjsub"/></l><r>güya<s n="adv"/></r></p></e>
+      <e><p><l>sanki<s n="cnjsub"/></l><r>sanki<s n="adv"/></r></p></e>
+      <e><p><l>bile<s n="cnjsub"/></l><r>bile<s n="cnjadv"/></r></p></e>
       <e><p><l>çünki<s n="cnjsub"/></l><r>çünkü<s n="cnjcoo"/></r></p></e>
       <e><p><l>yani<s n="cnjadv"/></l><r>yani<s n="cnjadv"/></r></p></e>
       <e><p><l>atta<s n="cnjadv"/></l><r>hatta<s n="cnjadv"/></r></p></e>
+      <e><p><l>yoqsa<s n="cnjadv"/></l><r>yoksa<s n="cnjadv"/></r></p></e>
 
       <!-- SECTION: Postpositions -->
       <e><p><l>sız<s n="post"/></l><r>sız<s n="post"/></r></p></e>
