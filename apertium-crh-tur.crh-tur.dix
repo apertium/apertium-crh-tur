@@ -28,6 +28,7 @@
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
     <sdef n="XD"             c=""/>
+    <sdef n="dat"             c=""/>
 
     <sdef n="px3sp"           c="Possessive agreement"/>
 
@@ -162,6 +163,9 @@
       <e><p><l>yoqsa<s n="cnjadv"/></l><r>yoksa<s n="cnjadv"/></r></p></e>
 
       <!-- SECTION: Postpositions -->
+      <e><p><l>doğru<s n="post"/></l><r>doğru<s n="post"/></r></p></e>
+      <e><p><l>ögüne<s n="post"/></l><r>ön<s n="n"/><s n="px3sp"/><s n="dat"/></r></p></e>
+      <e><p><l>taba<s n="post"/></l><r>doğru<s n="post"/></r></p></e>
       <e><p><l>sız<s n="post"/></l><r>sız<s n="post"/></r></p></e>
       <e><p><l>lı<s n="post"/></l><r>lı<s n="post"/></r></p></e>
       <e><p><l>itibaren<s n="post"/></l><r>itibaren<s n="post"/></r></p></e>
