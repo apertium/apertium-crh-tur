@@ -33,6 +33,7 @@
     <sdef n="px3sp"           c="Possessive agreement"/>
 
     <sdef n="subst"           c="Attributive"/>
+    <sdef n="advl"           c="Attributive"/>
     <sdef n="attr"            c="Attributive"/>
     <sdef n="loc"            c="Locative"/>
     <sdef n="top"             c="Toponym"/>
@@ -1347,6 +1348,7 @@
 
 	  <e><p><l>acele<s n="adj"/></l><r>acil<s n="adj"/></r></p></e>
 	  <e><p><l>taqır<s n="adj"/></l><r>boş<s n="adj"/></r></p></e>
+	  <e><p><l>berbat<s n="adj"/></l><r>berbat<s n="adj"/></r></p></e>
 	  <e><p><l>tüşkün<s n="adj"/></l><r>çökmüş<s n="adj"/></r></p></e>
 	  <e><p><l>tıbbiy<s n="adj"/></l><r>tıbbi<s n="adj"/></r></p></e>
 	  <e><p><l>barışıqlı<s n="adj"/></l><r>barış<b/>halindeki<s n="adj"/></r></p></e>
@@ -1494,6 +1496,7 @@
 
       <!-- SECTION: Adverbs -->
       <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
+      <e><p><l>deyerlik<s n="adv"/></l><r>hemen<b/>hemen<s n="adv"/></r></p></e>
       <e><p><l>keri<s n="adv"/></l><r>geri<s n="adv"/></r></p></e>
       <e><p><l>ğayet<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
 	  <e><p><l>evelden<s n="adv"/></l><r>önce<s n="adv"/></r></p></e>
@@ -1538,6 +1541,8 @@
       <e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bağışlan<s n="v"/><s n="iv"/></l><r>bağışlan<s n="v"/><s n="iv"/></r></p></e>
+<!--      <e><p><l>boysun<s n="v"/><s n="iv"/></l><r>zorla<s n="v"/><s n="iv"/></r></p></e>-->
+<!--      <e><p><l>boysun<s n="v"/><s n="iv"/></l><r>boyun<b/>eğdir<s n="v"/><s n="iv"/></r></p></e>-->
       <e><p><l>peyda<b/>ol<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>peyda<b/>ol<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>peyda<b/>ol<s n="v"/><s n="iv"/></l><r>görün<s n="v"/><s n="iv"/></r></p></e>
