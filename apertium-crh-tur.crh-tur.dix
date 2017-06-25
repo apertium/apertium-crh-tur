@@ -126,10 +126,13 @@
       <e><p><l>cümle<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>bazı<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>qaç<s n="det"/><s n="itg"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>qaysı<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>angi<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>bir<b/>qaç<s n="det"/><s n="ind"/></l><r>birkaç<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
       <e><p><l>çoq<s n="det"/></l><r>çok<s n="det"/></r></p></e>
       <e><p><l>şu<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>işbu<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>çoqu<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
       <e><p><l>çoqusı<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
 
