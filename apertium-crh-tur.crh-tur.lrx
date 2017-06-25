@@ -1,45 +1,51 @@
 <rules>
-  <rule>
+  <rule weight="1.0">
     <match lemma="de"/>
     <match lemma="qayd et" tags="v.*">
       <select lemma="bildir" tags="v.*"/>
     </match>
   </rule>
 
-  <rule>
+  <rule weight="1.0">
   <or><match lemma="köy"/><match lemma="şeer"/></or>
     <match lemma="hocalıq" tags="n.*">
       <select lemma="ekonomi" tags="n.*"/>
     </match>
   </rule>
-   <rule>
+   <rule weight="1.0">
     <match lemma="bir"/>
     <match lemma="vaqıt" tags="n.*">
       <select lemma="süre" tags="n.*"/>
     </match>
   </rule>
  
-  <rule>
+  <rule weight="1.0">
     <match lemma="til"/>
     <match lemma="zümre" tags="n.*">
       <select lemma="aile" tags="n.*"/>
     </match>
   </rule>
   
-  <rule>
+  <rule weight="1.0">
     <match lemma="malümat" tags="n.pl.*">
       <select lemma="bilgi" tags="n.*"/>
     </match>
   </rule>
   
-  <rule>
+  <rule weight="1.0">
+    <match lemma="vatandaşlıq" tags="n.*">
+      <select lemma="iç" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule weight="1.2">
     <match lemma="vatandaşlıq" tags="n.*">
       <select lemma="iç" tags="n.*"/>
     </match>
     <match lemma="cenk" tags="n.*"/>
   </rule>
 
-  <rule>
+  <rule weight="1.0">
     <match lemma="mefküre" tags="n.*">
       <select lemma="düşünce" tags="n.*"/>
     </match>
