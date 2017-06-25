@@ -12,6 +12,22 @@
       <select lemma="ekonomi" tags="n.*"/>
     </match>
   </rule>
+
+<rule weight="1.0">
+    <match lemma="deyerlik">
+      <select lemma="neredeyse" tags="adv"/>
+    </match>
+  </rule>
+ 
+<rule weight="1.1">
+    <match lemma="deyerlik">
+      <select lemma="hemen hemen" tags="adv"/>
+    </match>
+	<or><match tags="num"/><match tags="num.*"/></or>
+  </rule>
+ 
+
+
    <rule weight="1.0">
     <match lemma="bir"/>
     <match lemma="vaqıt" tags="n.*">
