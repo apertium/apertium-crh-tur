@@ -4,6 +4,10 @@
     <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
     </def-cat>
+    <def-cat n="dep">
+      <cat-item lemma="de" tags="v.*.gna_perf"/>
+      <cat-item lemma="de" tags="v.*.gna_perf.*"/>
+    </def-cat>
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
     </def-cat>
@@ -357,6 +361,26 @@
       </action>
     </rule>
 
+
+
+    <rule comment="REGLA: dep">
+      <pattern>
+        <pattern-item n="dep"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="dep" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1"><lit v="diye"/></get-case-from><lit-tag v="cnjsub"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
 
