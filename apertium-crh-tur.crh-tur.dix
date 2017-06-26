@@ -28,6 +28,7 @@
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
     <sdef n="XD"             c=""/>
+    <sdef n="qst"             c=""/>
     <sdef n="dat"             c=""/>
 
     <sdef n="px3sp"           c="Possessive agreement"/>
@@ -127,6 +128,8 @@
 	  </pardefs>
 
    <section id="main" type="standard">
+
+      <e><p><l>mı<s n="qst"/></l><r>mı<s n="qst"/></r></p></e>
 
       <!-- SECTION: Determiners -->
       <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
