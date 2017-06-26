@@ -1361,8 +1361,8 @@
       <e><p><l>ŞSCB<s n="np"/><s n="top"/></l><r>SSCB<s n="np"/><s n="acr"/></r></p></e>
       <e><p><l>NATO<s n="np"/><s n="al"/></l><r>NATO<s n="np"/><s n="org"/></r></p></e>
 			  <!-- SECTION: Adjectives -->
-		<!-- Directions - Not sure about these -->
 
+	  <e><p><l>türkiy<s n="adj"/></l><r>türki<s n="adj"/></r></p></e>
 	  <e><p><l>acele<s n="adj"/></l><r>acil<s n="adj"/></r></p></e>
 	  <e><p><l>taqır<s n="adj"/></l><r>boş<s n="adj"/></r></p></e>
 	  <e><p><l>berbat<s n="adj"/></l><r>berbat<s n="adj"/></r></p></e>
@@ -1376,6 +1376,7 @@
       <e><p><l>cenübiy<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
       <e><p><l>şimali<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
       <e><p><l>muntazam<s n="adj"/></l><r>düzenli<s n="adj"/></r></p></e>
+		<!-- Directions - Not sure about these -->
 <e><p><l>şarqiy<s n="adj"/></l><r>doğu<s n="adj"/></r></p></e>
 <e><p><l>ğarbiy<s n="adj"/></l><r>batı<s n="adj"/></r></p></e>
 <e><p><l>cenüp<s n="adj"/></l><r>güney<s n="adj"/></r></p></e>
