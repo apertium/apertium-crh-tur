@@ -604,7 +604,8 @@
       <e><p><l>meydan<s n="n"/></l><r>meydan<s n="n"/></r></p></e>
       <e><p><l>metropoliya<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
       <e><p><l>mefküre<s n="n"/></l><r>fikir<s n="n"/></r></p></e>
-      <e><p><l>alman<s n="n"/></l><r>alman<s n="n"/></r></p></e>
+      <e><p><l>alman<s n="n"/></l><r>Alman<s n="n"/></r></p></e>
+      <e><p><l>taqım<s n="n"/></l><r>takım<s n="n"/></r></p></e>
       <e><p><l>riayet<s n="n"/></l><r>riayet<s n="n"/></r></p></e>
       <e><p><l>elifbe<s n="n"/></l><r>alfabe<s n="n"/></r></p></e>
       <e><p><l>mefküre<s n="n"/></l><r>düşünce<s n="n"/></r></p></e>
@@ -961,7 +962,7 @@
 <e><p><l>Edige<s n="np"/><s n="ant"/></l><r>Edige<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Amza<s n="np"/><s n="ant"/></l><r>Amza<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Sahib<s n="np"/><s n="ant"/></l><r>Sahib<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Müstecib<s n="np"/><s n="ant"/></l><r>Müstecib<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Müstecib<s n="np"/><s n="ant"/></l><r>Müstecip<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Eşref<s n="np"/><s n="ant"/></l><r>Eşref<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Cafer<s n="np"/><s n="ant"/></l><r>Cafer<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Alâdin<s n="np"/><s n="ant"/></l><r>Alaadin<s n="np"/><s n="ant"/></r></p></e>
@@ -1358,7 +1359,7 @@
       <e><p><l>MŞSC<s n="np"/><s n="al"/></l><r>MŞSC<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>MQMİK<s n="np"/><s n="al"/></l><r>MKMİK<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>FSB<s n="np"/><s n="al"/></l><r>FSB<s n="np"/><s n="org"/></r></p></e>
-      <e><p><l>ŞSCB<s n="np"/><s n="top"/></l><r>SSCB<s n="np"/><s n="acr"/></r></p></e>
+      <e><p><l>ŞSCB<s n="np"/><s n="top"/></l><r>SSCB<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>NATO<s n="np"/><s n="al"/></l><r>NATO<s n="np"/><s n="org"/></r></p></e>
 			  <!-- SECTION: Adjectives -->
 
