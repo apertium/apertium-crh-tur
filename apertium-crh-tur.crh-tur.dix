@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet></alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -112,7 +112,17 @@
 
 	  <pardefs>
 
-<pardef n="n1__n2"><e r="LR"><p><l></l><r><s n="XD"/></r></p></e><e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/><s n="XD"/></r></p></e><e r="RL"><p><l></l><r></r></p></e></pardef>
+<pardef n="n1__n2">
+  <e r="LR"><p><l></l><r><s n="XD"/></r></p></e>
+<e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/><s n="XD"/></r></p></e>
+<e r="RL"><p><l></l><r></r></p></e>
+</pardef>
+
+<pardef n="cog:ov__cog">
+<e><p><l><s n="m"/></l><r><s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e><p><l><s n="f"/></l><r>a<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+</pardef>
+
 
 	  </pardefs>
 
@@ -740,72 +750,73 @@
       <e><p><l>Seydamet<s n="np"/><s n="cog"/></l><r>Seydamet<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Ülküsal<s n="np"/><s n="cog"/></l><r>Ülküsal<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Lümyer<s n="np"/><s n="cog"/></l><r>Lümyer<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Reşidov<s n="np"/><s n="cog"/></l><r>Reşidov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Reşidov<s n="np"/><s n="cog"/></l><r>Reşidov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Puşkin<s n="np"/><s n="cog"/></l><r>Puşkin<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Veliyev<s n="np"/><s n="cog"/></l><r>Veliyev<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Bodaninskiy<s n="np"/><s n="cog"/></l><r>Bodaninski<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Müyedinov<s n="np"/><s n="cog"/></l><r>Müyedinov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Müyedinov<s n="np"/><s n="cog"/></l><r>Müyedinov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Lavrov<s n="np"/><s n="cog"/></l><r>Lavrov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Borağanskiy<s n="np"/><s n="cog"/></l><r>Borağanskiy<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Abduramanov<s n="np"/><s n="cog"/></l><r>Abdürrahmanov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Nalbandov<s n="np"/><s n="cog"/></l><r>Nalbandov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Abduramanov<s n="np"/><s n="cog"/></l><r>Abdürrahmanov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Nalbandov<s n="np"/><s n="cog"/></l><r>Nalbandov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Hablemitoğlu<s n="np"/><s n="cog"/></l><r>Hablemitoğlu<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Edemov<s n="np"/><s n="cog"/></l><r>Ethemov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Ayvazov<s n="np"/><s n="cog"/></l><r>Ayvazov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Appazov<s n="np"/><s n="cog"/></l><r>Appazov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Edemov<s n="np"/><s n="cog"/></l><r>Ethemov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Ayvazov<s n="np"/><s n="cog"/></l><r>Ayvazov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Appazov<s n="np"/><s n="cog"/></l><r>Appazov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Ablayev<s n="np"/><s n="cog"/></l><r>Ablayev<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Seyitveliyev<s n="np"/><s n="cog"/></l><r>Seyitveliyev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Filatov<s n="np"/><s n="cog"/></l><r>Filatov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Batırov<s n="np"/><s n="cog"/></l><r>Batırov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Abdennanov<s n="np"/><s n="cog"/></l><r>Abdennanov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Filatov<s n="np"/><s n="cog"/></l><r>Filatov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Batırov<s n="np"/><s n="cog"/></l><r>Batırov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Abdennanov<s n="np"/><s n="cog"/></l><r>Abdennanov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Tolstoy<s n="np"/><s n="cog"/></l><r>Tolstoy<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Tımoşenko<s n="np"/><s n="cog"/></l><r>Timoşenko<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Şurov<s n="np"/><s n="cog"/></l><r>Şurov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Siyabendov<s n="np"/><s n="cog"/></l><r>Siyabendov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Şurov<s n="np"/><s n="cog"/></l><r>Şurov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Siyabendov<s n="np"/><s n="cog"/></l><r>Siyabendov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Rodriguez<s n="np"/><s n="cog"/></l><r>Rodriguez<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Qırımoğlu<s n="np"/><s n="cog"/></l><r>Kırımoğlu<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Qazaqov<s n="np"/><s n="cog"/></l><r>Kazakov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Qazaqov<s n="np"/><s n="cog"/></l><r>Kazakov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Mediyev<s n="np"/><s n="cog"/></l><r>Mediyev<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Lopez<s n="np"/><s n="cog"/></l><r>Lopez<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Kuybışev<s n="np"/><s n="cog"/></l><r>Kuybişev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Halilov<s n="np"/><s n="cog"/></l><r>Halilov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Halilov<s n="np"/><s n="cog"/></l><r>Halilov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Çaykovskiy<s n="np"/><s n="cog"/></l><r>Çaykovski<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Ametov<s n="np"/><s n="cog"/></l><r>Ametov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Alimov<s n="np"/><s n="cog"/></l><r>Alimov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Suleymanov<s n="np"/><s n="cog"/></l><r>Süleymanov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Selimov<s n="np"/><s n="cog"/></l><r>Selimov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Refatov<s n="np"/><s n="cog"/></l><r>Refatov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Qadırov<s n="np"/><s n="cog"/></l><r>Kadirov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Osmanov<s n="np"/><s n="cog"/></l><r>Osmanov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Ametov<s n="np"/><s n="cog"/></l><r>Ametov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Alimov<s n="np"/><s n="cog"/></l><r>Alimov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Suleymanov<s n="np"/><s n="cog"/></l><r>Süleymanov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Selimov<s n="np"/><s n="cog"/></l><r>Selimov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Refatov<s n="np"/><s n="cog"/></l><r>Refatov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Qadırov<s n="np"/><s n="cog"/></l><r>Kadirov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Osmanov<s n="np"/><s n="cog"/></l><r>Osmanov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Mogilev<s n="np"/><s n="cog"/></l><r>Mogilev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Lömanov<s n="np"/><s n="cog"/></l><r>Lömanov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Lömanov<s n="np"/><s n="cog"/></l><r>Lömanov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Levitskiy<s n="np"/><s n="cog"/></l><r>Levitskiy<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Kuzmenko<s n="np"/><s n="cog"/></l><r>Kuzmenko<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>İlminskiy<s n="np"/><s n="cog"/></l><r>İlminski<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Gülmemmedov<s n="np"/><s n="cog"/></l><r>Gülmemmedov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Gülmemmedov<s n="np"/><s n="cog"/></l><r>Gülmemmedov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Ğaniyev<s n="np"/><s n="cog"/></l><r>Ganiyev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Çernov<s n="np"/><s n="cog"/></l><r>Çernov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Bekirov<s n="np"/><s n="cog"/></l><r>Bekirov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Baskakov<s n="np"/><s n="cog"/></l><r>Baskakov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Akimov<s n="np"/><s n="cog"/></l><r>Akimov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Çernov<s n="np"/><s n="cog"/></l><r>Çernov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Bekirov<s n="np"/><s n="cog"/></l><r>Bekirov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Baskakov<s n="np"/><s n="cog"/></l><r>Baskakov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Akimov<s n="np"/><s n="cog"/></l><r>Akimov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Yuşçenko<s n="np"/><s n="cog"/></l><r>Yuşçenko<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Yaitskiy<s n="np"/><s n="cog"/></l><r>Yaitski<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Tusk<s n="np"/><s n="cog"/></l><r>Tusk<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Sultan<s n="np"/><s n="cog"/></l><r>Sultan<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Seytablayev<s n="np"/><s n="cog"/></l><r>Seytablayev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Şerfetdinov<s n="np"/><s n="cog"/></l><r>Şerfetdinov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Şerfetdinov<s n="np"/><s n="cog"/></l><r>Şerfetdinov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Pugaçev<s n="np"/><s n="cog"/></l><r>Pugaçev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Plehanov<s n="np"/><s n="cog"/></l><r>Plehanov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Plehanov<s n="np"/><s n="cog"/></l><r>Plehanov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Osipenko<s n="np"/><s n="cog"/></l><r>Osipenko<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Necefzade<s n="np"/><s n="cog"/></l><r>Necefzade<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Nazaryev<s n="np"/><s n="cog"/></l><r>Nazaryev<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Mustafayev<s n="np"/><s n="cog"/></l><r>Mustafayev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Moloçnikov<s n="np"/><s n="cog"/></l><r>Moloçnikov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Moloçnikov<s n="np"/><s n="cog"/></l><r>Moloçnikov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Mısıroğlu<s n="np"/><s n="cog"/></l><r>Mısıroğlu<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Memetov<s n="np"/><s n="cog"/></l><r>Memetov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Martyanov<s n="np"/><s n="cog"/></l><r>Martyanov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Krılov<s n="np"/><s n="cog"/></l><r>Krilov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Karpov<s n="np"/><s n="cog"/></l><r>Karpov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>İzmaylov<s n="np"/><s n="cog"/></l><r>İzmaylov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Memetov<s n="np"/><s n="cog"/></l><r>Memetov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Martyanov<s n="np"/><s n="cog"/></l><r>Martyanov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Krılov<s n="np"/><s n="cog"/></l><r>Krilov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Karpov<s n="np"/><s n="cog"/></l><r>Karpov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>İzmaylov<s n="np"/><s n="cog"/></l><r>İzmaylov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Gülümoğlu<s n="np"/><s n="cog"/></l><r>Gülümoğlu<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Gruşevskiy<s n="np"/><s n="cog"/></l><r>Gruşevski<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Gözlev<s n="np"/><s n="cog"/></l><r>Gözlev<s n="np"/><s n="cog"/></r></p></e>
@@ -813,30 +824,30 @@
       <e><p><l>Gagarin<s n="np"/><s n="cog"/></l><r>Gagarin<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Erdoğan<s n="np"/><s n="cog"/></l><r>Erdoğan<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Çergeyev<s n="np"/><s n="cog"/></l><r>Çergeyev<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Çehov<s n="np"/><s n="cog"/></l><r>Çehov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Camaladinov<s n="np"/><s n="cog"/></l><r>Camaladinov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Bekirov<s n="np"/><s n="cog"/></l><r>Bekirov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Ahmetov<s n="np"/><s n="cog"/></l><r>Ahmetov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Çehov<s n="np"/><s n="cog"/></l><r>Çehov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Camaladinov<s n="np"/><s n="cog"/></l><r>Camaladinov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Bekirov<s n="np"/><s n="cog"/></l><r>Bekirov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Ahmetov<s n="np"/><s n="cog"/></l><r>Ahmetov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Zayonçkovskiy<s n="np"/><s n="cog"/></l><r>Zayonçkovskiy<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Yunusov<s n="np"/><s n="cog"/></l><r>Yunusov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Yevdokimov<s n="np"/><s n="cog"/></l><r>Yevdokimov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Yunusov<s n="np"/><s n="cog"/></l><r>Yunusov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Yevdokimov<s n="np"/><s n="cog"/></l><r>Yevdokimov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Yerömenko<s n="np"/><s n="cog"/></l><r>Yerömenko<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Yasinskiy<s n="np"/><s n="cog"/></l><r>Yasinskiy<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Yaqubov<s n="np"/><s n="cog"/></l><r>Yakubov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Voykov<s n="np"/><s n="cog"/></l><r>Voykov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Vorontsov<s n="np"/><s n="cog"/></l><r>Vorontsov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Yaqubov<s n="np"/><s n="cog"/></l><r>Yakubov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Voykov<s n="np"/><s n="cog"/></l><r>Voykov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Vorontsov<s n="np"/><s n="cog"/></l><r>Vorontsov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Vernadskiy<s n="np"/><s n="cog"/></l><r>Vernadskiy<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Veresayev<s n="np"/><s n="cog"/></l><r>Veresayev<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Velilâyev<s n="np"/><s n="cog"/></l><r>Velilâyev<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Üşçenko<s n="np"/><s n="cog"/></l><r>Üşçenko<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Ulyanov<s n="np"/><s n="cog"/></l><r>Ulyanov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Tınçerov<s n="np"/><s n="cog"/></l><r>Tınçerov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Tairov<s n="np"/><s n="cog"/></l><r>Tairov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Svalov<s n="np"/><s n="cog"/></l><r>Sıvalov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Ulyanov<s n="np"/><s n="cog"/></l><r>Ulyanov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Tınçerov<s n="np"/><s n="cog"/></l><r>Tınçerov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Tairov<s n="np"/><s n="cog"/></l><r>Tairov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Svalov<s n="np"/><s n="cog"/></l><r>Sıvalov</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Sultan<s n="np"/><s n="cog"/></l><r>Sultan<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Sofuzade<s n="np"/><s n="cog"/></l><r>Sofuzade<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Snov<s n="np"/><s n="cog"/></l><r>Sınov<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Simonov<s n="np"/><s n="cog"/></l><r>Simonov<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Snov<s n="np"/><s n="cog"/></l><r>Sınov</r></p><par n="cog:ov__cog"/></e>
+      <e><p><l>Simonov<s n="np"/><s n="cog"/></l><r>Simonov</r></p><par n="cog:ov__cog"/></e>
 
       <e><p><l>İlbav<s n="np"/><s n="top"/></l><r>İlbav<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ades<s n="np"/><s n="top"/></l><r>Ades<s n="np"/><s n="top"/></r></p></e>
