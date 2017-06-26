@@ -21,8 +21,9 @@
     <def-cat n="laş">
       <cat-item lemma="laş" tags="v.iv.*"/>
     </def-cat>
-    <def-cat n="cop-ifi">
+    <def-cat n="cop-ifi-ken">
       <cat-item lemma="i" tags="cop.ifi.*"/>
+      <cat-item lemma="i" tags="cop.gna_ken"/>
     </def-cat>
     <def-cat n="a-post">
       <cat-item lemma="sız" tags="post"/>
@@ -97,7 +98,7 @@
     <rule comment="">
       <pattern>
         <pattern-item n="default"/>
-        <pattern-item n="cop-ifi"/>
+        <pattern-item n="cop-ifi-ken"/>
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>

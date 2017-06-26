@@ -4,6 +4,9 @@
     <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
     </def-cat>
+    <def-cat n="ekende">
+      <cat-item lemma="e" tags="cop.ger_past.loc"/>
+    </def-cat>
     <def-cat n="dep">
       <cat-item lemma="de" tags="v.*.gna_perf"/>
       <cat-item lemma="de" tags="v.*.gna_perf.*"/>
@@ -33,6 +36,10 @@
       <cat-item tags="v.*.gpr_past"/>
     </def-cat>
 
+    <def-cat n="ger-loc">
+      <cat-item tags="v.*.ger.loc"/>
+      <cat-item tags="v.*.ger.loc.*"/>
+    </def-cat>
     <def-cat n="ger_abst">
       <cat-item tags="v.*.ger_abst.*"/>
     </def-cat>
@@ -268,6 +275,29 @@
     </rule>
 
 
+    <rule comment="REGLA: ger-loc">
+      <pattern>
+        <pattern-item n="ger-loc"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/>
+          <lit-tag v="ger_inf"/>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: ger_abst">
       <pattern>
         <pattern-item n="ger_abst"/>
@@ -381,6 +411,26 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: ekende">
+      <pattern>
+        <pattern-item n="ekende"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="ekende" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.gna_ken"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 
