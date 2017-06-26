@@ -1516,6 +1516,7 @@
 
       <!-- SECTION: Adverbs -->
       <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
+      <e><p><l>ayrı<s n="adv"/></l><r>ayrıca<s n="adv"/></r></p></e>
       <e><p><l>deyerlik<s n="adv"/></l><r>hemen<b/>hemen<s n="adv"/></r></p></e>
       <e><p><l>deyerlik<s n="adv"/></l><r>neredeyse<s n="adv"/></r></p></e>
       <e><p><l>keri<s n="adv"/></l><r>geri<s n="adv"/></r></p></e>
@@ -1575,6 +1576,8 @@
       <e><p><l>kel<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>cenkleş<s n="v"/><s n="iv"/></l><r>savaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>tasdıq<b/>et<s n="v"/><s n="tv"/></l><r>doğrula<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>tasdıqla<s n="v"/><s n="tv"/></l><r>doğrula<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kirset<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>lâğu<b/>et<s n="v"/><s n="tv"/></l><r>lağvet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>red<b/>et<s n="v"/><s n="tv"/></l><r>reddet<s n="v"/><s n="tv"/></r></p></e>
