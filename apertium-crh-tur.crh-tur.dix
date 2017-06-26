@@ -1373,15 +1373,12 @@
       <e><p><l>şarqiy<s n="adj"/></l><r>doğu<s n="n"/></r></p></e>
       <e><p><l>ğarbiy<s n="adj"/></l><r>batı<s n="n"/></r></p></e>
       <e><p><l>şimdiki<s n="adj"/></l><r>şimdiki<s n="adj"/></r></p></e>
-      <e><p><l>cenübiy<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
-      <e><p><l>şimali<s n="adj"/></l><r>kuzey<s n="n"/></r></p></e>
       <e><p><l>muntazam<s n="adj"/></l><r>düzenli<s n="adj"/></r></p></e>
 		<!-- Directions - Not sure about these -->
 <e><p><l>şarqiy<s n="adj"/></l><r>doğu<s n="adj"/></r></p></e>
 <e><p><l>ğarbiy<s n="adj"/></l><r>batı<s n="adj"/></r></p></e>
-<e><p><l>cenüp<s n="adj"/></l><r>güney<s n="adj"/></r></p></e>
 	  <e><p><l>şimdiki<s n="adj"/></l><r>şimdiki<s n="adj"/></r></p></e>
-	  <e><p><l>cenübiy<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
+	  <e><p><l>cenübiy<s n="adj"/></l><r>güney<s n="adj"/></r></p></e>
 	  <e><p><l>şimali<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
 <!-- -->
       <e><p><l>ciddiy<s n="adj"/></l><r>ciddi<s n="adj"/></r></p></e>
