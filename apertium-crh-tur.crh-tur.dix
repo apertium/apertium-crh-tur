@@ -191,13 +191,13 @@
       <e><p><l>ne<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
       <e><p><l>kendi<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
       <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
-      <e><p><l>men<s n="prn"/></l><r>men<s n="prn"/></r></p></e>
-      <e><p><l>sen<s n="prn"/></l><r>sen<s n="prn"/></r></p></e>
-      <e><p><l>biz<s n="prn"/></l><r>biz<s n="prn"/></r></p></e>
-      <e><p><l>siz<s n="prn"/></l><r>siz<s n="prn"/></r></p></e>
-      <e><p><l>bizler<s n="prn"/></l><r>bizler<s n="prn"/></r></p></e>
-      <e><p><l>sizler<s n="prn"/></l><r>sizler<s n="prn"/></r></p></e>
-      <e><p><l>olar<s n="prn"/></l><r>onlar<s n="prn"/></r></p></e>
+      <e><p><l>men<s n="prn"/><s n="pers"/></l><r>ben<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>biz<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>siz<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>bizler<s n="prn"/><s n="pers"/></l><r>bizler<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>sizler<s n="prn"/><s n="pers"/></l><r>sizler<s n="prn"/><s n="pers"/></r></p></e>
+      <e><p><l>olar<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>öz<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
       <e><p><l>ekseri<s n="prn"/></l><r>ekseri<s n="prn"/></r></p></e>
       <e><p><l>kimse<s n="prn"/><s n="ind"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
@@ -346,8 +346,8 @@
       <e><p><l>zarar<s n="n"/></l><r>zarar<s n="n"/></r></p></e>
       <e><p><l>mesele<s n="n"/></l><r>mesele<s n="n"/></r></p></e>
       <e><p><l>qol<s n="n"/></l><r>kol<s n="n"/></r></p></e>
-      <e><p><l>beyanat<s n="n"/></l><r>beyanat <s n="n"/></r></p></e>
-      <e><p><l>sıñır<s n="n"/></l><r>sınır <s n="n"/></r></p></e>
+      <e><p><l>beyanat<s n="n"/></l><r>beyanat<s n="n"/></r></p></e>
+      <e><p><l>sıñır<s n="n"/></l><r>sınır<s n="n"/></r></p></e>
       <e><p><l>elektrik<s n="n"/></l><r>elektrik<s n="n"/></r></p></e>
       <e><p><l>ğazı<s n="n"/></l><r>gazi<s n="n"/></r></p></e>
       <e><p><l>terciman<s n="n"/></l><r>tercüman<s n="n"/></r></p></e>
@@ -566,7 +566,7 @@
       <e><p><l>parlament<s n="n"/></l><r>meclis<s n="n"/></r></p></e>
       <e><p><l>ateş<s n="n"/></l><r>ateş<s n="n"/></r></p></e>
       <e><p><l>iç<s n="n"/></l><r>iç<s n="n"/></r></p></e>
-      <e><p><l>orta<s n="n"/></l><r>orta <s n="n"/></r></p></e>
+      <e><p><l>orta<s n="n"/></l><r>orta<s n="n"/></r></p></e>
       <e><p><l>dalğa<s n="n"/></l><r>dalga<s n="n"/></r></p></e>
       <e><p><l>sultan<s n="n"/></l><r>sultan<s n="n"/></r></p></e>
       <e><p><l>qız<s n="n"/></l><r>kız<s n="n"/></r></p></e>
