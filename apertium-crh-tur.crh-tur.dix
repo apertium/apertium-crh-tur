@@ -745,7 +745,7 @@
 <e><p><l>nevbet<s n="n"/></l><r>nöbet<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
-      <e><p><l>Kezlev<s n="np"/><s n="cog"/></l><r>Kezlev<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Kezlev<s n="np"/><s n="cog"/><s n="m"/></l><r>Kezlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Sultan<s n="np"/><s n="cog"/></l><r>Sultan<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Özenbaşlı<s n="np"/><s n="cog"/></l><r>Özenbaşlı<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Seydamet<s n="np"/><s n="cog"/></l><r>Seydamet<s n="np"/><s n="cog"/></r></p></e>
