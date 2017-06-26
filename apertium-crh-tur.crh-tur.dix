@@ -984,7 +984,7 @@
 <e><p><l>Naciye<s n="np"/><s n="ant"/></l><r>Naciye<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>İbraim<s n="np"/><s n="ant"/></l><r>İbrahim<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>İbrahim<s n="np"/><s n="ant"/></l><r>İbrahim<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Uriye<s n="np"/><s n="ant"/></l><r>Uriye<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Uriye<s n="np"/><s n="ant"/></l><r>Huriye<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Remziye<s n="np"/><s n="ant"/></l><r>Remziye<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>İdil<s n="np"/><s n="ant"/></l><r>İdil<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Fatih<s n="np"/><s n="ant"/></l><r>Fatih<s n="np"/><s n="ant"/></r></p></e>
@@ -994,21 +994,21 @@
 <e><p><l>Abdul<s n="np"/><s n="ant"/></l><r>Abdul<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Yevgeniy<s n="np"/><s n="ant"/></l><r>Yevgeni<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Vasiliy<s n="np"/><s n="ant"/></l><r>Vasili<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Üzeir<s n="np"/><s n="ant"/></l><r>Üzeir<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Üzeir<s n="np"/><s n="ant"/></l><r>Üzeyir<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Susana<s n="np"/><s n="ant"/></l><r>Susana<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Roman<s n="np"/><s n="ant"/></l><r>Roman<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Paolo<s n="np"/><s n="ant"/></l><r>Paolo<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Mihail<s n="np"/><s n="ant"/></l><r>Mihail<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Marino<s n="np"/><s n="ant"/></l><r>Marino<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Edem<s n="np"/><s n="ant"/></l><r>Edem<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Abdureim<s n="np"/><s n="ant"/></l><r>Abdureim<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Edem<s n="np"/><s n="ant"/></l><r>Ethem<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Abdureim<s n="np"/><s n="ant"/></l><r>Abdürrahim<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Ömer<s n="np"/><s n="ant"/></l><r>Ömer<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Nuri<s n="np"/><s n="ant"/></l><r>Nuri<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Maksim<s n="np"/><s n="ant"/></l><r>Maksim<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>İsa<s n="np"/><s n="ant"/></l><r>İsa<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Abdureşid<s n="np"/><s n="ant"/></l><r>Abdureşid<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Abduraman<s n="np"/><s n="ant"/></l><r>Abduraman<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Abdureşid<s n="np"/><s n="ant"/></l><r>Abdürreşid<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Abduraman<s n="np"/><s n="ant"/></l><r>Abdürrahman<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Tomas<s n="np"/><s n="ant"/></l><r>Tomas<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Sky<s n="np"/><s n="ant"/></l><r>Sky<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Simon<s n="np"/><s n="ant"/></l><r>Simon<s n="np"/><s n="ant"/></r></p></e>
@@ -2425,7 +2425,7 @@
 
       <!-- SECTION: Abbreviations -->
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
-      <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
+      <e><p><l>km<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
