@@ -25,9 +25,6 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
-    <def-cat n="XD">
-      <cat-item tags="n.*.XD.*"/>
-    </def-cat>
     <def-cat n="cop-ifi">
       <cat-item tags="cop.ifi.*"/>
     </def-cat>
@@ -353,15 +350,15 @@
     </rule>
 
 
-    <rule comment="REGLA: XD">
+    <rule comment="REGLA: nom">
       <pattern>
-        <pattern-item n="XD"/>
+        <pattern-item n="nom"/>
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
         <let>
           <clip pos="1" side="tl" part="a_xd"/>
-          <concat><lit-tag v="px3sg"/></concat>
+          <lit-tag v="px3sg"/>
         </let>
         <out>
           <chunk name="n" case="caseFirstWord">
