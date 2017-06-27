@@ -327,6 +327,10 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+		<let>
+          <clip pos="1" side="tl" part="a_non_fin"/>
+		  <lit-tag v="ger_impf"/>	
+		</let>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -378,6 +382,10 @@
 			<lit-tag v="subst.px3sp.nom"/>
 			</concat>
         </let>
+		<let>
+          <clip pos="1" side="tl" part="a_non_fin"/>
+		  <lit-tag v="ger_impf"/>	
+		</let>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
