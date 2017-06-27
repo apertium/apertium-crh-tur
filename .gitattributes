@@ -22,6 +22,13 @@ dev/corpus-errors.sh -text
 dev/find-terms.py -text
 dev/tur_crh.txt -text
 /modes.xml -text
+t/README.org -text
+t/config.sh -text
+t/config.sh.in -text
+t/pending-tests -text
+t/regression-tests -text
+t/update-latest -text
+t/wiki-tests -text
 testvoc/corpus/trimmed-coverage.sh -text
 texts/challenge.crh.txt -text
 texts/challenge.tur.txt -text

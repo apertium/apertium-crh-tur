@@ -105,6 +105,7 @@
     <sdef n="lpar"            c="Left parenthesis"/>
     <sdef n="rpar"            c="Right parenthesis"/>
     <sdef n="lquot"           c="Left quote"/>
+    <sdef n="quot"           c="quote"/>
     <sdef n="rquot"           c="Right quote"/>
 
     <sdef n="cop"           c="Copula"/>
@@ -2455,6 +2456,7 @@
       <e><p><l>(<s n="lpar"/></l>  <r>(<s n="lpar"/></r></p></e>
       <e><p><l>»<s n="rquot"/></l>  <r>»<s n="rquot"/></r></p></e>
       <e><p><l>«<s n="lquot"/></l>  <r>«<s n="lquot"/></r></p></e>
+      <e><p><l>"<s n="sent"/></l>  <r>"<s n="quot"/></r></p></e>
       <e><p><l>–<s n="guio"/></l>  <r>–<s n="guio"/></r></p></e>
       <e><p><l>—<s n="guio"/></l>  <r>—<s n="guio"/></r></p></e>
       <e><p><l>-<s n="guio"/></l>  <r>-<s n="guio"/></r></p></e>
