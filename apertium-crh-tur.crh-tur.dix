@@ -239,6 +239,8 @@
       <e><p><l>vatandaşlıq<s n="n"/></l><r>vatandaşlık<s n="n"/></r></p></e>
       <e><p><l>vatandaşlıq<s n="n"/></l><r>iç<s n="n"/></r></p></e>
 
+      <e><p><l>latin<s n="n"/></l><r>latin<s n="n"/></r></p></e>
+      <e><p><l>rok<s n="n"/></l><r>rock<s n="n"/></r></p></e>
       <e><p><l>yanvar<s n="n"/></l><r>Ocak<s n="n"/></r></p></e>
       <e><p><l>fevral<s n="n"/></l><r>Şubat<s n="n"/></r></p></e>
       <e><p><l>aprel<s n="n"/></l><r>Nisan<s n="n"/></r></p></e>
@@ -568,7 +570,7 @@
       <e><p><l>vatandaş<s n="n"/></l><r>vatandaş<s n="n"/></r></p></e>
       <e><p><l>qırımtatar<s n="n"/></l><r>Kırımtatar<s n="n"/></r></p></e>
       <e><p><l>ükümet<s n="n"/></l><r>hükümet<s n="n"/></r></p></e>
-      <e><p><l>tatar<s n="n"/></l><r>tatar<s n="n"/></r></p></e>
+      <e><p><l>tatar<s n="n"/></l><r>Tatar<s n="n"/></r></p></e>
       <e><p><l>türk<s n="n"/></l><r>türk<s n="n"/></r></p></e>
       <e><p><l>qarar<s n="n"/></l><r>karar<s n="n"/></r></p></e>
       <e><p><l>dernek<s n="n"/></l><r>dernek<s n="n"/></r></p></e>
@@ -894,6 +896,7 @@
 <e><p><l>Sambir<s n="np"/><s n="top"/></l><r>Sambir<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Peterburg<s n="np"/><s n="top"/></l><r>Peterburg<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>London<s n="np"/><s n="top"/></l><r>London<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Hmelnıtskıy<s n="np"/><s n="top"/></l><r>Hmelnitski<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Kamyanka<s n="np"/><s n="top"/></l><r>Kamyanka<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>İtaliya<s n="np"/><s n="top"/></l><r>İtalya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Hansaray<s n="np"/><s n="top"/></l><r>Hansaray<s n="np"/><s n="top"/></r></p></e>
@@ -1365,6 +1368,7 @@
       <e><p><l>ŞSCB<s n="np"/><s n="top"/></l><r>SSCB<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>NATO<s n="np"/><s n="al"/></l><r>NATO<s n="np"/><s n="org"/></r></p></e>
 			  <!-- SECTION: Adjectives -->
+	  <e><p><l>soñki<s n="adj"/></l><r>son<s n="adj"/></r></p></e>
 	  <e><p><l>qoşma<s n="adj"/></l><r>birleşik<s n="adj"/></r></p></e>
 	  <e><p><l>türkiy<s n="adj"/></l><r>türki<s n="adj"/></r></p></e>
       <e><p><l>ayrı<s n="n"/></l><r>ayrı<s n="n"/></r></p></e>
