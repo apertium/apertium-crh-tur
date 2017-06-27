@@ -203,6 +203,7 @@
       <e><p><l>şu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
       <e><p><l>ne<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
       <e><p><l>kendi<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
+      <e><p><l>öz<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
       <e><p><l>o<s n="prn"/></l><r>o<s n="prn"/></r></p></e>
       <e><p><l>men<s n="prn"/><s n="pers"/></l><r>ben<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>sen<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
@@ -211,7 +212,6 @@
       <e><p><l>bizler<s n="prn"/><s n="pers"/></l><r>bizler<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>sizler<s n="prn"/><s n="pers"/></l><r>sizler<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>olar<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/><s n="pers"/></r></p></e>
-      <e><p><l>öz<s n="prn"/></l><r>kendi<s n="prn"/></r></p></e>
       <e><p><l>ekseri<s n="prn"/></l><r>ekseri<s n="prn"/></r></p></e>
       <e><p><l>kimse<s n="prn"/><s n="ind"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
       <e><p><l>birev<s n="prn"/><s n="ind"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
@@ -2416,8 +2416,7 @@
       <e><p><l>çezil<s n="v"/><s n="iv"/></l><r>çözül<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çoqlaş<s n="v"/><s n="iv"/></l><r>çoğal<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çıq<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>ögren<s n="v"/><s n="iv"/></l><r>öğren<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>öl<s n="v"/><s n="iv"/></l><r>öl<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>ögren<s n="v"/><s n="tv"/></l><r>öğren<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>öl<s n="v"/><s n="iv"/></l><r>öl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ürk<s n="v"/><s n="iv"/></l><r>ürk<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>üyüril<s n="v"/><s n="iv"/></l><r>bükül<s n="v"/><s n="iv"/></r></p></e>
