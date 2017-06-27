@@ -3,6 +3,7 @@
   <section-def-cats>
     <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
+      <cat-item tags="v.*.*.past.*"/>
     </def-cat>
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
@@ -17,10 +18,13 @@
     </def-cat>
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
+      <cat-item tags="v.*.*.aor.*"/>
     </def-cat>
     <def-cat n="fut">
       <cat-item tags="v.*.fut.*"/>
       <cat-item tags="v.*.fut2.*"/>
+      <cat-item tags="v.*.*.fut.*"/>
+      <cat-item tags="v.*.*.fut2.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
@@ -32,23 +36,31 @@
     <def-cat n="gpr_fut">
       <cat-item tags="v.*.gpr_fut"/>
       <cat-item tags="v.*.gpr_fut.*"/>
+      <cat-item tags="v.*.*.gpr_fut"/>
+      <cat-item tags="v.*.*.gpr_fut.*"/>
     </def-cat>
     <def-cat n="gpr_past">
       <cat-item tags="v.*.gpr_past"/>
+      <cat-item tags="v.*.*.gpr_past"/>
     </def-cat>
 
     <def-cat n="ger-loc">
       <cat-item tags="v.*.ger.loc"/>
       <cat-item tags="v.*.ger.loc.*"/>
+      <cat-item tags="v.*.*.ger.loc"/>
+      <cat-item tags="v.*.*.ger.loc.*"/>
     </def-cat>
     <def-cat n="ger_abst">
       <cat-item tags="v.*.ger_abst.*"/>
+      <cat-item tags="v.*.*.ger_abst.*"/>
     </def-cat>
     <def-cat n="ger_past">
       <cat-item tags="v.*.ger_past.*"/>
+      <cat-item tags="v.*.*.ger_past.*"/>
     </def-cat>
     <def-cat n="ger_fut2">
       <cat-item tags="v.*.ger_fut2.*"/>
+      <cat-item tags="v.*.*.ger_fut2.*"/>
     </def-cat>
 
 
