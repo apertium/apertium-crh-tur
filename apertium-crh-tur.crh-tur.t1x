@@ -11,6 +11,10 @@
       <cat-item lemma="de" tags="v.*.gna_perf"/>
       <cat-item lemma="de" tags="v.*.gna_perf.*"/>
     </def-cat>
+    <def-cat n="cond">
+      <cat-item tags="v.*.gna_cond.*"/>
+      <cat-item tags="v.*.prc_cond.*"/>
+    </def-cat>
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
     </def-cat>
@@ -83,6 +87,10 @@
 
       <attr-item tags="gpr_past"/>
       <attr-item tags="gpr_fut"/>
+
+      <attr-item tags="gna_cond"/>
+
+      <attr-item tags="prc_cond"/>
     </def-attr>
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
@@ -398,6 +406,30 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: cond">
+      <pattern>
+        <pattern-item n="cond"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/>
+	<lit-tag v="gna_cond"/>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 
