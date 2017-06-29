@@ -229,6 +229,7 @@
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
       <e><p><l>üç<s n="num"/></l><r>üç<s n="num"/></r></p></e>
+      <e><p><l>on<s n="num"/></l><r>on<s n="num"/></r></p></e>
       <e><p><l>dört<s n="num"/></l><r>dört<s n="num"/></r></p></e>
       <e><p><l>beş<s n="num"/></l><r>beş<s n="num"/></r></p></e>
       <e><p><l>sekiz<s n="num"/></l><r>sekiz<s n="num"/></r></p></e>
@@ -246,6 +247,8 @@
       <e><p><l>adalet<s n="n"/></l><r>adalet<s n="n"/></r></p></e>
       <e><p><l>bağça<s n="n"/></l><r>bahçe<s n="n"/></r></p></e>
 
+      <e><p><l>cian<s n="n"/></l><r>dünya<s n="n"/></r></p></e>
+      <e><p><l>araret<s n="n"/></l><r>sıcaklık<s n="n"/></r></p></e>
       <e><p><l>terek<s n="n"/></l><r>ağaç<s n="n"/></r></p></e>
       <e><p><l>özen<s n="n"/></l><r>nehir<s n="n"/></r></p></e>
       <e><p><l>türkçe<s n="n"/></l><r>Türkçe<s n="n"/></r></p></e>
@@ -389,6 +392,12 @@
       <e><p><l>ses<s n="n"/></l><r>ses<s n="n"/></r></p></e>
       <e><p><l>zapt<s n="n"/></l><r>zapt<s n="n"/></r></p></e>
 
+      <e><p><l>boy<s n="n"/></l><r>boy<s n="n"/></r></p></e>
+      <e><p><l>şive<s n="n"/></l><r>şive<s n="n"/></r></p></e>
+      <e><p><l>arap<s n="n"/></l><r>arap<s n="n"/></r></p></e>
+      <e><p><l>ders<s n="n"/></l><r>ders<s n="n"/></r></p></e>
+      <e><p><l>hristian<s n="n"/></l><r>Hıristiyan<s n="n"/></r></p></e>
+      <e><p><l>erbap<s n="n"/></l><r>erbap<s n="n"/></r></p></e>
       <e><p><l>saat<s n="n"/></l><r>saat<s n="n"/></r></p></e>
       <e><p><l>meclis<s n="n"/></l><r>meclis<s n="n"/></r></p></e>
       <e><p><l>prezident<s n="n"/></l><r>cumhurbaşkan<s n="n"/></r></p></e>
@@ -526,6 +535,7 @@
       <e><p><l>bolşevik<s n="n"/></l><r>bolşevik<s n="n"/></r></p></e>
       <e><p><l>mecmua<s n="n"/></l><r>dergi<s n="n"/></r></p></e>
       <e><p><l>qoranta<s n="n"/></l><r>aile<s n="n"/></r></p></e>
+      <e><p><l>saip<s n="n"/></l><r>sahip<s n="n"/></r></p></e>
       <e><p><l>mektep<s n="n"/></l><r>okul<s n="n"/></r></p></e>
       <e><p><l>açlıq<s n="n"/></l><r>açlık<s n="n"/></r></p></e>
       <e><p><l>maliye<s n="n"/></l><r>maliye<s n="n"/></r></p></e>
@@ -832,6 +842,7 @@
       <e><p><l>Simonov<s n="np"/><s n="cog"/></l><r>Simonov</r></p><par n="cog:ov__cog"/></e>
 
       <e><p><l>İlbav<s n="np"/><s n="top"/></l><r>İlbav<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>İvano-Frankivsk<s n="np"/><s n="top"/></l><r>İvano-Frankivsk<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Terek<s n="np"/><s n="top"/></l><r>Terek<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ades<s n="np"/><s n="top"/></l><r>Ades<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Sumı<s n="np"/><s n="top"/></l><r>Sumi<s n="np"/><s n="top"/></r></p></e>
