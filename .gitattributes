@@ -33,5 +33,4 @@ t/wiki-tests -text
 testvoc/corpus/trimmed-coverage.sh -text
 texts/challenge.crh.txt -text
 texts/challenge.tur.txt -text
-texts/qarilgaclar.txt -text
-texts/qarilqac.txt -text
+texts/qarilgaclar.crh.txt -text
