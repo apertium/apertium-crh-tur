@@ -245,6 +245,8 @@
       <e><p><l>vatandaşlıq<s n="n"/></l><r>iç<s n="n"/></r></p></e>
       <e><p><l>adalet<s n="n"/></l><r>adalet<s n="n"/></r></p></e>
 
+      <e><p><l>terek<s n="n"/></l><r>ağaç<s n="n"/></r></p></e>
+      <e><p><l>özen<s n="n"/></l><r>nehir<s n="n"/></r></p></e>
       <e><p><l>türkçe<s n="n"/></l><r>Türkçe<s n="n"/></r></p></e>
       <e><p><l>latin<s n="n"/></l><r>latin<s n="n"/></r></p></e>
       <e><p><l>rok<s n="n"/></l><r>rock<s n="n"/></r></p></e>
@@ -829,6 +831,7 @@
       <e><p><l>Simonov<s n="np"/><s n="cog"/></l><r>Simonov</r></p><par n="cog:ov__cog"/></e>
 
       <e><p><l>İlbav<s n="np"/><s n="top"/></l><r>İlbav<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Terek<s n="np"/><s n="top"/></l><r>Terek<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ades<s n="np"/><s n="top"/></l><r>Ades<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Sumı<s n="np"/><s n="top"/></l><r>Sumi<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Poltava<s n="np"/><s n="top"/></l><r>Poltava<s n="np"/><s n="top"/></r></p></e>
@@ -1999,6 +2002,7 @@
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+	  <e><p><l>bile<s n="adj"/></l><r>bile<s n="adj"/></r></p></e>
       <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
       <e><p><l>yuqarı<s n="adv"/></l><r>yukarı<s n="adv"/></r></p></e>
       <e><p><l>ayrı<s n="adv"/></l><r>ayrıca<s n="adv"/></r></p></e>
@@ -2079,6 +2083,7 @@
       <e><p><l>çaypa<s n="v"/><s n="tv"/></l><r>yağmala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qatil<b/>et<s n="v"/><s n="tv"/></l><r>katlet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqala<s n="v"/><s n="iv"/></l><r>yakala<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>toqta<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yaqalan<s n="v"/><s n="iv"/></l><r>yakalan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sat<s n="v"/><s n="tv"/></l><r>sat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>anneksirle<s n="v"/><s n="tv"/></l><r>ilhak<b/>et<s n="v"/><s n="tv"/></r></p></e>
