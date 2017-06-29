@@ -247,6 +247,7 @@
       <e><p><l>adalet<s n="n"/></l><r>adalet<s n="n"/></r></p></e>
       <e><p><l>bağça<s n="n"/></l><r>bahçe<s n="n"/></r></p></e>
 
+      <e><p><l>uğultı<s n="n"/></l><r>uğultu<s n="n"/></r></p></e>
       <e><p><l>cian<s n="n"/></l><r>dünya<s n="n"/></r></p></e>
       <e><p><l>araret<s n="n"/></l><r>sıcaklık<s n="n"/></r></p></e>
       <e><p><l>terek<s n="n"/></l><r>ağaç<s n="n"/></r></p></e>
@@ -482,6 +483,7 @@
       <e><p><l>şarq<s n="n"/></l><r>doğu<s n="n"/></r></p></e>
       <e><p><l>yolbaşçılıq<s n="n"/></l><r>liderlik<s n="n"/></r></p></e>
       <e><p><l>yolbaşçı<s n="n"/></l><r>lider<s n="n"/></r></p></e>
+      <e><p><l>qamçı<s n="n"/></l><r>kamçı<s n="n"/></r></p></e>
       <e><p><l>alt<s n="n"/></l><r>alt<s n="n"/></r></p></e>
       <e><p><l>vaqıt<s n="n"/></l><r>vakit<s n="n"/></r></p></e>
       <e><p><l>vaqıt<s n="n"/></l><r>süre<s n="n"/></r></p></e>
@@ -1876,7 +1878,10 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>soluq<s n="adj"/></l><r>soluk<s n="adj"/></r></p></e>
+	  <e><p><l>tatlı<s n="adj"/></l><r>tatlı<s n="adj"/></r></p></e>
 	  <e><p><l>qırmızı<s n="adj"/></l><r>kırmızı<s n="adj"/></r></p></e>
+	  <e><p><l>beyaz<s n="adj"/></l><r>beyaz<s n="adj"/></r></p></e>
 	  <e><p><l>sarı<s n="adj"/></l><r>sarı<s n="adj"/></r></p></e>
 	  <e><p><l>mavı<s n="adj"/></l><r>mavi<s n="adj"/></r></p></e>
 	  <e><p><l>yeşil<s n="adj"/></l><r>yeşil<s n="adj"/></r></p></e>
@@ -2140,6 +2145,7 @@
 
 
       <e><p><l>bulun<s n="v"/><s n="iv"/></l><r>bulun<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>oqut<s n="v"/><s n="tv"/></l><r>okut<s n="v"/><s n="tv"/></r></p></e>
 
 
       <e><p><l>qayd<b/>et<s n="v"/><s n="tv"/></l><r>bildir<s n="v"/><s n="tv"/></r></p></e>
