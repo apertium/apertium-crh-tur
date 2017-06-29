@@ -254,6 +254,8 @@
       <e><p><l>terek<s n="n"/></l><r>ağaç<s n="n"/></r></p></e>
       <e><p><l>özen<s n="n"/></l><r>nehir<s n="n"/></r></p></e>
       <e><p><l>türkçe<s n="n"/></l><r>Türkçe<s n="n"/></r></p></e>
+      <e><p><l>qapı<s n="n"/></l><r>kapı<s n="n"/></r></p></e>
+      <e><p><l>qat<s n="n"/></l><r>kat<s n="n"/></r></p></e>
       <e><p><l>latin<s n="n"/></l><r>latin<s n="n"/></r></p></e>
       <e><p><l>rok<s n="n"/></l><r>rock<s n="n"/></r></p></e>
       <e><p><l>yanvar<s n="n"/></l><r>Ocak<s n="n"/></r></p></e>
@@ -1880,6 +1882,7 @@
 
   <!-- SECTION: Adjectives -->
 	  <e><p><l>soluq<s n="adj"/></l><r>soluk<s n="adj"/></r></p></e>
+	  <e><p><l>suvuq<s n="adj"/></l><r>soğuk<s n="adj"/></r></p></e>
 	  <e><p><l>tatlı<s n="adj"/></l><r>tatlı<s n="adj"/></r></p></e>
 	  <e><p><l>qırmızı<s n="adj"/></l><r>kırmızı<s n="adj"/></r></p></e>
 	  <e><p><l>beyaz<s n="adj"/></l><r>beyaz<s n="adj"/></r></p></e>
@@ -2077,6 +2080,7 @@
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>e<s n="vaux"/></l><r>i<s n="vaux"/></r></p></e>
       <e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>quvan<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qorq<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bağışlan<s n="v"/><s n="iv"/></l><r>bağışlan<s n="v"/><s n="iv"/></r></p></e>
