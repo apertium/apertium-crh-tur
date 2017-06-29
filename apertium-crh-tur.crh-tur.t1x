@@ -30,7 +30,8 @@
       <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="cop-ifi">
-      <cat-item tags="cop.ifi.*"/>
+      <cat-item lemma="e" tags="cop.ifi.*"/>
+      <cat-item lemma="e" tags="vaux.ifi.*"/>
     </def-cat>
 
     <def-cat n="gpr_fut">
@@ -38,6 +39,10 @@
       <cat-item tags="v.*.gpr_fut.*"/>
       <cat-item tags="v.*.*.gpr_fut"/>
       <cat-item tags="v.*.*.gpr_fut.*"/>
+      <cat-item tags="v.*.prc_fut"/>
+      <cat-item tags="v.*.prc_fut.*"/>
+      <cat-item tags="v.*.*.prc_fut"/>
+      <cat-item tags="v.*.*.prc_fut.*"/>
     </def-cat>
     <def-cat n="gpr_past">
       <cat-item tags="v.*.gpr_past"/>
@@ -100,6 +105,7 @@
       <attr-item tags="gna_cond"/>
 
       <attr-item tags="prc_cond"/>
+      <attr-item tags="prc_fut"/>
     </def-attr>
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
