@@ -613,6 +613,9 @@
       <e><p><l>osmanlı<s n="n"/></l><r>Osmanlı<s n="n"/></r></p></e>
       <e><p><l>film<s n="n"/></l><r>film<s n="n"/></r></p></e>
       <e><p><l>ilân<s n="n"/></l><r>ilan<s n="n"/></r></p></e>
+      <e><p><l>kâgıt<s n="n"/></l><r>kağıt<s n="n"/></r></p></e>
+      <e><p><l>yürek<s n="n"/></l><r>yürek<s n="n"/></r></p></e>
+      <e><p><l>yapraq<s n="n"/></l><r>yaprak<s n="n"/></r></p></e>
       <e><p><l>şey<s n="n"/></l><r>şey<s n="n"/></r></p></e>
       <e><p><l>ay<s n="n"/></l><r>ay<s n="n"/></r></p></e>
       <e><p><l>yıl<s n="n"/></l><r>yıl<s n="n"/></r></p></e>
@@ -662,6 +665,7 @@
       <e><p><l>adliyeci<s n="n"/></l><r>hukukçu<s n="n"/></r></p></e>
       <e><p><l>qabaat<s n="n"/></l><r>kabahat<s n="n"/></r></p></e>
       <e><p><l>qadın<s n="n"/></l><r>kadın<s n="n"/></r></p></e>
+      <e><p><l>qadı<s n="n"/></l><r>kadı<s n="n"/></r></p></e>
       <e><p><l>mudafaa<s n="n"/></l><r>savunma<s n="n"/></r></p></e>
       <e><p><l>insan<s n="n"/></l><r>insan<s n="n"/></r></p></e>
       <e><p><l>yardım<s n="n"/></l><r>yardım<s n="n"/></r></p></e>
@@ -1872,6 +1876,10 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>qırmızı<s n="adj"/></l><r>kırmızı<s n="adj"/></r></p></e>
+	  <e><p><l>sarı<s n="adj"/></l><r>sarı<s n="adj"/></r></p></e>
+	  <e><p><l>mavı<s n="adj"/></l><r>mavi<s n="adj"/></r></p></e>
+	  <e><p><l>yeşil<s n="adj"/></l><r>yeşil<s n="adj"/></r></p></e>
 	  <e><p><l>qıpçaq<s n="adj"/></l><r>kıpçak<s n="adj"/></r></p></e>
 	  <e><p><l>soñki<s n="adj"/></l><r>son<s n="adj"/></r></p></e>
 	  <e><p><l>qoşma<s n="adj"/></l><r>birleşik<s n="adj"/></r></p></e>
