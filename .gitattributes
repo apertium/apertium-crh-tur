@@ -19,6 +19,7 @@
 /configure.ac -text
 dev/bidix-sanity.sh -text
 dev/corpus-errors.sh -text
+dev/corpus-stats.sh -text
 dev/find-terms.py -text
 dev/tur_crh.txt -text
 /modes.xml -text

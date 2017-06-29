@@ -242,6 +242,7 @@
       <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
       <e><p><l>vatandaşlıq<s n="n"/></l><r>vatandaşlık<s n="n"/></r></p></e>
       <e><p><l>vatandaşlıq<s n="n"/></l><r>iç<s n="n"/></r></p></e>
+      <e><p><l>adalet<s n="n"/></l><r>adalet<s n="n"/></r></p></e>
 
       <e><p><l>türkçe<s n="n"/></l><r>Türkçe<s n="n"/></r></p></e>
       <e><p><l>latin<s n="n"/></l><r>latin<s n="n"/></r></p></e>
@@ -1638,7 +1639,7 @@
 <e><p><l>Mayak<s n="np"/><s n="top"/></l><r>Mayak<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Mayak<s n="np"/><s n="top"/></l><r>Mayak<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Bişkek<s n="np"/><s n="top"/></l><r>Bişkek<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Bosna<b/>ve<b/>Hersek<s n="np"/><s n="top"/></l><r>Bosna<b/>ve<b/>Hersek<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Bosna<b/>ve<b/>Hersek<s n="np"/><s n="top"/></l><r>Bosna-Hersek<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Mozambik<s n="np"/><s n="top"/></l><r>Mozambik<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Venedik<s n="np"/><s n="top"/></l><r>Venedik<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Selanik<s n="np"/><s n="top"/></l><r>Selanik<s n="np"/><s n="top"/></r></p></e>
