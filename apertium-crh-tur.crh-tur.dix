@@ -247,6 +247,7 @@
       <e><p><l>adalet<s n="n"/></l><r>adalet<s n="n"/></r></p></e>
       <e><p><l>bağça<s n="n"/></l><r>bahçe<s n="n"/></r></p></e>
 
+      <e><p><l>qorqu<s n="n"/></l><r>korku<s n="n"/></r></p></e>
       <e><p><l>uğultı<s n="n"/></l><r>uğultu<s n="n"/></r></p></e>
       <e><p><l>cian<s n="n"/></l><r>dünya<s n="n"/></r></p></e>
       <e><p><l>araret<s n="n"/></l><r>sıcaklık<s n="n"/></r></p></e>
@@ -2076,14 +2077,15 @@
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>e<s n="vaux"/></l><r>i<s n="vaux"/></r></p></e>
       <e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>qorq<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bağışlan<s n="v"/><s n="iv"/></l><r>bağışlan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>boysun<s n="v"/><s n="iv"/></l><r>bağlı<b/>ol<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>peyda<b/>ol<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>peyda<b/>ol<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>peyda<b/>ol<s n="v"/><s n="iv"/></l><r>görün<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>baq<s n="v"/><s n="iv"/></l><r>bak<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>baq<s n="v"/><s n="tv"/></l><r>bak<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>qopar<s n="v"/><s n="tv"/></l><r>kopar<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>añlat<s n="v"/><s n="tv"/></l><r>anlat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ayt<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>saqla<s n="v"/><s n="tv"/></l><r>sakla<s n="v"/><s n="tv"/></r></p></e>
@@ -2145,6 +2147,7 @@
 
 
       <e><p><l>bulun<s n="v"/><s n="iv"/></l><r>bulun<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>sus<s n="v"/><s n="iv"/></l><r>sus<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>oqut<s n="v"/><s n="tv"/></l><r>okut<s n="v"/><s n="tv"/></r></p></e>
 
 
