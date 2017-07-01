@@ -668,6 +668,7 @@
       <e><p><l>yapraq<s n="n"/></l><r>yaprak<s n="n"/></r></p></e>
       <e><p><l>şey<s n="n"/></l><r>şey<s n="n"/></r></p></e>
       <e><p><l>ay<s n="n"/></l><r>ay<s n="n"/></r></p></e>
+      <e><p><l>silâ<s n="n"/></l><r>silah<s n="n"/></r></p></e>
       <e><p><l>yıl<s n="n"/></l><r>yıl<s n="n"/></r></p></e>
       <e><p><l>medrese<s n="n"/></l><r>medrese<s n="n"/></r></p></e>
       <e><p><l>kültür<s n="n"/></l><r>kültür<s n="n"/></r></p></e>
@@ -1011,8 +1012,9 @@
 
 <e><p><l>Meñli<s n="np"/><s n="ant"/></l><r>Menli<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Edige<s n="np"/><s n="ant"/></l><r>Edige<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Amza<s n="np"/><s n="ant"/></l><r>Amza<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Sahib<s n="np"/><s n="ant"/></l><r>Sahib<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Rustam<s n="np"/><s n="ant"/></l><r>Rüstem<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Amza<s n="np"/><s n="ant"/></l><r>Hamza<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Sahib<s n="np"/><s n="ant"/></l><r>Sahip<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Müstecib<s n="np"/><s n="ant"/></l><r>Müstecip<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Eşref<s n="np"/><s n="ant"/></l><r>Eşref<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Cafer<s n="np"/><s n="ant"/></l><r>Cafer<s n="np"/><s n="ant"/></r></p></e>
@@ -1274,6 +1276,7 @@
       <e><p><l>Abdulla<s n="np"/><s n="ant"/></l><r>Abdullah<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Şevçenko<s n="np"/><s n="cog"/><s n="mf"/></l><r>Şevçenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Lviv<s n="np"/><s n="top"/></l><r>Lviv<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Lvov<s n="np"/><s n="top"/></l><r>Lviv<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Yuriy<s n="np"/><s n="ant"/></l><r>Yuri<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Bosporos<s n="np"/><s n="top"/></l><r>Boğaz<s n="np"/><s n="top"/></r></p></e>
@@ -1347,6 +1350,7 @@
       <e><p><l>Volın<s n="np"/><s n="top"/></l><r>Volın<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Ankara<s n="np"/><s n="top"/></l><r>Ankara<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Roma<s n="np"/><s n="top"/></l><r>Roma<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Poloniya<s n="np"/><s n="top"/></l><r>Polonya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Keriç<s n="np"/><s n="top"/></l><r>Kerç<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Asiya<s n="np"/><s n="top"/></l><r>Asya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Donetsk<s n="np"/><s n="top"/></l><r>Donetsk<s n="np"/><s n="top"/></r></p></e>
