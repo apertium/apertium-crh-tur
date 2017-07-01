@@ -163,6 +163,7 @@
       <e><p><l>degil<s n="postadv"/></l><r>değil<s n="adj"/></r></p></e> <!-- CHECK-->
       <!-- SECTION: Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
+      <e><p><l>faqat<s n="cnjcoo"/></l><r>fakat<s n="cnjcoo"/></r></p></e>
       <e><p><l>em<s n="cnjcoo"/></l><r>hem<s n="cnjcoo"/></r></p></e>
       <e><p><l>ise<s n="cnjcoo"/></l><r>ise<s n="postadv"/></r></p></e> <!-- CHECK-->
       <e><p><l>amma<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
@@ -242,10 +243,17 @@
 
 
       <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
+
+
       <e><p><l>vatandaşlıq<s n="n"/></l><r>vatandaşlık<s n="n"/></r></p></e>
       <e><p><l>vatandaşlıq<s n="n"/></l><r>iç<s n="n"/></r></p></e>
       <e><p><l>saqal<s n="n"/></l><r>sakal<s n="n"/></r></p></e>
+      <e><p><l>vaqia<s n="n"/></l><r>olay<s n="n"/></r></p></e>
+      <e><p><l>prokuror<s n="n"/></l><r>savcı<s n="n"/></r></p></e>
+      <e><p><l>añlaşma<s n="n"/></l><r>anlaşma<s n="n"/></r></p></e>
       <e><p><l>saç<s n="n"/></l><r>saç<s n="n"/></r></p></e>
+      <e><p><l>informatsion<s n="n"/></l><r>bilgi<s n="n"/></r></p></e>
+      <e><p><l>informatsion<s n="n"/></l><r>bilişim<s n="n"/></r></p></e>
       <e><p><l>qurşun<s n="n"/></l><r>kurşun<s n="n"/></r></p></e>
       <e><p><l>adalet<s n="n"/></l><r>adalet<s n="n"/></r></p></e>
       <e><p><l>bağça<s n="n"/></l><r>bahçe<s n="n"/></r></p></e>
@@ -1224,7 +1232,7 @@
       <e><p><l>Samarqand<s n="np"/><s n="top"/></l><r>Semerkant<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Litvaniya<s n="np"/><s n="top"/></l><r>Litvanya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Ametov<s n="np"/><s n="cog"/><s n="m"/></l><r>Ametov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-      <e><p><l>İgor<s n="np"/><s n="ant"/></l><r>İgor<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>İgor<s n="np"/><s n="ant"/></l><r>Igor<s n="np"/><s n="ant"/></r></p></e>
 
       <e><p><l>Eskender<s n="np"/><s n="ant"/></l><r>İskender<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Krım<s n="np"/><s n="top"/></l><r>Kırım<s n="np"/><s n="top"/></r></p></e>
@@ -1358,6 +1366,7 @@
 
 
       <e><p><l>Facebook<s n="np"/><s n="al"/></l><r>Facebook<s n="np"/><s n="org"/></r></p></e>
+      <e><p><l>Krıminform<s n="np"/><s n="al"/></l><r>Facebook<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>MŞSC<s n="np"/><s n="al"/></l><r>MŞSC<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>MQMİK<s n="np"/><s n="al"/></l><r>MKMİK<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>FSB<s n="np"/><s n="al"/></l><r>FSB<s n="np"/><s n="org"/></r></p></e>
@@ -1940,6 +1949,7 @@
 	  <e><p><l>berbat<s n="adj"/></l><r>berbat<s n="adj"/></r></p></e>
 	  <e><p><l>tüşkün<s n="adj"/></l><r>çökmüş<s n="adj"/></r></p></e>
 	  <e><p><l>tıbbiy<s n="adj"/></l><r>tıbbi<s n="adj"/></r></p></e>
+	  <e><p><l>tibbiy<s n="adj"/></l><r>tıbbi<s n="adj"/></r></p></e>
 	  <e><p><l>barışıqlı<s n="adj"/></l><r>barış<b/>halindeki<s n="adj"/></r></p></e>
 	  <e><p><l>umumiy<s n="adj"/></l><r>umumi<s n="adj"/></r></p></e>
       <e><p><l>şarqiy<s n="adj"/></l><r>doğu<s n="n"/><s n="attr"/></r></p></e>
@@ -2072,7 +2082,9 @@
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
-	  <e><p><l>bile<s n="adj"/></l><r>bile<s n="adj"/></r></p></e>
+	  <e><p><l>bile<s n="adv"/></l><r>bile<s n="adv"/></r></p></e>
+	  <e><p><l>böylelikle<s n="adv"/></l><r>böylelikle<s n="adv"/></r></p></e>
+	  <e><p><l>böyleliknen<s n="adv"/></l><r>böylelikle<s n="adv"/></r></p></e>
       <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
       <e><p><l>yuqarı<s n="adv"/></l><r>yukarı<s n="adv"/></r></p></e>
       <e><p><l>ayrı<s n="adv"/></l><r>ayrıca<s n="adv"/></r></p></e>
