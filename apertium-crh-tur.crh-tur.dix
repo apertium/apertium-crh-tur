@@ -163,7 +163,8 @@
 	  <!-- SECTION: Postadv -->
 
       <e><p><l>da<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e> <!-- CHECK-->
-      <e><p><l>degil<s n="postadv"/></l><r>değil<s n="adj"/></r></p></e> <!-- CHECK-->
+      <e><p><l>degil<s n="adj"/></l><r>değil<s n="adj"/></r></p></e> <!-- CHECK-->
+
       <!-- SECTION: Conjunctions -->
       <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
       <e><p><l>faqat<s n="cnjcoo"/></l><r>fakat<s n="cnjcoo"/></r></p></e>
