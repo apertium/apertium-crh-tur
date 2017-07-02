@@ -34,6 +34,13 @@
       <cat-item lemma="e" tags="vaux.ifi.*"/>
     </def-cat>
 
+    <def-cat n="prc_impf">
+      <cat-item tags="v.*.prc_impf"/>
+      <cat-item tags="v.*.prc_impf.*"/>
+      <cat-item tags="v.*.*.prc_impf"/>
+      <cat-item tags="v.*.*.prc_impf.*"/>
+    </def-cat>
+
     <def-cat n="gpr_fut">
       <cat-item tags="v.*.gpr_fut"/>
       <cat-item tags="v.*.gpr_fut.*"/>
@@ -44,6 +51,7 @@
       <cat-item tags="v.*.*.prc_fut"/>
       <cat-item tags="v.*.*.prc_fut.*"/>
     </def-cat>
+
     <def-cat n="gpr_past">
       <cat-item tags="v.*.gpr_past"/>
       <cat-item tags="v.*.*.gpr_past"/>
@@ -106,6 +114,7 @@
 
       <attr-item tags="prc_cond"/>
       <attr-item tags="prc_fut"/>
+      <attr-item tags="prc_impf"/>
     </def-attr>
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
@@ -271,6 +280,44 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: prc_impf cop-ifi ">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="2" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="2" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="aor"/>
+        </let>
+        <let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 
