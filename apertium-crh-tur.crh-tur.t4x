@@ -84,6 +84,7 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
 
         <out>
           <mlu>
@@ -102,6 +103,7 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
 
         <out>
           <mlu>
@@ -156,6 +158,7 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
         <out>
           <lu><clip pos="1" side="sl" part="whole"/></lu>
         </out>
