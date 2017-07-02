@@ -244,15 +244,22 @@
       <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/></l><r>milyon<s n="num"/><s n="subst"/></r></p></e>
       <e><p><l>biñ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
+	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
 
       <e><p><l>alt<s n="n"/></l><r>alt<s n="n"/></r></p></e>
       <e><p><l>ast<s n="n"/></l><r>ast<s n="n"/></r></p></e>
+      <e><p><l>protsess<s n="n"/></l><r>işlem<s n="n"/></r></p></e>
 
       <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
 
+      <e><p><l>bergi<s n="n"/></l><r>vergi<s n="n"/></r></p></e>
+      <e><p><l>keçit<s n="n"/></l><r>geçit<s n="n"/></r></p></e>
+      <e><p><l>jurnalist<s n="n"/></l><r>gazeteci<s n="n"/></r></p></e>
+      <e><p><l>agentlik<s n="n"/></l><r>ajans<s n="n"/></r></p></e>
+      <e><p><l>qıymet<s n="n"/></l><r>değer<s n="n"/></r></p></e>
       <e><p><l>vatandaşlıq<s n="n"/></l><r>vatandaşlık<s n="n"/></r></p></e>
       <e><p><l>vatandaşlıq<s n="n"/></l><r>iç<s n="n"/></r></p></e>
       <e><p><l>saqal<s n="n"/></l><r>sakal<s n="n"/></r></p></e>
@@ -702,6 +709,7 @@
       <e><p><l>kongress<s n="n"/></l><r>kongre<s n="n"/></r></p></e>
       <e><p><l>ziyaret<s n="n"/></l><r>ziyaret<s n="n"/></r></p></e>
       <e><p><l>cumaertesi<s n="n"/></l><r>cumartesi<s n="n"/></r></p></e>
+      <e><p><l>bazar<s n="n"/></l><r>pazar<s n="n"/></r></p></e>
       <e><p><l>tahmin<s n="n"/></l><r>tahmin<s n="n"/></r></p></e>
       <e><p><l>kerçek<s n="n"/></l><r>gerçek<s n="n"/></r></p></e>
       <e><p><l>şirket<s n="n"/></l><r>şirket<s n="n"/></r></p></e>
@@ -1934,6 +1942,7 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>bayağı<s n="adj"/></l><r>sıradan<s n="adj"/></r></p></e>
 	  <e><p><l>qoqulu<s n="adj"/></l><r>kokulu<s n="adj"/></r></p></e>
 	  <e><p><l>titrek<s n="adj"/></l><r>titrek<s n="adj"/></r></p></e>
 	  <e><p><l>temiz<s n="adj"/></l><r>temiz<s n="adj"/></r></p></e>
@@ -2098,6 +2107,8 @@
 
       <!-- SECTION: Adverbs -->
 	  <e><p><l>bile<s n="adv"/></l><r>bile<s n="adv"/></r></p></e>
+	  <e><p><l>hususan<s n="adv"/></l><r>özellikle<s n="adv"/></r></p></e>
+	  <e><p><l>artıq<s n="adv"/></l><r>artık<s n="adv"/></r></p></e>
 	  <e><p><l>böylelikle<s n="adv"/></l><r>böylelikle<s n="adv"/></r></p></e>
 	  <e><p><l>böyleliknen<s n="adv"/></l><r>böylelikle<s n="adv"/></r></p></e>
       <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
@@ -2214,6 +2225,7 @@
       <e><p><l>yarat<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çıqar<s n="v"/><s n="tv"/></l><r>çıkar<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çıq<s n="v"/><s n="iv"/></l><r>çık<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>qıymet<b/>kes<s n="v"/><s n="iv"/></l><r>değerlendir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qur<s n="v"/><s n="tv"/></l><r>kur<s n="v"/><s n="tv"/></r></p></e>
 
       <e><p><l>yan<s n="v"/><s n="iv"/></l><r>yan<s n="v"/><s n="iv"/></r></p></e>
