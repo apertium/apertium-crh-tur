@@ -21,6 +21,8 @@ dev/bidix-sanity.sh -text
 dev/corpus-errors.sh -text
 dev/corpus-stats.sh -text
 dev/find-terms.py -text
+dev/testvoc/prefixes.txt -text
+dev/testvoc/testvoc.sh -text
 dev/tur_crh.txt -text
 /modes.xml -text
 t/README.org -text

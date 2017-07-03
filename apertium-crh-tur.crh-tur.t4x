@@ -14,6 +14,15 @@
       <cat-item lemma="i" tags="cop.aor.p3.pl"/>
       <cat-item lemma="i" tags="cop.aor.p3.pl.*"/>
     </def-cat>
+    <def-cat n="cop-aor_ifi-12">
+      <cat-item lemma="i" tags="cop.aor.p1.*"/>
+      <cat-item lemma="i" tags="cop.aor.p2.*"/>
+      <cat-item lemma="i" tags="cop.ifi.p1.*"/>
+      <cat-item lemma="i" tags="cop.ifi.p2.*"/>
+    </def-cat>
+    <def-cat n="qst">
+      <cat-item lemma="mı" tags="qst"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n"/>
       <cat-item tags="n.*"/>
@@ -130,6 +139,44 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="cop-aor_ifi-12"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="cop-aor_ifi-12"/>
+        <pattern-item n="qst"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="3" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="">
       <pattern>

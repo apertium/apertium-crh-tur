@@ -1,0 +1,70 @@
+
+# LEXICON Miscellaneous 
+
+# LEXICON Copula
+
+# LEXICON Conjunctions 
+
+v e %<cnjcoo%>
+a m m a %<cnjcoo%>
+a n c a q %<cnjcoo%>
+a m m a %<cnjcoo%>
+l â k i n %<cnjcoo%>
+i s e %<cnjcoo%>
+a %<cnjcoo%>
+e m %<cnjcoo%>
+y a %<cnjcoo%>
+k a %<cnjcoo%>
+f a q a t %<cnjcoo%>
+
+k i %<cnjsub%>
+ç ü n k i %<cnjsub%>
+s a n k i %<cnjsub%>
+b i l e %<cnjsub%>
+t ı ş t a %<cnjsub%>
+g u y a %<cnjsub%>
+e g e r %<cnjsub%>
+
+y o q s a %<cnjadv%>
+y a n i %<cnjadv%>
+a t t a %<cnjadv%>
+
+# LEXICON Postpositions
+
+# LEXICON Pronouns 
+
+m e n %<prn%> %<pers%> ?*
+s e n %<prn%> %<pers%> ?*
+o %<prn%> %<pers%> ?*
+b i z %<prn%> %<pers%> ?*
+b i z l e r %<prn%> %<pers%> ?*
+s i z %<prn%> %<pers%> ?*
+s i z l e r %<prn%> %<pers%> ?*
+o l a r %<prn%> %<pers%> ?*
+
+# LEXICON Determiners
+
+b i r %<det%> %<ind%>
+
+# LEXICON Numerals 
+
+# LEXICON Nouns 
+
+#m e k t e p %<n%> ?*
+
+# LEXICON ProperNouns 
+
+# LEXICON Adjectives 
+
+# LEXICON Adverbs
+
+# LEXICON Verbs 
+
+# LEXICON Abbreviations
+
+# LEXICON Interjections 
+
+# LEXICON Symbols 
+
+# LEXICON Punctuation
+
