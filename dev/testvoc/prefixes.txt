@@ -60,6 +60,8 @@ b i r %<det%> %<ind%>
 
 # LEXICON Verbs 
 
+k e l %<v%> %<iv%> ?*
+
 # LEXICON Abbreviations
 
 # LEXICON Interjections 

@@ -8,4 +8,5 @@ apertium-interchunk ../../apertium-crh-tur.crh-tur.t2x ../../crh-tur.t2x.bin  2>
 apertium-postchunk ../../apertium-crh-tur.crh-tur.t3x ../../crh-tur.t3x.bin   2>/dev/null |\
 apertium-transfer -n ../../apertium-crh-tur.crh-tur.t4x ../../crh-tur.t4x.bin   2>/dev/null | tee /tmp/crh-tur.testvoc.2 |\
 lt-proc -d ../../crh-tur.autogen.bin > /tmp/crh-tur.testvoc.3
-paste /tmp/crh-tur.testvoc.0 /tmp/crh-tur.testvoc.1 /tmp/crh-tur.testvoc.2 /tmp/crh-tur.testvoc.3 | cat -n | sed 's/^ *//g' | sed 's/ /\t/1'
+paste /tmp/crh-tur.testvoc.0 /tmp/crh-tur.testvoc.1 /tmp/crh-tur.testvoc.2 /tmp/crh-tur.testvoc.3 | cat -n | sed 's/^ *//g' | sed 's/ /\t/1' > /tmp/crh-tur.testvoc
+cat /tmp/crh-tur.testvoc

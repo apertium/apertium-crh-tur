@@ -149,8 +149,8 @@
       <e><p><l>bu<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>o<s n="det"/><s n="dem"/></l><r>o<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>qaç<s n="det"/><s n="itg"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
-      <e><p><l>qaysı<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="qnt"/></r></p></e>
-      <e><p><l>angi<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>qaysı<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
+      <e><p><l>angi<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
       <e><p><l>bir<b/>qaç<s n="det"/><s n="ind"/></l><r>birkaç<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
       <e><p><l>çoq<s n="det"/></l><r>çok<s n="det"/></r></p></e>
@@ -297,17 +297,17 @@
       <e><p><l>qat<s n="n"/></l><r>kat<s n="n"/></r></p></e>
       <e><p><l>latin<s n="n"/></l><r>latin<s n="n"/></r></p></e>
       <e><p><l>rok<s n="n"/></l><r>rock<s n="n"/></r></p></e>
-      <e><p><l>yanvar<s n="n"/></l><r>Ocak<s n="n"/></r></p></e>
-      <e><p><l>fevral<s n="n"/></l><r>Şubat<s n="n"/></r></p></e>
-      <e><p><l>aprel<s n="n"/></l><r>Nisan<s n="n"/></r></p></e>
-      <e><p><l>mayıs<s n="n"/></l><r>Mayıs<s n="n"/></r></p></e>
-      <e><p><l>iyün<s n="n"/></l><r>Haziran<s n="n"/></r></p></e>
-      <e><p><l>iyül<s n="n"/></l><r>Temmuz<s n="n"/></r></p></e>
-      <e><p><l>avgust<s n="n"/></l><r>Ağustos<s n="n"/></r></p></e>
-      <e><p><l>sentâbr<s n="n"/></l><r>Eylül<s n="n"/></r></p></e>
-      <e><p><l>noyabr<s n="n"/></l><r>Kasım<s n="n"/></r></p></e>
-      <e><p><l>oktâbr<s n="n"/></l><r>Ekim<s n="n"/></r></p></e>
-      <e><p><l>dekabr<s n="n"/></l><r>Aralık<s n="n"/></r></p></e>
+      <e><p><l>yanvar<s n="n"/></l><r>ocak¹<s n="n"/></r></p></e>
+      <e><p><l>fevral<s n="n"/></l><r>şubat<s n="n"/></r></p></e>
+      <e><p><l>aprel<s n="n"/></l><r>nisan<s n="n"/></r></p></e>
+      <e><p><l>mayıs<s n="n"/></l><r>mayıs<s n="n"/></r></p></e>
+      <e><p><l>iyün<s n="n"/></l><r>haziran<s n="n"/></r></p></e>
+      <e><p><l>iyül<s n="n"/></l><r>temmuz<s n="n"/></r></p></e>
+      <e><p><l>avgust<s n="n"/></l><r>ağustos<s n="n"/></r></p></e>
+      <e><p><l>sentâbr<s n="n"/></l><r>eylül<s n="n"/></r></p></e>
+      <e><p><l>noyabr<s n="n"/></l><r>kasım<s n="n"/></r></p></e>
+      <e><p><l>oktâbr<s n="n"/></l><r>ekim<s n="n"/></r></p></e>
+      <e><p><l>dekabr<s n="n"/></l><r>aralık¹<s n="n"/></r></p></e>
 
       <e><p><l>maarifçi<s n="n"/></l><r>alim<s n="n"/></r></p></e>
       <e><p><l>matem<s n="n"/></l><r>yas<s n="n"/></r></p></e>
@@ -1708,7 +1708,7 @@
 <e><p><l>Zimbabve<s n="np"/><s n="top"/></l><r>Zimbabve<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Zimbabve<s n="np"/><s n="top"/></l><r>Zimbabve<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Nove<s n="np"/><s n="top"/></l><r>Nove<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Turkiye<s n="np"/><s n="top"/></l><r>Turkiye<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Turkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Suriye<s n="np"/><s n="top"/></l><r>Suriye<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Karadağ<s n="np"/><s n="top"/></l><r>Karadağ<s n="np"/><s n="top"/></r></p></e>
@@ -2691,10 +2691,9 @@
       <e><p><l>tozlan<s n="v"/><s n="iv"/></l><r>tozlan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tozlan<s n="v"/><s n="iv"/></l><r>toza<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tutaş<s n="v"/><s n="iv"/></l><r>tutuş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>tut<s n="v"/><s n="iv"/></l><r>tut<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tutul<s n="v"/><s n="iv"/></l><r>tutul<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>tut<s n="v"/><s n="iv"/></l><r>tuttur<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>tut<s n="v"/><s n="iv"/></l><r>unutma<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>tut<s n="v"/><s n="tv"/></l><r>tuttur<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>tut<s n="v"/><s n="tv"/></l><r>unutma<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tökül<s n="v"/><s n="iv"/></l><r>dökül<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tüken<s n="v"/><s n="iv"/></l><r>tüken<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tüzen<s n="v"/><s n="iv"/></l><r>süslen<s n="v"/><s n="iv"/></r></p></e>

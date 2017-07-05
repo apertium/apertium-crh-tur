@@ -25,6 +25,8 @@
       <cat-item tags="v.*.fut2.*"/>
       <cat-item tags="v.*.*.fut.*"/>
       <cat-item tags="v.*.*.fut2.*"/>
+      <cat-item tags="v.*.*.*.fut.*"/>
+      <cat-item tags="v.*.*.*.fut2.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
@@ -47,6 +49,18 @@
       <cat-item tags="v.*.*.prc_impf"/>
       <cat-item tags="v.*.*.prc_impf.*"/>
     </def-cat>
+
+    <def-cat n="gpr_fut2">
+      <cat-item tags="v.*.gpr_fut2"/>
+      <cat-item tags="v.*.gpr_fut2.*"/>
+      <cat-item tags="v.*.*.gpr_fut2"/>
+      <cat-item tags="v.*.*.gpr_fut2.*"/>
+      <cat-item tags="v.*.prc_fut2"/>
+      <cat-item tags="v.*.prc_fut2.*"/>
+      <cat-item tags="v.*.*.prc_fut2"/>
+      <cat-item tags="v.*.*.prc_fut2.*"/>
+    </def-cat>
+
 
     <def-cat n="gpr_fut">
       <cat-item tags="v.*.gpr_fut"/>
@@ -96,6 +110,13 @@
     <def-attr n="a_xd">
       <attr-item tags="XD"/>
     </def-attr>
+    <def-attr n="a_poss">
+      <attr-item tags="px1sg"/>
+      <attr-item tags="px2sg"/>
+      <attr-item tags="px3sp"/>
+      <attr-item tags="px1pl"/>
+      <attr-item tags="px2pl"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
@@ -116,6 +137,7 @@
 
       <attr-item tags="gpr_past"/>
       <attr-item tags="gpr_fut"/>
+      <attr-item tags="gpr_fut2"/>
 
       <attr-item tags="gna_cond"/>
 
@@ -368,6 +390,31 @@
 
 
 
+    <rule comment="REGLA: gpr_fut2">
+      <pattern>
+        <pattern-item n="gpr_fut2"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/>
+          <lit-tag v="gpr_fut"/>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: ger_fut2">
       <pattern>
         <pattern-item n="ger_fut2"/>
@@ -468,10 +515,14 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-        <let>
-          <clip pos="1" side="tl" part="a_xd"/>
-          <lit-tag v="px3sp"/>
-        </let>
+         
+        <choose>
+         <when><test><equal><clip pos="1" side="tl" part="a_poss"/><lit v=""/></equal></test>
+        <let><clip pos="1" side="tl" part="a_xd"/><lit-tag v="px3sp"/></let>
+        </when>
+        <otherwise>
+        <let><clip pos="1" side="tl" part="a_xd"/><lit v=""/></let>
+        </otherwise></choose>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
