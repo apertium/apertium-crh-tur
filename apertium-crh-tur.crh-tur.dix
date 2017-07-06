@@ -251,6 +251,7 @@
 
       <e><p><l>alt<s n="n"/></l><r>alt<s n="n"/></r></p></e>
       <e><p><l>ast<s n="n"/></l><r>ast<s n="n"/></r></p></e>
+      <e><p><l>yuqar<s n="n"/></l><r>yukar<s n="n"/></r></p></e>
       <e><p><l>protsess<s n="n"/></l><r>işlem<s n="n"/></r></p></e>
       <e><p><l>ayat<s n="n"/></l><r>hayat<s n="n"/></r></p></e>
       <e><p><l>mektüp<s n="n"/></l><r>mektüp<s n="n"/></r></p></e>
@@ -2003,7 +2004,6 @@
 <e><p><l>deyerli<s n="adj"/></l><r>değerli<s n="adj"/></r></p></e>
       <e><p><l>az<s n="adj"/></l><r>az<s n="adj"/></r></p></e>
 
-      <e><p><l>yuqarı<s n="adj"/></l><r>yukarı<s n="adj"/></r></p></e>
       <e><p><l>doğru<s n="adj"/></l><r>doğru<s n="adj"/></r></p></e>
       <e><p><l>regional<s n="adj"/></l><r>bölgesel<s n="adj"/></r></p></e>
       <e><p><l>milletlerara<s n="adj"/></l><r>uluslararası<s n="adj"/></r></p></e>
@@ -2111,13 +2111,15 @@
 
       <!-- SECTION: Adverbs -->
 	  <e><p><l>bile<s n="adv"/></l><r>bile<s n="adv"/></r></p></e>
+      <e><p><l>yuqarı<s n="adv"/></l><r>yukarı<s n="adv"/></r></p></e>
+      <e><p><l>yuqarıda<s n="adv"/></l><r>yukarıda<s n="adv"/></r></p></e>
+      <e><p><l>yuqarıdan<s n="adv"/></l><r>yukarıdan<s n="adv"/></r></p></e>
 	  <e><p><l>hususan<s n="adv"/></l><r>özellikle<s n="adv"/></r></p></e>
 	  <e><p><l>artıq<s n="adv"/></l><r>artık<s n="adv"/></r></p></e>
 	  <e><p><l>böylelikle<s n="adv"/></l><r>böylelikle<s n="adv"/></r></p></e>
 	  <e><p><l>böyleliknen<s n="adv"/></l><r>böylelikle<s n="adv"/></r></p></e>
       <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
       <e><p><l>bile<s n="adv"/></l><r>bile<s n="adv"/></r></p></e>
-      <e><p><l>yuqarı<s n="adv"/></l><r>yukarı<s n="adv"/></r></p></e>
       <e><p><l>ayrı<s n="adv"/></l><r>ayrıca<s n="adv"/></r></p></e>
       <e><p><l>deyerlik<s n="adv"/></l><r>hemen<b/>hemen<s n="adv"/></r></p></e>
       <e><p><l>deyerlik<s n="adv"/></l><r>neredeyse<s n="adv"/></r></p></e>
