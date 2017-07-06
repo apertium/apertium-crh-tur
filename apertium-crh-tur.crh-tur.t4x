@@ -4,8 +4,8 @@
   <section-def-cats>
     <def-cat n="cop-aor-3">
       <cat-item lemma="i" tags="cop.aor.p3.sg"/>
-      <cat-item lemma="i" tags="cop.aor.gno.p3.sg"/>
       <cat-item lemma="i" tags="cop.aor.p3.sg.*"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.sg"/>
       <cat-item lemma="i" tags="cop.aor.gno.p3.sg.*"/>
       <cat-item lemma="i" tags="cop.aor.gno.p3.pl"/>
       <cat-item lemma="i" tags="cop.aor.gno.p3.pl.*"/>
@@ -20,19 +20,41 @@
       <cat-item lemma="i" tags="cop.ifi.p1.*"/>
       <cat-item lemma="i" tags="cop.ifi.p2.*"/>
     </def-cat>
+    <def-cat n="cop-ifi-ken">
+      <cat-item lemma="i" tags="cop.ifi.*"/>
+      <cat-item lemma="i" tags="cop.gna_ken"/>
+    </def-cat>
+    <def-cat n="cop-ger_past">
+      <cat-item lemma="i" tags="cop.ger_past.*"/>
+      <cat-item lemma="i" tags="vaux.ger_past.*"/>
+    </def-cat>
     <def-cat n="qst">
       <cat-item lemma="mı" tags="qst"/>
+    </def-cat>
+    <def-cat n="non-fin">
+      <cat-item tags="v.*.nec"/>
+      <cat-item tags="v.*.*.nec"/>
+      <cat-item tags="v.*.*.*.nec"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n"/>
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="nom-adj">
+      <cat-item tags="n"/>
+      <cat-item tags="n.*"/>
+      <cat-item tags="adj"/>
+      <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="open-class">
+      <cat-item tags="n.*"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adv.*"/>
+      <cat-item tags="v.*"/>
+      <cat-item tags="num.*"/>
+    </def-cat>
     <def-cat n="laş">
       <cat-item lemma="laş" tags="v.iv.*"/>
-    </def-cat>
-    <def-cat n="cop-ifi-ken">
-      <cat-item lemma="i" tags="cop.ifi.*"/>
-      <cat-item lemma="i" tags="cop.gna_ken"/>
     </def-cat>
     <def-cat n="a-post">
       <cat-item lemma="sız" tags="post"/>
@@ -88,6 +110,17 @@
 
     <rule comment="">
       <pattern>
+        <pattern-item n="cop-ger_past"/>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
         <pattern-item n="default"/>
         <pattern-item n="a-post"/>
       </pattern>
@@ -103,7 +136,6 @@
         </out>
       </action>
     </rule>
-
 
     <rule comment="">
       <pattern>
@@ -125,7 +157,45 @@
 
     <rule comment="">
       <pattern>
-        <pattern-item n="nom"/>
+        <pattern-item n="default"/>
+        <pattern-item n="cop-aor_ifi-12"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj"/>
         <pattern-item n="cop-aor-3pl"/>
       </pattern>
       <action>
@@ -142,7 +212,7 @@
 
     <rule comment="">
       <pattern>
-        <pattern-item n="nom"/>
+        <pattern-item n="nom-adj"/>
         <pattern-item n="cop-aor_ifi-12"/>
       </pattern>
       <action>
@@ -159,7 +229,7 @@
 
     <rule comment="">
       <pattern>
-        <pattern-item n="nom"/>
+        <pattern-item n="nom-adj"/>
         <pattern-item n="cop-aor_ifi-12"/>
         <pattern-item n="qst"/>
       </pattern>
@@ -175,8 +245,6 @@
         </out>
       </action>
     </rule>
-
-
 
     <rule comment="">
       <pattern>
@@ -194,9 +262,6 @@
         </out>
       </action>
     </rule>
-
-
-
 
     <rule comment="">
       <pattern>
@@ -225,6 +290,52 @@
         </out>
       </action>
     </rule>
+
+    <!-- SECTION: Lowest priority rules -->
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-aor_ifi-12"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-aor-3"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-ger_past"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+
+
+
 
 
   </section-rules>

@@ -30,6 +30,7 @@
     <sdef n="XD"             c=""/>
     <sdef n="qst"             c=""/>
     <sdef n="dat"             c=""/>
+    <sdef n="sym"             c=""/>
 
     <sdef n="px3sp"           c="Possessive agreement"/>
 
@@ -1943,6 +1944,7 @@
 
 
   <!-- SECTION: Adjectives -->
+<e><p><l>kerek<s n="adj"/></l><r>gerek<s n="adj"/></r></p></e>
 	  <e><p><l>bayağı<s n="adj"/></l><r>sıradan<s n="adj"/></r></p></e>
 	  <e><p><l>qoqulu<s n="adj"/></l><r>kokulu<s n="adj"/></r></p></e>
 	  <e><p><l>titrek<s n="adj"/></l><r>titrek<s n="adj"/></r></p></e>
@@ -2162,6 +2164,7 @@
       <e><p><l>e<s n="vaux"/></l><r>i<s n="vaux"/></r></p></e>
       <e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>quvan<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>kerek<s n="v"/><s n="iv"/></l><r>gerek<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qorq<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bağışlan<s n="v"/><s n="iv"/></l><r>kaç<s n="v"/><s n="iv"/></r></p></e>
@@ -2585,7 +2588,6 @@
       <e><p><l>kemalatlan<s n="v"/><s n="iv"/></l><r>yetkinleş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kenişle<s n="v"/><s n="iv"/></l><r>genişle<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kenişle<s n="v"/><s n="iv"/></l><r>şenel<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>kerek<s n="v"/><s n="iv"/></l><r>gerek<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerile<s n="v"/><s n="iv"/></l><r>çekil<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerile<s n="v"/><s n="iv"/></l><r>gerile<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerile<s n="v"/><s n="iv"/></l><r>tersin<s n="v"/><s n="iv"/></r></p></e>
@@ -2777,6 +2779,10 @@
 
       <e><p><l>yani<s n="ij"/></l><r>yani<s n="ij"/></r></p></e>
       <e><p><l>evet<s n="ij"/></l><r>evet<s n="ij"/></r></p></e>
+
+      <!-- SECTION: Symbols -->
+
+<!--      <e><re>[a-zA-Z]+</re><p><l><s n="sym"/></l><r><s n="sym"/></r></p></e>--> <!-- fix after bug in apertiumtagger-->
 
       <!-- SECTION: Abbreviations -->
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>

@@ -31,6 +31,10 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="cop-aor-evid">
+      <cat-item lemma="e" tags="cop.aor.evid.*"/>
+      <cat-item lemma="e" tags="vaux.aor.evid.*"/>
+    </def-cat>
     <def-cat n="cop-ifi">
       <cat-item lemma="e" tags="cop.ifi.*"/>
       <cat-item lemma="e" tags="vaux.ifi.*"/>
@@ -387,6 +391,72 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: gpr_fut2 cop-ifi ">
+      <pattern>
+        <pattern-item n="gpr_fut2"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="2" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="2" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="fut"/>
+        </let>
+        <let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: cond cop-ifi ">
+      <pattern>
+        <pattern-item n="cond"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="cond"/></let>
+        <let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
 
 
@@ -607,6 +677,28 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: cop-aor-evid">
+      <pattern>
+        <pattern-item n="cop-aor-evid"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="ekende" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.dub.aor"/>
+              <clip pos="1" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: ekende">
       <pattern>
