@@ -2169,7 +2169,7 @@
       <!-- SECTION: Verbs -->
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>e<s n="vaux"/></l><r>i<s n="vaux"/></r></p></e>
-      <e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>
+      <!--<e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>-->
       <e><p><l>quvan<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerek<s n="v"/><s n="iv"/></l><r>gerek<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qorq<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
@@ -2911,6 +2911,8 @@
 <e><p><l>dağıt<s n="v"/><s n="tv"/></l><r>dağıt<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>añla<s n="v"/><s n="tv"/></l><r>anla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>ez<s n="v"/><s n="tv"/></l><r>ez<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>karşılaş<s n="v"/><s n="iv"/></l><r>karşılaş<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>karşılaştır<s n="v"/><s n="tv"/></l><r>karşılaştır<s n="v"/><s n="tv"/></r></p></e>
 
    </section>
 </dictionary>
