@@ -254,7 +254,7 @@
       <e><p><l>yuqar<s n="n"/></l><r>yukar<s n="n"/></r></p></e>
       <e><p><l>protsess<s n="n"/></l><r>işlem<s n="n"/></r></p></e>
       <e><p><l>ayat<s n="n"/></l><r>hayat<s n="n"/></r></p></e>
-      <e><p><l>mektüp<s n="n"/></l><r>mektüp<s n="n"/></r></p></e>
+      <e><p><l>mektüp<s n="n"/></l><r>mektup<s n="n"/></r></p></e>
 
       <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
@@ -1390,6 +1390,7 @@
 
 
       <e><p><l>Facebook<s n="np"/><s n="al"/></l><r>Facebook<s n="np"/><s n="org"/></r></p></e>
+      <e><p><l>Gremmi<s n="np"/><s n="al"/></l><r>Grammy<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Krıminform<s n="np"/><s n="al"/></l><r>Facebook<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>MŞSC<s n="np"/><s n="al"/></l><r>MŞSC<s n="np"/><s n="org"/></r></p></e>
       <e><p><l>MQMİK<s n="np"/><s n="al"/></l><r>MKMİK<s n="np"/><s n="org"/></r></p></e>
@@ -1766,6 +1767,7 @@
 <e><p><l>Lübnan<s n="np"/><s n="top"/></l><r>Lübnan<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>İran<s n="np"/><s n="top"/></l><r>İran<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Tiran<s n="np"/><s n="top"/></l><r>Tiran<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Zaporijjâ<s n="np"/><s n="top"/></l><r>Zaporijya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Arabistan<s n="np"/><s n="top"/></l><r>Arabistan<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Sırbistan<s n="np"/><s n="top"/></l><r>Sırbistan<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Gürcistan<s n="np"/><s n="top"/></l><r>Gürcistan<s n="np"/><s n="top"/></r></p></e>
@@ -1946,6 +1948,8 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>belgisiz<s n="adj"/></l><r>belirsiz<s n="adj"/></r></p></e>
+	  <e><p><l>zemaneviy<s n="adj"/></l><r>modern<s n="adj"/></r></p></e>
 <e><p><l>kerek<s n="adj"/></l><r>gerek<s n="adj"/></r></p></e>
 	  <e><p><l>bayağı<s n="adj"/></l><r>sıradan<s n="adj"/></r></p></e>
 	  <e><p><l>qoqulu<s n="adj"/></l><r>kokulu<s n="adj"/></r></p></e>
