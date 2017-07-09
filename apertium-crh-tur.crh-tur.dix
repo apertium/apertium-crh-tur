@@ -258,7 +258,10 @@
 
       <e><p><l>pantürkizm<s n="n"/></l><r>pantürkizm<s n="n"/></r></p></e>
 
-
+      <e><p><l>dollar<s n="n"/></l><r>dolar<s n="n"/></r></p></e>
+      <e><p><l>sağlıq<s n="n"/></l><r>sağlık<s n="n"/></r></p></e>
+      <e><p><l>kereklik<s n="n"/></l><r>gereklilik<s n="n"/></r></p></e>
+      <e><p><l>separatist<s n="n"/></l><r>ayrılıkçı<s n="n"/></r></p></e>
       <e><p><l>bergi<s n="n"/></l><r>vergi<s n="n"/></r></p></e>
       <e><p><l>keçit<s n="n"/></l><r>geçit<s n="n"/></r></p></e>
       <e><p><l>jurnalist<s n="n"/></l><r>gazeteci<s n="n"/></r></p></e>
@@ -1948,6 +1951,8 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>tolu<s n="adj"/></l><r>dolu<s n="adj"/></r></p></e>
+	  <e><p><l>territorial<s n="adj"/></l><r>bölgesel<s n="adj"/></r></p></e>
 	  <e><p><l>belgisiz<s n="adj"/></l><r>belirsiz<s n="adj"/></r></p></e>
 	  <e><p><l>zemaneviy<s n="adj"/></l><r>modern<s n="adj"/></r></p></e>
 <e><p><l>kerek<s n="adj"/></l><r>gerek<s n="adj"/></r></p></e>
