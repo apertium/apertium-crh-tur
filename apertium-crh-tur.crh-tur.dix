@@ -248,9 +248,11 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>destek<s n="n"/></l><r>destek<s n="n"/></r></p></e>
 
       <e><p><l>alt<s n="n"/></l><r>alt<s n="n"/></r></p></e>
       <e><p><l>tintüv<s n="n"/></l><r>baskın<s n="n"/></r></p></e>
+      <e><p><l>efir<s n="n"/></l><r>yayın<s n="n"/></r></p></e>
       <e><p><l>rupor<s n="n"/></l><r>sözcü<s n="n"/></r></p></e>
 
       <e><p><l>komissiya<s n="n"/></l><r>kurul<s n="n"/></r></p></e>
@@ -743,6 +745,7 @@
       <e><p><l>tarihçı<s n="n"/></l><r>tarihçi<s n="n"/></r></p></e>
       <e><p><l>bazarertesi<s n="n"/></l><r>pazartesi<s n="n"/></r></p></e>
 <e><p><l>migratsion<s n="n"/></l><r>göç<s n="n"/></r></p></e>
+      <e><p><l>yañlış<s n="n"/></l><r>yanlış<s n="n"/></r></p></e>
       <e><p><l>ticaret<s n="n"/></l><r>ticaret<s n="n"/></r></p></e>
       <e><p><l>sual<s n="n"/></l><r>soru<s n="n"/></r></p></e>
       <e><p><l>ğaye<s n="n"/></l><r>amaç<s n="n"/></r></p></e>
@@ -1969,6 +1972,11 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>kommunal<s n="adj"/></l><r>kamusal<s n="adj"/></r></p></e>
+	  <e><p><l>kommunal<s n="adj"/></l><r>umumi<s n="adj"/></r></p></e>
+	  <e><p><l>tehnikiy<s n="adj"/></l><r>teknik<s n="adj"/></r></p></e>
+	  <e><p><l>yañlış<s n="adj"/></l><r>yanlış<s n="adj"/></r></p></e>
+	  <e><p><l>yıllıq<s n="adj"/></l><r>yıllık<s n="adj"/></r></p></e>
 	  <e><p><l>eyi<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
 	  <e><p><l>alâ<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
 	  <e><p><l>qanuni<s n="adj"/></l><r>kanuni<s n="adj"/></r></p></e>
