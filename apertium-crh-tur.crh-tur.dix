@@ -248,6 +248,14 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>uçaq<s n="n"/></l><r>uçak<s n="n"/></r></p></e>
+      <e><p><l>energetika<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
+      <e><p><l>avtomobil<s n="n"/></l><r>otomobil<s n="n"/></r></p></e>
+      <e><p><l>azırlıq<s n="n"/></l><r>hazırlık<s n="n"/></r></p></e>
+      <e><p><l>elçi<s n="n"/></l><r>elçi<s n="n"/></r></p></e>
+      <e><p><l>dialog<s n="n"/></l><r>diyalog<s n="n"/></r></p></e>
+      <e><p><l>yaqarlıq<s n="n"/></l><r>yakıt<s n="n"/></r></p></e>
+      <e><p><l>imaye<s n="n"/></l><r>himaye<s n="n"/></r></p></e>
       <e><p><l>destek<s n="n"/></l><r>destek<s n="n"/></r></p></e>
 
       <e><p><l>alt<s n="n"/></l><r>alt<s n="n"/></r></p></e>
@@ -462,6 +470,7 @@
       <e><p><l>ses<s n="n"/></l><r>ses<s n="n"/></r></p></e>
       <e><p><l>zapt<s n="n"/></l><r>zapt<s n="n"/></r></p></e>
 
+
       <e><p><l>boy<s n="n"/></l><r>boy<s n="n"/></r></p></e>
       <e><p><l>şive<s n="n"/></l><r>şive<s n="n"/></r></p></e>
       <e><p><l>arap<s n="n"/></l><r>arap<s n="n"/></r></p></e>
@@ -551,6 +560,7 @@
       <e><p><l>sıra<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
       <e><p><l>asır<s n="n"/></l><r>asır<s n="n"/></r></p></e>
       <e><p><l>ücüm<s n="n"/></l><r>hücüm<s n="n"/></r></p></e>
+      <e><p><l>yasaq<s n="n"/></l><r>yasak<s n="n"/></r></p></e>
       <e><p><l>qardaş<s n="n"/></l><r>kardeş<s n="n"/></r></p></e>
       <e><p><l>arqadaş<s n="n"/></l><r>arkadaş<s n="n"/></r></p></e>
       <e><p><l>boyun<s n="n"/></l><r>boyun<s n="n"/></r></p></e>
@@ -1972,7 +1982,14 @@
 
 
   <!-- SECTION: Adjectives -->
+
 	  <e><p><l>kommunal<s n="adj"/></l><r>kamusal<s n="adj"/></r></p></e>
+	  <e><p><l>mecburi<s n="adj"/></l><r>zorunlu<s n="adj"/></r></p></e>
+	  <e><p><l>mecburi<s n="adj"/></l><r>mecburi<s n="adj"/></r></p></e>
+	  <e><p><l>zaruriy<s n="adj"/></l><r>zaruri<s n="adj"/></r></p></e>
+	  <e><p><l>kerekli<s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
+	  <e><p><l>sahte<s n="adj"/></l><r>sahte<s n="adj"/></r></p></e>
+	  <e><p><l>turistik<s n="adj"/></l><r>turistik<s n="adj"/></r></p></e>
 	  <e><p><l>kommunal<s n="adj"/></l><r>umumi<s n="adj"/></r></p></e>
 	  <e><p><l>tehnikiy<s n="adj"/></l><r>teknik<s n="adj"/></r></p></e>
 	  <e><p><l>yañlış<s n="adj"/></l><r>yanlış<s n="adj"/></r></p></e>
@@ -2213,6 +2230,8 @@
       <e><p><l>quvan<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>
 
       <e><p><l>tap<s n="v"/><s n="tv"/></l><r>bul<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>tasdıqla<s n="v"/><s n="tv"/></l><r>onayla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>tırış<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerek<s n="v"/><s n="iv"/></l><r>gerek<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qorq<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
