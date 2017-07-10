@@ -31,7 +31,12 @@
 	<or><match tags="num"/><match tags="num.*"/></or>
   </rule>
  
-
+  <rule weight="1.0">
+    <match lemma="alâ">
+      <select lemma="hâlâ"/>
+    </match>
+	<or><match lemma="daa"/><match lemma="da"/></or>
+  </rule>
 
    <rule weight="1.0">
     <match lemma="bir"/>

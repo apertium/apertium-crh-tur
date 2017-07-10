@@ -250,6 +250,12 @@
       <!-- SECTION: Nouns -->
 
       <e><p><l>alt<s n="n"/></l><r>alt<s n="n"/></r></p></e>
+      <e><p><l>tintüv<s n="n"/></l><r>baskın<s n="n"/></r></p></e>
+      <e><p><l>rupor<s n="n"/></l><r>sözcü<s n="n"/></r></p></e>
+
+      <e><p><l>komissiya<s n="n"/></l><r>kurul<s n="n"/></r></p></e>
+      <e><p><l>muarririyet<s n="n"/></l><r>yazarlık<s n="n"/></r></p></e>
+      <e><p><l>rubrika<s n="n"/></l><r>başlık<s n="n"/></r></p></e>
       <e><p><l>ast<s n="n"/></l><r>ast<s n="n"/></r></p></e>
       <e><p><l>yuqar<s n="n"/></l><r>yukar<s n="n"/></r></p></e>
       <e><p><l>protsess<s n="n"/></l><r>işlem<s n="n"/></r></p></e>
@@ -1963,6 +1969,8 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>eyi<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
+	  <e><p><l>alâ<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
 	  <e><p><l>qanuni<s n="adj"/></l><r>kanuni<s n="adj"/></r></p></e>
 	  <e><p><l>qolay<s n="adj"/></l><r>kolay<s n="adj"/></r></p></e>
 	  <e><p><l>demokratik<s n="adj"/></l><r>demokratik<s n="adj"/></r></p></e>
@@ -2134,6 +2142,9 @@
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+	  <e><p><l>bütünley<s n="adv"/></l><r>tamamen<s n="adv"/></r></p></e>
+	  <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
+	  <e><p><l>alâ<s n="adv"/></l><r>hâlâ<s n="adv"/></r></p></e>
 	  <e><p><l>çoqtan<s n="adv"/></l><r>çoktan<s n="adv"/></r></p></e>
 	  <e><p><l>bile<s n="adv"/></l><r>bile<s n="adv"/></r></p></e>
       <e><p><l>yuqarı<s n="adv"/></l><r>yukarı<s n="adv"/></r></p></e>
