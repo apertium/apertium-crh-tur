@@ -31,6 +31,13 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="perc">
+      <cat-item lemma="fayız" tags="n.*"/>
+    </def-cat>
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
+      <cat-item tags="num"/>
+    </def-cat>
     <def-cat n="cop-aor-evid">
       <cat-item lemma="e" tags="cop.aor.evid.*"/>
       <cat-item lemma="e" tags="vaux.aor.evid.*"/>
@@ -207,6 +214,40 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: perc">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="perc"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_fin"/><lit-tag v="fut"/>
+        </let>
+        <let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="yüz"/><lit-tag v="num.subst.loc"/></concat>
+        </let>
+        <out>
+          <chunk name="n" case="caseSecondWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <lu>
+				<b/>
+            </lu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: fut">
       <pattern>

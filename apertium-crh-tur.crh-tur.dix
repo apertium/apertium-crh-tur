@@ -248,7 +248,17 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>departament<s n="n"/></l><r>bölüm<s n="n"/></r></p></e>
+      <e><p><l>tren<s n="n"/></l><r>tren<s n="n"/></r></p></e>
+      <e><p><l>turizm<s n="n"/></l><r>turizm<s n="n"/></r></p></e>
+      <e><p><l>müessise<s n="n"/></l><r>müessese<s n="n"/></r></p></e>
+      <e><p><l>müdirlik<s n="n"/></l><r>müdürlük<s n="n"/></r></p></e>
+      <e><p><l>student<s n="n"/></l><r>öğrenci<s n="n"/></r></p></e>
+      <e><p><l>mezun<s n="n"/></l><r>mezun<s n="n"/></r></p></e>
+      <e><p><l>gemi<s n="n"/></l><r>gemi<s n="n"/></r></p></e>
       <e><p><l>uçaq<s n="n"/></l><r>uçak<s n="n"/></r></p></e>
+      <e><p><l>zıddiyet<s n="n"/></l><r>kutuplaşma<s n="n"/></r></p></e>
+      <e><p><l>fayız<s n="n"/></l><r>yüzde<s n="n"/></r></p></e>
       <e><p><l>energetika<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
       <e><p><l>avtomobil<s n="n"/></l><r>otomobil<s n="n"/></r></p></e>
       <e><p><l>azırlıq<s n="n"/></l><r>hazırlık<s n="n"/></r></p></e>
@@ -1984,6 +1994,7 @@
   <!-- SECTION: Adjectives -->
 
 	  <e><p><l>kommunal<s n="adj"/></l><r>kamusal<s n="adj"/></r></p></e>
+	  <e><p><l>sert<s n="adj"/></l><r>sert<s n="adj"/></r></p></e>
 	  <e><p><l>mecburi<s n="adj"/></l><r>zorunlu<s n="adj"/></r></p></e>
 	  <e><p><l>mecburi<s n="adj"/></l><r>mecburi<s n="adj"/></r></p></e>
 	  <e><p><l>zaruriy<s n="adj"/></l><r>zaruri<s n="adj"/></r></p></e>
