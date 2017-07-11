@@ -2327,6 +2327,7 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>bedava<s n="adj"/></l><r>bedava<s n="adj"/></r></p></e>
       <e><p><l>metin<s n="adj"/></l><r>metin<s n="adj"/></r></p></e>
       <e><p><l>etnik<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
       <e><p><l>tam<s n="adj"/></l><r>tam<s n="adj"/></r></p></e>
@@ -2557,6 +2558,8 @@
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+      <e><p><l>baştan<s n="adv"/></l><r>baştan<s n="adv"/></r></p></e>
+
 	  <e><p><l>binayen<s n="adv"/></l><r>binaen<s n="adv"/></r></p></e>
 	  <e><p><l>bütünley<s n="adv"/></l><r>tamamen<s n="adv"/></r></p></e>
 	  <e><p><l>şimdilik<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
