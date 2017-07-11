@@ -248,7 +248,17 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
-    
+      <e><p><l>tehnika<s n="n"/></l><r>teçhizat<s n="n"/></r></p></e>
+      <e><p><l>rejissör<s n="n"/></l><r>yapımcı<s n="n"/></r></p></e>
+      <e><p><l>mevzu<s n="n"/></l><r>mevzu<s n="n"/></r></p></e>
+      <e><p><l>media<s n="n"/></l><r>medya<s n="n"/></r></p></e>
+      <e><p><l>masraf<s n="n"/></l><r>masraf<s n="n"/></r></p></e>
+      <e><p><l>telüke<s n="n"/></l><r>tehlike<s n="n"/></r></p></e>
+      <e><p><l>soqaq<s n="n"/></l><r>sokak<s n="n"/></r></p></e>
+      <e><p><l>yalan<s n="n"/></l><r>yalan<s n="n"/></r></p></e>
+      <e><p><l>eyyet<s n="n"/></l><r>heyet<s n="n"/></r></p></e>
+      <e><p><l>kodeks<s n="n"/></l><r>kanun<s n="n"/></r></p></e>
+      <e><p><l>ekspert<s n="n"/></l><r>uzman<s n="n"/></r></p></e>
       <e><p><l>art<s n="n"/></l><r>art<s n="n"/></r></p></e>
       <e><p><l>tan<s n="n"/></l><r>tan<s n="n"/></r></p></e>
       <e><p><l>ten<s n="n"/></l><r>ten<s n="n"/></r></p></e>
@@ -2327,6 +2337,7 @@
 
 
   <!-- SECTION: Adjectives -->
+	  <e><p><l>fevqulâde<s n="adj"/></l><r>fevkalade<s n="adj"/></r></p></e>
 	  <e><p><l>bedava<s n="adj"/></l><r>bedava<s n="adj"/></r></p></e>
       <e><p><l>metin<s n="adj"/></l><r>metin<s n="adj"/></r></p></e>
       <e><p><l>etnik<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
