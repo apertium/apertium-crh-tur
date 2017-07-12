@@ -1214,6 +1214,7 @@
 <e><p><l>göl<s n="n"/></l><r>göl<s n="n"/></r></p></e>
 <e><p><l>rejim<s n="n"/></l><r>rejim<s n="n"/></r></p></e>
 <e><p><l>problem<s n="n"/></l><r>problem<s n="n"/></r></p></e>
+<e><p><l>ekstremist<s n="n"/></l><r>aşırıcı<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
       <e><p><l>Kezlev<s n="np"/><s n="cog"/><s n="m"/></l><r>Kezlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -2697,6 +2698,29 @@
 	  <e><p><l>Qıtay<s n="np"/><s n="top"/></l><r>Kitay<s n="np"/><s n="top"/></r></p></e>
 	  <e><p><l>Groznıy<s n="np"/><s n="top"/></l><r>Grozni<s n="np"/><s n="top"/></r></p></e>
 
+<e><p><l>Nadejda<s n="np"/><s n="ant"/><s n="f"/></l><r>Nadejda<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Lilâ<s n="np"/><s n="ant"/><s n="f"/></l><r>Lilâ<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Lüdmila<s n="np"/><s n="ant"/><s n="f"/></l><r>Lüdmila<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Aleksandra<s n="np"/><s n="ant"/><s n="f"/></l><r>Aleksandra<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Yelizaveta<s n="np"/><s n="ant"/><s n="f"/></l><r>Yelizaveta<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Nikita<s n="np"/><s n="ant"/><s n="f"/></l><r>Nikita<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Yevgeniya<s n="np"/><s n="ant"/><s n="f"/></l><r>Yevgeniya<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Alime<s n="np"/><s n="ant"/><s n="f"/></l><r>Alime<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+
+<e><p><l>Nikita<s n="np"/><s n="ant"/><s n="m"/></l><r>Nikita<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Emirali<s n="np"/><s n="ant"/><s n="m"/></l><r>Emirali<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Wilhelm<s n="np"/><s n="ant"/><s n="m"/></l><r>Wilhelm<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Slobodân<s n="np"/><s n="ant"/><s n="m"/></l><r>Slobodân<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Ramzan<s n="np"/><s n="ant"/><s n="m"/></l><r>Ramzan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Dmıtro<s n="np"/><s n="ant"/><s n="m"/></l><r>Dmıtro<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Pötr<s n="np"/><s n="ant"/><s n="m"/></l><r>Pötr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>İonas<s n="np"/><s n="ant"/><s n="m"/></l><r>İonas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Vâçeslav<s n="np"/><s n="ant"/><s n="m"/></l><r>Vâçeslav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Yaroslav<s n="np"/><s n="ant"/><s n="m"/></l><r>Yaroslav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Serğiy<s n="np"/><s n="ant"/><s n="m"/></l><r>Serğiy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Georgiy<s n="np"/><s n="ant"/><s n="m"/></l><r>Georgiy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Cınğız<s n="np"/><s n="ant"/><s n="m"/></l><r>Cınğız<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+
 
   <!-- SECTION: Adjectives -->
 	  <e><p><l>fevqulâde<s n="adj"/></l><r>fevkalade<s n="adj"/></r></p></e>
@@ -2996,8 +3020,13 @@
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>e<s n="vaux"/></l><r>i<s n="vaux"/></r></p></e>
       <!--<e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>-->
-      <e><p><l>quvan<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>
 
+      <e><p><l>tur<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
+      <e><p><l>ket<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
+      <e><p><l>otur<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>                   <!-- Transfer -->
+
+
+      <e><p><l>quvan<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tap<s n="v"/><s n="tv"/></l><r>bul<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qabaatla<s n="v"/><s n="tv"/></l><r>suçla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tasdıqla<s n="v"/><s n="tv"/></l><r>onayla<s n="v"/><s n="tv"/></r></p></e>
@@ -3046,6 +3075,7 @@
       <e><p><l>toqtat<s n="v"/><s n="tv"/></l><r>durdur<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqalan<s n="v"/><s n="iv"/></l><r>yakalan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sat<s n="v"/><s n="tv"/></l><r>sat<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>satıl<s n="v"/><s n="iv"/></l><r>satıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>anneksirle<s n="v"/><s n="tv"/></l><r>ilhak<b/>et<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaq<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yet<s n="v"/><s n="iv"/></l><r>ulaş<s n="v"/><s n="iv"/></r></p></e>
@@ -4331,6 +4361,7 @@
 <e><p><l>deramet<s n="n"/></l><r>gelir<s n="n"/></r></p></e>
 <e><p><l>çatlaq<s n="n"/></l><r>çatlak<s n="n"/></r></p></e>
 <e><p><l>büyükleştir<s n="v"/><s n="tv"/></l><r>büyükleştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>qara<s n="v"/><s n="iv"/></l><r>bak<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>bankrot<s n="n"/></l><r>iflas<s n="n"/></r></p></e>
 <e><p><l>bankrot<s n="n"/></l><r>batış<s n="n"/></r></p></e>
 <e><p><l>bankrot<s n="n"/></l><r>mahvolma<s n="n"/></r></p></e>
@@ -4340,6 +4371,7 @@
 <e><p><l>anatomiya<s n="n"/></l><r>anatomi<s n="n"/></r></p></e>
 <e><p><l>ambulatoriya<s n="n"/></l><r>poliklinik<s n="n"/></r></p></e>
 <e><p><l>adaptirle<s n="v"/><s n="tv"/></l><r>uyarla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ziyaret<b/>et<s n="v"/><s n="tv"/></l><r>ziyaret<b/>et<s n="v"/><s n="tv"/></r></p></e>
 
 
 
