@@ -2688,6 +2688,14 @@
 <e><p><l>Ahmetşayev<s n="np"/><s n="cog"/></l><r>Ahmetşayev<s n="np"/><s n="cog"/></r></p><par n="cog:ov__cog"/></e>
 <e><p><l>Ahmetgaliyev<s n="np"/><s n="cog"/></l><r>Ahmetgaliyev<s n="np"/><s n="cog"/></r></p><par n="cog:ov__cog"/></e>
 
+	  <e><p><l>Brüssel<s n="np"/><s n="top"/></l><r>Brüksel<s n="np"/><s n="top"/></r></p></e>
+	  <e><p><l>Slavânsk<s n="np"/><s n="top"/></l><r>Slavyansk<s n="np"/><s n="top"/></r></p></e>
+	  <e><p><l>Dnepropetrovsk<s n="np"/><s n="top"/></l><r>Dnepropetrovsk<s n="np"/><s n="top"/></r></p></e>
+	  <e><p><l>Geniçesk<s n="np"/><s n="top"/></l><r>Geniçesk<s n="np"/><s n="top"/></r></p></e>
+	  <e><p><l>Rostov<s n="np"/><s n="top"/></l><r>Rostov<s n="np"/><s n="top"/></r></p></e>
+	  <e><p><l>Jeneva<s n="np"/><s n="top"/></l><r>Cenevre<s n="np"/><s n="top"/></r></p></e>
+	  <e><p><l>Qıtay<s n="np"/><s n="top"/></l><r>Kitay<s n="np"/><s n="top"/></r></p></e>
+	  <e><p><l>Groznıy<s n="np"/><s n="top"/></l><r>Grozni<s n="np"/><s n="top"/></r></p></e>
 
 
   <!-- SECTION: Adjectives -->
