@@ -140,7 +140,7 @@
       <!-- SECTION: Determiners -->
       <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
-      <e><p><l>iç<b/>bir<s n="det"/><s n="ind"/></l><r>hiç<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>iç<b/>bir<s n="det"/><s n="ind"/></l><r>hiç<b/>bir<s n="det"/><s n="neg"/></r></p></e>
       <e><p><l>ep<s n="det"/><s n="ind"/></l><r>hep<s n="det"/><s n="qnt"/></r></p></e>
       <e><p><l>er<s n="det"/><s n="ind"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>öz<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
@@ -988,6 +988,7 @@
       <e><p><l>bolşevik<s n="n"/></l><r>bolşevik<s n="n"/></r></p></e>
       <e><p><l>mecmua<s n="n"/></l><r>dergi<s n="n"/></r></p></e>
       <e><p><l>qoranta<s n="n"/></l><r>aile<s n="n"/></r></p></e>
+      <e><p><l>aile<s n="n"/></l><r>aile<s n="n"/></r></p></e>
       <e><p><l>saip<s n="n"/></l><r>sahip<s n="n"/></r></p></e>
       <e><p><l>mektep<s n="n"/></l><r>okul<s n="n"/></r></p></e>
       <e><p><l>açlıq<s n="n"/></l><r>açlık<s n="n"/></r></p></e>
@@ -1209,6 +1210,8 @@
 <e><p><l>fabrika<s n="n"/></l><r>fabrika<s n="n"/></r></p></e>
 <e><p><l>militsiya<s n="n"/></l><r>polis<s n="n"/></r></p></e>
 <e><p><l>suv<s n="n"/></l><r>su<s n="n"/></r></p></e>
+<e><p><l>barış<s n="n"/></l><r>barış<s n="n"/></r></p></e>
+<e><p><l>göl<s n="n"/></l><r>göl<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
       <e><p><l>Kezlev<s n="np"/><s n="cog"/><s n="m"/></l><r>Kezlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -2526,6 +2529,7 @@
 	  <e><p><l>mecburi<s n="adj"/></l><r>mecburi<s n="adj"/></r></p></e>
 	  <e><p><l>zaruriy<s n="adj"/></l><r>zaruri<s n="adj"/></r></p></e>
 	  <e><p><l>kerekli<s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
+	  <e><p><l>lâzim<s n="adj"/></l><r>lazım<s n="adj"/></r></p></e>
 	  <e><p><l>sahte<s n="adj"/></l><r>sahte<s n="adj"/></r></p></e>
 	  <e><p><l>turistik<s n="adj"/></l><r>turistik<s n="adj"/></r></p></e>
 	  <e><p><l>kommunal<s n="adj"/></l><r>umumi<s n="adj"/></r></p></e>
