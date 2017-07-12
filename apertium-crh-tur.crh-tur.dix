@@ -249,6 +249,11 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>erkek<s n="n"/></l><r>erkek<s n="n"/></r></p></e>
+      <e><p><l>aşayt<s n="n"/></l><r>yiyecek<s n="n"/></r></p></e>
+      <e><p><l>ög<s n="n"/></l><r>ön<s n="n"/></r></p></e>
+      <e><p><l>parom<s n="n"/></l><r>vapur<s n="n"/></r></p></e>
+      <e><p><l>yarım<s n="n"/></l><r>yarım<s n="n"/></r></p></e>
       <e><p><l>tehnika<s n="n"/></l><r>teçhizat<s n="n"/></r></p></e>
       <e><p><l>rejissör<s n="n"/></l><r>yapımcı<s n="n"/></r></p></e>
       <e><p><l>mevzu<s n="n"/></l><r>mevzu<s n="n"/></r></p></e>
@@ -1004,6 +1009,7 @@
       <e><p><l>siyaset<s n="n"/></l><r>siyaset<s n="n"/></r></p></e>
       <e><p><l>alim<s n="n"/></l><r>alim<s n="n"/></r></p></e>
       <e><p><l>sayı<s n="n"/></l><r>sayı<s n="n"/></r></p></e>
+      <e><p><l>çetel<s n="n"/></l><r>dış<s n="n"/></r></p></e>
       <e><p><l>sebep<s n="n"/></l><r>sebep<s n="n"/></r></p></e>
       <e><p><l>ümüt<s n="n"/></l><r>umut<s n="n"/></r></p></e>
       <e><p><l>vatandaş<s n="n"/></l><r>vatandaş<s n="n"/></r></p></e>
@@ -2699,6 +2705,7 @@
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+	  <e><p><l>evelâ<s n="adv"/></l><r>evvela<s n="adv"/></r></p></e>
       <e><p><l>baştan<s n="adv"/></l><r>baştan<s n="adv"/></r></p></e>
 
 	  <e><p><l>binayen<s n="adv"/></l><r>binaen<s n="adv"/></r></p></e>
@@ -2768,6 +2775,8 @@
       <e><p><l>qabaatla<s n="v"/><s n="tv"/></l><r>suçla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tasdıqla<s n="v"/><s n="tv"/></l><r>onayla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tırış<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>işğal<b/>et<s n="v"/><s n="tv"/></l><r>işgal<b/>et<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>etil<s n="v"/><s n="iv"/></l><r>edil<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerek<s n="v"/><s n="iv"/></l><r>gerek<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qorq<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
@@ -2804,8 +2813,10 @@
       <e><p><l>sayla<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çaypa<s n="v"/><s n="tv"/></l><r>yağmala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qatil<b/>et<s n="v"/><s n="tv"/></l><r>katlet<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>teşkil<b/>et<s n="v"/><s n="tv"/></l><r>teşkil<b/>et<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqala<s n="v"/><s n="iv"/></l><r>yakala<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>toqta<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>toqtat<s n="v"/><s n="tv"/></l><r>durdur<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>yaqalan<s n="v"/><s n="iv"/></l><r>yakalan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sat<s n="v"/><s n="tv"/></l><r>sat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>anneksirle<s n="v"/><s n="tv"/></l><r>ilhak<b/>et<s n="v"/><s n="tv"/></r></p></e>
