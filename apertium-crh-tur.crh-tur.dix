@@ -3473,6 +3473,40 @@
 <e><p><l>Aeroflotskiy<s n="np"/><s n="top"/></l><r>Aeroflotskiy<s n="np"/><s n="top"/></r></p></e>  <!-- Аэрофлотский|Aeroflotskiy -->
 <e><p><l>Ableş<s n="np"/><s n="top"/></l><r>Ableş<s n="np"/><s n="top"/></r></p></e>  <!-- Пруды (Советский район) -->
 
+<e><p><l>Zaporojye<s n="np"/><s n="top"/></l><r>Zaporojye<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Lefortovo<s n="np"/><s n="top"/></l><r>Lefortovo<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Dagestan<s n="np"/><s n="top"/></l><r>Dağıstan<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Omsk<s n="np"/><s n="top"/></l><r>Omsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Novorossiya<s n="np"/><s n="top"/></l><r>Novorossiya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Avrasiya<s n="np"/><s n="top"/></l><r>Avrasya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Armânsk<s n="np"/><s n="top"/></l><r>Armyansk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Peçersk<s n="np"/><s n="top"/></l><r>Peçersk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Viktoriya<s n="np"/><s n="top"/></l><r>Victoria<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Arhangelsk<s n="np"/><s n="top"/></l><r>Arhangelsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Novosibirsk<s n="np"/><s n="top"/></l><r>Novosibirsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Habarovsk<s n="np"/><s n="top"/></l><r>Habarovsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Krasnoyarsk<s n="np"/><s n="top"/></l><r>Krasnoyarsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>İrkutsk<s n="np"/><s n="top"/></l><r>İrkutsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Drujba<s n="np"/><s n="top"/></l><r>Drujba<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Çelâbinsk<s n="np"/><s n="top"/></l><r>Çelyabinsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Strasburg<s n="np"/><s n="top"/></l><r>Strazburg<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Leninabad<s n="np"/><s n="top"/></l><r>Leninabad<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Kataloniya<s n="np"/><s n="top"/></l><r>Katalonya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Frankovsk<s n="np"/><s n="top"/></l><r>Frankovsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Feodosiya<s n="np"/><s n="top"/></l><r>Feodosiya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Başqurtistan<s n="np"/><s n="top"/></l><r>Başkurdistan<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Çernovtsı<s n="np"/><s n="top"/></l><r>Çernovtsı<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Dneprovsk<s n="np"/><s n="top"/></l><r>Dneprovsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Burâtiya<s n="np"/><s n="top"/></l><r>Buryatiya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Qarabağ<s n="np"/><s n="top"/></l><r>Karabağ<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Timor<s n="np"/><s n="top"/></l><r>Timor<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Gurcistan<s n="np"/><s n="top"/></l><r>Gürcistan<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Yakutsk<s n="np"/><s n="top"/></l><r>Yakutsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Skandinaviya<s n="np"/><s n="top"/></l><r>Skandinavya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Qars<s n="np"/><s n="top"/></l><r>Kars<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Qadıköy<s n="np"/><s n="top"/></l><r>Kadıköy<s n="np"/><s n="top"/></r></p></e>
+
+
   <!-- SECTION: Adjectives -->
 	  <e><p><l>fevqulâde<s n="adj"/></l><r>fevkalade<s n="adj"/></r></p></e>
 	  <e><p><l>bedava<s n="adj"/></l><r>bedava<s n="adj"/></r></p></e>
@@ -5123,6 +5157,169 @@
 <e><p><l>ziyaret<b/>et<s n="v"/><s n="tv"/></l><r>ziyaret<b/>et<s n="v"/><s n="tv"/></r></p></e>
 
 
+<e><p><l>toplaşuv<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
+<e><p><l>yasaq<b/>et<s n="v"/><s n="tv"/></l><r>yasakla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>qapat<s n="v"/><s n="tv"/></l><r>kapat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sovet<s n="adj"/></l><r>sovet<s n="adj"/></r></p></e>
+<e><p><l>bit<s n="v"/><s n="iv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>bazarerte<s n="n"/></l><r>pazartesi<s n="n"/></r></p></e>
+<e><p><l>istilâ<s n="n"/></l><r>istila<s n="n"/></r></p></e>
+<e><p><l>teşebbüsçi<s n="n"/></l><r>müteşebbis<s n="n"/></r></p></e>
+<e><p><l>taqip<s n="n"/></l><r>takip<s n="n"/></r></p></e>
+<e><p><l>furtuna<s n="n"/></l><r>fırtına<s n="n"/></r></p></e>
+<e><p><l>toplulıq<s n="n"/></l><r>topluluk<s n="n"/></r></p></e>
+<e><p><l>resmiyleştir<s n="v"/><s n="tv"/></l><r>resmileştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>tışqı<s n="adj"/></l><r>dış<s n="adj"/></r></p></e>
+<e><p><l>studiya<s n="n"/></l><r>stüdyo<s n="n"/></r></p></e>
+<e><p><l>aqibet<s n="n"/></l><r>akibet<s n="n"/></r></p></e>
+<e><p><l>tedqiq<s n="n"/></l><r>tetkik<s n="n"/></r></p></e>
+<e><p><l>sanktsiya<s n="n"/></l><r>onay<s n="n"/></r></p></e>
+<e><p><l>sanktsiya<s n="n"/></l><r>izin<s n="n"/></r></p></e>
+<e><p><l>intervyü<s n="n"/></l><r>röpörtaj<s n="n"/></r></p></e>
+<e><p><l>kabinet<s n="n"/></l><r>kabine<s n="n"/></r></p></e>
+<e><p><l>adlandır<s n="v"/><s n="tv"/></l><r>adlandır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>telükesizlik<s n="n"/></l><r>emniyet<s n="n"/></r></p></e>
+<e><p><l>begen<s n="v"/><s n="tv"/></l><r>beğen<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>quvetleştir<s n="v"/><s n="tv"/></l><r>güçlendir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>poçta<s n="n"/></l><r>post<s n="n"/></r></p></e>
+<e><p><l>ruhset<s n="n"/></l><r>ruhsat<s n="n"/></r></p></e>
+<e><p><l>vatanperver<s n="n"/></l><r>vatanperver<s n="n"/></r></p></e>
+<e><p><l>muhalifet<s n="n"/></l><r>muhalefet<s n="n"/></r></p></e>
+<e><p><l>imtian<s n="n"/></l><r>imtihan<s n="n"/></r></p></e>
+<e><p><l>imtian<s n="n"/></l><r>sınav<s n="n"/></r></p></e>
+<e><p><l>tecribe<s n="n"/></l><r>tecrübe<s n="n"/></r></p></e>
+<e><p><l>qırımtatarca<s n="adv"/></l><r>qırımtatarca<s n="adv"/></r></p></e>
+<e><p><l>minut<s n="n"/></l><r>dakika<s n="n"/></r></p></e>
+<e><p><l>qabaatlı<s n="adj"/></l><r>suçlu<s n="adj"/></r></p></e>
+<e><p><l>ortaq<s n="n"/></l><r>ortak<s n="n"/></r></p></e>
+<e><p><l>tevqif<s n="n"/></l><r>tevkif<s n="n"/></r></p></e>
+<e><p><l>tenqit<s n="n"/></l><r>tenkit<s n="n"/></r></p></e>
+<e><p><l>tenqit<s n="n"/></l><r>eleştiri<s n="n"/></r></p></e>
+<e><p><l>qolaylaştır<s n="v"/><s n="tv"/></l><r>kolaylaştır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>temsiliy<s n="adj"/></l><r>temsili<s n="adj"/></r></p></e>
+<e><p><l>tonna<s n="n"/></l><r>ton<s n="n"/></r></p></e>
+<e><p><l>marşrut<s n="n"/></l><r>rota<s n="n"/></r></p></e>
+<e><p><l>marşrut<s n="n"/></l><r>yol<s n="n"/></r></p></e>
+<e><p><l>hastalıq<s n="n"/></l><r>hastalık<s n="n"/></r></p></e>
+<e><p><l>televideniye<s n="n"/></l><r>televizyon<s n="n"/></r></p></e>
+<e><p><l>raketa<s n="n"/></l><r>roket<s n="n"/></r></p></e>
+<e><p><l>imkâniyet<s n="n"/></l><r>imkan<s n="n"/></r></p></e>
+<e><p><l>fraktsiya<s n="n"/></l><r>hizip<s n="n"/></r></p></e>
+<e><p><l>reabilitatsiya<s n="n"/></l><r>rehabilitasyon<s n="n"/></r></p></e>
+<e><p><l>reabilitatsiya<s n="n"/></l><r>iyileştirme<s n="n"/></r></p></e>
+<e><p><l>provokatsiya<s n="n"/></l><r>provokasyon<s n="n"/></r></p></e>
+<e><p><l>infrastruktura<s n="n"/></l><r>altyapı<s n="n"/></r></p></e>
+<e><p><l>litsenziya<s n="n"/></l><r>lisans<s n="n"/></r></p></e>
+<e><p><l>koordinatsion<s n="n"/></l><r>koordinasyon<s n="n"/></r></p></e>
+<e><p><l>koordinatsion<s n="n"/></l><r>eşgündüm<s n="n"/></r></p></e>
+<e><p><l>deñiştirüv<s n="n"/></l><r>değişiklik<s n="n"/></r></p></e>
+<e><p><l>kontakt<s n="n"/></l><r>temas<s n="n"/></r></p></e>
+<e><p><l>ğayret<s n="n"/></l><r>gayret<s n="n"/></r></p></e>
+<e><p><l>saqat<s n="n"/></l><r>sakat<s n="n"/></r></p></e>
+<e><p><l>araştır<s n="v"/><s n="tv"/></l><r>araştır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>qıymetli<s n="adj"/></l><r>kıymetli<s n="adj"/></r></p></e>
+<e><p><l>lektsiya<s n="n"/></l><r>konuşma<s n="n"/></r></p></e>
+<e><p><l>luğat<s n="n"/></l><r>lügat<s n="n"/></r></p></e>
+<e><p><l>felâket<s n="n"/></l><r>felaket<s n="n"/></r></p></e>
+<e><p><l>kantsler<s n="n"/></l><r>şansölye<s n="n"/></r></p></e>
+<e><p><l>variant<s n="n"/></l><r>edisyon<s n="n"/></r></p></e>
+<e><p><l>qurtarıcı<s n="adj"/></l><r>kurtarıcı<s n="adj"/></r></p></e>
+<e><p><l>imperatorlıq<s n="n"/></l><r>imparatorluk<s n="n"/></r></p></e>
+<e><p><l>kubometr<s n="n"/></l><r>metre küp<s n="n"/></r></p></e>
+<e><p><l>ayret<s n="n"/></l><r>hayret<s n="n"/></r></p></e>
+<e><p><l>emiyetli<s n="adj"/></l><r>güvenli<s n="adj"/></r></p></e>
+<e><p><l>ittifaq<s n="n"/></l><r>ittifak<s n="n"/></r></p></e>
+<e><p><l>yataqhane<s n="n"/></l><r>yatakhane<s n="n"/></r></p></e>
+<e><p><l>istidatlı<s n="adj"/></l><r>yetenekli<s n="adj"/></r></p></e>
+<e><p><l>diqqatsızlıq<s n="n"/></l><r>dikkatsizlik<s n="n"/></r></p></e>
+<e><p><l>provokatsion<s n="n"/></l><r>provokasyon<s n="n"/></r></p></e>
+<e><p><l>donatıl<s n="v"/><s n="iv"/></l><r>donatıl<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>stipendiya<s n="n"/></l><r>burs<s n="n"/></r></p></e>
+<e><p><l>mantıq<s n="n"/></l><r>mantık<s n="n"/></r></p></e>
+<e><p><l>vatanperver<s n="adj"/></l><r>vatanperver<s n="adj"/></r></p></e>
+<e><p><l>deşetli<s n="adj"/></l><r>dehşetli<s n="adj"/></r></p></e>
+<e><p><l>statistika<s n="n"/></l><r>istatistik<s n="n"/></r></p></e>
+<e><p><l>yaratıcılıq<s n="n"/></l><r>yaratıcılık<s n="n"/></r></p></e>
+<e><p><l>tañ<s n="n"/></l><r>sabah<s n="n"/></r></p></e>
+<e><p><l>süjet<s n="n"/></l><r>konu<s n="n"/></r></p></e>
+<e><p><l>tize<s n="n"/></l><r>teyze<s n="n"/></r></p></e>
+<e><p><l>tenbi<s n="n"/></l><r>uyarı<s n="n"/></r></p></e>
+<e><p><l>tsirk<s n="n"/></l><r>kilise<s n="n"/></r></p></e>
+<e><p><l>isbat<s n="n"/></l><r>ispat<s n="n"/></r></p></e>
+<e><p><l>tehnikum<s n="n"/></l><r>teknik okul<s n="n"/></r></p></e>
+<e><p><l>yıqtır<s n="v"/><s n="tv"/></l><r>yık<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ğurbetlik<s n="n"/></l><r>gurbet<s n="n"/></r></p></e>
+<e><p><l>tranzit<s n="n"/></l><r>transit<s n="n"/></r></p></e>
+<e><p><l>tamırlı<s n="adj"/></l><r>kökenli<s n="adj"/></r></p></e>
+<e><p><l>radiostantsiya<s n="n"/></l><r>radio istasyonu<s n="n"/></r></p></e>
+<e><p><l>rekonstruktsiya<s n="n"/></l><r>kalkınma<s n="n"/></r></p></e>
+<e><p><l>bitaraf<s n="adj"/></l><r>tarafsız<s n="adj"/></r></p></e>
+<e><p><l>assimilâtsiya<s n="n"/></l><r>asimilasyon<s n="n"/></r></p></e>
+<e><p><l>assimilâtsiya<s n="n"/></l><r>özümseme<s n="n"/></r></p></e>
+<e><p><l>ustahane<s n="n"/></l><r>işyeri<s n="n"/></r></p></e>
+<e><p><l>türkçe<s n="adv"/></l><r>türkçe<s n="adv"/></r></p></e>
+<e><p><l>telâş<s n="n"/></l><r>telaş<s n="n"/></r></p></e>
+<e><p><l>internatsionalizm<s n="n"/></l><r>enternasyonalizm<s n="n"/></r></p></e>
+<e><p><l>granata<s n="n"/></l><r>el bombası<s n="n"/></r></p></e>
+<e><p><l>tışarı<s n="n"/></l><r>dışarı<s n="n"/></r></p></e>
+<e><p><l>etnogenez<s n="n"/></l><r>etnogenez<s n="n"/></r></p></e>
+<e><p><l>zemaneviyleştir<s n="v"/><s n="tv"/></l><r>modernleştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>trotil<s n="n"/></l><r>TNT<s n="n"/></r></p></e>
+<e><p><l>eşit<s n="v"/><s n="tv"/></l><r>işit<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kvartal<s n="n"/></l><r>kısım<s n="n"/></r></p></e>
+<e><p><l>izolâtsiya<s n="n"/></l><r>yalıtım<s n="n"/></r></p></e>
+<e><p><l>izolâtsiya<s n="n"/></l><r>izolasyon<s n="n"/></r></p></e>
+<e><p><l>içtimaiyat<s n="n"/></l><r>sosyoloji<s n="n"/></r></p></e>
+<e><p><l>entsiklopediya<s n="n"/></l><r>ansiklopedi<s n="n"/></r></p></e>
+<e><p><l>animatsion<s n="n"/></l><r>animasyon<s n="n"/></r></p></e>
+<e><p><l>quçaqla<s n="v"/><s n="tv"/></l><r>kucakla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>qararlaştır<s n="v"/><s n="tv"/></l><r>kararlaştır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ital<s n="n"/></l><r>ithal<s n="n"/></r></p></e>
+<e><p><l>ikmetli<s n="adj"/></l><r>hikmetli<s n="adj"/></r></p></e>
+<e><p><l>içtimaiyatçı<s n="n"/></l><r>sosyolog<s n="n"/></r></p></e>
+<e><p><l>atiqiyat<s n="n"/></l><r>arkeoloji<s n="n"/></r></p></e>
+<e><p><l>atiqiyatçı<s n="n"/></l><r>arkeolog<s n="n"/></r></p></e>
+<e><p><l>ultimatum<s n="n"/></l><r>ültimatom<s n="n"/></r></p></e>
+<e><p><l>ufaq-tüfek<s n="adj"/></l><r>ufak tefek<s n="adj"/></r></p></e>
+<e><p><l>Nijniy<b/>Novgorod<s n="np"/><s n="top"/></l><r>Nijniy<b/>Novgorod<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>merametli<s n="adj"/></l><r>merhametli<s n="adj"/></r></p></e>
+<e><p><l>tatlılıq<s n="n"/></l><r>tatlı<s n="n"/></r></p></e>
+<e><p><l>belâğat<s n="n"/></l><r>söylem<s n="n"/></r></p></e>
+<e><p><l>attestatsiya<s n="n"/></l><r>tanıklık<s n="n"/></r></p></e>
+<e><p><l>aqaret<s n="n"/></l><r>hakaret<s n="n"/></r></p></e>
+<e><p><l>telegramma<s n="n"/></l><r>telegram<s n="n"/></r></p></e>
+<e><p><l>siyasetleştir<s n="v"/><s n="tv"/></l><r>siyasileştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>mototsikl<s n="n"/></l><r>motosiklet<s n="n"/></r></p></e>
+<e><p><l>millitsioner<s n="n"/></l><r>polis<s n="n"/></r></p></e>
+<e><p><l>material<s n="n"/></l><r>madde<s n="n"/></r></p></e>
+<e><p><l>kooperativ<s n="adj"/></l><r>ortak<s n="adj"/></r></p></e>
+<e><p><l>koordinatsiya<s n="n"/></l><r>koordinasyon<s n="n"/></r></p></e>
+<e><p><l>kollaboratsionist<s n="n"/></l><r>işbirlikçi<s n="n"/></r></p></e>
+<e><p><l>kantselâriya<s n="n"/></l><r>şansölyelik<s n="n"/></r></p></e>
+<e><p><l>Zelandiya<s n="np"/><s n="top"/></l><r>Zelandya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Rumeli<s n="np"/><s n="top"/></l><r>Rumeli<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Lipetsk<s n="np"/><s n="top"/></l><r>Lipetsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>kollaboratsionizm<s n="n"/></l><r>işbirlikçilik<s n="n"/></r></p></e>
+<e><p><l>inauguratsion<s n="n"/></l><r>açılış<s n="n"/></r></p></e>
+<e><p><l>elektriçka<s n="n"/></l><r>tren<s n="n"/></r></p></e>
+<e><p><l>bulutlı<s n="adj"/></l><r>bulutlu<s n="adj"/></r></p></e>
+<e><p><l>uzatuv<s n="n"/></l><r>uzatma<s n="n"/></r></p></e>
+<e><p><l>tamirlev<s n="n"/></l><r>tamir<s n="n"/></r></p></e>
+<e><p><l>restavratsiya<s n="n"/></l><r>restorasyon<s n="n"/></r></p></e>
+<e><p><l>ortalıq<s n="n"/></l><r>ortalık<s n="n"/></r></p></e>
+<e><p><l>oktava<s n="n"/></l><r>oktav<s n="n"/></r></p></e>
+<e><p><l>Novotroitsk<s n="np"/><s n="top"/></l><r>Novotroitsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Damask<s n="np"/><s n="top"/></l><r>Şam<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>ucuzlaştır<s n="v"/><s n="tv"/></l><r>ucuzlat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>Turkestan<s n="np"/><s n="top"/></l><r>Türkistan<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>stomatologiya<s n="n"/></l><r>dişçilik<s n="n"/></r></p></e>
+<e><p><l>Sivas<s n="np"/><s n="top"/></l><r>Sivas<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>qartal<s n="n"/></l><r>kartal<s n="n"/></r></p></e>
+<e><p><l>qanatlı<s n="adj"/></l><r>kanatlı<s n="adj"/></r></p></e>
+<e><p><l>kollaboratsion<s n="n"/></l><r>işbirlik<s n="n"/></r></p></e>
+<e><p><l>Vinnitsk<s n="np"/><s n="top"/></l><r>Vinnitsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Ülyanovsk<s n="np"/><s n="top"/></l><r>Ülyanovsk<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Tomsk<s n="np"/><s n="top"/></l><r>Tomsk<s n="np"/><s n="top"/></r></p></e>
 
    </section>
 </dictionary>
