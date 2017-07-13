@@ -210,6 +210,8 @@
       <e><p><l>evel<s n="post"/></l><r>önce<s n="post"/></r></p></e>
       <e><p><l>evel<s n="post"/></l><r>evvel<s n="post"/></r></p></e>
       <e><p><l>ğayrı<s n="post"/></l><r>hariç<s n="post"/></r></p></e>
+      <e><p><l>sebep<s n="post"/></l><r>dolayı<s n="post"/></r></p></e>
+      <!--<e><p><l>sebep<s n="post"/></l><r>ötürü<s n="post"/></r></p></e>-->
 
       <!-- SECTION: Pronouns -->
       <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e>
@@ -5320,5 +5322,6 @@
 <e><p><l>provokator<s n="n"/></l><r>tahrikçi<s n="n"/></r></p></e>
 <e><p><l>provokator<s n="n"/></l><r>kışkırtıcı<s n="n"/></r></p></e>
 <e><p><l>blank<s n="n"/></l><r>form<s n="n"/></r></p></e>
+<e><p><l>daire<s n="n"/></l><r>daire<s n="n"/></r></p></e>
    </section>
 </dictionary>
