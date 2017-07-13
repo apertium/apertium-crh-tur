@@ -257,7 +257,47 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
-      <e><p><l>elektroteminlev<s n="n"/></l><r>eletrik<b/>teminatı<s n="n"/></r></p></e>
+<e><p><l>taqdir<s n="n"/></l><r>takdir<s n="n"/></r></p></e>
+<e><p><l>subet<s n="n"/></l><r>sohbet<s n="n"/></r></p></e>
+<e><p><l>bütünlik<s n="n"/></l><r>bütünlük<s n="n"/></r></p></e>
+<e><p><l>teşviqat<s n="n"/></l><r>teşvik<s n="n"/></r></p></e>
+<e><p><l>teminlev<s n="n"/></l><r>teminlat<s n="n"/></r></p></e>
+<e><p><l>ekstremizm<s n="n"/></l><r>aşırılıkçılık<s n="n"/></r></p></e>
+<e><p><l>siyasetşınas<s n="n"/></l><r>siyasetbilimci<s n="n"/></r></p></e>
+<e><p><l>közetici<s n="n"/></l><r>gözetmen<s n="n"/></r></p></e>
+<e><p><l>muhtac<s n="n"/></l><r>muhtaç<s n="n"/></r></p></e>
+<e><p><l>qanuniyet<s n="n"/></l><r>kanunilik<s n="n"/></r></p></e>
+<e><p><l>mesüliyet<s n="n"/></l><r>mesuliyet<s n="n"/></r></p></e>
+<e><p><l>sanaat<s n="n"/></l><r>sanat<s n="n"/></r></p></e>
+<e><p><l>akkreditatsiya<s n="n"/></l><r>akreditasyon<s n="n"/></r></p></e>
+<e><p><l>istisalcı<s n="n"/></l><r>üretici<s n="n"/></r></p></e>
+<e><p><l>veteran<s n="n"/></l><r>gazi<s n="n"/></r></p></e>
+<e><p><l>raatlanuv<s n="n"/></l><r>rahatlama<s n="n"/></r></p></e>
+<e><p><l>aqaretlev<s n="n"/></l><r>hakaret<s n="n"/></r></p></e>
+<e><p><l>kollektiv<s n="n"/></l><r>kolektif<s n="n"/></r></p></e>
+<e><p><l>sutka<s n="n"/></l><r>dokuma<s n="n"/></r></p></e>
+<e><p><l>laureat<s n="n"/></l><r>ödüllü<s n="n"/></r></p></e>
+<e><p><l>tercimeial<s n="n"/></l><r>özgeçmiş<s n="n"/></r></p></e>
+<e><p><l>ayvanat<s n="n"/></l><r>hayvanat<s n="n"/></r></p></e>
+<e><p><l>kombinat<s n="n"/></l><r>birleşim<s n="n"/></r></p></e>
+<e><p><l>kombinat<s n="n"/></l><r>birleştirme<s n="n"/></r></p></e>
+<e><p><l>tilşınaslıq<s n="n"/></l><r>dilbilim<s n="n"/></r></p></e>
+<e><p><l>közetüv<s n="n"/></l><r>gözetim<s n="n"/></r></p></e>
+<e><p><l>deşet<s n="n"/></l><r>dehşet<s n="n"/></r></p></e>
+<e><p><l>seyaatçı<s n="n"/></l><r>seyyah<s n="n"/></r></p></e>
+<e><p><l>devletleştirüv<s n="n"/></l><r>devletleştirme<s n="n"/></r></p></e>
+<e><p><l>eksponat<s n="n"/></l><r>sergi<s n="n"/></r></p></e>
+<e><p><l>zenit<s n="n"/></l><r>tepe<s n="n"/></r></p></e>
+<e><p><l>diskriminatsiya<s n="n"/></l><r>ayrımcılık<s n="n"/></r></p></e>
+<e><p><l>elektrostantsiya<s n="n"/></l><r>elektrik santrali<s n="n"/></r></p></e>
+<e><p><l>adaptatsiya<s n="n"/></l><r>adaptasyon<s n="n"/></r></p></e>
+<e><p><l>yıqıntılıq<s n="n"/></l><r>yıkıntı<s n="n"/></r></p></e>
+<e><p><l>toquma<s n="n"/></l><r>dokuma<s n="n"/></r></p></e>
+<e><p><l>hititologiya<s n="n"/></l><r>hititoloji<s n="n"/></r></p></e>
+
+
+
+      <e><p><l>elektroteminlev<s n="n"/></l><r>elektrik<b/>teminatı<s n="n"/></r></p></e>
       <e><p><l>tükân<s n="n"/></l><r>dükkan<s n="n"/></r></p></e>
       <e><p><l>advokat<s n="n"/></l><r>avukat<s n="n"/></r></p></e>
       <e><p><l>erkek<s n="n"/></l><r>erkek<s n="n"/></r></p></e>
@@ -559,6 +599,7 @@
       <e><p><l>minnet<s n="n"/></l><r>minnet<s n="n"/></r></p></e>
       <e><p><l>militarizm<s n="n"/></l><r>militarizm<s n="n"/></r></p></e>
       <e><p><l>metanet<s n="n"/></l><r>metanet<s n="n"/></r></p></e>
+      <e><p><l>mesüliyet<s n="n"/></l><r>mesuliyet<s n="n"/></r></p></e>
       <e><p><l>mesuliyet<s n="n"/></l><r>mesuliyet<s n="n"/></r></p></e>
       <e><p><l>kütle<s n="n"/></l><r>kütle<s n="n"/></r></p></e>
       <e><p><l>kostüm<s n="n"/></l><r>kostüm<s n="n"/></r></p></e>
