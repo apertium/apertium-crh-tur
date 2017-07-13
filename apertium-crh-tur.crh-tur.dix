@@ -130,6 +130,10 @@
 <e><p><l><s n="m"/></l><r>i<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l><s n="f"/></l><r>aya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 </pardef>
+<pardef n="pat:iç__pat">
+<e><p><l><s n="m"/></l><r>iç<s n="np"/><s n="pat"/><s n="m"/></r></p></e>
+<e><p><l><s n="f"/></l><r>na<s n="np"/><s n="pat"/><s n="f"/></r></p></e>
+</pardef>
 
 	  </pardefs>
 
@@ -1905,15 +1909,7 @@
 <e><p><l>Mar<s n="np"/><s n="ant"/><s n="f"/></l><r>Mar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Mar<s n="np"/><s n="ant"/><s n="f"/></l><r>Mar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 <e><p><l>Mar<s n="np"/><s n="ant"/><s n="f"/></l><r>Mar<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-<e><p><l>Vasilyeviç<s n="np"/><s n="pat"/></l><r>Vasilyeviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>Markoviç<s n="np"/><s n="pat"/></l><r>Markoviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>Yanukoviç<s n="np"/><s n="pat"/></l><r>Yanukoviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>Mihayloviç<s n="np"/><s n="pat"/></l><r>Mihayloviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>Bogdanoviç<s n="np"/><s n="pat"/></l><r>Bogdanoviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>Stepanoviç<s n="np"/><s n="pat"/></l><r>Stepanoviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>İvanoviç<s n="np"/><s n="pat"/></l><r>İvanoviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>Aleksandroviç<s n="np"/><s n="pat"/></l><r>Aleksandroviç<s n="np"/><s n="pat"/></r></p></e>
-<e><p><l>Petroviç<s n="np"/><s n="pat"/></l><r>Petroviç<s n="np"/><s n="pat"/></r></p></e>
+
 <e><p><l>Svoboda<s n="np"/><s n="al"/></l><r>Svoboda<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>YouTube<s n="np"/><s n="al"/></l><r>YouTube<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>Boeing<s n="np"/><s n="al"/></l><r>Boeing<s n="np"/><s n="al"/></r></p></e>
@@ -3510,6 +3506,52 @@
 <e><p><l>Skandinaviya<s n="np"/><s n="top"/></l><r>Skandinavya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Qars<s n="np"/><s n="top"/></l><r>Kars<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Qadıköy<s n="np"/><s n="top"/></l><r>Kadıköy<s n="np"/><s n="top"/></r></p></e>
+
+<e><p><l>Vasilyeviç<s n="np"/><s n="pat"/></l><r>Vasilyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Markoviç<s n="np"/><s n="pat"/></l><r>Markov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Yanukoviç<s n="np"/><s n="pat"/></l><r>Yanukov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Mihayloviç<s n="np"/><s n="pat"/></l><r>Mihaylov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Bogdanoviç<s n="np"/><s n="pat"/></l><r>Bogdanov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Stepanoviç<s n="np"/><s n="pat"/></l><r>Stepanov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>İvanoviç<s n="np"/><s n="pat"/></l><r>İvanov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Aleksandroviç<s n="np"/><s n="pat"/></l><r>Aleksandrov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Petroviç<s n="np"/><s n="pat"/></l><r>Petrov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Vladimiroviç<s n="np"/><s n="pat"/></l><r>Vladimirov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Nikolayeviç<s n="np"/><s n="pat"/></l><r>Nikolayev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Anatolyeviç<s n="np"/><s n="pat"/></l><r>Anatolyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Grigoryeviç<s n="np"/><s n="pat"/></l><r>Grigoryev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Dmitriyeviç<s n="np"/><s n="pat"/></l><r>Dmitriyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Fedoroviç<s n="np"/><s n="pat"/></l><r>Fedorov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Leonidoviç<s n="np"/><s n="pat"/></l><r>Leonidov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Yüryeviç<s n="np"/><s n="pat"/></l><r>Yüryev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Valeryeviç<s n="np"/><s n="pat"/></l><r>Valeryev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Vitalyeviç<s n="np"/><s n="pat"/></l><r>Vitalyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>İosifoviç<s n="np"/><s n="pat"/></l><r>İosifov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Viktoroviç<s n="np"/><s n="pat"/></l><r>Viktorov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>İgoreviç<s n="np"/><s n="pat"/></l><r>İgorev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Yaroslavoviç<s n="np"/><s n="pat"/></l><r>Yaroslavov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Romanoviç<s n="np"/><s n="pat"/></l><r>Romanov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Borisoviç<s n="np"/><s n="pat"/></l><r>Borisov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Sergeyeviç<s n="np"/><s n="pat"/></l><r>Sergeyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Georgiyeviç<s n="np"/><s n="pat"/></l><r>Georgiyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Semenoviç<s n="np"/><s n="pat"/></l><r>Semenov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Yakovleviç<s n="np"/><s n="pat"/></l><r>Yakovlev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Andreyeviç<s n="np"/><s n="pat"/></l><r>Andreyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Mitskeviç<s n="np"/><s n="pat"/></l><r>Mitskev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Alekseyeviç<s n="np"/><s n="pat"/></l><r>Alekseyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Pavloviç<s n="np"/><s n="pat"/></l><r>Pavlov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Ogneviç<s n="np"/><s n="pat"/></l><r>Ognev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Şinkeviç<s n="np"/><s n="pat"/></l><r>Şinkev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Markeviç<s n="np"/><s n="pat"/></l><r>Markev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Tsentkyeviç<s n="np"/><s n="pat"/></l><r>Tsentkyev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Samoyloviç<s n="np"/><s n="pat"/></l><r>Samoylov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Tureviç<s n="np"/><s n="pat"/></l><r>Turev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Sulkeviç<s n="np"/><s n="pat"/></l><r>Sulkev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Şinkieviç<s n="np"/><s n="pat"/></l><r>Şinkiev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Senkeviç<s n="np"/><s n="pat"/></l><r>Senkev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Müzdeviç<s n="np"/><s n="pat"/></l><r>Müzdev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Firkoviç<s n="np"/><s n="pat"/></l><r>Firkov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
+<e><p><l>Buhareviç<s n="np"/><s n="pat"/></l><r>Buharev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
 
 
   <!-- SECTION: Adjectives -->
@@ -5326,5 +5368,6 @@
 <e><p><l>provokator<s n="n"/></l><r>kışkırtıcı<s n="n"/></r></p></e>
 <e><p><l>blank<s n="n"/></l><r>form<s n="n"/></r></p></e>
 <e><p><l>daire<s n="n"/></l><r>daire<s n="n"/></r></p></e>
+<e><p><l>buzdolap<s n="n"/></l><r>buzdolabı<s n="n"/></r></p><par n="n1__n2"/></e>
    </section>
 </dictionary>
