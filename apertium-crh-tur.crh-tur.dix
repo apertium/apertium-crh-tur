@@ -211,7 +211,7 @@
       <e><p><l>evel<s n="post"/></l><r>evvel<s n="post"/></r></p></e>
       <e><p><l>ğayrı<s n="post"/></l><r>hariç<s n="post"/></r></p></e>
       <e><p><l>sebep<s n="post"/></l><r>dolayı<s n="post"/></r></p></e>
-      <!--<e><p><l>sebep<s n="post"/></l><r>ötürü<s n="post"/></r></p></e>-->
+      <e><p><l>sebep<s n="post"/></l><r>ötürü<s n="post"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
       <e><p><l>bu<s n="prn"/></l><r>bu<s n="prn"/></r></p></e>
