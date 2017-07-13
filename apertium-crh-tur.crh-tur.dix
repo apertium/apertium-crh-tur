@@ -2723,6 +2723,756 @@
 <e><p><l>Cınğız<s n="np"/><s n="ant"/><s n="m"/></l><r>Cınğız<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
 
+<e><p><l>Oraz<s n="np"/><s n="top"/></l><r>Oraz<s n="np"/><s n="top"/></r></p></e>  <!-- Колоски (Сакский район) -->
+<e><p><l>Ceppar<s n="np"/><s n="top"/></l><r>Ceppar<s n="np"/><s n="top"/></r></p></e>  <!-- Северное (Белогорский район) -->
+<e><p><l>Melitopol<s n="np"/><s n="top"/></l><r>Melitopol<s n="np"/><s n="top"/></r></p></e>  <!-- Melitopol|Melitopol|Мелитополь|Мелитополь -->
+<e><p><l>Livadiya<s n="np"/><s n="top"/></l><r>Livadiya<s n="np"/><s n="top"/></r></p></e>  <!-- Livadiya|Livadiya, Crimea|Ливадия|Ливадия -->
+<e><p><l>Volnovaha<s n="np"/><s n="top"/></l><r>Volnovaha<s n="np"/><s n="top"/></r></p></e>  <!-- Volnovakha|Волноваха|Категория:Волноваха -->
+<e><p><l>Özenbaş<s n="np"/><s n="top"/></l><r>Özenbaş<s n="np"/><s n="top"/></r></p></e>  <!-- Тимошенко (село) -->
+<e><p><l>Bulğanaq<s n="np"/><s n="top"/></l><r>Bulğanak<s n="np"/><s n="top"/></r></p></e>  <!-- Добролюбовка (Крым) -->
+<e><p><l>Kalançak<s n="np"/><s n="top"/></l><r>Kalançak<s n="np"/><s n="top"/></r></p></e>  <!-- Kalanchak|Каланчак (Херсонская область) -->
+<e><p><l>İslâm<b/>Terek<s n="np"/><s n="top"/></l><r>İslam<b/>Terek<s n="np"/><s n="top"/></r></p></e>  <!-- Kirovske, Crimea|Кировское (Крым)|Kirovske (Kirovske Raion) -->
+<e><p><l>Kahovka<s n="np"/><s n="top"/></l><r>Kahovka<s n="np"/><s n="top"/></r></p></e>  <!-- Kakhovka|Каховка|Каховка -->
+<e><p><l>Gurzuf<s n="np"/><s n="top"/></l><r>Gurzuf<s n="np"/><s n="top"/></r></p></e>  <!-- Gurzuf|Gurzuf|Гурзуф|Gurzuf|Гурзуф -->
+<e><p><l>Qoz<s n="np"/><s n="top"/></l><r>Koz<s n="np"/><s n="top"/></r></p></e>  <!-- Soniachna Dolyna|Солнечная Долина -->
+<e><p><l>Fontan<s n="np"/><s n="top"/></l><r>Fontan<s n="np"/><s n="top"/></r></p></e>  <!-- Фонтан (село) -->
+<e><p><l>Massandra<s n="np"/><s n="top"/></l><r>Massandra<s n="np"/><s n="top"/></r></p></e>  <!-- Massandra|Массандра|Массандра -->
+<e><p><l>Büyük<b/>Onlar<s n="np"/><s n="top"/></l><r>Büyük<b/>Onlar<s n="np"/><s n="top"/></r></p></e>  <!-- Oktiabrske|Октябрьское (Красногвардейский район) -->
+<e><p><l>Qızıltaş<s n="np"/><s n="top"/></l><r>Kızıltaş<s n="np"/><s n="top"/></r></p></e>  <!-- Krasnokamianka (urban-type settlement)|Краснокаменка (Ялта)|Krasnokamenka (Yalta) -->
+<e><p><l>Nikolayevka<s n="np"/><s n="top"/></l><r>Nikolayevka<s n="np"/><s n="top"/></r></p></e>  <!-- Mykolaivka, Simferopol Raion|Николаевка (Симферопольский район) -->
+<e><p><l>Berdânsk<s n="np"/><s n="top"/></l><r>Berdansk<s n="np"/><s n="top"/></r></p></e>  <!-- Berdiansk|Бердянск|Бердянск -->
+<e><p><l>Suvuq<b/>Sala<s n="np"/><s n="top"/></l><r>Suvuk<b/>Sala<s n="np"/><s n="top"/></r></p></e>  <!-- Hrushivka, Crimea|Грушевка (Крым) -->
+<e><p><l>Mirnıy<s n="np"/><s n="top"/></l><r>Mirnıy<s n="np"/><s n="top"/></r></p></e>  <!-- Myrnyi|Мирный (Крым)|Myrnyi -->
+<e><p><l>Ujgorod<s n="np"/><s n="top"/></l><r>Ujgorod<s n="np"/><s n="top"/></r></p></e>  <!-- Ujqorod|Uzhhorod|Ужгород|Uzhhorod|Ужгород|Uzhhorod -->
+<e><p><l>Frunze<s n="np"/><s n="top"/></l><r>Frunze<s n="np"/><s n="top"/></r></p></e>  <!-- Фрунзе (Первомайский район) -->
+<e><p><l>Çayka<s n="np"/><s n="top"/></l><r>Çayka<s n="np"/><s n="top"/></r></p></e>  <!-- Чайка (Крым) -->
+<e><p><l>Zuya<s n="np"/><s n="top"/></l><r>Zuya<s n="np"/><s n="top"/></r></p></e>  <!-- Зуя|Зуя -->
+<e><p><l>Novoazovsk<s n="np"/><s n="top"/></l><r>Novoazovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Novoazovsk|Новоазовск|Категория:Новоазовск|Новоазовск|Novoazovsk -->
+<e><p><l>Donets<s n="np"/><s n="top"/></l><r>Donets<s n="np"/><s n="top"/></r></p></e>  <!-- Donets, Ukraine|Донец (Балаклейский район) -->
+<e><p><l>Tankovoye<s n="np"/><s n="top"/></l><r>Tankovoye<s n="np"/><s n="top"/></r></p></e>  <!-- Танковое (Красноперекопский район) -->
+<e><p><l>Ortalan<s n="np"/><s n="top"/></l><r>Ortalan<s n="np"/><s n="top"/></r></p></e>  <!-- Земляничное (Крым) -->
+<e><p><l>Kamenka<s n="np"/><s n="top"/></l><r>Kamenka<s n="np"/><s n="top"/></r></p></e>  <!-- Каменка (Первомайский район, Крым) -->
+<e><p><l>Ferngeym<s n="np"/><s n="top"/></l><r>Ferngeym<s n="np"/><s n="top"/></r></p></e>  <!-- Урожайное (Советский район) -->
+<e><p><l>Baydar<s n="np"/><s n="top"/></l><r>Baydar<s n="np"/><s n="top"/></r></p></e>  <!-- Орлиное (Севастополь) -->
+<e><p><l>Totayköy<s n="np"/><s n="top"/></l><r>Totayköy<s n="np"/><s n="top"/></r></p></e>  <!-- Ферсманово -->
+<e><p><l>Sarabuz<s n="np"/><s n="top"/></l><r>Sarabuz<s n="np"/><s n="top"/></r></p></e>  <!-- Hvardiiske, Simferopol Raion|Гвардейское (Симферопольский район) -->
+<e><p><l>Novofödorovka<s n="np"/><s n="top"/></l><r>Novofödorovka<s n="np"/><s n="top"/></r></p></e>  <!-- Novofedorivka|Новофёдоровка (Сакский район)|Novofyodorovka -->
+<e><p><l>Lutsk<s n="np"/><s n="top"/></l><r>Lutsk<s n="np"/><s n="top"/></r></p></e>  <!-- Lutsk|Lutsk|Луцк|Категория:Луцк|Lutsk|Луцк|Луцьк -->
+<e><p><l>İlovaysk<s n="np"/><s n="top"/></l><r>İlovaysk<s n="np"/><s n="top"/></r></p></e>  <!-- Ilovaisk|Иловайск -->
+<e><p><l>Çaplınka<s n="np"/><s n="top"/></l><r>Çaplınka<s n="np"/><s n="top"/></r></p></e>  <!-- Chaplynka|Чаплинка -->
+<e><p><l>Vitebsk<s n="np"/><s n="top"/></l><r>Vitebsk<s n="np"/><s n="top"/></r></p></e>  <!-- Vitebsk|Витебск|Категория:Витебск|Vitebsk|Витебск|Віцебск -->
+<e><p><l>Şostka<s n="np"/><s n="top"/></l><r>Şostka<s n="np"/><s n="top"/></r></p></e>  <!-- Shostka|Шостка|Shostka -->
+<e><p><l>Simeiz<s n="np"/><s n="top"/></l><r>Simeiz<s n="np"/><s n="top"/></r></p></e>  <!-- Simeiz|Симеиз|Симеиз|Simeiz -->
+<e><p><l>Saraylı<b/>Qıyat<s n="np"/><s n="top"/></l><r>Saraylı<b/>Kıyat<s n="np"/><s n="top"/></r></p></e>  <!-- Мирное (Крым) -->
+<e><p><l>Novıy<b/>Svet<s n="np"/><s n="top"/></l><r>Novıy<b/>Svet<s n="np"/><s n="top"/></r></p></e>  <!-- Novyi Svit|Новый Свет (Крым)|Novyi Svet|Новый Свет|Noviy Svit -->
+<e><p><l>Küçük<b/>Alqalı<s n="np"/><s n="top"/></l><r>Küçük<b/>Alkalı<s n="np"/><s n="top"/></r></p></e>  <!-- Завет-Ленинский -->
+<e><p><l>Kirovskoye<s n="np"/><s n="top"/></l><r>Kirovskoye<s n="np"/><s n="top"/></r></p></e>  <!-- Кировское (Черноморский район) -->
+<e><p><l>Tamğacı<s n="np"/><s n="top"/></l><r>Tamğacı<s n="np"/><s n="top"/></r></p></e>  <!-- Изюмовка (Крым) -->
+<e><p><l>Sverdlovsk<s n="np"/><s n="top"/></l><r>Sverdlovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Sverdlovsk, Luhansk Oblast|Свердловск (Луганская область) -->
+<e><p><l>Severodonetsk<s n="np"/><s n="top"/></l><r>Severodonetsk<s n="np"/><s n="top"/></r></p></e>  <!-- Sievierodonetsk|Северодонецк -->
+<e><p><l>Şçors<s n="np"/><s n="top"/></l><r>Şçors<s n="np"/><s n="top"/></r></p></e>  <!-- Snovsk|Сновск (Украина) -->
+<e><p><l>Romnı<s n="np"/><s n="top"/></l><r>Romnı<s n="np"/><s n="top"/></r></p></e>  <!-- Romny|Ромны -->
+<e><p><l>Novoaydar<s n="np"/><s n="top"/></l><r>Novoaydar<s n="np"/><s n="top"/></r></p></e>  <!-- Новоайдар -->
+<e><p><l>Nemıriv<s n="np"/><s n="top"/></l><r>Nemıriv<s n="np"/><s n="top"/></r></p></e>  <!-- Nemyriv|Немиров (Винницкая область) -->
+<e><p><l>Maryino<s n="np"/><s n="top"/></l><r>Maryino<s n="np"/><s n="top"/></r></p></e>  <!-- Марьино (Джанкойский район) -->
+<e><p><l>Lubnı<s n="np"/><s n="top"/></l><r>Lubnı<s n="np"/><s n="top"/></r></p></e>  <!-- Lubny|Лубны|Lubny -->
+<e><p><l>Koreiz<s n="np"/><s n="top"/></l><r>Koreiz<s n="np"/><s n="top"/></r></p></e>  <!-- Koreiz|Кореиз|Кореиз -->
+<e><p><l>Brovarı<s n="np"/><s n="top"/></l><r>Brovarı<s n="np"/><s n="top"/></r></p></e>  <!-- Brovary|Бровары|Бровары -->
+<e><p><l>Artömovsk<s n="np"/><s n="top"/></l><r>Artömovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Artemivsk, Luhansk Oblast|Артёмовск (Луганская область)|Кипуче -->
+<e><p><l>Zolotonoşa<s n="np"/><s n="top"/></l><r>Zolotonoşa<s n="np"/><s n="top"/></r></p></e>  <!-- Zolotonosha|Золотоноша -->
+<e><p><l>Zbaraj<s n="np"/><s n="top"/></l><r>Zbaraj<s n="np"/><s n="top"/></r></p></e>  <!-- Zbarazh|Збараж -->
+<e><p><l>Yalı<b/>Moynaq<s n="np"/><s n="top"/></l><r>Yalı<b/>Moynak<s n="np"/><s n="top"/></r></p></e>  <!-- Zaozerne|Заозёрное (Крым)|Zaozyornoe -->
+<e><p><l>Vasılkiv<s n="np"/><s n="top"/></l><r>Vasılkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Vasylkiv|Васильков -->
+<e><p><l>Uman<s n="np"/><s n="top"/></l><r>Uman<s n="np"/><s n="top"/></r></p></e>  <!-- Uman|Умань|Uman|Умань -->
+<e><p><l>Tuvaq<s n="np"/><s n="top"/></l><r>Tuvak<s n="np"/><s n="top"/></r></p></e>  <!-- Рыбачье (Крым)|Ribachye -->
+<e><p><l>Teplodar<s n="np"/><s n="top"/></l><r>Teplodar<s n="np"/><s n="top"/></r></p></e>  <!-- Teplodar|Теплодар|Teplodar|Теплодар -->
+<e><p><l>Tav<b/>Dayır<s n="np"/><s n="top"/></l><r>Tav<b/>Dayır<s n="np"/><s n="top"/></r></p></e>  <!-- Лесноселье -->
+<e><p><l>Sokal<s n="np"/><s n="top"/></l><r>Sokal<s n="np"/><s n="top"/></r></p></e>  <!-- Sokal|Сокаль -->
+<e><p><l>Smila<s n="np"/><s n="top"/></l><r>Smila<s n="np"/><s n="top"/></r></p></e>  <!-- Smila|Смела -->
+<e><p><l>Slavutıç<s n="np"/><s n="top"/></l><r>Slavutıç<s n="np"/><s n="top"/></r></p></e>  <!-- Slavutych|Славутич (город) -->
+<e><p><l>Skadovsk<s n="np"/><s n="top"/></l><r>Skadovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Skadovsk|Скадовск -->
+<e><p><l>Quru<b/>Özen<s n="np"/><s n="top"/></l><r>Kuru<b/>Özen<s n="np"/><s n="top"/></r></p></e>  <!-- Солнечногорское|Solnechnogorskoe -->
+<e><p><l>Lıpovets<s n="np"/><s n="top"/></l><r>Lıpovets<s n="np"/><s n="top"/></r></p></e>  <!-- Lypovets|Липовец (город) -->
+<e><p><l>Küçük<b/>Özen<s n="np"/><s n="top"/></l><r>Küçük<b/>Özen<s n="np"/><s n="top"/></r></p></e>  <!-- Малореченское|Malorechenskoe -->
+<e><p><l>Kovel<s n="np"/><s n="top"/></l><r>Kovel<s n="np"/><s n="top"/></r></p></e>  <!-- Kovel|Ковель -->
+<e><p><l>Korosten<s n="np"/><s n="top"/></l><r>Korosten<s n="np"/><s n="top"/></r></p></e>  <!-- Korosten|Коростень -->
+<e><p><l>İzâslav<s n="np"/><s n="top"/></l><r>İzaslav<s n="np"/><s n="top"/></r></p></e>  <!-- Iziaslav, Ukraine|Изяслав (город)|Категория:Изяслав (город) -->
+<e><p><l>Golovanivsk<s n="np"/><s n="top"/></l><r>Golovanivsk<s n="np"/><s n="top"/></r></p></e>  <!-- Holovanivsk|Голованевск -->
+<e><p><l>Foros<s n="np"/><s n="top"/></l><r>Foros<s n="np"/><s n="top"/></r></p></e>  <!-- Foros, Crimea|Форос|Форос|Foros -->
+<e><p><l>Çervonopartizansk<s n="np"/><s n="top"/></l><r>Çervonopartizansk<s n="np"/><s n="top"/></r></p></e>  <!-- Chervonopartyzansk|Червонопартизанск -->
+<e><p><l>Boguslav<s n="np"/><s n="top"/></l><r>Boguslav<s n="np"/><s n="top"/></r></p></e>  <!-- Bohuslav|Богуслав (город) -->
+<e><p><l>Zvenıgorodka<s n="np"/><s n="top"/></l><r>Zvenıgorodka<s n="np"/><s n="top"/></r></p></e>  <!-- Zvenyhorodka|Звенигородка -->
+<e><p><l>Znamyanka<s n="np"/><s n="top"/></l><r>Znamyanka<s n="np"/><s n="top"/></r></p></e>  <!-- Znamianka|Знаменка (город) -->
+<e><p><l>Zinkiv<s n="np"/><s n="top"/></l><r>Zinkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Zinkiv|Зеньков -->
+<e><p><l>Zgurivka<s n="np"/><s n="top"/></l><r>Zgurivka<s n="np"/><s n="top"/></r></p></e>  <!-- Zghurivka|Згуровка -->
+<e><p><l>Zboriv<s n="np"/><s n="top"/></l><r>Zboriv<s n="np"/><s n="top"/></r></p></e>  <!-- Zboriv|Зборов -->
+<e><p><l>Zastavna<s n="np"/><s n="top"/></l><r>Zastavna<s n="np"/><s n="top"/></r></p></e>  <!-- Zastavna|Заставна -->
+<e><p><l>Zariçne<s n="np"/><s n="top"/></l><r>Zariçne<s n="np"/><s n="top"/></r></p></e>  <!-- Zarichne, Rivne Oblast|Заречное (Заречненский район) -->
+<e><p><l>Zalişçıkı<s n="np"/><s n="top"/></l><r>Zalişçıkı<s n="np"/><s n="top"/></r></p></e>  <!-- Zalishchyky|Залещики -->
+<e><p><l>Yemilçıne<s n="np"/><s n="top"/></l><r>Yemilçıne<s n="np"/><s n="top"/></r></p></e>  <!-- Yemilchyne|Емильчино -->
+<e><p><l>Yavoriv<s n="np"/><s n="top"/></l><r>Yavoriv<s n="np"/><s n="top"/></r></p></e>  <!-- Yavoriv|Яворов -->
+<e><p><l>Yasınuvata<s n="np"/><s n="top"/></l><r>Yasınuvata<s n="np"/><s n="top"/></r></p></e>  <!-- Yasynuvata|Ясиноватая|Категория:Ясиноватая -->
+<e><p><l>Yarmolıntsi<s n="np"/><s n="top"/></l><r>Yarmolıntsi<s n="np"/><s n="top"/></r></p></e>  <!-- Yarmolyntsi|Ярмолинцы -->
+<e><p><l>Yagotın<s n="np"/><s n="top"/></l><r>Yagotın<s n="np"/><s n="top"/></r></p></e>  <!-- Yahotyn|Яготин -->
+<e><p><l>Yablunets<s n="np"/><s n="top"/></l><r>Yablunets<s n="np"/><s n="top"/></r></p></e>  <!-- Yablunets|Яблонец (Житомирская область) -->
+<e><p><l>Volovets<s n="np"/><s n="top"/></l><r>Volovets<s n="np"/><s n="top"/></r></p></e>  <!-- Volovets|Воловец -->
+<e><p><l>Volodarsk-Volınskıy<s n="np"/><s n="top"/></l><r>Volodarsk-Volınskıy<s n="np"/><s n="top"/></r></p></e>  <!-- Khoroshiv|Хорошев (Житомирская область) -->
+<e><p><l>Volodarka<s n="np"/><s n="top"/></l><r>Volodarka<s n="np"/><s n="top"/></r></p></e>  <!-- Volodarka|Володарка -->
+<e><p><l>Voloçısk<s n="np"/><s n="top"/></l><r>Voloçısk<s n="np"/><s n="top"/></r></p></e>  <!-- Volochysk|Волочиск -->
+<e><p><l>Vınogradiv<s n="np"/><s n="top"/></l><r>Vınogradiv<s n="np"/><s n="top"/></r></p></e>  <!-- Vynohradiv|Виноградов (город) -->
+<e><p><l>Vinkivtsi<s n="np"/><s n="top"/></l><r>Vinkivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Vinkivtsi|Виньковцы|Vinkivtsi -->
+<e><p><l>Vilşanka<s n="np"/><s n="top"/></l><r>Vilşanka<s n="np"/><s n="top"/></r></p></e>  <!-- Ольшанка (Ольшанский район) -->
+<e><p><l>Vıjnıtsâ<s n="np"/><s n="top"/></l><r>Vıjnıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Vyzhnytsia|Вижница -->
+<e><p><l>Verhovına<s n="np"/><s n="top"/></l><r>Verhovına<s n="np"/><s n="top"/></r></p></e>  <!-- Verkhovyna|Верховина (посёлок городского типа) -->
+<e><p><l>Velıkıy<b/>Bereznıy<s n="np"/><s n="top"/></l><r>Velıkıy<b/>Bereznıy<s n="np"/><s n="top"/></r></p></e>  <!-- Velykyi Bereznyi|Великий Березный|Velykyi Bereznyi -->
+<e><p><l>Velıka<b/>Pısarivka<s n="np"/><s n="top"/></l><r>Velıka<b/>Pısarivka<s n="np"/><s n="top"/></r></p></e>  <!-- Великая Писаревка -->
+<e><p><l>Velıka<b/>Mıhaylivka<s n="np"/><s n="top"/></l><r>Velıka<b/>Mıhaylivka<s n="np"/><s n="top"/></r></p></e>  <!-- Velyka Mykhailivka|Великая Михайловка -->
+<e><p><l>Velıka<b/>Bagaçka<s n="np"/><s n="top"/></l><r>Velıka<b/>Bagaçka<s n="np"/><s n="top"/></r></p></e>  <!-- Великая Багачка -->
+<e><p><l>Varva<s n="np"/><s n="top"/></l><r>Varva<s n="np"/><s n="top"/></r></p></e>  <!-- Varva, Chernihiv Oblast|Варва -->
+<e><p><l>Vakulençuk<s n="np"/><s n="top"/></l><r>Vakulençuk<s n="np"/><s n="top"/></r></p></e>  <!-- Vakulenchuk|Вакуленчук (посёлок городского типа) -->
+<e><p><l>Ustınivka<s n="np"/><s n="top"/></l><r>Ustınivka<s n="np"/><s n="top"/></r></p></e>  <!-- Устиновка (Кировоградская область) -->
+<e><p><l>Üsküt<s n="np"/><s n="top"/></l><r>Üsküt<s n="np"/><s n="top"/></r></p></e>  <!-- Приветное (Алушта)|Privetnoe -->
+<e><p><l>Ulyanovka<s n="np"/><s n="top"/></l><r>Ulyanovka<s n="np"/><s n="top"/></r></p></e>  <!-- Blahovishchenske|Благовещенское (город) -->
+<e><p><l>Üç<b/>Köz<s n="np"/><s n="top"/></l><r>Üç<b/>Köz<s n="np"/><s n="top"/></r></p></e>  <!-- Новоклёново -->
+<e><p><l>Turka<s n="np"/><s n="top"/></l><r>Turka<s n="np"/><s n="top"/></r></p></e>  <!-- Turka, Ukraine|Турка (Львовская область) -->
+<e><p><l>Tulçın<s n="np"/><s n="top"/></l><r>Tulçın<s n="np"/><s n="top"/></r></p></e>  <!-- Tulchyn|Тульчин -->
+<e><p><l>Tsürupınsk<s n="np"/><s n="top"/></l><r>Tsürupınsk<s n="np"/><s n="top"/></r></p></e>  <!-- Oleshky|Алёшки -->
+<e><p><l>Truskavets<s n="np"/><s n="top"/></l><r>Truskavets<s n="np"/><s n="top"/></r></p></e>  <!-- Truskavets|Truskavets|Трускавец|Truskavets|Трускавец -->
+<e><p><l>Tomaşpil<s n="np"/><s n="top"/></l><r>Tomaşpil<s n="np"/><s n="top"/></r></p></e>  <!-- Tomashpil|Томашполь -->
+<e><p><l>Tlumaç<s n="np"/><s n="top"/></l><r>Tlumaç<s n="np"/><s n="top"/></r></p></e>  <!-- Tlumach|Тлумач -->
+<e><p><l>Tıvriv<s n="np"/><s n="top"/></l><r>Tıvriv<s n="np"/><s n="top"/></r></p></e>  <!-- Tyvriv|Тывров|Tyvriv -->
+<e><p><l>Tısmenıtsâ<s n="np"/><s n="top"/></l><r>Tısmenıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Tysmenytsia|Тысменица (город) -->
+<e><p><l>Tetiyiv<s n="np"/><s n="top"/></l><r>Tetiyiv<s n="np"/><s n="top"/></r></p></e>  <!-- Tetiiv|Тетиев -->
+<e><p><l>Terebovlâ<s n="np"/><s n="top"/></l><r>Terebovla<s n="np"/><s n="top"/></r></p></e>  <!-- Terebovlia|Теребовля|Terebovlya -->
+<e><p><l>Teplık<s n="np"/><s n="top"/></l><r>Teplık<s n="np"/><s n="top"/></r></p></e>  <!-- Teplyk|Теплик -->
+<e><p><l>Teofipol<s n="np"/><s n="top"/></l><r>Teofipol<s n="np"/><s n="top"/></r></p></e>  <!-- Teofipol|Теофиполь -->
+<e><p><l>Tatarbunarı<s n="np"/><s n="top"/></l><r>Tatarbunarı<s n="np"/><s n="top"/></r></p></e>  <!-- Tatarbunary|Татарбунары|Татарбунари -->
+<e><p><l>Tarutıne<s n="np"/><s n="top"/></l><r>Tarutıne<s n="np"/><s n="top"/></r></p></e>  <!-- Tarutyne|Тарутино (Одесская область) -->
+<e><p><l>Taraşça<s n="np"/><s n="top"/></l><r>Taraşça<s n="np"/><s n="top"/></r></p></e>  <!-- Tarashcha|Тараща -->
+<e><p><l>Talne<s n="np"/><s n="top"/></l><r>Talne<s n="np"/><s n="top"/></r></p></e>  <!-- Talne|Тальное|Talne -->
+<e><p><l>Talalayivka<s n="np"/><s n="top"/></l><r>Talalayivka<s n="np"/><s n="top"/></r></p></e>  <!-- Talalaivka|Талалаевка -->
+<e><p><l>Tâçiv<s n="np"/><s n="top"/></l><r>Taçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Tiachiv|Тячев -->
+<e><p><l>Svitlovodsk<s n="np"/><s n="top"/></l><r>Svitlovodsk<s n="np"/><s n="top"/></r></p></e>  <!-- Svitlovodsk|Светловодск -->
+<e><p><l>Svalâva<s n="np"/><s n="top"/></l><r>Svalava<s n="np"/><s n="top"/></r></p></e>  <!-- Svaliava|Свалява|Свалява -->
+<e><p><l>Şumsk<s n="np"/><s n="top"/></l><r>Şumsk<s n="np"/><s n="top"/></r></p></e>  <!-- Shumsk|Шумск -->
+<e><p><l>Strıy<s n="np"/><s n="top"/></l><r>Strıy<s n="np"/><s n="top"/></r></p></e>  <!-- Stryi|Стрый (город) -->
+<e><p><l>Storojınets<s n="np"/><s n="top"/></l><r>Storojınets<s n="np"/><s n="top"/></r></p></e>  <!-- Storozhynets|Сторожинец -->
+<e><p><l>Stebnık<s n="np"/><s n="top"/></l><r>Stebnık<s n="np"/><s n="top"/></r></p></e>  <!-- Stebnyk|Стебник -->
+<e><p><l>Stavışçe<s n="np"/><s n="top"/></l><r>Stavışçe<s n="np"/><s n="top"/></r></p></e>  <!-- Stavyshche|Ставище (Киевская область)|Stavyshche -->
+<e><p><l>Starokostântıniv<s n="np"/><s n="top"/></l><r>Starokostantıniv<s n="np"/><s n="top"/></r></p></e>  <!-- Starokostiantyniv|Староконстантинов -->
+<e><p><l>Starıy<b/>Sambir<s n="np"/><s n="top"/></l><r>Starıy<b/>Sambir<s n="np"/><s n="top"/></r></p></e>  <!-- Staryi Sambir|Старый Самбор -->
+<e><p><l>Stara<b/>Sınâva<s n="np"/><s n="top"/></l><r>Stara<b/>Sınava<s n="np"/><s n="top"/></r></p></e>  <!-- Stara Syniava|Старая Синява -->
+<e><p><l>Sribne<s n="np"/><s n="top"/></l><r>Sribne<s n="np"/><s n="top"/></r></p></e>  <!-- Sribne|Сребное -->
+<e><p><l>Şpola<s n="np"/><s n="top"/></l><r>Şpola<s n="np"/><s n="top"/></r></p></e>  <!-- Shpola|Шпола -->
+<e><p><l>Sosnıtsâ<s n="np"/><s n="top"/></l><r>Sosnıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Sosnytsia|Сосница -->
+<e><p><l>Sokırânı<s n="np"/><s n="top"/></l><r>Sokıranı<s n="np"/><s n="top"/></r></p></e>  <!-- Sokyriany|Сокиряны -->
+<e><p><l>Snâtın<s n="np"/><s n="top"/></l><r>Snatın<s n="np"/><s n="top"/></r></p></e>  <!-- Sniatyn|Снятын -->
+<e><p><l>Slovyansk<s n="np"/><s n="top"/></l><r>Slovyansk<s n="np"/><s n="top"/></r></p></e>  <!-- Slovyansk|Sloviansk|Славянск|Категория:Славянск|Славянск -->
+<e><p><l>Slavuta<s n="np"/><s n="top"/></l><r>Slavuta<s n="np"/><s n="top"/></r></p></e>  <!-- Slavuta|Славута -->
+<e><p><l>Skvıra<s n="np"/><s n="top"/></l><r>Skvıra<s n="np"/><s n="top"/></r></p></e>  <!-- Skvyra|Сквира|Skvyra -->
+<e><p><l>Skole<s n="np"/><s n="top"/></l><r>Skole<s n="np"/><s n="top"/></r></p></e>  <!-- Skole|Сколе -->
+<e><p><l>Şışakı<s n="np"/><s n="top"/></l><r>Şışakı<s n="np"/><s n="top"/></r></p></e>  <!-- Шишаки|Shyshaky -->
+<e><p><l>Şırâyeve<s n="np"/><s n="top"/></l><r>Şırayeve<s n="np"/><s n="top"/></r></p></e>  <!-- Shyriaieve|Ширяево (Одесская область) -->
+<e><p><l>Seredına-Buda<s n="np"/><s n="top"/></l><r>Seredına-Buda<s n="np"/><s n="top"/></r></p></e>  <!-- Seredyna-Buda|Середина-Буда -->
+<e><p><l>Şepetivka<s n="np"/><s n="top"/></l><r>Şepetivka<s n="np"/><s n="top"/></r></p></e>  <!-- Shepetivka|Шепетовка -->
+<e><p><l>Savran<s n="np"/><s n="top"/></l><r>Savran<s n="np"/><s n="top"/></r></p></e>  <!-- Savran, Odessa Oblast|Саврань|Savran -->
+<e><p><l>Şargorod<s n="np"/><s n="top"/></l><r>Şargorod<s n="np"/><s n="top"/></r></p></e>  <!-- Sharhorod|Шаргород -->
+<e><p><l>Sarata<s n="np"/><s n="top"/></l><r>Sarata<s n="np"/><s n="top"/></r></p></e>  <!-- Sarata|Сарата|Сарата -->
+<e><p><l>Salkove<s n="np"/><s n="top"/></l><r>Salkove<s n="np"/><s n="top"/></r></p></e>  <!-- Сальково (Кировоградская область) -->
+<e><p><l>Rujın<s n="np"/><s n="top"/></l><r>Rujın<s n="np"/><s n="top"/></r></p></e>  <!-- Ruzhyn (urban-type settlement)|Ружин (Житомирская область) -->
+<e><p><l>Rozdilna<s n="np"/><s n="top"/></l><r>Rozdilna<s n="np"/><s n="top"/></r></p></e>  <!-- Rozdilna|Раздельная -->
+<e><p><l>Romaniv<s n="np"/><s n="top"/></l><r>Romaniv<s n="np"/><s n="top"/></r></p></e>  <!-- Romaniv|Романов (Житомирская область) -->
+<e><p><l>Rojnâtiv<s n="np"/><s n="top"/></l><r>Rojnativ<s n="np"/><s n="top"/></r></p></e>  <!-- Rozhniativ|Рожнятов -->
+<e><p><l>Ripkı<s n="np"/><s n="top"/></l><r>Ripkı<s n="np"/><s n="top"/></r></p></e>  <!-- Ripky|Репки (Черниговская область) -->
+<e><p><l>Reşıtılivka<s n="np"/><s n="top"/></l><r>Reşıtılivka<s n="np"/><s n="top"/></r></p></e>  <!-- Reshetylivka|Решетиловка|Reshetylivka -->
+<e><p><l>Rahiv<s n="np"/><s n="top"/></l><r>Rahiv<s n="np"/><s n="top"/></r></p></e>  <!-- Rakhiv|Рахов|Rakhiv|Rahiv -->
+<e><p><l>Radomışl<s n="np"/><s n="top"/></l><r>Radomışl<s n="np"/><s n="top"/></r></p></e>  <!-- Radomyshl|Радомышль|Radomyshl -->
+<e><p><l>Radıvıliv<s n="np"/><s n="top"/></l><r>Radıvıliv<s n="np"/><s n="top"/></r></p></e>  <!-- Radyvyliv|Радивилов|Radyvyliv -->
+<e><p><l>Radehiv<s n="np"/><s n="top"/></l><r>Radehiv<s n="np"/><s n="top"/></r></p></e>  <!-- Radekhiv|Радехов|Radekhiv -->
+<e><p><l>Qutlaq<s n="np"/><s n="top"/></l><r>Kutlak<s n="np"/><s n="top"/></r></p></e>  <!-- Vesele, Sudak Municipality|Весёлое (Судак) -->
+<e><p><l>Qızıl<b/>Terçek<s n="np"/><s n="top"/></l><r>Kızıl<b/>Terçek<s n="np"/><s n="top"/></r></p></e>  <!-- Яркое Поле (Кировский район) -->
+<e><p><l>Qazan<b/>Tip<s n="np"/><s n="top"/></l><r>Kazan<b/>Tip<s n="np"/><s n="top"/></r></p></e>  <!-- Мысовое (Ленинский район) -->
+<e><p><l>Putıvl<s n="np"/><s n="top"/></l><r>Putıvl<s n="np"/><s n="top"/></r></p></e>  <!-- Putyvl|Путивль|Путивль -->
+<e><p><l>Putıla<s n="np"/><s n="top"/></l><r>Putıla<s n="np"/><s n="top"/></r></p></e>  <!-- Putyla|Путила (Черновицкая область)|Putyla -->
+<e><p><l>Pustomıtı<s n="np"/><s n="top"/></l><r>Pustomıtı<s n="np"/><s n="top"/></r></p></e>  <!-- Pustomyty|Пустомыты -->
+<e><p><l>Prıpyat<s n="np"/><s n="top"/></l><r>Prıpyat<s n="np"/><s n="top"/></r></p></e>  <!-- Pripyat (disambiguation)|Припять -->
+<e><p><l>Prılukı<s n="np"/><s n="top"/></l><r>Prılukı<s n="np"/><s n="top"/></r></p></e>  <!-- Pryluky|Прилуки|Прилуки -->
+<e><p><l>Popilnâ<s n="np"/><s n="top"/></l><r>Popilna<s n="np"/><s n="top"/></r></p></e>  <!-- Popilnia|Попельня (посёлок городского типа, Житомирская область) -->
+<e><p><l>Polonne<s n="np"/><s n="top"/></l><r>Polonne<s n="np"/><s n="top"/></r></p></e>  <!-- Polonne|Полонное -->
+<e><p><l>Pogrebışçe<s n="np"/><s n="top"/></l><r>Pogrebışçe<s n="np"/><s n="top"/></r></p></e>  <!-- Pohrebyshche|Погребище (город) -->
+<e><p><l>Pişçanka<s n="np"/><s n="top"/></l><r>Pişçanka<s n="np"/><s n="top"/></r></p></e>  <!-- Pishchanka|Песчанка (Винницкая область)|Pishchanka -->
+<e><p><l>Pırâtın<s n="np"/><s n="top"/></l><r>Pıratın<s n="np"/><s n="top"/></r></p></e>  <!-- Pyriatyn|Пирятин -->
+<e><p><l>Pidvoloçısk<s n="np"/><s n="top"/></l><r>Pidvoloçısk<s n="np"/><s n="top"/></r></p></e>  <!-- Pidvolochysk|Подволочиск -->
+<e><p><l>Pidgaytsi<s n="np"/><s n="top"/></l><r>Pidgaytsi<s n="np"/><s n="top"/></r></p></e>  <!-- Pidhaitsi|Подгайцы|Подгайцы -->
+<e><p><l>Petrovka<s n="np"/><s n="top"/></l><r>Petrovka<s n="np"/><s n="top"/></r></p></e>  <!-- Петровка (Красногвардейский район) -->
+<e><p><l>Petrove<s n="np"/><s n="top"/></l><r>Petrove<s n="np"/><s n="top"/></r></p></e>  <!-- Petrove|Петрово (Петровский район) -->
+<e><p><l>Pereyaslav-Hmelnıtskıy<s n="np"/><s n="top"/></l><r>Pereyaslav-Hmelnıtskıy<s n="np"/><s n="top"/></r></p></e>  <!-- Pereiaslav-Khmelnytskyi|Переяслав-Хмельницкий -->
+<e><p><l>Peremışlânı<s n="np"/><s n="top"/></l><r>Peremışlanı<s n="np"/><s n="top"/></r></p></e>  <!-- Peremyshliany|Перемышляны -->
+<e><p><l>Pereçın<s n="np"/><s n="top"/></l><r>Pereçın<s n="np"/><s n="top"/></r></p></e>  <!-- Perechyn|Перечин|Perechyn|Perechyn -->
+<e><p><l>Ovruç<s n="np"/><s n="top"/></l><r>Ovruç<s n="np"/><s n="top"/></r></p></e>  <!-- Ovruch|Овруч -->
+<e><p><l>Orjıtsâ<s n="np"/><s n="top"/></l><r>Orjıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Оржица (Оржицкий район) -->
+<e><p><l>Orativ<s n="np"/><s n="top"/></l><r>Orativ<s n="np"/><s n="top"/></r></p></e>  <!-- Orativ|Оратов -->
+<e><p><l>Onufriyivka<s n="np"/><s n="top"/></l><r>Onufriyivka<s n="np"/><s n="top"/></r></p></e>  <!-- Onufriivka|Онуфриевка -->
+<e><p><l>Olevsk<s n="np"/><s n="top"/></l><r>Olevsk<s n="np"/><s n="top"/></r></p></e>  <!-- Olevsk|Олевск -->
+<e><p><l>Oleksandriya<s n="np"/><s n="top"/></l><r>Oleksandriya<s n="np"/><s n="top"/></r></p></e>  <!-- Oleksandriia|Александрия (Кировоградская область) -->
+<e><p><l>Ohtırka<s n="np"/><s n="top"/></l><r>Ohtırka<s n="np"/><s n="top"/></r></p></e>  <!-- Axtırka|Okhtyrka|Ахтырка -->
+<e><p><l>Obuhiv<s n="np"/><s n="top"/></l><r>Obuhiv<s n="np"/><s n="top"/></r></p></e>  <!-- Obukhiv|Обухов (город) -->
+<e><p><l>Novoukrayinka<s n="np"/><s n="top"/></l><r>Novoukrayinka<s n="np"/><s n="top"/></r></p></e>  <!-- Novoukrainka|Новоукраинка (город) -->
+<e><p><l>Novoselıtsâ<s n="np"/><s n="top"/></l><r>Novoselıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Novoselytsia|Новоселица -->
+<e><p><l>Novoozörnoye<s n="np"/><s n="top"/></l><r>Novoozörnoye<s n="np"/><s n="top"/></r></p></e>  <!-- Novoozerne|Новоозёрное (Крым)|Novoozerno -->
+<e><p><l>Novograd-Volınskıy<s n="np"/><s n="top"/></l><r>Novograd-Volınskıy<s n="np"/><s n="top"/></r></p></e>  <!-- Novohrad-Volynskyi|Новоград-Волынский -->
+<e><p><l>Novoarhangelsk<s n="np"/><s n="top"/></l><r>Novoarhangelsk<s n="np"/><s n="top"/></r></p></e>  <!-- Novoarkhanhelsk|Новоархангельск (посёлок городского типа) -->
+<e><p><l>Novi<b/>Sanjarı<s n="np"/><s n="top"/></l><r>Novi<b/>Sanjarı<s n="np"/><s n="top"/></r></p></e>  <!-- Новые Санжары -->
+<e><p><l>Novgorod-Siverskıy<s n="np"/><s n="top"/></l><r>Novgorod-Siverskıy<s n="np"/><s n="top"/></r></p></e>  <!-- Novhorod-Siverskyi|Новгород-Северский -->
+<e><p><l>Novgorodka<s n="np"/><s n="top"/></l><r>Novgorodka<s n="np"/><s n="top"/></r></p></e>  <!-- Новгородка (Кировоградская область) -->
+<e><p><l>Nova<b/>Uşıtsâ<s n="np"/><s n="top"/></l><r>Nova<b/>Uşıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Nova Ushytsia|Новая Ушица -->
+<e><p><l>Nosivka<s n="np"/><s n="top"/></l><r>Nosivka<s n="np"/><s n="top"/></r></p></e>  <!-- Nosivka|Носовка -->
+<e><p><l>Nijın<s n="np"/><s n="top"/></l><r>Nijın<s n="np"/><s n="top"/></r></p></e>  <!-- Nizhyn|Нежин -->
+<e><p><l>Nedrıgayliv<s n="np"/><s n="top"/></l><r>Nedrıgayliv<s n="np"/><s n="top"/></r></p></e>  <!-- Nedryhailiv|Недригайлов|Nedryhailiv -->
+<e><p><l>Narodıçi<s n="np"/><s n="top"/></l><r>Narodıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Narodychi|Народичи -->
+<e><p><l>Nadvirna<s n="np"/><s n="top"/></l><r>Nadvirna<s n="np"/><s n="top"/></r></p></e>  <!-- Nadvirna|Надворная -->
+<e><p><l>Murovani<b/>Kurılivtsi<s n="np"/><s n="top"/></l><r>Murovani<b/>Kurılivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Murovani Kurylivtsi|Мурованые Куриловцы -->
+<e><p><l>Mostıska<s n="np"/><s n="top"/></l><r>Mostıska<s n="np"/><s n="top"/></r></p></e>  <!-- Mostyska|Мостиска|Mostyska -->
+<e><p><l>Monastırıska<s n="np"/><s n="top"/></l><r>Monastırıska<s n="np"/><s n="top"/></r></p></e>  <!-- Monastyryska|Монастыриска -->
+<e><p><l>Monastırışçe<s n="np"/><s n="top"/></l><r>Monastırışçe<s n="np"/><s n="top"/></r></p></e>  <!-- Monastyryshche|Монастырище -->
+<e><p><l>Mogıliv-Podilskıy<s n="np"/><s n="top"/></l><r>Mogıliv-Podilskıy<s n="np"/><s n="top"/></r></p></e>  <!-- Mohyliv-Podilskyi|Могилёв-Подольский -->
+<e><p><l>Mıronivka<s n="np"/><s n="top"/></l><r>Mıronivka<s n="np"/><s n="top"/></r></p></e>  <!-- Myronivka|Мироновка|Myronivka -->
+<e><p><l>Mırgorod<s n="np"/><s n="top"/></l><r>Mırgorod<s n="np"/><s n="top"/></r></p></e>  <!-- Myrhorod|Миргород|Myrgorod -->
+<e><p><l>Mijgirya<s n="np"/><s n="top"/></l><r>Mijgirya<s n="np"/><s n="top"/></r></p></e>  <!-- Mizhhirya|Межгорье (Закарпатская область) -->
+<e><p><l>Mena<s n="np"/><s n="top"/></l><r>Mena<s n="np"/><s n="top"/></r></p></e>  <!-- Mena, Ukraine|Мена (Украина) -->
+<e><p><l>Maşivka<s n="np"/><s n="top"/></l><r>Maşivka<s n="np"/><s n="top"/></r></p></e>  <!-- Машевка -->
+<e><p><l>Mankivka<s n="np"/><s n="top"/></l><r>Mankivka<s n="np"/><s n="top"/></r></p></e>  <!-- Mankivka|Маньковка -->
+<e><p><l>Malın<s n="np"/><s n="top"/></l><r>Malın<s n="np"/><s n="top"/></r></p></e>  <!-- Malyn|Малин (Житомирская область) -->
+<e><p><l>Mala<b/>Vıska<s n="np"/><s n="top"/></l><r>Mala<b/>Vıska<s n="np"/><s n="top"/></r></p></e>  <!-- Mala Vyska|Малая Виска -->
+<e><p><l>Makariv<s n="np"/><s n="top"/></l><r>Makariv<s n="np"/><s n="top"/></r></p></e>  <!-- Makariv|Макаров (Киевская область) -->
+<e><p><l>Luginı<s n="np"/><s n="top"/></l><r>Luginı<s n="np"/><s n="top"/></r></p></e>  <!-- Luhyny|Лугины (Житомирская область) -->
+<e><p><l>Lübaşivka<s n="np"/><s n="top"/></l><r>Lübaşivka<s n="np"/><s n="top"/></r></p></e>  <!-- Liubashivka|Любашёвка|Liubashivka -->
+<e><p><l>Lübar<s n="np"/><s n="top"/></l><r>Lübar<s n="np"/><s n="top"/></r></p></e>  <!-- Liubar|Любар -->
+<e><p><l>Lohvıtsâ<s n="np"/><s n="top"/></l><r>Lohvıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Lokhvytsia|Лохвица -->
+<e><p><l>Litın<s n="np"/><s n="top"/></l><r>Litın<s n="np"/><s n="top"/></r></p></e>  <!-- Lityn|Литин (Винницкая область) -->
+<e><p><l>Lısânka<s n="np"/><s n="top"/></l><r>Lısanka<s n="np"/><s n="top"/></r></p></e>  <!-- Lysianka|Лысянка (Черкасская область)|Lysyanka -->
+<e><p><l>Lıpova<b/>Dolına<s n="np"/><s n="top"/></l><r>Lıpova<b/>Dolına<s n="np"/><s n="top"/></r></p></e>  <!-- Липовая Долина -->
+<e><p><l>Limena<s n="np"/><s n="top"/></l><r>Limena<s n="np"/><s n="top"/></r></p></e>  <!-- Holuba Zatoka|Голубой Залив -->
+<e><p><l>Letıçiv<s n="np"/><s n="top"/></l><r>Letıçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Letychiv|Летичев -->
+<e><p><l>Lebedın<s n="np"/><s n="top"/></l><r>Lebedın<s n="np"/><s n="top"/></r></p></e>  <!-- Lebedyn|Лебедин -->
+<e><p><l>Lanivtsi<s n="np"/><s n="top"/></l><r>Lanivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Lanivtsi|Лановцы -->
+<e><p><l>Kulıkivka<s n="np"/><s n="top"/></l><r>Kulıkivka<s n="np"/><s n="top"/></r></p></e>  <!-- Kulykivka|Куликовка (Черниговская область)|Kulykivka -->
+<e><p><l>Krolevets<s n="np"/><s n="top"/></l><r>Krolevets<s n="np"/><s n="top"/></r></p></e>  <!-- Krolevets|Кролевец|Krolevets -->
+<e><p><l>Krıjopil<s n="np"/><s n="top"/></l><r>Krıjopil<s n="np"/><s n="top"/></r></p></e>  <!-- Kryzhopil|Крыжополь -->
+<e><p><l>Kremenets<s n="np"/><s n="top"/></l><r>Kremenets<s n="np"/><s n="top"/></r></p></e>  <!-- Kremenets|Кременец -->
+<e><p><l>Kremençuk<s n="np"/><s n="top"/></l><r>Kremençuk<s n="np"/><s n="top"/></r></p></e>  <!-- Kremençuk|Kremenchuk|Кременчуг -->
+<e><p><l>Krasnopillâ<s n="np"/><s n="top"/></l><r>Krasnopilla<s n="np"/><s n="top"/></r></p></e>  <!-- Krasnopillia|Краснополье (Сумская область) -->
+<e><p><l>Krasnıy<b/>Luç<s n="np"/><s n="top"/></l><r>Krasnıy<b/>Luç<s n="np"/><s n="top"/></r></p></e>  <!-- Krasnyi Luch|Красный Луч (город)|Красный Луч -->
+<e><p><l>Krasni<b/>Oknı<s n="np"/><s n="top"/></l><r>Krasni<b/>Oknı<s n="np"/><s n="top"/></r></p></e>  <!-- Okny|Окны -->
+<e><p><l>Krasıliv<s n="np"/><s n="top"/></l><r>Krasıliv<s n="np"/><s n="top"/></r></p></e>  <!-- Krasyliv|Красилов -->
+<e><p><l>Kozova<s n="np"/><s n="top"/></l><r>Kozova<s n="np"/><s n="top"/></r></p></e>  <!-- Kozova|Козова -->
+<e><p><l>Kozelşçına<s n="np"/><s n="top"/></l><r>Kozelşçına<s n="np"/><s n="top"/></r></p></e>  <!-- Kozelshchyna|Козельщина -->
+<e><p><l>Kozelets<s n="np"/><s n="top"/></l><r>Kozelets<s n="np"/><s n="top"/></r></p></e>  <!-- Kozelets|Козелец -->
+<e><p><l>Kozâtın<s n="np"/><s n="top"/></l><r>Kozatın<s n="np"/><s n="top"/></r></p></e>  <!-- Koziatyn|Казатин -->
+<e><p><l>Kotovsk<s n="np"/><s n="top"/></l><r>Kotovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Podilsk|Подольск (Одесская область)|Подільськ -->
+<e><p><l>Kotelva<s n="np"/><s n="top"/></l><r>Kotelva<s n="np"/><s n="top"/></r></p></e>  <!-- Kotelva|Котельва -->
+<e><p><l>Kosiv<s n="np"/><s n="top"/></l><r>Kosiv<s n="np"/><s n="top"/></r></p></e>  <!-- Kosiv|Косов -->
+<e><p><l>Korükivka<s n="np"/><s n="top"/></l><r>Korükivka<s n="np"/><s n="top"/></r></p></e>  <!-- Koriukivka|Корюковка -->
+<e><p><l>Korsun-Şevçenkivskıy<s n="np"/><s n="top"/></l><r>Korsun-Şevçenkivskıy<s n="np"/><s n="top"/></r></p></e>  <!-- Korsun-Shevchenkivskyi|Корсунь-Шевченковский -->
+<e><p><l>Korostışiv<s n="np"/><s n="top"/></l><r>Korostışiv<s n="np"/><s n="top"/></r></p></e>  <!-- Korostyshiv|Коростышев -->
+<e><p><l>Korop<s n="np"/><s n="top"/></l><r>Korop<s n="np"/><s n="top"/></r></p></e>  <!-- Korop|Короп|Короп|Korop -->
+<e><p><l>Konotop<s n="np"/><s n="top"/></l><r>Konotop<s n="np"/><s n="top"/></r></p></e>  <!-- Konotop|Конотоп -->
+<e><p><l>Kompaniyivka<s n="np"/><s n="top"/></l><r>Kompaniyivka<s n="np"/><s n="top"/></r></p></e>  <!-- Kompaniivka|Компанеевка -->
+<e><p><l>Kominternivske<s n="np"/><s n="top"/></l><r>Kominternivske<s n="np"/><s n="top"/></r></p></e>  <!-- Доброслав -->
+<e><p><l>Kolomıya<s n="np"/><s n="top"/></l><r>Kolomıya<s n="np"/><s n="top"/></r></p></e>  <!-- Kolomyia|Коломыя|Kolomyia -->
+<e><p><l>Kodıma<s n="np"/><s n="top"/></l><r>Kodıma<s n="np"/><s n="top"/></r></p></e>  <!-- Kodyma|Кодыма (город)|Кодима -->
+<e><p><l>Kobelâkı<s n="np"/><s n="top"/></l><r>Kobelakı<s n="np"/><s n="top"/></r></p></e>  <!-- Kobeliaky|Кобеляки -->
+<e><p><l>Kitsman<s n="np"/><s n="top"/></l><r>Kitsman<s n="np"/><s n="top"/></r></p></e>  <!-- Kitsman|Кицмань -->
+<e><p><l>Kelmentsi<s n="np"/><s n="top"/></l><r>Kelmentsi<s n="np"/><s n="top"/></r></p></e>  <!-- Kelmentsi|Кельменцы -->
+<e><p><l>Katerınopil<s n="np"/><s n="top"/></l><r>Katerınopil<s n="np"/><s n="top"/></r></p></e>  <!-- Katerynopil|Катеринополь -->
+<e><p><l>Karlivka<s n="np"/><s n="top"/></l><r>Karlivka<s n="np"/><s n="top"/></r></p></e>  <!-- Karlivka|Карловка -->
+<e><p><l>Kaniv<s n="np"/><s n="top"/></l><r>Kaniv<s n="np"/><s n="top"/></r></p></e>  <!-- Kanev|Kaniv|Канев -->
+<e><p><l>Kamyanka-Buzka<s n="np"/><s n="top"/></l><r>Kamyanka-Buzka<s n="np"/><s n="top"/></r></p></e>  <!-- Kamianka-Buzka|Каменка-Бугская -->
+<e><p><l>Kaluş<s n="np"/><s n="top"/></l><r>Kaluş<s n="np"/><s n="top"/></r></p></e>  <!-- Kalush, Ukraine|Калуш -->
+<e><p><l>Kagarlık<s n="np"/><s n="top"/></l><r>Kagarlık<s n="np"/><s n="top"/></r></p></e>  <!-- Kaharlyk|Кагарлык -->
+<e><p><l>Jovkva<s n="np"/><s n="top"/></l><r>Jovkva<s n="np"/><s n="top"/></r></p></e>  <!-- Zhovkva|Жолква|Zhovkva|Жолква|Zhovkva -->
+<e><p><l>Jmerınka<s n="np"/><s n="top"/></l><r>Jmerınka<s n="np"/><s n="top"/></r></p></e>  <!-- Zhmerynka|Жмеринка -->
+<e><p><l>Jıdaçiv<s n="np"/><s n="top"/></l><r>Jıdaçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Zhydachiv|Жидачов -->
+<e><p><l>Jaşkiv<s n="np"/><s n="top"/></l><r>Jaşkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Zhashkiv|Жашков -->
+<e><p><l>İzmayil<s n="np"/><s n="top"/></l><r>İzmayil<s n="np"/><s n="top"/></r></p></e>  <!-- Izmail|Измаил|Измаил|Izmail|Измаил|Ізмаїл -->
+<e><p><l>İvankiv<s n="np"/><s n="top"/></l><r>İvankiv<s n="np"/><s n="top"/></r></p></e>  <!-- Ivankiv|Иванков (Киевская область) -->
+<e><p><l>İrşava<s n="np"/><s n="top"/></l><r>İrşava<s n="np"/><s n="top"/></r></p></e>  <!-- Irshava|Иршава -->
+<e><p><l>İllintsi<s n="np"/><s n="top"/></l><r>İllintsi<s n="np"/><s n="top"/></r></p></e>  <!-- Illintsi|Ильинцы -->
+<e><p><l>İçnâ<s n="np"/><s n="top"/></l><r>İçna<s n="np"/><s n="top"/></r></p></e>  <!-- Ichnia|Ичня -->
+<e><p><l>Hust<s n="np"/><s n="top"/></l><r>Hust<s n="np"/><s n="top"/></r></p></e>  <!-- Khust|Хуст|Khust -->
+<e><p><l>Hrıstınivka<s n="np"/><s n="top"/></l><r>Hrıstınivka<s n="np"/><s n="top"/></r></p></e>  <!-- Khrystynivka|Христиновка|Khrystynivka -->
+<e><p><l>Hotin<s n="np"/><s n="top"/></l><r>Hotin<s n="np"/><s n="top"/></r></p></e>  <!-- Хотень -->
+<e><p><l>Horol<s n="np"/><s n="top"/></l><r>Horol<s n="np"/><s n="top"/></r></p></e>  <!-- Khorol, Ukraine|Хорол -->
+<e><p><l>Hmilnık<s n="np"/><s n="top"/></l><r>Hmilnık<s n="np"/><s n="top"/></r></p></e>  <!-- Khmilnyk|Хмельник (Винницкая область) -->
+<e><p><l>Gusâtın<s n="np"/><s n="top"/></l><r>Gusatın<s n="np"/><s n="top"/></r></p></e>  <!-- Husiatyn|Гусятин -->
+<e><p><l>Grebinka<s n="np"/><s n="top"/></l><r>Grebinka<s n="np"/><s n="top"/></r></p></e>  <!-- Hrebinka|Гребёнка (город) -->
+<e><p><l>Gorodnâ<s n="np"/><s n="top"/></l><r>Gorodna<s n="np"/><s n="top"/></r></p></e>  <!-- Horodnia|Городня (Городнянский район) -->
+<e><p><l>Gorodışçe<s n="np"/><s n="top"/></l><r>Gorodışçe<s n="np"/><s n="top"/></r></p></e>  <!-- Horodyshche|Городище (Черкасская область) -->
+<e><p><l>Gorodenka<s n="np"/><s n="top"/></l><r>Gorodenka<s n="np"/><s n="top"/></r></p></e>  <!-- Horodenka|Городенка -->
+<e><p><l>Gluhiv<s n="np"/><s n="top"/></l><r>Gluhiv<s n="np"/><s n="top"/></r></p></e>  <!-- Hlukhiv|Глухов|Глухов -->
+<e><p><l>Globıne<s n="np"/><s n="top"/></l><r>Globıne<s n="np"/><s n="top"/></r></p></e>  <!-- Hlobyne|Глобино -->
+<e><p><l>Glıboka<s n="np"/><s n="top"/></l><r>Glıboka<s n="np"/><s n="top"/></r></p></e>  <!-- Hlyboka|Глыбокая|Glyboka -->
+<e><p><l>Gertsa<s n="np"/><s n="top"/></l><r>Gertsa<s n="np"/><s n="top"/></r></p></e>  <!-- Hertsa|Герца -->
+<e><p><l>Gayvoron<s n="np"/><s n="top"/></l><r>Gayvoron<s n="np"/><s n="top"/></r></p></e>  <!-- Haivoron|Гайворон -->
+<e><p><l>Gaysın<s n="np"/><s n="top"/></l><r>Gaysın<s n="np"/><s n="top"/></r></p></e>  <!-- Haisyn|Гайсин -->
+<e><p><l>Galıç<s n="np"/><s n="top"/></l><r>Galıç<s n="np"/><s n="top"/></r></p></e>  <!-- Halych|Галич (Ивано-Франковская область) -->
+<e><p><l>Gadâç<s n="np"/><s n="top"/></l><r>Gadaç<s n="np"/><s n="top"/></r></p></e>  <!-- Hadiach|Гадяч -->
+<e><p><l>Frunzivka<s n="np"/><s n="top"/></l><r>Frunzivka<s n="np"/><s n="top"/></r></p></e>  <!-- Zakharivka|Захарьевка (Одесская область) -->
+<e><p><l>Fastiv<s n="np"/><s n="top"/></l><r>Fastiv<s n="np"/><s n="top"/></r></p></e>  <!-- Fastiv|Фастов -->
+<e><p><l>Efendiköy<s n="np"/><s n="top"/></l><r>Efendiköy<s n="np"/><s n="top"/></r></p></e>  <!-- Айвовое -->
+<e><p><l>Drabiv<s n="np"/><s n="top"/></l><r>Drabiv<s n="np"/><s n="top"/></r></p></e>  <!-- Drabiv|Драбов -->
+<e><p><l>Dolınska<s n="np"/><s n="top"/></l><r>Dolınska<s n="np"/><s n="top"/></r></p></e>  <!-- Dolynska|Долинская -->
+<e><p><l>Dımer<s n="np"/><s n="top"/></l><r>Dımer<s n="np"/><s n="top"/></r></p></e>  <!-- Dymer, Kiev Oblast|Дымер|Dymer -->
+<e><p><l>Dıkanka<s n="np"/><s n="top"/></l><r>Dıkanka<s n="np"/><s n="top"/></r></p></e>  <!-- Dykanka|Диканька -->
+<e><p><l>Derajnâ<s n="np"/><s n="top"/></l><r>Derajna<s n="np"/><s n="top"/></r></p></e>  <!-- Derazhnia|Деражня -->
+<e><p><l>Demıdivka<s n="np"/><s n="top"/></l><r>Demıdivka<s n="np"/><s n="top"/></r></p></e>  <!-- Demydivka|Демидовка (Ровненская область) -->
+<e><p><l>Çutove<s n="np"/><s n="top"/></l><r>Çutove<s n="np"/><s n="top"/></r></p></e>  <!-- Чутово -->
+<e><p><l>Çudniv<s n="np"/><s n="top"/></l><r>Çudniv<s n="np"/><s n="top"/></r></p></e>  <!-- Chudniv|Чуднов|Chudniv -->
+<e><p><l>Çortkiv<s n="np"/><s n="top"/></l><r>Çortkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Chortkiv|Чортков|Чертков -->
+<e><p><l>Çornuhı<s n="np"/><s n="top"/></l><r>Çornuhı<s n="np"/><s n="top"/></r></p></e>  <!-- Chornukhy|Чернухи|Chornukhy -->
+<e><p><l>Çornobay<s n="np"/><s n="top"/></l><r>Çornobay<s n="np"/><s n="top"/></r></p></e>  <!-- Chornobai|Чернобай (посёлок)|Chornobai -->
+<e><p><l>Çıgırın<s n="np"/><s n="top"/></l><r>Çıgırın<s n="np"/><s n="top"/></r></p></e>  <!-- Çigirin|Chyhyryn|Чигирин (город)|Чигирин -->
+<e><p><l>Çervonoarmiysk<s n="np"/><s n="top"/></l><r>Çervonoarmiysk<s n="np"/><s n="top"/></r></p></e>  <!-- Pulyny|Пулины -->
+<e><p><l>Çernâhiv<s n="np"/><s n="top"/></l><r>Çernahiv<s n="np"/><s n="top"/></r></p></e>  <!-- Cherniakhiv, Zhytomyr Oblast|Черняхов (Житомирская область) -->
+<e><p><l>Çemerivtsi<s n="np"/><s n="top"/></l><r>Çemerivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Chemerivtsi|Чемеровцы -->
+<e><p><l>Çeçelnık<s n="np"/><s n="top"/></l><r>Çeçelnık<s n="np"/><s n="top"/></r></p></e>  <!-- Chechelnik|Чечельник -->
+<e><p><l>Busk<s n="np"/><s n="top"/></l><r>Busk<s n="np"/><s n="top"/></r></p></e>  <!-- Busk, Ukraine|Буск -->
+<e><p><l>Burın<s n="np"/><s n="top"/></l><r>Burın<s n="np"/><s n="top"/></r></p></e>  <!-- Buryn|Бурынь -->
+<e><p><l>Buçaç<s n="np"/><s n="top"/></l><r>Buçaç<s n="np"/><s n="top"/></r></p></e>  <!-- Buchach|Бучач -->
+<e><p><l>Brusıliv<s n="np"/><s n="top"/></l><r>Brusıliv<s n="np"/><s n="top"/></r></p></e>  <!-- Brusyliv, Zhytomyr Oblast|Брусилов (Житомирская область) -->
+<e><p><l>Brodı<s n="np"/><s n="top"/></l><r>Brodı<s n="np"/><s n="top"/></r></p></e>  <!-- Brody|Броды -->
+<e><p><l>Borzna<s n="np"/><s n="top"/></l><r>Borzna<s n="np"/><s n="top"/></r></p></e>  <!-- Borzna|Борзна|Борзна -->
+<e><p><l>Borşçiv<s n="np"/><s n="top"/></l><r>Borşçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Borshchiv|Борщёв -->
+<e><p><l>Borodino<s n="np"/><s n="top"/></l><r>Borodino<s n="np"/><s n="top"/></r></p></e>  <!-- Borodino (disambiguation)|Бородино|Бородино -->
+<e><p><l>Borodânka<s n="np"/><s n="top"/></l><r>Borodanka<s n="np"/><s n="top"/></r></p></e>  <!-- Borodianka|Бородянка -->
+<e><p><l>Borıspil<s n="np"/><s n="top"/></l><r>Borıspil<s n="np"/><s n="top"/></r></p></e>  <!-- Boryspil|Борисполь -->
+<e><p><l>Bolgrad<s n="np"/><s n="top"/></l><r>Bolgrad<s n="np"/><s n="top"/></r></p></e>  <!-- Bolhrad|Болград|Болград -->
+<e><p><l>Bogorodçanı<s n="np"/><s n="top"/></l><r>Bogorodçanı<s n="np"/><s n="top"/></r></p></e>  <!-- Bohorodchany|Богородчаны|Bohorodchany -->
+<e><p><l>Bobrovıtsâ<s n="np"/><s n="top"/></l><r>Bobrovıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Bobrovytsia|Бобровица -->
+<e><p><l>Bobrınets<s n="np"/><s n="top"/></l><r>Bobrınets<s n="np"/><s n="top"/></r></p></e>  <!-- Bobrynets|Бобринец -->
+<e><p><l>Bilopillâ<s n="np"/><s n="top"/></l><r>Bilopilla<s n="np"/><s n="top"/></r></p></e>  <!-- Bilopillia|Белополье -->
+<e><p><l>Bilogirya<s n="np"/><s n="top"/></l><r>Bilogirya<s n="np"/><s n="top"/></r></p></e>  <!-- Bilohiria|Белогорье (Хмельницкая область) -->
+<e><p><l>Bilâyivka<s n="np"/><s n="top"/></l><r>Bilayivka<s n="np"/><s n="top"/></r></p></e>  <!-- Bilyayivka|Беляевка|Біляївка -->
+<e><p><l>Berşad<s n="np"/><s n="top"/></l><r>Berşad<s n="np"/><s n="top"/></r></p></e>  <!-- Bershad|Бершадь -->
+<e><p><l>Berezne<s n="np"/><s n="top"/></l><r>Berezne<s n="np"/><s n="top"/></r></p></e>  <!-- Berezne|Березно -->
+<e><p><l>Berejanı<s n="np"/><s n="top"/></l><r>Berejanı<s n="np"/><s n="top"/></r></p></e>  <!-- Berezhany|Бережаны|Berezhany -->
+<e><p><l>Beregove<s n="np"/><s n="top"/></l><r>Beregove<s n="np"/><s n="top"/></r></p></e>  <!-- Berehove|Берегово|Berehovo -->
+<e><p><l>Berdıçiv<s n="np"/><s n="top"/></l><r>Berdıçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Berdychiv|Бердичев -->
+<e><p><l>Bazarçıq<s n="np"/><s n="top"/></l><r>Bazarçık<s n="np"/><s n="top"/></r></p></e>  <!-- Почтовое (Крым)|Pochtovoe -->
+<e><p><l>Barışivka<s n="np"/><s n="top"/></l><r>Barışivka<s n="np"/><s n="top"/></r></p></e>  <!-- Baryshivka|Барышевка -->
+<e><p><l>Baranivka<s n="np"/><s n="top"/></l><r>Baranivka<s n="np"/><s n="top"/></r></p></e>  <!-- Baranivka (city)|Барановка (город) -->
+<e><p><l>Baqqal<s n="np"/><s n="top"/></l><r>Bakkal<s n="np"/><s n="top"/></r></p></e>  <!-- Славное (Крым) -->
+<e><p><l>Bahmaç<s n="np"/><s n="top"/></l><r>Bahmaç<s n="np"/><s n="top"/></r></p></e>  <!-- Bakhmach|Бахмач -->
+<e><p><l>Bağatır<s n="np"/><s n="top"/></l><r>Bağatır<s n="np"/><s n="top"/></r></p></e>  <!-- Богатырь (Крым) -->
+<e><p><l>Artsız<s n="np"/><s n="top"/></l><r>Artsız<s n="np"/><s n="top"/></r></p></e>  <!-- Artsyz|Арциз|Арциз -->
+<e><p><l>Andruşivka<s n="np"/><s n="top"/></l><r>Andruşivka<s n="np"/><s n="top"/></r></p></e>  <!-- Andrushivka|Андрушёвка|Andrushivka -->
+<e><p><l>Ananyiv<s n="np"/><s n="top"/></l><r>Ananyiv<s n="np"/><s n="top"/></r></p></e>  <!-- Ananyiv|Ананьев (город)|Ананьїв -->
+<e><p><l>Zolotıy<b/>Potik<s n="np"/><s n="top"/></l><r>Zolotıy<b/>Potik<s n="np"/><s n="top"/></r></p></e>  <!-- Zolotyi Potik|Золотой Поток -->
+<e><p><l>Znob-Novgorodske<s n="np"/><s n="top"/></l><r>Znob-Novgorodske<s n="np"/><s n="top"/></r></p></e>  <!-- Знобь-Новгородское -->
+<e><p><l>Znamyanka<b/>Druga<s n="np"/><s n="top"/></l><r>Znamyanka<b/>Druga<s n="np"/><s n="top"/></r></p></e>  <!-- Знаменка Вторая -->
+<e><p><l>Zelenogirske<s n="np"/><s n="top"/></l><r>Zelenogirske<s n="np"/><s n="top"/></r></p></e>  <!-- Зеленогорское (Одесская область) -->
+<e><p><l>Zavodske<s n="np"/><s n="top"/></l><r>Zavodske<s n="np"/><s n="top"/></r></p></e>  <!-- Zavodske, Ternopil Oblast|Заводское (Тернопольская область) -->
+<e><p><l>Zavallâ<s n="np"/><s n="top"/></l><r>Zavalla<s n="np"/><s n="top"/></r></p></e>  <!-- Завалье (Кировоградская область) -->
+<e><p><l>Zatoka<s n="np"/><s n="top"/></l><r>Zatoka<s n="np"/><s n="top"/></r></p></e>  <!-- Zatoka, Bilhorod-Dnistrovskyi|Затока|Zatoka -->
+<e><p><l>Zatışşâ<s n="np"/><s n="top"/></l><r>Zatışşa<s n="np"/><s n="top"/></r></p></e>  <!-- Zatyshshia|Затишье (Одесская область)|Zatyshshia -->
+<e><p><l>Zapıtiv<s n="np"/><s n="top"/></l><r>Zapıtiv<s n="np"/><s n="top"/></r></p></e>  <!-- Запытов|Zapytiv -->
+<e><p><l>Zamglay<s n="np"/><s n="top"/></l><r>Zamglay<s n="np"/><s n="top"/></r></p></e>  <!-- Замглай (Черниговская область)|Zamhlay -->
+<e><p><l>Zaliztsi<s n="np"/><s n="top"/></l><r>Zaliztsi<s n="np"/><s n="top"/></r></p></e>  <!-- Zaliztsi|Заложцы -->
+<e><p><l>Zaliznıçne<s n="np"/><s n="top"/></l><r>Zaliznıçne<s n="np"/><s n="top"/></r></p></e>  <!-- Зализничное (Петропавловский район) -->
+<e><p><l>Zakupne<s n="np"/><s n="top"/></l><r>Zakupne<s n="np"/><s n="top"/></r></p></e>  <!-- Zakupne|Закупное -->
+<e><p><l>Zabolotiv<s n="np"/><s n="top"/></l><r>Zabolotiv<s n="np"/><s n="top"/></r></p></e>  <!-- Zabolotiv|Заболотов|Zabolotiv -->
+<e><p><l>Yujne<s n="np"/><s n="top"/></l><r>Yujne<s n="np"/><s n="top"/></r></p></e>  <!-- Yuzhne|Южное (город)|Южне -->
+<e><p><l>Yezupil<s n="np"/><s n="top"/></l><r>Yezupil<s n="np"/><s n="top"/></r></p></e>  <!-- Yezupil|Езуполь -->
+<e><p><l>Yerkı<s n="np"/><s n="top"/></l><r>Yerkı<s n="np"/><s n="top"/></r></p></e>  <!-- Yerky|Ерки (посёлок городского типа) -->
+<e><p><l>Yelızavetgradka<s n="np"/><s n="top"/></l><r>Yelızavetgradka<s n="np"/><s n="top"/></r></p></e>  <!-- Елизаветградка -->
+<e><p><l>Yasinâ<s n="np"/><s n="top"/></l><r>Yasina<s n="np"/><s n="top"/></r></p></e>  <!-- Yasinia|Ясиня|Yasinya -->
+<e><p><l>Yaremçe<s n="np"/><s n="top"/></l><r>Yaremçe<s n="np"/><s n="top"/></r></p></e>  <!-- Yaremche|Яремче|Yaremche -->
+<e><p><l>Yabluniv<s n="np"/><s n="top"/></l><r>Yabluniv<s n="np"/><s n="top"/></r></p></e>  <!-- Yabluniv|Яблонов (Косовский район) -->
+<e><p><l>Voynıliv<s n="np"/><s n="top"/></l><r>Voynıliv<s n="np"/><s n="top"/></r></p></e>  <!-- Voinyliv|Войнилов -->
+<e><p><l>Vovkovıntsi<s n="np"/><s n="top"/></l><r>Vovkovıntsi<s n="np"/><s n="top"/></r></p></e>  <!-- Vovkovyntsi|Волковинцы -->
+<e><p><l>Vorzel<s n="np"/><s n="top"/></l><r>Vorzel<s n="np"/><s n="top"/></r></p></e>  <!-- Vorzel|Ворзель -->
+<e><p><l>Voronovıtsâ<s n="np"/><s n="top"/></l><r>Voronovıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Вороновица (Винницкая область) -->
+<e><p><l>Voronij<s n="np"/><s n="top"/></l><r>Voronij<s n="np"/><s n="top"/></r></p></e>  <!-- Воронеж (Сумская область) -->
+<e><p><l>Vorojba<s n="np"/><s n="top"/></l><r>Vorojba<s n="np"/><s n="top"/></r></p></e>  <!-- Vorozhba|Ворожба (город) -->
+<e><p><l>Vorohta<s n="np"/><s n="top"/></l><r>Vorohta<s n="np"/><s n="top"/></r></p></e>  <!-- Vorokhta|Ворохта -->
+<e><p><l>Vlasivka<s n="np"/><s n="top"/></l><r>Vlasivka<s n="np"/><s n="top"/></r></p></e>  <!-- Власовка (Кировоградская область)|Vlasivka, Kirovohrad Oblast -->
+<e><p><l>Viytivtsi<s n="np"/><s n="top"/></l><r>Viytivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Viitivtsi|Войтовцы (Хмельницкая область) -->
+<e><p><l>Vışnivets<s n="np"/><s n="top"/></l><r>Vışnivets<s n="np"/><s n="top"/></r></p></e>  <!-- Vyshnivets|Вишневец (Тернопольская область) -->
+<e><p><l>Vışneve<s n="np"/><s n="top"/></l><r>Vışneve<s n="np"/><s n="top"/></r></p></e>  <!-- Vyshneve|Вишнёвое (город) -->
+<e><p><l>Vışkovo<s n="np"/><s n="top"/></l><r>Vışkovo<s n="np"/><s n="top"/></r></p></e>  <!-- Vyshkovo|Вышково -->
+<e><p><l>Vınnıkı<s n="np"/><s n="top"/></l><r>Vınnıkı<s n="np"/><s n="top"/></r></p></e>  <!-- Vynnyky|Винники -->
+<e><p><l>Vilşana<s n="np"/><s n="top"/></l><r>Vilşana<s n="np"/><s n="top"/></r></p></e>  <!-- Vilshana|Ольшана (Черкасская область) -->
+<e><p><l>Vılok<s n="np"/><s n="top"/></l><r>Vılok<s n="np"/><s n="top"/></r></p></e>  <!-- Vylok|Вилок|Vilok -->
+<e><p><l>Vıgoda<s n="np"/><s n="top"/></l><r>Vıgoda<s n="np"/><s n="top"/></r></p></e>  <!-- Vyhoda|Выгода (Ивано-Франковская область) -->
+<e><p><l>Verhne<b/>Sınövıdne<s n="np"/><s n="top"/></l><r>Verhne<b/>Sınövıdne<s n="np"/><s n="top"/></r></p></e>  <!-- Верхнее Синевидное -->
+<e><p><l>Verhnâçka<s n="np"/><s n="top"/></l><r>Verhnaçka<s n="np"/><s n="top"/></r></p></e>  <!-- Verkhniachka|Верхнячка -->
+<e><p><l>Veñgojıno<s n="np"/><s n="top"/></l><r>Vengojıno<s n="np"/><s n="top"/></r></p></e>  <!-- Węgorzyno|Венгожино -->
+<e><p><l>Vendıçanı<s n="np"/><s n="top"/></l><r>Vendıçanı<s n="np"/><s n="top"/></r></p></e>  <!-- Вендичаны|Vendychany -->
+<e><p><l>Velıkodolınske<s n="np"/><s n="top"/></l><r>Velıkodolınske<s n="np"/><s n="top"/></r></p></e>  <!-- Великодолинское|Velykodolynske -->
+<e><p><l>Velıkıy<b/>Lübin<s n="np"/><s n="top"/></l><r>Velıkıy<b/>Lübin<s n="np"/><s n="top"/></r></p></e>  <!-- Великий Любень -->
+<e><p><l>Velıkıy<b/>Bıçkiv<s n="np"/><s n="top"/></l><r>Velıkıy<b/>Bıçkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Velykyi Bychkiv|Великий Бычков|Velykyi Bychkiv -->
+<e><p><l>Velıki<b/>Mostı<s n="np"/><s n="top"/></l><r>Velıki<b/>Mostı<s n="np"/><s n="top"/></r></p></e>  <!-- Velyki Mosty|Великие Мосты -->
+<e><p><l>Velıki<b/>Korovıntsi<s n="np"/><s n="top"/></l><r>Velıki<b/>Korovıntsi<s n="np"/><s n="top"/></r></p></e>  <!-- Velyki Korovyntsi|Великие Коровинцы|Velyki Korovyntsi -->
+<e><p><l>Velıki<b/>Birkı<s n="np"/><s n="top"/></l><r>Velıki<b/>Birkı<s n="np"/><s n="top"/></r></p></e>  <!-- Velyki Birky|Великие Борки -->
+<e><p><l>Velıka<b/>Dımerka<s n="np"/><s n="top"/></l><r>Velıka<b/>Dımerka<s n="np"/><s n="top"/></r></p></e>  <!-- Velyka Dymerka|Великая Дымерка -->
+<e><p><l>Velıka<b/>Berezovıtsâ<s n="np"/><s n="top"/></l><r>Velıka<b/>Berezovıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Velyka Berezovytsia|Великая Березовица -->
+<e><p><l>Vatutine<s n="np"/><s n="top"/></l><r>Vatutine<s n="np"/><s n="top"/></r></p></e>  <!-- Vatutine|Ватутино -->
+<e><p><l>Vaşkivtsi<s n="np"/><s n="top"/></l><r>Vaşkivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Vashkivtsi|Вашковцы (Вижницкий район) -->
+<e><p><l>Vasilyevka<s n="np"/><s n="top"/></l><r>Vasilyevka<s n="np"/><s n="top"/></r></p></e>  <!-- Васильевка (Белогорский район, Крым) -->
+<e><p><l>Vapnârka<s n="np"/><s n="top"/></l><r>Vapnarka<s n="np"/><s n="top"/></r></p></e>  <!-- Vapniarka|Вапнярка (Винницкая область) -->
+<e><p><l>Uzın<s n="np"/><s n="top"/></l><r>Uzın<s n="np"/><s n="top"/></r></p></e>  <!-- Uzyn|Узин (Киевская область) -->
+<e><p><l>Ust-Çorna<s n="np"/><s n="top"/></l><r>Ust-Çorna<s n="np"/><s n="top"/></r></p></e>  <!-- Ust-Chorna|Усть-Чорна|Ust-Chorna -->
+<e><p><l>Ulânivka<s n="np"/><s n="top"/></l><r>Ulanivka<s n="np"/><s n="top"/></r></p></e>  <!-- Ульяновка (Белопольский район) -->
+<e><p><l>Ukrayinsk<s n="np"/><s n="top"/></l><r>Ukrayinsk<s n="np"/><s n="top"/></r></p></e>  <!-- Ukrainsk|Украинск|Ukrainsk -->
+<e><p><l>Ukrayinka<s n="np"/><s n="top"/></l><r>Ukrayinka<s n="np"/><s n="top"/></r></p></e>  <!-- Ukrainka, Kiev Oblast|Украинка (город) -->
+<e><p><l>Ugroyidı<s n="np"/><s n="top"/></l><r>Ugroyidı<s n="np"/><s n="top"/></r></p></e>  <!-- Угроеды -->
+<e><p><l>Ugniv<s n="np"/><s n="top"/></l><r>Ugniv<s n="np"/><s n="top"/></r></p></e>  <!-- Uhniv|Угнев|Uhniv -->
+<e><p><l>Tsvitkove<s n="np"/><s n="top"/></l><r>Tsvitkove<s n="np"/><s n="top"/></r></p></e>  <!-- Tsvitkove|Цветково (Черкасская область)|Tsvitkove -->
+<e><p><l>Tsıbuliv<s n="np"/><s n="top"/></l><r>Tsıbuliv<s n="np"/><s n="top"/></r></p></e>  <!-- Tsybuliv|Цибулев|Cybuliv -->
+<e><p><l>Tsebrıkove<s n="np"/><s n="top"/></l><r>Tsebrıkove<s n="np"/><s n="top"/></r></p></e>  <!-- Tsebrykove|Цебриково -->
+<e><p><l>Tovste<s n="np"/><s n="top"/></l><r>Tovste<s n="np"/><s n="top"/></r></p></e>  <!-- Tovste (urban-type settlement)|Толстое (Залещицкий район) -->
+<e><p><l>Tokmak<s n="np"/><s n="top"/></l><r>Tokmak<s n="np"/><s n="top"/></r></p></e>  <!-- Tokmak, Zaporizhia Oblast|Токмак (Украина) -->
+<e><p><l>Tıhı<s n="np"/><s n="top"/></l><r>Tıhı<s n="np"/><s n="top"/></r></p></e>  <!-- Tychy|Тыхы|Tychy -->
+<e><p><l>Ternı<s n="np"/><s n="top"/></l><r>Ternı<s n="np"/><s n="top"/></r></p></e>  <!-- Терны (Сумская область) -->
+<e><p><l>Terezıne<s n="np"/><s n="top"/></l><r>Terezıne<s n="np"/><s n="top"/></r></p></e>  <!-- Terezyne|Терезино -->
+<e><p><l>Teresva<s n="np"/><s n="top"/></l><r>Teresva<s n="np"/><s n="top"/></r></p></e>  <!-- Teresva|Тересва|Teresva -->
+<e><p><l>Tayirove<s n="np"/><s n="top"/></l><r>Tayirove<s n="np"/><s n="top"/></r></p></e>  <!-- Tairove|Таирово|Tairove -->
+<e><p><l>Taraq<b/>Taş<s n="np"/><s n="top"/></l><r>Tarak<b/>Taş<s n="np"/><s n="top"/></r></p></e>  <!-- Dachne, Sudak Municipality|Дачное (Судак) -->
+<e><p><l>Tamaq<s n="np"/><s n="top"/></l><r>Tamak<s n="np"/><s n="top"/></r></p></e>  <!-- Изобильное (Нижнегорский район) -->
+<e><p><l>Svesa<s n="np"/><s n="top"/></l><r>Svesa<s n="np"/><s n="top"/></r></p></e>  <!-- Svesa|Свесса -->
+<e><p><l>Svâtogirsk<s n="np"/><s n="top"/></l><r>Svatogirsk<s n="np"/><s n="top"/></r></p></e>  <!-- Sviatohirsk|Святогорск -->
+<e><p><l>Suvorove<s n="np"/><s n="top"/></l><r>Suvorove<s n="np"/><s n="top"/></r></p></e>  <!-- Суворово (Одесская область)|Suvorove (Izmail Raion) -->
+<e><p><l>Sutıskı<s n="np"/><s n="top"/></l><r>Sutıskı<s n="np"/><s n="top"/></r></p></e>  <!-- Сутиски -->
+<e><p><l>Sudova<b/>Vışnâ<s n="np"/><s n="top"/></l><r>Sudova<b/>Vışna<s n="np"/><s n="top"/></r></p></e>  <!-- Sudova Vyshnia|Судовая Вишня -->
+<e><p><l>Strıjavka<s n="np"/><s n="top"/></l><r>Strıjavka<s n="np"/><s n="top"/></r></p></e>  <!-- Stryzhavka|Стрижавка (Винницкая область) -->
+<e><p><l>Stepanivka<s n="np"/><s n="top"/></l><r>Stepanivka<s n="np"/><s n="top"/></r></p></e>  <!-- Степановка (Сумский район) -->
+<e><p><l>Stebliv<s n="np"/><s n="top"/></l><r>Stebliv<s n="np"/><s n="top"/></r></p></e>  <!-- Stebliv|Стеблёв -->
+<e><p><l>Stara<b/>Uşıtsâ<s n="np"/><s n="top"/></l><r>Stara<b/>Uşıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Stara Ushytsia|Старая Ушица -->
+<e><p><l>Stara<b/>Sil<s n="np"/><s n="top"/></l><r>Stara<b/>Sil<s n="np"/><s n="top"/></r></p></e>  <!-- Stara Sil|Старая Соль -->
+<e><p><l>Şramkivka<s n="np"/><s n="top"/></l><r>Şramkivka<s n="np"/><s n="top"/></r></p></e>  <!-- Shramkivka|Шрамковка|Shramkivka -->
+<e><p><l>Şpıkiv<s n="np"/><s n="top"/></l><r>Şpıkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Shpykiv|Шпиков -->
+<e><p><l>Sosnivka<s n="np"/><s n="top"/></l><r>Sosnivka<s n="np"/><s n="top"/></r></p></e>  <!-- Sosnivka|Сосновка (Львовская область) -->
+<e><p><l>Solotvıno<s n="np"/><s n="top"/></l><r>Solotvıno<s n="np"/><s n="top"/></r></p></e>  <!-- Solotvyno|Солотвино|Solotvyno -->
+<e><p><l>Solotvın<s n="np"/><s n="top"/></l><r>Solotvın<s n="np"/><s n="top"/></r></p></e>  <!-- Solotvyn|Солотвин -->
+<e><p><l>Snovsk<s n="np"/><s n="top"/></l><r>Snovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Snovsk|Сновск (Украина) -->
+<e><p><l>Smotrıç<s n="np"/><s n="top"/></l><r>Smotrıç<s n="np"/><s n="top"/></r></p></e>  <!-- Smotrych (urban-type settlement)|Смотрич (Дунаевецкий район) -->
+<e><p><l>Slobidka<s n="np"/><s n="top"/></l><r>Slobidka<s n="np"/><s n="top"/></r></p></e>  <!-- Слободка (Одесская область) -->
+<e><p><l>Slavske<s n="np"/><s n="top"/></l><r>Slavske<s n="np"/><s n="top"/></r></p></e>  <!-- Slavske|Славское (Львовская область) -->
+<e><p><l>Şklo<s n="np"/><s n="top"/></l><r>Şklo<s n="np"/><s n="top"/></r></p></e>  <!-- Shklo|Шкло (посёлок городского типа) -->
+<e><p><l>Skalat<s n="np"/><s n="top"/></l><r>Skalat<s n="np"/><s n="top"/></r></p></e>  <!-- Skalat|Скалат -->
+<e><p><l>Skala-Podilska<s n="np"/><s n="top"/></l><r>Skala-Podilska<s n="np"/><s n="top"/></r></p></e>  <!-- Skala-Podilska|Скала-Подольская -->
+<e><p><l>Sıtkivtsi<s n="np"/><s n="top"/></l><r>Sıtkivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Ситковцы -->
+<e><p><l>Shidnıtsâ<s n="np"/><s n="top"/></l><r>Shidnıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Skhidnytsia|Сходница -->
+<e><p><l>Severnıy<s n="np"/><s n="top"/></l><r>Severnıy<s n="np"/><s n="top"/></r></p></e>  <!-- Северный (Луганская область) -->
+<e><p><l>Serpneve<s n="np"/><s n="top"/></l><r>Serpneve<s n="np"/><s n="top"/></r></p></e>  <!-- Серпневое (Одесская область) -->
+<e><p><l>Sergiyivka<s n="np"/><s n="top"/></l><r>Sergiyivka<s n="np"/><s n="top"/></r></p></e>  <!-- Сергеевка (Одесская область)|Serhiivka -->
+<e><p><l>Seredne<s n="np"/><s n="top"/></l><r>Seredne<s n="np"/><s n="top"/></r></p></e>  <!-- Serednie|Среднее (Закарпатская область)|Serednie -->
+<e><p><l>Sedniv<s n="np"/><s n="top"/></l><r>Sedniv<s n="np"/><s n="top"/></r></p></e>  <!-- Sedniv|Седнев -->
+<e><p><l>Şçırets<s n="np"/><s n="top"/></l><r>Şçırets<s n="np"/><s n="top"/></r></p></e>  <!-- Щирец (посёлок) -->
+<e><p><l>Sataniv<s n="np"/><s n="top"/></l><r>Sataniv<s n="np"/><s n="top"/></r></p></e>  <!-- Sataniv|Сатанов -->
+<e><p><l>Şalıgıne<s n="np"/><s n="top"/></l><r>Şalıgıne<s n="np"/><s n="top"/></r></p></e>  <!-- Шалыгино -->
+<e><p><l>Rudnıtsâ<s n="np"/><s n="top"/></l><r>Rudnıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Рудница|Rudnytsia -->
+<e><p><l>Rudne<s n="np"/><s n="top"/></l><r>Rudne<s n="np"/><s n="top"/></r></p></e>  <!-- Rudne|Рудно|Rudne -->
+<e><p><l>Rudkı<s n="np"/><s n="top"/></l><r>Rudkı<s n="np"/><s n="top"/></r></p></e>  <!-- Rudky|Рудки -->
+<e><p><l>Rubijne<s n="np"/><s n="top"/></l><r>Rubijne<s n="np"/><s n="top"/></r></p></e>  <!-- Rubizhne|Рубежное -->
+<e><p><l>Rozdil<s n="np"/><s n="top"/></l><r>Rozdil<s n="np"/><s n="top"/></r></p></e>  <!-- Роздол -->
+<e><p><l>Romodan<s n="np"/><s n="top"/></l><r>Romodan<s n="np"/><s n="top"/></r></p></e>  <!-- Ромодан -->
+<e><p><l>Rjışçiv<s n="np"/><s n="top"/></l><r>Rjışçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Rzhyshchiv|Ржищев -->
+<e><p><l>Reni<s n="np"/><s n="top"/></l><r>Reni<s n="np"/><s n="top"/></r></p></e>  <!-- Reni, Ukraine|Рени|Рені -->
+<e><p><l>Rava-Ruska<s n="np"/><s n="top"/></l><r>Rava-Ruska<s n="np"/><s n="top"/></r></p></e>  <!-- Rava-Ruska|Рава-Русская -->
+<e><p><l>Rauhivka<s n="np"/><s n="top"/></l><r>Rauhivka<s n="np"/><s n="top"/></r></p></e>  <!-- Рауховка -->
+<e><p><l>Ratsibuj<s n="np"/><s n="top"/></l><r>Ratsibuj<s n="np"/><s n="top"/></r></p></e>  <!-- Rasibuj|Racibórz|Рацибуж|Racibórz -->
+<e><p><l>Radul<s n="np"/><s n="top"/></l><r>Radul<s n="np"/><s n="top"/></r></p></e>  <!-- Радуль -->
+<e><p><l>Radisne<s n="np"/><s n="top"/></l><r>Radisne<s n="np"/><s n="top"/></r></p></e>  <!-- Радостное (Одесская область) -->
+<e><p><l>Qoñrat<s n="np"/><s n="top"/></l><r>Konrat<s n="np"/><s n="top"/></r></p></e>  <!-- Маковка (Крым) -->
+<e><p><l>Qamacı<s n="np"/><s n="top"/></l><r>Kamacı<s n="np"/><s n="top"/></r></p></e>  <!-- Заречное (Джанкойский район) -->
+<e><p><l>Qalımtay<s n="np"/><s n="top"/></l><r>Kalımtay<s n="np"/><s n="top"/></r></p></e>  <!-- Тенистое -->
+<e><p><l>Pşıboje<s n="np"/><s n="top"/></l><r>Pşıboje<s n="np"/><s n="top"/></r></p></e>  <!-- Pşıboje|Przyborze, West Pomeranian Voivodeship|Пшибоже -->
+<e><p><l>Prıyutivka<s n="np"/><s n="top"/></l><r>Prıyutivka<s n="np"/><s n="top"/></r></p></e>  <!-- Приютовка -->
+<e><p><l>Privolnoye<s n="np"/><s n="top"/></l><r>Privolnoye<s n="np"/><s n="top"/></r></p></e>  <!-- Привольное (Советский район) -->
+<e><p><l>Ponornıtsâ<s n="np"/><s n="top"/></l><r>Ponornıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Понорница -->
+<e><p><l>Poninka<s n="np"/><s n="top"/></l><r>Poninka<s n="np"/><s n="top"/></r></p></e>  <!-- Poninka|Понинка -->
+<e><p><l>Pomorânı<s n="np"/><s n="top"/></l><r>Pomoranı<s n="np"/><s n="top"/></r></p></e>  <!-- Pomoryany|Поморяны|Pomoriany -->
+<e><p><l>Pomiçna<s n="np"/><s n="top"/></l><r>Pomiçna<s n="np"/><s n="top"/></r></p></e>  <!-- Pomichna|Помошная -->
+<e><p><l>Polânka<s n="np"/><s n="top"/></l><r>Polanka<s n="np"/><s n="top"/></r></p></e>  <!-- Polianka (urban-type settlement)|Полянка (Барановский район) -->
+<e><p><l>Poçayiv<s n="np"/><s n="top"/></l><r>Poçayiv<s n="np"/><s n="top"/></r></p></e>  <!-- Pochaiv|Почаев -->
+<e><p><l>Pobuzke<s n="np"/><s n="top"/></l><r>Pobuzke<s n="np"/><s n="top"/></r></p></e>  <!-- Побугское -->
+<e><p><l>Piskivka<s n="np"/><s n="top"/></l><r>Piskivka<s n="np"/><s n="top"/></r></p></e>  <!-- Piskivka|Песковка (Киевская область) -->
+<e><p><l>Pidkamin<s n="np"/><s n="top"/></l><r>Pidkamin<s n="np"/><s n="top"/></r></p></e>  <!-- Pidkamin|Подкамень -->
+<e><p><l>Pidbuj<s n="np"/><s n="top"/></l><r>Pidbuj<s n="np"/><s n="top"/></r></p></e>  <!-- Подбуж -->
+<e><p><l>Pıçqı<s n="np"/><s n="top"/></l><r>Pıçkı<s n="np"/><s n="top"/></r></p></e>  <!-- Баштановка (Крым) -->
+<e><p><l>Perşotravneve<s n="np"/><s n="top"/></l><r>Perşotravneve<s n="np"/><s n="top"/></r></p></e>  <!-- Pershotravneve|Першотравневое (Овручский район) -->
+<e><p><l>Pereginske<s n="np"/><s n="top"/></l><r>Pereginske<s n="np"/><s n="top"/></r></p></e>  <!-- Perehinske|Перегинское -->
+<e><p><l>Peçenijın<s n="np"/><s n="top"/></l><r>Peçenijın<s n="np"/><s n="top"/></r></p></e>  <!-- Pechenizhyn|Печенежин -->
+<e><p><l>Pavlograd<s n="np"/><s n="top"/></l><r>Pavlograd<s n="np"/><s n="top"/></r></p></e>  <!-- Pavlohrad|Павлоград|Павлоград -->
+<e><p><l>Pavlış<s n="np"/><s n="top"/></l><r>Pavlış<s n="np"/><s n="top"/></r></p></e>  <!-- Павлыш -->
+<e><p><l>Partenit<s n="np"/><s n="top"/></l><r>Partenit<s n="np"/><s n="top"/></r></p></e>  <!-- Partenit|Partenit|Партенит|Партенит|Partenit -->
+<e><p><l>Parafiyivka<s n="np"/><s n="top"/></l><r>Parafiyivka<s n="np"/><s n="top"/></r></p></e>  <!-- Парафиевка -->
+<e><p><l>Pantayivka<s n="np"/><s n="top"/></l><r>Pantayivka<s n="np"/><s n="top"/></r></p></e>  <!-- Пантаевка|Pantajivka -->
+<e><p><l>Palapan<s n="np"/><s n="top"/></l><r>Palapan<s n="np"/><s n="top"/></r></p></e>  <!-- Белинское (Крым) -->
+<e><p><l>Ozerne<s n="np"/><s n="top"/></l><r>Ozerne<s n="np"/><s n="top"/></r></p></e>  <!-- Ozerne, Zhytomyr Oblast|Озёрное (Житомирский район)|Ozerne -->
+<e><p><l>Otıniya<s n="np"/><s n="top"/></l><r>Otıniya<s n="np"/><s n="top"/></r></p></e>  <!-- Otynia|Отыния|Otynia -->
+<e><p><l>Oster<s n="np"/><s n="top"/></l><r>Oster<s n="np"/><s n="top"/></r></p></e>  <!-- Oster|Остёр (Черниговская область) -->
+<e><p><l>Opişnâ<s n="np"/><s n="top"/></l><r>Opişna<s n="np"/><s n="top"/></r></p></e>  <!-- Опошня -->
+<e><p><l>Olışivka<s n="np"/><s n="top"/></l><r>Olışivka<s n="np"/><s n="top"/></r></p></e>  <!-- Олишевка -->
+<e><p><l>Olhovatka<s n="np"/><s n="top"/></l><r>Olhovatka<s n="np"/><s n="top"/></r></p></e>  <!-- Ольховатка (Донецкая область) -->
+<e><p><l>Olesko<s n="np"/><s n="top"/></l><r>Olesko<s n="np"/><s n="top"/></r></p></e>  <!-- Olesko|Олеско|Olesko -->
+<e><p><l>Obertın<s n="np"/><s n="top"/></l><r>Obertın<s n="np"/><s n="top"/></r></p></e>  <!-- Obertyn|Обертин -->
+<e><p><l>Novoyavorivsk<s n="np"/><s n="top"/></l><r>Novoyavorivsk<s n="np"/><s n="top"/></r></p></e>  <!-- Novoiavorivsk|Новояворовск -->
+<e><p><l>Novoozerânka<s n="np"/><s n="top"/></l><r>Novoozeranka<s n="np"/><s n="top"/></r></p></e>  <!-- Novoozerianka|Новоозерянка -->
+<e><p><l>Novoorjıtske<s n="np"/><s n="top"/></l><r>Novoorjıtske<s n="np"/><s n="top"/></r></p></e>  <!-- Новооржицкое -->
+<e><p><l>Novoguyvınske<s n="np"/><s n="top"/></l><r>Novoguyvınske<s n="np"/><s n="top"/></r></p></e>  <!-- Novohuivynske|Новогуйвинское -->
+<e><p><l>Novogrigoryevka<s n="np"/><s n="top"/></l><r>Novogrigoryevka<s n="np"/><s n="top"/></r></p></e>  <!-- Новогригорьевка (Белогорский район) -->
+<e><p><l>Novodnistrovsk<s n="np"/><s n="top"/></l><r>Novodnistrovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Novodnistrovsk|Новоднестровск -->
+<e><p><l>Novıy<b/>Yarıçiv<s n="np"/><s n="top"/></l><r>Novıy<b/>Yarıçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Новый Ярычев -->
+<e><p><l>Novıy<b/>Rozdil<s n="np"/><s n="top"/></l><r>Novıy<b/>Rozdil<s n="np"/><s n="top"/></r></p></e>  <!-- Novyi Rozdil|Новый Роздол -->
+<e><p><l>Novıy<b/>Kalıniv<s n="np"/><s n="top"/></l><r>Novıy<b/>Kalıniv<s n="np"/><s n="top"/></r></p></e>  <!-- Novyi Kalyniv|Новый Калинов -->
+<e><p><l>Novi<b/>Strilışça<s n="np"/><s n="top"/></l><r>Novi<b/>Strilışça<s n="np"/><s n="top"/></r></p></e>  <!-- Novi Strilyshcha|Новые Стрелища -->
+<e><p><l>Novi<b/>Bilokorovıçi<s n="np"/><s n="top"/></l><r>Novi<b/>Bilokorovıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Novi Bilokorovychi|Новые Белокоровичи -->
+<e><p><l>Novi<b/>Bilâri<s n="np"/><s n="top"/></l><r>Novi<b/>Bilari<s n="np"/><s n="top"/></r></p></e>  <!-- Новые Беляры|Novi Bilyari -->
+<e><p><l>Nova<b/>Praga<s n="np"/><s n="top"/></l><r>Nova<b/>Praga<s n="np"/><s n="top"/></r></p></e>  <!-- Новая Прага -->
+<e><p><l>Nova<b/>Galeşçına<s n="np"/><s n="top"/></l><r>Nova<b/>Galeşçına<s n="np"/><s n="top"/></r></p></e>  <!-- Новая Галещина -->
+<e><p><l>Nova<b/>Borova<s n="np"/><s n="top"/></l><r>Nova<b/>Borova<s n="np"/><s n="top"/></r></p></e>  <!-- Nova Borova|Новая Боровая -->
+<e><p><l>Nızı<s n="np"/><s n="top"/></l><r>Nızı<s n="np"/><s n="top"/></r></p></e>  <!-- Низы (Сумская область) -->
+<e><p><l>Nıjankovıçi<s n="np"/><s n="top"/></l><r>Nıjankovıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Нижанковичи -->
+<e><p><l>Netişın<s n="np"/><s n="top"/></l><r>Netişın<s n="np"/><s n="top"/></r></p></e>  <!-- Netishyn|Нетешин -->
+<e><p><l>Nepolokivtsi<s n="np"/><s n="top"/></l><r>Nepolokivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Nepolokivtsi|Неполоковцы -->
+<e><p><l>Nemişayeve<s n="np"/><s n="top"/></l><r>Nemişayeve<s n="np"/><s n="top"/></r></p></e>  <!-- Nemishaieve|Немешаево -->
+<e><p><l>Nauçnıy<s n="np"/><s n="top"/></l><r>Nauçnıy<s n="np"/><s n="top"/></r></p></e>  <!-- Научный (Крым)|Nauchniy -->
+<e><p><l>Narkevıçi<s n="np"/><s n="top"/></l><r>Narkevıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Narkevychi|Наркевичи -->
+<e><p><l>Morşın<s n="np"/><s n="top"/></l><r>Morşın<s n="np"/><s n="top"/></r></p></e>  <!-- Morshyn|Моршин -->
+<e><p><l>Molodöjnoye<s n="np"/><s n="top"/></l><r>Molodöjnoye<s n="np"/><s n="top"/></r></p></e>  <!-- Molodizhne, Simferopol Raion|Молодёжное (Крым) -->
+<e><p><l>Mıropil<s n="np"/><s n="top"/></l><r>Mıropil<s n="np"/><s n="top"/></r></p></e>  <!-- Myropil (urban-type settlement)|Мирополь (Житомирская область) -->
+<e><p><l>Mıkulıntsi<s n="np"/><s n="top"/></l><r>Mıkulıntsi<s n="np"/><s n="top"/></r></p></e>  <!-- Mykulyntsi|Микулинцы -->
+<e><p><l>Mıhaylo-Kotsübınske<s n="np"/><s n="top"/></l><r>Mıhaylo-Kotsübınske<s n="np"/><s n="top"/></r></p></e>  <!-- Михайло-Коцюбинское -->
+<e><p><l>Melnıtsâ-Podilska<s n="np"/><s n="top"/></l><r>Melnıtsa-Podilska<s n="np"/><s n="top"/></r></p></e>  <!-- Melnytsia-Podilska|Мельница-Подольская (Борщёвский район) -->
+<e><p><l>Medenıçi<s n="np"/><s n="top"/></l><r>Medenıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Medenychi|Меденичи|Medenychi -->
+<e><p><l>Mecıbij<s n="np"/><s n="top"/></l><r>Mecıbij<s n="np"/><s n="top"/></r></p></e>  <!-- Medzhybizh|Меджибож|Medzhybizh -->
+<e><p><l>Mañ<b/>Kermen<s n="np"/><s n="top"/></l><r>Man<b/>Kermen<s n="np"/><s n="top"/></r></p></e>  <!-- Лоховка (Крым) -->
+<e><p><l>Mamut<b/>Sultan<s n="np"/><s n="top"/></l><r>Mamut<b/>Sultan<s n="np"/><s n="top"/></r></p></e>  <!-- Доброе (Крым) -->
+<e><p><l>Mamaşay<s n="np"/><s n="top"/></l><r>Mamaşay<s n="np"/><s n="top"/></r></p></e>  <!-- Орловка (Севастополь)|Orlovka -->
+<e><p><l>Mala<b/>Divıtsâ<s n="np"/><s n="top"/></l><r>Mala<b/>Divıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Малая Девица -->
+<e><p><l>Makoşıne<s n="np"/><s n="top"/></l><r>Makoşıne<s n="np"/><s n="top"/></r></p></e>  <!-- Макошино -->
+<e><p><l>Mageriv<s n="np"/><s n="top"/></l><r>Mageriv<s n="np"/><s n="top"/></r></p></e>  <!-- Магеров|Maheriv -->
+<e><p><l>Lujanı<s n="np"/><s n="top"/></l><r>Lujanı<s n="np"/><s n="top"/></r></p></e>  <!-- Luzhany|Лужаны (Черновицкая область) -->
+<e><p><l>Lübin<s n="np"/><s n="top"/></l><r>Lübin<s n="np"/><s n="top"/></r></p></e>  <!-- Lubin|Любин|Lubin|Lubin -->
+<e><p><l>Lübeç<s n="np"/><s n="top"/></l><r>Lübeç<s n="np"/><s n="top"/></r></p></e>  <!-- Liubech|Любеч -->
+<e><p><l>Lozove<s n="np"/><s n="top"/></l><r>Lozove<s n="np"/><s n="top"/></r></p></e>  <!-- Lozove|Лозовое (Хмельницкая область) -->
+<e><p><l>Losınivka<s n="np"/><s n="top"/></l><r>Losınivka<s n="np"/><s n="top"/></r></p></e>  <!-- Лосиновка|Losynivka -->
+<e><p><l>Lopatın<s n="np"/><s n="top"/></l><r>Lopatın<s n="np"/><s n="top"/></r></p></e>  <!-- Лопатин (Львовская область)|Lopatyn -->
+<e><p><l>Lisove<s n="np"/><s n="top"/></l><r>Lisove<s n="np"/><s n="top"/></r></p></e>  <!-- Lisove, Kirovohrad Oblast|Лесовое (Кировоградская область) -->
+<e><p><l>Lisiçansk<s n="np"/><s n="top"/></l><r>Lisiçansk<s n="np"/><s n="top"/></r></p></e>  <!-- Lysychansk|Лисичанск|Лисичанск -->
+<e><p><l>Lısets<s n="np"/><s n="top"/></l><r>Lısets<s n="np"/><s n="top"/></r></p></e>  <!-- Lysets|Лисец (Ивано-Франковская область) -->
+<e><p><l>Lınovıtsâ<s n="np"/><s n="top"/></l><r>Lınovıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Линовица|Lynovytsya -->
+<e><p><l>Lımanske<s n="np"/><s n="top"/></l><r>Lımanske<s n="np"/><s n="top"/></r></p></e>  <!-- Lymanske (urban-type settlement)|Лиманское|Lymanske, Odessa Oblast -->
+<e><p><l>Lançın<s n="np"/><s n="top"/></l><r>Lançın<s n="np"/><s n="top"/></r></p></e>  <!-- Lanchyn|Ланчин -->
+<e><p><l>Ladıjın<s n="np"/><s n="top"/></l><r>Ladıjın<s n="np"/><s n="top"/></r></p></e>  <!-- Ladyzhyn|Ладыжин (город)|Ladyzhyn -->
+<e><p><l>Ladan<s n="np"/><s n="top"/></l><r>Ladan<s n="np"/><s n="top"/></r></p></e>  <!-- Ладан (Прилукский район)|Ladan -->
+<e><p><l>Kvasıliv<s n="np"/><s n="top"/></l><r>Kvasıliv<s n="np"/><s n="top"/></r></p></e>  <!-- Kvasyliv|Квасилов|Kvasyliv -->
+<e><p><l>Kutı<s n="np"/><s n="top"/></l><r>Kutı<s n="np"/><s n="top"/></r></p></e>  <!-- Kuty|Куты (Ивано-Франковская область)|Kuty, Kosiv raion -->
+<e><p><l>Kulıkiv<s n="np"/><s n="top"/></l><r>Kulıkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Куликов (Жолковский район)|Kulykiv -->
+<e><p><l>Krasnoyilsk<s n="np"/><s n="top"/></l><r>Krasnoyilsk<s n="np"/><s n="top"/></r></p></e>  <!-- Krasnoilsk|Красноильск -->
+<e><p><l>Krasne<s n="np"/><s n="top"/></l><r>Krasne<s n="np"/><s n="top"/></r></p></e>  <!-- Красное (Бусский район) -->
+<e><p><l>Krasâtıçi<s n="np"/><s n="top"/></l><r>Krasatıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Krasiatychi|Красятичи|Krasyatychi -->
+<e><p><l>Krakovets<s n="np"/><s n="top"/></l><r>Krakovets<s n="np"/><s n="top"/></r></p></e>  <!-- Krakovets|Краковец -->
+<e><p><l>Kozliv<s n="np"/><s n="top"/></l><r>Kozliv<s n="np"/><s n="top"/></r></p></e>  <!-- Kozliv|Козлов (Тернопольская область) -->
+<e><p><l>Kozın<s n="np"/><s n="top"/></l><r>Kozın<s n="np"/><s n="top"/></r></p></e>  <!-- Kozyn|Козин (Обуховский район) -->
+<e><p><l>Kotsübınske<s n="np"/><s n="top"/></l><r>Kotsübınske<s n="np"/><s n="top"/></r></p></e>  <!-- Kotsiubynske|Коцюбинское -->
+<e><p><l>Kostrıjivka<s n="np"/><s n="top"/></l><r>Kostrıjivka<s n="np"/><s n="top"/></r></p></e>  <!-- Kostryzhivka|Кострижевка -->
+<e><p><l>Koropets<s n="np"/><s n="top"/></l><r>Koropets<s n="np"/><s n="top"/></r></p></e>  <!-- Koropets|Коропец (Тернопольская область) -->
+<e><p><l>Korolevo<s n="np"/><s n="top"/></l><r>Korolevo<s n="np"/><s n="top"/></r></p></e>  <!-- Korolevo|Королёво (Закарпатская область) -->
+<e><p><l>Kornın<s n="np"/><s n="top"/></l><r>Kornın<s n="np"/><s n="top"/></r></p></e>  <!-- Kornyn, Zhytomyr Oblast|Корнин (Житомирская область) -->
+<e><p><l>Körbekül<s n="np"/><s n="top"/></l><r>Körbekül<s n="np"/><s n="top"/></r></p></e>  <!-- Изобильное (Алушта)|Izobilnoe -->
+<e><p><l>Kopıçıntsi<s n="np"/><s n="top"/></l><r>Kopıçıntsi<s n="np"/><s n="top"/></r></p></e>  <!-- Kopychyntsi|Копычинцы -->
+<e><p><l>Kopaygorod<s n="np"/><s n="top"/></l><r>Kopaygorod<s n="np"/><s n="top"/></r></p></e>  <!-- Копайгород -->
+<e><p><l>Konstantinovka<s n="np"/><s n="top"/></l><r>Konstantinovka<s n="np"/><s n="top"/></r></p></e>  <!-- Константиновка (Джанкойский район) -->
+<e><p><l>Komsomolsk<s n="np"/><s n="top"/></l><r>Komsomolsk<s n="np"/><s n="top"/></r></p></e>  <!-- Horishni Plavni|Горишние Плавни -->
+<e><p><l>Komışnâ<s n="np"/><s n="top"/></l><r>Komışna<s n="np"/><s n="top"/></r></p></e>  <!-- Камышня -->
+<e><p><l>Komarno<s n="np"/><s n="top"/></l><r>Komarno<s n="np"/><s n="top"/></r></p></e>  <!-- Komarno, Ukraine|Комарно (Украина) -->
+<e><p><l>Kolçıno<s n="np"/><s n="top"/></l><r>Kolçıno<s n="np"/><s n="top"/></r></p></e>  <!-- Kolchyno|Кольчино|Kolchyno -->
+<e><p><l>Kokluz<s n="np"/><s n="top"/></l><r>Kokluz<s n="np"/><s n="top"/></r></p></e>  <!-- Богатое Ущелье -->
+<e><p><l>Kojanka<s n="np"/><s n="top"/></l><r>Kojanka<s n="np"/><s n="top"/></r></p></e>  <!-- Kozhanka (urban-type settlement)|Кожанка (Киевская область) -->
+<e><p><l>Kobıletska<b/>Polâna<s n="np"/><s n="top"/></l><r>Kobıletska<b/>Polana<s n="np"/><s n="top"/></r></p></e>  <!-- Kobyletska Poliana|Кобылецкая Поляна -->
+<e><p><l>Klesiv<s n="np"/><s n="top"/></l><r>Klesiv<s n="np"/><s n="top"/></r></p></e>  <!-- Klesiv|Клесов (посёлок городского типа) -->
+<e><p><l>Klavdiyevo-Tarasove<s n="np"/><s n="top"/></l><r>Klavdiyevo-Tarasove<s n="np"/><s n="top"/></r></p></e>  <!-- Klavdiievo-Tarasove|Клавдиево-Тарасово -->
+<e><p><l>Kişine<s n="np"/><s n="top"/></l><r>Kişine<s n="np"/><s n="top"/></r></p></e>  <!-- Табачное (Бахчисарайский район) -->
+<e><p><l>Kirovsk<s n="np"/><s n="top"/></l><r>Kirovsk<s n="np"/><s n="top"/></r></p></e>  <!-- Kirovsk, Luhansk Oblast|Кировск (Луганская область) -->
+<e><p><l>Kırnasivka<s n="np"/><s n="top"/></l><r>Kırnasivka<s n="np"/><s n="top"/></r></p></e>  <!-- Кирнасовка -->
+<e><p><l>Kırıkivka<s n="np"/><s n="top"/></l><r>Kırıkivka<s n="np"/><s n="top"/></r></p></e>  <!-- Кириковка -->
+<e><p><l>Kapitanivka<s n="np"/><s n="top"/></l><r>Kapitanivka<s n="np"/><s n="top"/></r></p></e>  <!-- Капитановка (Кировоградская область) -->
+<e><p><l>Kamyanıy<b/>Brid<s n="np"/><s n="top"/></l><r>Kamyanıy<b/>Brid<s n="np"/><s n="top"/></r></p></e>  <!-- Kamianyi Brid, Baranivka Raion|Каменный Брод (Барановский район) -->
+<e><p><l>Kalıta<s n="np"/><s n="top"/></l><r>Kalıta<s n="np"/><s n="top"/></r></p></e>  <!-- Kalyta|Калита (Киевская область) -->
+<e><p><l>Jvırka<s n="np"/><s n="top"/></l><r>Jvırka<s n="np"/><s n="top"/></r></p></e>  <!-- Жвирка|Zhvyrka -->
+<e><p><l>Juravno<s n="np"/><s n="top"/></l><r>Juravno<s n="np"/><s n="top"/></r></p></e>  <!-- Zhuravne|Журавно (Львовская область) -->
+<e><p><l>Jdeniyevo<s n="np"/><s n="top"/></l><r>Jdeniyevo<s n="np"/><s n="top"/></r></p></e>  <!-- Zhdeniievo|Ждениево|Zhdeniievo -->
+<e><p><l>İvanopil<s n="np"/><s n="top"/></l><r>İvanopil<s n="np"/><s n="top"/></r></p></e>  <!-- Ivanopil (urban-type settlement)|Иванополь (Чудновский район) -->
+<e><p><l>İvano-Frankove<s n="np"/><s n="top"/></l><r>İvano-Frankove<s n="np"/><s n="top"/></r></p></e>  <!-- Ивано-Франково -->
+<e><p><l>İrşansk<s n="np"/><s n="top"/></l><r>İrşansk<s n="np"/><s n="top"/></r></p></e>  <!-- Irshansk|Иршанск -->
+<e><p><l>İrpin<s n="np"/><s n="top"/></l><r>İrpin<s n="np"/><s n="top"/></r></p></e>  <!-- Irpin|Ирпень -->
+<e><p><l>İrdın<s n="np"/><s n="top"/></l><r>İrdın<s n="np"/><s n="top"/></r></p></e>  <!-- Irdyn|Ирдынь -->
+<e><p><l>Hşonhuv<s n="np"/><s n="top"/></l><r>Hşonhuv<s n="np"/><s n="top"/></r></p></e>  <!-- Chrząchów|Хшонхув -->
+<e><p><l>Horostkiv<s n="np"/><s n="top"/></l><r>Horostkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Khorostkiv|Хоростков -->
+<e><p><l>Holmı<s n="np"/><s n="top"/></l><r>Holmı<s n="np"/><s n="top"/></r></p></e>  <!-- Kholmy, Chernihiv Oblast|Холмы (Черниговская область) -->
+<e><p><l>Hodoriv<s n="np"/><s n="top"/></l><r>Hodoriv<s n="np"/><s n="top"/></r></p></e>  <!-- Khodoriv|Ходоров -->
+<e><p><l>Hlibodarske<s n="np"/><s n="top"/></l><r>Hlibodarske<s n="np"/><s n="top"/></r></p></e>  <!-- Хлебодарское -->
+<e><p><l>Hıriv<s n="np"/><s n="top"/></l><r>Hıriv<s n="np"/><s n="top"/></r></p></e>  <!-- Khyriv|Хыров -->
+<e><p><l>Hafuz<s n="np"/><s n="top"/></l><r>Hafuz<s n="np"/><s n="top"/></r></p></e>  <!-- Prymorskyi|Приморский (Крым)|Primorskiy (Feodosia) -->
+<e><p><l>Gvizdets<s n="np"/><s n="top"/></l><r>Gvizdets<s n="np"/><s n="top"/></r></p></e>  <!-- Hvizdets|Гвоздец -->
+<e><p><l>Guyva<s n="np"/><s n="top"/></l><r>Guyva<s n="np"/><s n="top"/></r></p></e>  <!-- Huiva (urban-type settlement)|Гуйва (посёлок городского типа) -->
+<e><p><l>Grıtsiv<s n="np"/><s n="top"/></l><r>Grıtsiv<s n="np"/><s n="top"/></r></p></e>  <!-- Hrytsiv|Грицев -->
+<e><p><l>Grışkivtsi<s n="np"/><s n="top"/></l><r>Grışkivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Hryshkivtsi|Гришковцы -->
+<e><p><l>Grımayliv<s n="np"/><s n="top"/></l><r>Grımayliv<s n="np"/><s n="top"/></r></p></e>  <!-- Hrymailiv|Гримайлов -->
+<e><p><l>Grebinkı<s n="np"/><s n="top"/></l><r>Grebinkı<s n="np"/><s n="top"/></r></p></e>  <!-- Hrebinky|Гребёнки -->
+<e><p><l>Granitne<s n="np"/><s n="top"/></l><r>Granitne<s n="np"/><s n="top"/></r></p></e>  <!-- Hranitne (urban-type settlement)|Гранитное (Житомирская область) -->
+<e><p><l>Gradızk<s n="np"/><s n="top"/></l><r>Gradızk<s n="np"/><s n="top"/></r></p></e>  <!-- Hradyzk|Градижск -->
+<e><p><l>Gostomel<s n="np"/><s n="top"/></l><r>Gostomel<s n="np"/><s n="top"/></r></p></e>  <!-- Hostomel|Гостомель -->
+<e><p><l>Gorodnıtsâ<s n="np"/><s n="top"/></l><r>Gorodnıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Horodnytsia (urban-type settlement)|Городница (Житомирская область) -->
+<e><p><l>Gonçarivske<s n="np"/><s n="top"/></l><r>Gonçarivske<s n="np"/><s n="top"/></r></p></e>  <!-- Honcharivske|Гончаровское -->
+<e><p><l>Golovıne<s n="np"/><s n="top"/></l><r>Golovıne<s n="np"/><s n="top"/></r></p></e>  <!-- Holovyne|Головино (Житомирская область) -->
+<e><p><l>Gogoleve<s n="np"/><s n="top"/></l><r>Gogoleve<s n="np"/><s n="top"/></r></p></e>  <!-- Гоголево (Великобагачанский район) -->
+<e><p><l>Gnizdıçiv<s n="np"/><s n="top"/></l><r>Gnizdıçiv<s n="np"/><s n="top"/></r></p></e>  <!-- Hnizdychiv|Гнездычев -->
+<e><p><l>Gnivan<s n="np"/><s n="top"/></l><r>Gnivan<s n="np"/><s n="top"/></r></p></e>  <!-- Hnivan|Гнивань -->
+<e><p><l>Gluhivtsi<s n="np"/><s n="top"/></l><r>Gluhivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Глуховцы (посёлок городского типа) -->
+<e><p><l>Glınânı<s n="np"/><s n="top"/></l><r>Glınanı<s n="np"/><s n="top"/></r></p></e>  <!-- Hlyniany|Глиняны -->
+<e><p><l>Glevaha<s n="np"/><s n="top"/></l><r>Glevaha<s n="np"/><s n="top"/></r></p></e>  <!-- Hlevakha|Глеваха -->
+<e><p><l>Girnık<s n="np"/><s n="top"/></l><r>Girnık<s n="np"/><s n="top"/></r></p></e>  <!-- Hirnyk, Donetsk Oblast|Горняк (Донецкая область) -->
+<e><p><l>Gayevniki-Kolonya<s n="np"/><s n="top"/></l><r>Gayevniki-Kolonya<s n="np"/><s n="top"/></r></p></e>  <!-- Qayevniki-Kolonya|Gajewniki-Kolonia|Гаевники-Колёнья|Gajewniki-Kolonia -->
+<e><p><l>Dubovyazivka<s n="np"/><s n="top"/></l><r>Dubovyazivka<s n="np"/><s n="top"/></r></p></e>  <!-- Дубовязовка -->
+<e><p><l>Dubove<s n="np"/><s n="top"/></l><r>Dubove<s n="np"/><s n="top"/></r></p></e>  <!-- Dubove, Tiachiv Raion|Дубовое (Закарпатская область)|Dubove (Zakarpattia Oblast) -->
+<e><p><l>Dublânı<s n="np"/><s n="top"/></l><r>Dublanı<s n="np"/><s n="top"/></r></p></e>  <!-- Dubliany|Дубляны (Жолковский район) -->
+<e><p><l>Dovbış<s n="np"/><s n="top"/></l><r>Dovbış<s n="np"/><s n="top"/></r></p></e>  <!-- Dovbysh|Довбыш -->
+<e><p><l>Doslidnıtske<s n="np"/><s n="top"/></l><r>Doslidnıtske<s n="np"/><s n="top"/></r></p></e>  <!-- Doslidnytske|Дослидницкое -->
+<e><p><l>Doñuzlav<s n="np"/><s n="top"/></l><r>Donuzlav<s n="np"/><s n="top"/></r></p></e>  <!-- Красноярское (Крым) -->
+<e><p><l>Dobrovelıçkivka<s n="np"/><s n="top"/></l><r>Dobrovelıçkivka<s n="np"/><s n="top"/></r></p></e>  <!-- Dobrovelychkivka|Добровеличковка -->
+<e><p><l>Dobrotvir<s n="np"/><s n="top"/></l><r>Dobrotvir<s n="np"/><s n="top"/></r></p></e>  <!-- Добротвор -->
+<e><p><l>Dobromıl<s n="np"/><s n="top"/></l><r>Dobromıl<s n="np"/><s n="top"/></r></p></e>  <!-- Dobromyl|Добромиль -->
+<e><p><l>Dobrânka<s n="np"/><s n="top"/></l><r>Dobranka<s n="np"/><s n="top"/></r></p></e>  <!-- Добрянка (Репкинский район) -->
+<e><p><l>Dmıtrivka<s n="np"/><s n="top"/></l><r>Dmıtrivka<s n="np"/><s n="top"/></r></p></e>  <!-- Дмитровка (Черниговская область) -->
+<e><p><l>Dımıtrove<s n="np"/><s n="top"/></l><r>Dımıtrove<s n="np"/><s n="top"/></r></p></e>  <!-- Александрийское|Dymytrove -->
+<e><p><l>Digtâri<s n="np"/><s n="top"/></l><r>Digtari<s n="np"/><s n="top"/></r></p></e>  <!-- Дегтяри (Черниговская область) -->
+<e><p><l>Dibrova<s n="np"/><s n="top"/></l><r>Dibrova<s n="np"/><s n="top"/></r></p></e>  <!-- Dibrova (urban-type settlement)|Диброва (Олевский район) -->
+<e><p><l>Delâtın<s n="np"/><s n="top"/></l><r>Delatın<s n="np"/><s n="top"/></r></p></e>  <!-- Deliatyn|Делятин -->
+<e><p><l>Debaltseve<s n="np"/><s n="top"/></l><r>Debaltseve<s n="np"/><s n="top"/></r></p></e>  <!-- Debaltsev|Debaltseve|Дебальцево|Категория:Дебальцево -->
+<e><p><l>Daşiv<s n="np"/><s n="top"/></l><r>Daşiv<s n="np"/><s n="top"/></r></p></e>  <!-- Дашев -->
+<e><p><l>Daşava<s n="np"/><s n="top"/></l><r>Daşava<s n="np"/><s n="top"/></r></p></e>  <!-- Дашава -->
+<e><p><l>Çupahivka<s n="np"/><s n="top"/></l><r>Çupahivka<s n="np"/><s n="top"/></r></p></e>  <!-- Чупаховка|Chupakhovka -->
+<e><p><l>Çornomorske<s n="np"/><s n="top"/></l><r>Çornomorske<s n="np"/><s n="top"/></r></p></e>  <!-- Chornomorske, Odessa Oblast|Черноморское (Одесская область)|Chornomorske (Odessa Oblast) -->
+<e><p><l>Çornıy<b/>Ostriv<s n="np"/><s n="top"/></l><r>Çornıy<b/>Ostriv<s n="np"/><s n="top"/></r></p></e>  <!-- Chornyi Ostriv|Чёрный Остров -->
+<e><p><l>Çopovıçi<s n="np"/><s n="top"/></l><r>Çopovıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Chopovychi|Чоповичи -->
+<e><p><l>Çınadiyovo<s n="np"/><s n="top"/></l><r>Çınadiyovo<s n="np"/><s n="top"/></r></p></e>  <!-- Chynadiyovo|Чинадиево -->
+<e><p><l>Çervonozavodske<s n="np"/><s n="top"/></l><r>Çervonozavodske<s n="np"/><s n="top"/></r></p></e>  <!-- Zavodske, Poltava Oblast|Заводское (город) -->
+<e><p><l>Çervonograd<s n="np"/><s n="top"/></l><r>Çervonograd<s n="np"/><s n="top"/></r></p></e>  <!-- Chervonohrad|Червоноград -->
+<e><p><l>Çernelıtsâ<s n="np"/><s n="top"/></l><r>Çernelıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Chernelytsia|Чернелица -->
+<e><p><l>Ceçinuv<s n="np"/><s n="top"/></l><r>Ceçinuv<s n="np"/><s n="top"/></r></p></e>  <!-- Dziecinów, Otwock County|Дзецинув (Отвоцкий повят)|Dziecinów (powiat otwocki) -->
+<e><p><l>Cadra<s n="np"/><s n="top"/></l><r>Cadra<s n="np"/><s n="top"/></r></p></e>  <!-- Лобаново (Крым) -->
+<e><p><l>Çabanı<s n="np"/><s n="top"/></l><r>Çabanı<s n="np"/><s n="top"/></r></p></e>  <!-- Chabany|Чабаны (Киевская область)|Chabany, KSR -->
+<e><p><l>Büyük<b/>Qaralez<s n="np"/><s n="top"/></l><r>Büyük<b/>Karalez<s n="np"/><s n="top"/></r></p></e>  <!-- Krasnyi Mak|Красный Мак|Krasniy Mak -->
+<e><p><l>Büyük<b/>Özenbaş<s n="np"/><s n="top"/></l><r>Büyük<b/>Özenbaş<s n="np"/><s n="top"/></r></p></e>  <!-- Счастливое (Крым) -->
+<e><p><l>Burştın<s n="np"/><s n="top"/></l><r>Burştın<s n="np"/><s n="top"/></r></p></e>  <!-- Burshtyn|Бурштын -->
+<e><p><l>Bukı<s n="np"/><s n="top"/></l><r>Bukı<s n="np"/><s n="top"/></r></p></e>  <!-- Buky|Буки (Маньковский район) -->
+<e><p><l>Bukaçivtsi<s n="np"/><s n="top"/></l><r>Bukaçivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Bukachivtsi|Букачёвцы -->
+<e><p><l>Buçmanı<s n="np"/><s n="top"/></l><r>Buçmanı<s n="np"/><s n="top"/></r></p></e>  <!-- Buchmany|Бучманы -->
+<e><p><l>Buça<s n="np"/><s n="top"/></l><r>Buça<s n="np"/><s n="top"/></r></p></e>  <!-- Buça|Bucha, Kiev Oblast|Буча (город) -->
+<e><p><l>Brühovıçi<s n="np"/><s n="top"/></l><r>Brühovıçi<s n="np"/><s n="top"/></r></p></e>  <!-- Briukhovychi|Брюховичи -->
+<e><p><l>Broşniv-Osada<s n="np"/><s n="top"/></l><r>Broşniv-Osada<s n="np"/><s n="top"/></r></p></e>  <!-- Broshniv-Osada|Брошнев-Осада -->
+<e><p><l>Brodetske<s n="np"/><s n="top"/></l><r>Brodetske<s n="np"/><s n="top"/></r></p></e>  <!-- Бродецкое (Винницкая область) -->
+<e><p><l>Brayiliv<s n="np"/><s n="top"/></l><r>Brayiliv<s n="np"/><s n="top"/></r></p></e>  <!-- Браилов (посёлок городского типа)|Brailiv -->
+<e><p><l>Bratslav<s n="np"/><s n="top"/></l><r>Bratslav<s n="np"/><s n="top"/></r></p></e>  <!-- Bratslav|Брацлав -->
+<e><p><l>Boyarka<s n="np"/><s n="top"/></l><r>Boyarka<s n="np"/><s n="top"/></r></p></e>  <!-- Boyarka|Боярка -->
+<e><p><l>Borıslav<s n="np"/><s n="top"/></l><r>Borıslav<s n="np"/><s n="top"/></r></p></e>  <!-- Boryslav|Борислав (город) -->
+<e><p><l>Borınâ<s n="np"/><s n="top"/></l><r>Borına<s n="np"/><s n="top"/></r></p></e>  <!-- Borynia, Turka Raion|Борыня -->
+<e><p><l>Bolehiv<s n="np"/><s n="top"/></l><r>Bolehiv<s n="np"/><s n="top"/></r></p></e>  <!-- Bolekhiv|Болехов -->
+<e><p><l>Bıtkiv<s n="np"/><s n="top"/></l><r>Bıtkiv<s n="np"/><s n="top"/></r></p></e>  <!-- Bytkiv|Бытков -->
+<e><p><l>Bilşivtsi<s n="np"/><s n="top"/></l><r>Bilşivtsi<s n="np"/><s n="top"/></r></p></e>  <!-- Bilshivtsi|Большовцы|Bilshivtsi -->
+<e><p><l>Bilıkı<s n="np"/><s n="top"/></l><r>Bilıkı<s n="np"/><s n="top"/></r></p></e>  <!-- Белики (Кобелякский район) -->
+<e><p><l>Bila<b/>Krınıtsâ<s n="np"/><s n="top"/></l><r>Bila<b/>Krınıtsa<s n="np"/><s n="top"/></r></p></e>  <!-- Bila Krynytsia, Zhytomyr Oblast|Белая Криница (Житомирская область) -->
+<e><p><l>Bıkivka<s n="np"/><s n="top"/></l><r>Bıkivka<s n="np"/><s n="top"/></r></p></e>  <!-- Bykivka|Быковка (Житомирская область) -->
+<e><p><l>Bibrka<s n="np"/><s n="top"/></l><r>Bibrka<s n="np"/><s n="top"/></r></p></e>  <!-- Bibrka|Бобрка -->
+<e><p><l>Berezna<s n="np"/><s n="top"/></l><r>Berezna<s n="np"/><s n="top"/></r></p></e>  <!-- Березна -->
+<e><p><l>Berezıne<s n="np"/><s n="top"/></l><r>Berezıne<s n="np"/><s n="top"/></r></p></e>  <!-- Березино (Одесская область) -->
+<e><p><l>Berezan<s n="np"/><s n="top"/></l><r>Berezan<s n="np"/><s n="top"/></r></p></e>  <!-- Berezan|Березань (город) -->
+<e><p><l>Beresteçko<s n="np"/><s n="top"/></l><r>Beresteçko<s n="np"/><s n="top"/></r></p></e>  <!-- Berestechko|Берестечко -->
+<e><p><l>Beregomet<s n="np"/><s n="top"/></l><r>Beregomet<s n="np"/><s n="top"/></r></p></e>  <!-- Berehomet|Берегомет -->
+<e><p><l>Berdi<b/>Bolat<s n="np"/><s n="top"/></l><r>Berdi<b/>Bolat<s n="np"/><s n="top"/></r></p></e>  <!-- Привольное (Красноперекопский район) -->
+<e><p><l>Belz<s n="np"/><s n="top"/></l><r>Belz<s n="np"/><s n="top"/></r></p></e>  <!-- Belz|Белз -->
+<e><p><l>Bazaliya<s n="np"/><s n="top"/></l><r>Bazaliya<s n="np"/><s n="top"/></r></p></e>  <!-- Bazaliia|Базалия -->
+<e><p><l>Bay<b/>Qıyat<s n="np"/><s n="top"/></l><r>Bay<b/>Kıyat<s n="np"/><s n="top"/></r></p></e>  <!-- Владимировка (Черноморский район) -->
+<e><p><l>Baturın<s n="np"/><s n="top"/></l><r>Baturın<s n="np"/><s n="top"/></r></p></e>  <!-- Baturyn|Батурин -->
+<e><p><l>Batövo<s n="np"/><s n="top"/></l><r>Batövo<s n="np"/><s n="top"/></r></p></e>  <!-- Batiovo|Батьёво|Batiovo -->
+<e><p><l>Baraq<s n="np"/><s n="top"/></l><r>Barak<s n="np"/><s n="top"/></r></p></e>  <!-- Синицыно (Крым) -->
+<e><p><l>Balahivka<s n="np"/><s n="top"/></l><r>Balahivka<s n="np"/><s n="top"/></r></p></e>  <!-- Балаховка -->
+<e><p><l>Badana<s n="np"/><s n="top"/></l><r>Badana<s n="np"/><s n="top"/></r></p></e>  <!-- Perove|Перово (Крым) -->
+<e><p><l>Babıntsi<s n="np"/><s n="top"/></l><r>Babıntsi<s n="np"/><s n="top"/></r></p></e>  <!-- Babyntsi|Бабинцы -->
+<e><p><l>Babanka<s n="np"/><s n="top"/></l><r>Babanka<s n="np"/><s n="top"/></r></p></e>  <!-- Babanka|Бабанка -->
+<e><p><l>Aydar<b/>Ğazı<s n="np"/><s n="top"/></l><r>Aydar<b/>Ğazı<s n="np"/><s n="top"/></r></p></e>  <!-- Орлянка (Крым) -->
+<e><p><l>Askaniya-Nova<s n="np"/><s n="top"/></l><r>Askaniya-Nova<s n="np"/><s n="top"/></r></p></e>  <!-- Askaniya-Nova|Askania-Nova (urban-type settlement)|Аскания-Нова (посёлок городского типа) -->
+<e><p><l>Artemivka<s n="np"/><s n="top"/></l><r>Artemivka<s n="np"/><s n="top"/></r></p></e>  <!-- Skorokhodove|Скороходово (Полтавская область)|Artemivka (Chutove Raion) -->
+<e><p><l>Arpat<s n="np"/><s n="top"/></l><r>Arpat<s n="np"/><s n="top"/></r></p></e>  <!-- Зеленогорье|Zelenogorye -->
+<e><p><l>Antoninı<s n="np"/><s n="top"/></l><r>Antoninı<s n="np"/><s n="top"/></r></p></e>  <!-- Antoniny, Ukraine|Антонины (посёлок) -->
+<e><p><l>Alçevsk<s n="np"/><s n="top"/></l><r>Alçevsk<s n="np"/><s n="top"/></r></p></e>  <!-- Alchevsk|Алчевск|Алчевск|Alchevsk -->
+<e><p><l>Yelenovka<s n="np"/><s n="top"/></l><r>Yelenovka<s n="np"/><s n="top"/></r></p></e>  <!-- Еленовка (Первомайский район) -->
+<e><p><l>Yañı<b/>Qarağurt<s n="np"/><s n="top"/></l><r>Yanı<b/>Karağurt<s n="np"/><s n="top"/></r></p></e>  <!-- Митяево (Крым) -->
+<e><p><l>Voinka<s n="np"/><s n="top"/></l><r>Voinka<s n="np"/><s n="top"/></r></p></e>  <!-- Воинка (Крым) -->
+<e><p><l>Vladimirovka<s n="np"/><s n="top"/></l><r>Vladimirovka<s n="np"/><s n="top"/></r></p></e>  <!-- Владимировка (Сакский район) -->
+<e><p><l>Vesöloye<s n="np"/><s n="top"/></l><r>Vesöloye<s n="np"/><s n="top"/></r></p></e>  <!-- Весёлое (Джанкойский район) -->
+<e><p><l>Ulaqlı<s n="np"/><s n="top"/></l><r>Ulaklı<s n="np"/><s n="top"/></r></p></e>  <!-- Глубокий Яр (Крым) -->
+<e><p><l>Üç<b/>Quyu<s n="np"/><s n="top"/></l><r>Üç<b/>Kuyu<s n="np"/><s n="top"/></r></p></e>  <!-- Восточное (Крым) -->
+<e><p><l>Tuzlı<s n="np"/><s n="top"/></l><r>Tuzlı<s n="np"/><s n="top"/></r></p></e>  <!-- Михайловка (Сакский район) -->
+<e><p><l>Toqluq<s n="np"/><s n="top"/></l><r>Tokluk<s n="np"/><s n="top"/></r></p></e>  <!-- Bahativka, Crimea|Богатовка (Крым) -->
+<e><p><l>Timofeyevka<s n="np"/><s n="top"/></l><r>Timofeyevka<s n="np"/><s n="top"/></r></p></e>  <!-- Тимофеевка (Крым) -->
+<e><p><l>Teberti<s n="np"/><s n="top"/></l><r>Teberti<s n="np"/><s n="top"/></r></p></e>  <!-- Тургеневка (Крым) -->
+<e><p><l>Tavriysk<s n="np"/><s n="top"/></l><r>Tavriysk<s n="np"/><s n="top"/></r></p></e>  <!-- Tavriysk|Таврийск|Tavriysk -->
+<e><p><l>Tarhanlar<s n="np"/><s n="top"/></l><r>Tarhanlar<s n="np"/><s n="top"/></r></p></e>  <!-- Победное (Джанкойский район) -->
+<e><p><l>Stepnoye<s n="np"/><s n="top"/></l><r>Stepnoye<s n="np"/><s n="top"/></r></p></e>  <!-- Степное (Феодосия) -->
+<e><p><l>Starıy<b/>Krım<s n="np"/><s n="top"/></l><r>Starıy<b/>Krım<s n="np"/><s n="top"/></r></p></e>  <!-- Старый Крым (Донецкая область)|Staryi Krym (Donetsk Oblast) -->
+<e><p><l>Stahanov<s n="np"/><s n="top"/></l><r>Stahanov<s n="np"/><s n="top"/></r></p></e>  <!-- Stakhanov, Ukraine|Стаханов (город)|Категория:Стаханов (город) -->
+<e><p><l>Soledar<s n="np"/><s n="top"/></l><r>Soledar<s n="np"/><s n="top"/></r></p></e>  <!-- Soledar|Соледар|Соледар -->
+<e><p><l>Smoline<s n="np"/><s n="top"/></l><r>Smoline<s n="np"/><s n="top"/></r></p></e>  <!-- Смолино (Кировоградская область) -->
+<e><p><l>Şelen<s n="np"/><s n="top"/></l><r>Şelen<s n="np"/><s n="top"/></r></p></e>  <!-- Hromivka, Crimea|Громовка (Судак) -->
+<e><p><l>Razdolnoye<s n="np"/><s n="top"/></l><r>Razdolnoye<s n="np"/><s n="top"/></r></p></e>  <!-- Раздольное (Советский район) -->
+<e><p><l>Raygorodok<s n="np"/><s n="top"/></l><r>Raygorodok<s n="np"/><s n="top"/></r></p></e>  <!-- Райгородок (Донецкая область) -->
+<e><p><l>Qırq<b/>İşün<s n="np"/><s n="top"/></l><r>Kırk<b/>İşün<s n="np"/><s n="top"/></r></p></e>  <!-- Володино (Джанкойский район) -->
+<e><p><l>Qara<b/>Qıyat<s n="np"/><s n="top"/></l><r>Kara<b/>Kıyat<s n="np"/><s n="top"/></r></p></e>  <!-- Битумное -->
+<e><p><l>Qara<b/>Acı<s n="np"/><s n="top"/></l><r>Kara<b/>Acı<s n="np"/><s n="top"/></r></p></e>  <!-- Оленевка (Крым) -->
+<e><p><l>Petrovskoye<s n="np"/><s n="top"/></l><r>Petrovskoye<s n="np"/><s n="top"/></r></p></e>  <!-- Petrovske|Петровское (город) -->
+<e><p><l>Otarköy<s n="np"/><s n="top"/></l><r>Otarköy<s n="np"/><s n="top"/></r></p></e>  <!-- Фронтовое (Севастополь)|Frontovoe -->
+<e><p><l>Novopokrovka<s n="np"/><s n="top"/></l><r>Novopokrovka<s n="np"/><s n="top"/></r></p></e>  <!-- Новопокровка (Кировский район) -->
+<e><p><l>Novopavlovka<s n="np"/><s n="top"/></l><r>Novopavlovka<s n="np"/><s n="top"/></r></p></e>  <!-- Новопавловка (Джанкойский район) -->
+<e><p><l>Niva<s n="np"/><s n="top"/></l><r>Niva<s n="np"/><s n="top"/></r></p></e>  <!-- Нива (Раздольненский район) -->
+<e><p><l>Montanay<s n="np"/><s n="top"/></l><r>Montanay<s n="np"/><s n="top"/></r></p></e>  <!-- Novoselivske|Новосёловское (Крым) -->
+<e><p><l>Mağaraç<s n="np"/><s n="top"/></l><r>Mağaraç<s n="np"/><s n="top"/></r></p></e>  <!-- Vidradne (urban-type settlement)|Отрадное (Ялта) -->
+<e><p><l>Luganskoye<s n="np"/><s n="top"/></l><r>Luganskoye<s n="np"/><s n="top"/></r></p></e>  <!-- Луганское (Крым) -->
+<e><p><l>Lozova<s n="np"/><s n="top"/></l><r>Lozova<s n="np"/><s n="top"/></r></p></e>  <!-- Lozova|Лозовая -->
+<e><p><l>Küçük<b/>Yaşlav<s n="np"/><s n="top"/></l><r>Küçük<b/>Yaşlav<s n="np"/><s n="top"/></r></p></e>  <!-- Викторовка (Крым) -->
+<e><p><l>Küçükköy<s n="np"/><s n="top"/></l><r>Küçükköy<s n="np"/><s n="top"/></r></p></e>  <!-- Пушкино (Алушта)|Pushkino (Crimea) -->
+<e><p><l>Krasnodon<s n="np"/><s n="top"/></l><r>Krasnodon<s n="np"/><s n="top"/></r></p></e>  <!-- Krasnodon|Краснодон|Краснодон|Krasnodon -->
+<e><p><l>Korsun<s n="np"/><s n="top"/></l><r>Korsun<s n="np"/><s n="top"/></r></p></e>  <!-- Корсунь (Донецкая область) -->
+<e><p><l>Komsomolskoye<s n="np"/><s n="top"/></l><r>Komsomolskoye<s n="np"/><s n="top"/></r></p></e>  <!-- Комсомольское (Симферополь)|Komsomolskoe (Simferopol) -->
+<e><p><l>Kolomenskoye<s n="np"/><s n="top"/></l><r>Kolomenskoye<s n="np"/><s n="top"/></r></p></e>  <!-- Коломенское (Крым) -->
+<e><p><l>İzüm<s n="np"/><s n="top"/></l><r>İzüm<s n="np"/><s n="top"/></r></p></e>  <!-- Izium|Изюм (город) -->
+<e><p><l>Han<b/>Eli<s n="np"/><s n="top"/></l><r>Han<b/>Eli<s n="np"/><s n="top"/></r></p></e>  <!-- Новопавловка (Бахчисарайский район)|Novopavlovka -->
+<e><p><l>Gresovskiy<s n="np"/><s n="top"/></l><r>Gresovskiy<s n="np"/><s n="top"/></r></p></e>  <!-- Грэсовский|Gresovsky -->
+<e><p><l>El<b/>Buzlu<s n="np"/><s n="top"/></l><r>El<b/>Buzlu<s n="np"/><s n="top"/></r></p></e>  <!-- Perevalivka|Переваловка -->
+<e><p><l>Dürmen<s n="np"/><s n="top"/></l><r>Dürmen<s n="np"/><s n="top"/></r></p></e>  <!-- Придорожное (Крым) -->
+<e><p><l>Dorojnoye<s n="np"/><s n="top"/></l><r>Dorojnoye<s n="np"/><s n="top"/></r></p></e>  <!-- Дорожное (Джанкойский район) -->
+<e><p><l>Dokuçayevsk<s n="np"/><s n="top"/></l><r>Dokuçayevsk<s n="np"/><s n="top"/></r></p></e>  <!-- Dokuchaievsk|Докучаевск -->
+<e><p><l>Dermenci<s n="np"/><s n="top"/></l><r>Dermenci<s n="np"/><s n="top"/></r></p></e>  <!-- Спокойное (Крым) -->
+<e><p><l>Davut<b/>Eli<s n="np"/><s n="top"/></l><r>Davut<b/>Eli<s n="np"/><s n="top"/></r></p></e>  <!-- Марфовка (Крым)|Marfovka (Lenine Raion of Crimea) -->
+<e><p><l>Çuqurça<s n="np"/><s n="top"/></l><r>Çukurça<s n="np"/><s n="top"/></r></p></e>  <!-- Красногорское (Крым) -->
+<e><p><l>Cuma<b/>Eli<s n="np"/><s n="top"/></l><r>Cuma<b/>Eli<s n="np"/><s n="top"/></r></p></e>  <!-- Приветное (Кировский район) -->
+<e><p><l>Çotı<s n="np"/><s n="top"/></l><r>Çotı<s n="np"/><s n="top"/></r></p></e>  <!-- Жемчужина (село) -->
+<e><p><l>Çelebiler<s n="np"/><s n="top"/></l><r>Çelebiler<s n="np"/><s n="top"/></r></p></e>  <!-- Плодовое (Нижнегорский район) -->
+<e><p><l>Cav<b/>Töbe<s n="np"/><s n="top"/></l><r>Cav<b/>Töbe<s n="np"/><s n="top"/></r></p></e>  <!-- Вулкановка -->
+<e><p><l>Camal<s n="np"/><s n="top"/></l><r>Camal<s n="np"/><s n="top"/></r></p></e>  <!-- Низовка (Крым) -->
+<e><p><l>Botaş<s n="np"/><s n="top"/></l><r>Botaş<s n="np"/><s n="top"/></r></p></e>  <!-- Чапаево (Первомайский район) -->
+<e><p><l>Bahmut<s n="np"/><s n="top"/></l><r>Bahmut<s n="np"/><s n="top"/></r></p></e>  <!-- Bakhmut|Бахмут|Категория:Бахмут|Бахмут|Бахмут -->
+<e><p><l>Babatay<s n="np"/><s n="top"/></l><r>Babatay<s n="np"/><s n="top"/></r></p></e>  <!-- Болотное (Крым) -->
+<e><p><l>Ay<b/>Serez<s n="np"/><s n="top"/></l><r>Ay<b/>Serez<s n="np"/><s n="top"/></r></p></e>  <!-- Ay Serez qəsəbəsi|Mizhrichia, Crimea|Междуречье (Крым)|Mezdurechye -->
+<e><p><l>Aqçora<s n="np"/><s n="top"/></l><r>Akçora<s n="np"/><s n="top"/></r></p></e>  <!-- Гвардейское (Первомайский район) -->
+<e><p><l>Agrarnoye<s n="np"/><s n="top"/></l><r>Agrarnoye<s n="np"/><s n="top"/></r></p></e>  <!-- Аграрное|Ahrarne -->
+<e><p><l>Aeroflotskiy<s n="np"/><s n="top"/></l><r>Aeroflotskiy<s n="np"/><s n="top"/></r></p></e>  <!-- Аэрофлотский|Aeroflotskiy -->
+<e><p><l>Ableş<s n="np"/><s n="top"/></l><r>Ableş<s n="np"/><s n="top"/></r></p></e>  <!-- Пруды (Советский район) -->
+
   <!-- SECTION: Adjectives -->
 	  <e><p><l>fevqulâde<s n="adj"/></l><r>fevkalade<s n="adj"/></r></p></e>
 	  <e><p><l>bedava<s n="adj"/></l><r>bedava<s n="adj"/></r></p></e>
