@@ -723,6 +723,7 @@
       <e><p><l>adalet<s n="n"/></l><r>adalet<s n="n"/></r></p></e>
       <e><p><l>bağça<s n="n"/></l><r>bahçe<s n="n"/></r></p></e>
       <e><p><l>zindan<s n="n"/></l><r>zindan<s n="n"/></r></p></e>
+      <e><p><l>apishane<s n="n"/></l><r>zindan<s n="n"/></r></p></e>
       <e><p><l>cebe<s n="n"/></l><r>alan<s n="n"/></r></p></e>
       <e><p><l>cebe<s n="n"/></l><r>cephe<s n="n"/></r></p></e>
       <e><p><l>çapar<s n="n"/></l><r>kurye<s n="n"/></r></p></e>
@@ -857,7 +858,7 @@
       <e><p><l>grivna<s n="n"/></l><r>grivna<s n="n"/></r></p></e>
       <e><p><l>söz<s n="n"/></l><r>söz<s n="n"/></r></p></e>
       <e><p><l>flot<s n="n"/></l><r>donanma<s n="n"/></r></p></e>
-      <e><p><l>İslâm<s n="n"/></l><r>İslam<s n="n"/></r></p></e>
+      <e><p><l>islâm<s n="n"/></l><r>islam<s n="n"/></r></p></e>
       <e><p><l>saba<s n="n"/></l><r>sabah<s n="n"/></r></p></e>
       <e><p><l>oğul<s n="n"/></l><r>oğul<s n="n"/></r></p></e>
       <e><p><l>tarif<s n="n"/></l><r>tarif<s n="n"/></r></p></e>
@@ -6322,6 +6323,47 @@
 <e><p><l>vekâletli<s n="adj"/></l><r>tam<b/>yetkili<s n="adj"/></r></p></e> 
 <e><p><l>vekâletli<s n="adj"/></l><r>mutlak<s n="adj"/></r></p></e> 
 <e><p><l>energetik<s n="adj"/></l><r>enerjik<s n="adj"/></r></p></e> 
+<e><p><l>yerli<s n="adj"/></l><r>yerli<s n="adj"/></r></p></e> 
+
+<e><p><l>kiriş<s n="n"/></l><r>giriş<s n="n"/></r></p></e>
+<e><p><l>körüşüv<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
+<e><p><l>körüşüv<s n="n"/></l><r>görüşme<s n="n"/></r></p></e>
+<e><p><l>yal<s n="n"/></l><r>tatıl<s n="n"/></r></p></e>
+<e><p><l>programma<s n="n"/></l><r>program<s n="n"/></r></p></e>
+<e><p><l>mal<s n="n"/></l><r>mal<s n="n"/></r></p></e>
+<e><p><l>alâqa<s n="n"/></l><r>halka<s n="n"/></r></p></e>
+<e><p><l>alâqa<s n="n"/></l><r>bağlantı<s n="n"/></r></p></e>
+<e><p><l>barışıq<s n="n"/></l><r>barış<s n="n"/></r></p></e>
+<e><p><l>qorçalayıcı<s n="n"/></l><r>koruyucu<s n="n"/></r></p></e>
+<e><p><l>eda<s n="n"/></l><r>yapma<s n="n"/></r></p></e>
+<e><p><l>qoruv<s n="n"/></l><r>güvenlik<s n="n"/></r></p></e>
+<e><p><l>genç<s n="n"/></l><r>genç<s n="n"/></r></p></e>
+<e><p><l>ilim<s n="n"/></l><r>bilim<s n="n"/></r></p></e>
+<e><p><l>ilim<s n="n"/></l><r>ilim<s n="n"/></r></p></e>
+<e><p><l>sorğu<s n="n"/></l><r>sorgu<s n="n"/></r></p></e>
+<e><p><l>yayın<s n="n"/></l><r>yayın<s n="n"/></r></p></e>
+<e><p><l>alma<s n="n"/></l><r>elma<s n="n"/></r></p></e>
+<e><p><l>mesken<s n="n"/></l><r>mesken<s n="n"/></r></p></e>
+<e><p><l>mesken<s n="n"/></l><r>ev<s n="n"/></r></p></e>
+<e><p><l>qaide<s n="n"/></l><r>kural<s n="n"/></r></p></e>
+<e><p><l>ölüm<s n="n"/></l><r>ölüm<s n="n"/></r></p></e>
+<e><p><l>ğalebe<s n="n"/></l><r>zafer<s n="n"/></r></p></e>
+<e><p><l>ğalebe<s n="n"/></l><r>utku<s n="n"/></r></p></e>
+<e><p><l>ğalebe<s n="n"/></l><r>galibiyet<s n="n"/></r></p></e>
+<e><p><l>plan<s n="n"/></l><r>plan<s n="n"/></r></p></e>
+<e><p><l>esap<s n="n"/></l><r>hesap<s n="n"/></r></p></e>
+<e><p><l>dava<s n="n"/></l><r>spor<s n="n"/></r></p></e>
+<e><p><l>müzey<s n="n"/></l><r>müze<s n="n"/></r></p></e>
+<e><p><l>sınıf<s n="n"/></l><r>sınıf<s n="n"/></r></p></e>
+<e><p><l>maqale<s n="n"/></l><r>makale<s n="n"/></r></p></e>
+<e><p><l>yel<s n="n"/></l><r>yel<s n="n"/></r></p></e>
+<e><p><l>qaraman<s n="n"/></l><r>kahraman<s n="n"/></r></p></e>
+<e><p><l>usul<s n="n"/></l><r>yöntemi<s n="n"/></r></p></e>
+
+<e><p><l>emiyet<s n="n"/></l><r>nicelik<s n="n"/></r></p></e>
+<e><p><l>emiyet<s n="n"/></l><r>toplum<s n="n"/></r></p></e>
+
+<e><p><l>kiriş<s n="v"/><s n="iv"/></l><r>giriş<s n="v"/><s n="iv"/></r></p></e>
 
 <!-- make something go back / return something -->
 <e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>geri<b/>gönder<s n="v"/><s n="tv"/></r></p></e>
