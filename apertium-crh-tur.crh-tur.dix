@@ -4566,6 +4566,7 @@
       <e><p><l>uzun<s n="adj"/></l><r>uzun<s n="adj"/></r></p></e>
       <e><p><l>kütleviy<s n="adj"/></l><r>toplu<s n="adj"/></r></p></e>
       <e><p><l>açıq<s n="adj"/></l><r>açık<s n="adj"/></r></p></e>
+      <e><p><l>aşkâr<s n="adj"/></l><r>açık<s n="adj"/></r></p></e>
       <e><p><l>yahşı<s n="adj"/></l><r>iyi<s n="adj"/></r></p></e>
       <e><p><l>diniy<s n="adj"/></l><r>dini<s n="adj"/></r></p></e>
       <e><p><l>şahsiy<s n="adj"/></l><r>şahsi<s n="adj"/></r></p></e>
@@ -6268,6 +6269,7 @@
 <e><p><l>Tomsk<s n="np"/><s n="top"/></l><r>Tomsk<s n="np"/><s n="top"/></r></p></e>
 
 <e><p><l>grajdan<s n="n"/></l><r>vatandaş<s n="n"/></r></p></e>
+<e><p><l>grajdanlıq<s n="n"/></l><r>vatandaşlık<s n="n"/></r></p></e>
 <e><p><l>provokator<s n="n"/></l><r>provokatör<s n="n"/></r></p></e>
 <e><p><l>provokator<s n="n"/></l><r>tahrikçi<s n="n"/></r></p></e>
 <e><p><l>provokator<s n="n"/></l><r>kışkırtıcı<s n="n"/></r></p></e>
@@ -6306,9 +6308,16 @@
 <e><p><l>muvafaqiyetli<s n="adj"/></l><r>başarılı<s n="adj"/></r></p></e>
 <e><p><l>eyileştir<s n="v"/><s n="tv"/></l><r>iyileştir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sanaat<s n="n"/></l><r>sanat<s n="n"/></r></p></e>
+<e><p><l>faqat<s n="n"/></l><r>fakat<s n="n"/></r></p></e>
 <e><p><l>meraqlandır<s n="v"/><s n="tv"/></l><r>meraklandır<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>yaraştır<s n="v"/><s n="tv"/></l><r>birleştir<s n="v"/><s n="tv"/></r></p></e>
 
+<e><p><l>gimn<s n="n"/></l><r>ilahi<s n="n"/></r></p></e>
+<e><p><l>ofitser<s n="n"/></l><r>subay<s n="n"/></r></p></e>
+<e><p><l>ofitser<s n="n"/></l><r>memur<s n="n"/></r></p></e>
+<e><p><l>general<s n="n"/></l><r>general<s n="n"/></r></p></e>
+<e><p><l>kanal<s n="n"/></l><r>kanal<s n="n"/></r></p></e>
+<e><p><l>cep<s n="n"/></l><r>cep<s n="n"/></r></p></e>
 <e><p><l>kurort<s n="n"/></l><r>kurort<s n="n"/></r></p></e> <!-- health resort -->
 <e><p><l>vekâletli<s n="adj"/></l><r>tam<b/>yetkili<s n="adj"/></r></p></e> 
 <e><p><l>vekâletli<s n="adj"/></l><r>mutlak<s n="adj"/></r></p></e> 
