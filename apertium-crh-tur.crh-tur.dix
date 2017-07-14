@@ -7077,5 +7077,8 @@
 <e><p><l>ayazlı<s n="adj"/></l><r>ayazlı<s n="adj"/></r></p></e>
 <e><p><l>aciz<s n="adj"/></l><r>aciz<s n="adj"/></r></p></e>
 
+<e><p><l>qırım<s n="n"/><s n="attr"/></l><r>Kırım<s n="np"/><s n="top"/><s n="attr"/></r></p></e>
+<e><p><l>qırım<s n="n"/><s n="nom"/></l><r>Kırım<s n="np"/><s n="top"/><s n="nom"/></r></p></e>
+
    </section>
 </dictionary>
