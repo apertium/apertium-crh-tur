@@ -4789,6 +4789,7 @@
       <e><p><l>ket<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>kel<s n="vaux"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>bar<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
+      <e><p><l>qal<s n="vaux"/></l><r>kal<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>otur<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>                   <!-- Transfer -->
 
 <e><p><l>raatlan<s n="v"/><s n="iv"/></l><r>rahatla<s n="v"/><s n="iv"/></r></p></e>
@@ -7079,8 +7080,14 @@
 <e><p><l>becerikli<s n="adj"/></l><r>becerikli<s n="adj"/></r></p></e>
 <e><p><l>ayazlı<s n="adj"/></l><r>ayazlı<s n="adj"/></r></p></e>
 <e><p><l>aciz<s n="adj"/></l><r>aciz<s n="adj"/></r></p></e>
+<e><p><l>leh<s n="adj"/></l><r>leh<s n="adj"/></r></p></e>
 
 <e><p><l>peyğamber<s n="n"/></l><r>peygamber<s n="n"/></r></p></e>
+<e><p><l>qırımçak<s n="n"/></l><r>kırımçak<s n="n"/></r></p></e>
+<e><p><l>voyevodalıq<s n="n"/></l><r>voyvodalık<s n="n"/></r></p></e>
+<e><p><l>maalle<s n="n"/></l><r>mahalle<s n="n"/></r></p></e>
+
+<e><p><l>yapıl<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>qırım<s n="n"/><s n="attr"/></l><r>Kırım<s n="np"/><s n="top"/><s n="attr"/></r></p></e>
 <e><p><l>qırım<s n="n"/><s n="nom"/></l><r>Kırım<s n="np"/><s n="top"/><s n="nom"/></r></p></e>
