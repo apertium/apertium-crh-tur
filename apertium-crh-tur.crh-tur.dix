@@ -261,6 +261,72 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+<e><p><l>yetekçi<s n="n"/></l><r>yedek<s n="n"/></r></p></e>
+<e><p><l>saylav<s n="n"/></l><r>seçim<s n="n"/></r></p></e>
+<e><p><l>patlav<s n="n"/></l><r>patlama<s n="n"/></r></p></e>
+<e><p><l>bücet<s n="n"/></l><r>bütçe<s n="n"/></r></p></e>
+<e><p><l>ur<s n="v"/><s n="iv"/></l><r>vur<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ur<s n="v"/><s n="tv"/></l><r>vur<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>zenaat<s n="n"/></l><r>zanaat<s n="n"/></r></p></e>
+<e><p><l>terroristik<s n="adj"/></l><r>terörist<s n="adj"/></r></p></e>
+<e><p><l>tibbiyet<s n="n"/></l><r>sağlık<s n="n"/></r></p></e>
+<e><p><l>tantanalı<s n="adj"/></l><r>tantanalı<s n="adj"/></r></p></e>
+<e><p><l>subetleş<s n="v"/><s n="iv"/></l><r>sohbet et<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>uyğunlaştır<s n="v"/><s n="tv"/></l><r>uyarla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kerginleştir<s n="v"/><s n="tv"/></l><r>ger<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>oqutuv<s n="n"/></l><r>okutma<s n="n"/></r></p></e>
+<e><p><l>vatanperverlik<s n="n"/></l><r>vatanperverlik<s n="n"/></r></p></e>
+<e><p><l>müit<s n="n"/></l><r>muhit<s n="n"/></r></p></e>
+<e><p><l>tafsilâtlı<s n="adj"/></l><r>ayrıntılı<s n="adj"/></r></p></e>
+<e><p><l>kommunistik<s n="adj"/></l><r>komünist<s n="adj"/></r></p></e>
+<e><p><l>qaytuv<s n="n"/></l><r>dönüş<s n="n"/></r></p></e>
+<e><p><l>kâtibiyet<s n="n"/></l><r>katiplik<s n="n"/></r></p></e>
+<e><p><l>muvafaqiyetli<s n="adj"/></l><r>başarılı<s n="adj"/></r></p></e>
+<e><p><l>muvafaqiyet<s n="n"/></l><r>muvaffakiyet<s n="n"/></r></p></e>
+<e><p><l>muvafaqiyet<s n="n"/></l><r>başarı<s n="n"/></r></p></e>
+<e><p><l>eyileştir<s n="v"/><s n="tv"/></l><r>iyileştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kerçekleştir<s n="v"/><s n="tv"/></l><r>gerçekleştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yetmegen<s n="adj"/></l><r>yetmeyen<s n="adj"/></r></p></e>
+<e><p><l>tol<s n="v"/><s n="iv"/></l><r>dol<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kerçekten<s n="adv"/></l><r>gerçekten<s n="adv"/></r></p></e>
+<e><p><l>avtomat<s n="n"/></l><r>otomat<s n="n"/></r></p></e>
+<e><p><l>tedaviylev<s n="n"/></l><r>tedavi<s n="n"/></r></p></e>
+<e><p><l>peyda et<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>küçleştir<s n="v"/><s n="tv"/></l><r>güçlendir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>tök<s n="v"/><s n="tv"/></l><r>dök<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>muqayt<s n="adj"/></l><r>mukayyet<s n="adj"/></r></p></e>
+<e><p><l>kollektsiya<s n="n"/></l><r>koleksiyon<s n="n"/></r></p></e>
+<e><p><l>uzaqlaştır<s n="v"/><s n="tv"/></l><r>uzaklaştır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yuttur<s n="v"/><s n="tv"/></l><r>yuttur<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>istenilgen<s n="adj"/></l><r>istenilen<s n="adj"/></r></p></e>
+<e><p><l>uzaqtan<s n="adv"/></l><r>uzaktan<s n="adv"/></r></p></e>
+<e><p><l>quvetleş<s n="v"/><s n="iv"/></l><r>kuvvetlen<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>teminlen<s n="v"/><s n="iv"/></l><r>temin edil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>devletlerara<s n="adj"/></l><r>devletlerarası<s n="adj"/></r></p></e>
+<e><p><l>tedqiqiy<s n="adj"/></l><r>tetkiki<s n="adj"/></r></p></e>
+<e><p><l>şahsiyleştir<s n="v"/><s n="tv"/></l><r>özelleştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>rezidentsiya<s n="n"/></l><r>konut<s n="n"/></r></p></e>
+<e><p><l>rağbetleştir<s n="v"/><s n="tv"/></l><r>rağbet et<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>memnüniyetsizlik<s n="n"/></l><r>memnuniyetsizlik<s n="n"/></r></p></e>
+<e><p><l>yetişken<s n="adj"/></l><r>yetişkin<s n="adj"/></r></p></e>
+<e><p><l>tanıştır<s n="v"/><s n="tv"/></l><r>tanıştır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sağlamlaştır<s n="v"/><s n="tv"/></l><r>sağlamlaştır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>üstünlik<s n="n"/></l><r>üstünlük<s n="n"/></r></p></e>
+<e><p><l>tüyüm<s n="n"/></l><r>düğüm<s n="n"/></r></p></e>
+<e><p><l>lenta<s n="n"/></l><r>paskalya<s n="n"/></r></p></e>
+<e><p><l>tasdıqlama<s n="n"/></l><r>doğrulama<s n="n"/></r></p></e>
+<e><p><l>rıtsar<s n="n"/></l><r>şövalye<s n="n"/></r></p></e>
+<e><p><l>islâatçı<s n="n"/></l><r>islahatçı<s n="n"/></r></p></e>
+<e><p><l>islâatçı<s n="n"/></l><r>reformist<s n="n"/></r></p></e>
+<e><p><l>printsipial<s n="adj"/></l><r>ana<s n="adj"/></r></p></e>
+<e><p><l>mevcutlıq<s n="n"/></l><r>mevcut<s n="n"/></r></p></e>
+<e><p><l>sakinleştir<s n="v"/><s n="tv"/></l><r>sakinleştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>avstriyalı<s n="n"/></l><r>avusturyalı<s n="n"/></r></p></e>
+<e><p><l>tilşınas<s n="n"/></l><r>dilbilimci<s n="n"/></r></p></e>
+<e><p><l>qalq<s n="v"/><s n="iv"/></l><r>kalk<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>populârlaştır<s n="v"/><s n="tv"/></l><r>popülerleştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>zorlaştır<s n="v"/><s n="tv"/></l><r>zorlaştır<s n="v"/><s n="tv"/></r></p></e>
+
 <e><p><l>taqdir<s n="n"/></l><r>takdir<s n="n"/></r></p></e>
 <e><p><l>subet<s n="n"/></l><r>sohbet<s n="n"/></r></p></e>
 <e><p><l>bütünlik<s n="n"/></l><r>bütünlük<s n="n"/></r></p></e>
