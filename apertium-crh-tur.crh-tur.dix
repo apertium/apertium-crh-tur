@@ -4783,7 +4783,7 @@
 
       <e><p><l>tur<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>ket<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
-      <e><p><l>kel<s n="vaux"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
+      <e><p><l>kel<s n="vaux"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>bar<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>otur<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>                   <!-- Transfer -->
 
