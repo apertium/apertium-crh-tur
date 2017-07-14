@@ -5418,6 +5418,49 @@
 <e><p><l>provokator<s n="n"/></l><r>kışkırtıcı<s n="n"/></r></p></e>
 <e><p><l>blank<s n="n"/></l><r>form<s n="n"/></r></p></e>
 <e><p><l>daire<s n="n"/></l><r>daire<s n="n"/></r></p></e>
+<e><p><l>bücet<s n="n"/></l><r>bütçe<s n="n"/></r></p></e>
 <e><p><l>buzdolap<s n="n"/></l><r>buzdolabı<s n="n"/></r></p><par n="n1__n2"/></e>
+
+<e><p><l>bağla<s n="v"/><s n="tv"/></l><r>bağla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>bağlan<s n="v"/><s n="iv"/></l><r>bağlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>patlav<s n="n"/></l><r>patlama<s n="n"/></r></p></e>
+<e><p><l>bücet<s n="n"/></l><r>bütçe<s n="n"/></r></p></e>
+<e><p><l>subet<s n="n"/></l><r>sohbet<s n="n"/></r></p></e>
+<e><p><l>bütünlik<s n="n"/></l><r>bütünlük<s n="n"/></r></p></e>
+<e><p><l>aşayt<s n="adj"/></l><r>yiyecek<s n="adj"/></r></p></e>
+<e><p><l>zenaat<s n="n"/></l><r>zanaat<s n="n"/></r></p></e>
+<e><p><l>teminlev<s n="n"/></l><r>temin<s n="n"/></r></p></e>
+<e><p><l>raatlan<s n="v"/><s n="iv"/></l><r>rahatla<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ekstremizm<s n="n"/></l><r>aşırılıkçılık<s n="n"/></r></p></e>
+<e><p><l>terroristik<s n="adj"/></l><r>terörist<s n="adj"/></r></p></e>
+<e><p><l>siyasetşınas<s n="n"/></l><r>siyasetbilimci<s n="n"/></r></p></e>
+<e><p><l>tantanalı<s n="adj"/></l><r>tantanalı<s n="adj"/></r></p></e>
+<e><p><l>muhtac<s n="adj"/></l><r>muhtaç<s n="adj"/></r></p></e>
+<e><p><l>subetleş<s n="v"/><s n="iv"/></l><r>konuş<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>tilli<s n="adj"/></l><r>dilli<s n="adj"/></r></p></e>
+<e><p><l>telükeli<s n="adj"/></l><r>tehlikeli<s n="adj"/></r></p></e>
+<e><p><l>qanuniyet<s n="n"/></l><r>kanunilik<s n="n"/></r></p></e>
+<e><p><l>mesüliyet<s n="n"/></l><r>mesuliyet<s n="n"/></r></p></e>
+<e><p><l>niyetlen<s n="v"/><s n="iv"/></l><r>niyetlen<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>tabiat<s n="n"/></l><r>tabiat<s n="n"/></r></p></e>
+<e><p><l>tabiat<s n="n"/></l><r>doğa<s n="n"/></r></p></e>
+<e><p><l>kâtibiyet<s n="n"/></l><r>katiplik<s n="n"/></r></p></e>
+<e><p><l>muvafaqiyet<s n="n"/></l><r>muvaffakiyet<s n="n"/></r></p></e>
+<e><p><l>muvafaqiyet<s n="n"/></l><r>başarı<s n="n"/></r></p></e>
+<e><p><l>muvafaqiyetli<s n="adj"/></l><r>başarılı<s n="adj"/></r></p></e>
+<e><p><l>eyileştir<s n="v"/><s n="tv"/></l><r>iyileştir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sanaat<s n="n"/></l><r>sanat<s n="n"/></r></p></e>
+<e><p><l>meraqlandır<s n="v"/><s n="tv"/></l><r>meraklandır<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yaraştır<s n="v"/><s n="tv"/></l><r>birleştir<s n="v"/><s n="tv"/></r></p></e>
+
+<e><p><l>kurort<s n="n"/></l><r>kurort<s n="n"/></r></p></e> <!-- health resort -->
+<e><p><l>vekâletli<s n="adj"/></l><r>tam<b/>yetkili<s n="adj"/></r></p></e> 
+<e><p><l>vekâletli<s n="adj"/></l><r>mutlak<s n="adj"/></r></p></e> 
+<e><p><l>energetik<s n="adj"/></l><r>enerjik<s n="adj"/></r></p></e> 
+
+<!-- make something go back / return something -->
+<e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>geri<b/>gönder<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>geri<b/>gittir<s n="v"/><s n="tv"/></r></p></e>
+
    </section>
 </dictionary>
