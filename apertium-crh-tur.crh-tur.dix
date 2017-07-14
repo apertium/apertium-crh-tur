@@ -812,17 +812,18 @@
       <e><p><l>qat<s n="n"/></l><r>kat<s n="n"/></r></p></e>
       <e><p><l>latin<s n="n"/></l><r>latin<s n="n"/></r></p></e>
       <e><p><l>rok<s n="n"/></l><r>rock<s n="n"/></r></p></e>
-      <e><p><l>yanvar<s n="n"/></l><r>Ocak<s n="n"/></r></p></e>
-      <e><p><l>fevral<s n="n"/></l><r>Şubat<s n="n"/></r></p></e>
-      <e><p><l>aprel<s n="n"/></l><r>Nisan<s n="n"/></r></p></e>
-      <e><p><l>mayıs<s n="n"/></l><r>Mayıs<s n="n"/></r></p></e>
-      <e><p><l>iyün<s n="n"/></l><r>Haziran<s n="n"/></r></p></e>
-      <e><p><l>iyül<s n="n"/></l><r>Temmuz<s n="n"/></r></p></e>
-      <e><p><l>avgust<s n="n"/></l><r>Ağustos<s n="n"/></r></p></e>
-      <e><p><l>sentâbr<s n="n"/></l><r>Eylül<s n="n"/></r></p></e>
-      <e><p><l>noyabr<s n="n"/></l><r>Kasım<s n="n"/></r></p></e>
-      <e><p><l>oktâbr<s n="n"/></l><r>Ekim<s n="n"/></r></p></e>
-      <e><p><l>dekabr<s n="n"/></l><r>Aralık¹<s n="n"/></r></p></e>
+
+      <e><p><l>yanvar<s n="n"/></l><r>ocak<s n="n"/></r></p></e>
+      <e><p><l>fevral<s n="n"/></l><r>şubat<s n="n"/></r></p></e>
+      <e><p><l>aprel<s n="n"/></l><r>nisan<s n="n"/></r></p></e>
+      <e><p><l>mayıs<s n="n"/></l><r>mayıs<s n="n"/></r></p></e>
+      <e><p><l>iyün<s n="n"/></l><r>haziran<s n="n"/></r></p></e>
+      <e><p><l>iyül<s n="n"/></l><r>temmuz<s n="n"/></r></p></e>
+      <e><p><l>avgust<s n="n"/></l><r>ağustos<s n="n"/></r></p></e>
+      <e><p><l>sentâbr<s n="n"/></l><r>eylül<s n="n"/></r></p></e>
+      <e><p><l>noyabr<s n="n"/></l><r>kasım<s n="n"/></r></p></e>
+      <e><p><l>oktâbr<s n="n"/></l><r>ekim<s n="n"/></r></p></e>
+      <e><p><l>dekabr<s n="n"/></l><r>aralık¹<s n="n"/></r></p></e>
 
       <e><p><l>maarifçi<s n="n"/></l><r>alim<s n="n"/></r></p></e>
       <e><p><l>matem<s n="n"/></l><r>yas<s n="n"/></r></p></e>
@@ -5423,6 +5424,9 @@
 
 <!--      <e><re>[a-zA-Z]+</re><p><l><s n="sym"/></l><r><s n="sym"/></r></p></e>--> <!-- fix after bug in apertiumtagger-->
 
+ 
+<e><p><l>°C<s n="sym"/></l><r>°C<s n="sym"/></r></p></e>
+
       <!-- SECTION: Abbreviations -->
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
       <e r="LR"><p><l>ss.<s n="abbr"/></l><r>sene<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
@@ -6440,6 +6444,8 @@
 <e><p><l>sessiya<s n="n"/></l><r>dönem<s n="n"/></r></p></e>
 <e><p><l>elçihane<s n="n"/></l><r>elçilik<s n="n"/></r></p></e>
 <e><p><l>birleşme<s n="n"/></l><r>birleşme<s n="n"/></r></p></e>
+<e><p><l>qardaşlıq<s n="n"/></l><r>kardeşlik<s n="n"/></r></p></e>
+<e><p><l>punkt<s n="n"/></l><r>nokta<s n="n"/></r></p></e>
 <e><p><l>oda<s n="n"/></l><r>oda<s n="n"/></r></p></e>
 <e><p><l>energiya<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
 
