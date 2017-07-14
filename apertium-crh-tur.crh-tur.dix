@@ -139,32 +139,8 @@
 
    <section id="main" type="standard">
 
+      <!-- SECTION: Miscellaneous -->
       <e><p><l>mı<s n="qst"/></l><r>mı<s n="qst"/></r></p></e>
-
-      <!-- SECTION: Determiners -->
-      <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
-      <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
-      <e><p><l>iç<b/>bir<s n="det"/><s n="ind"/></l><r>hiç<b/>bir<s n="det"/><s n="neg"/></r></p></e>
-      <e><p><l>ep<s n="det"/><s n="ind"/></l><r>hep<s n="det"/><s n="qnt"/></r></p></e>
-      <e><p><l>er<s n="det"/><s n="ind"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
-      <e><p><l>öz<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
-      <e><p><l>diger<s n="det"/><s n="ind"/></l><r>diğer<s n="adj"/></r></p></e>
-      <e><p><l>diger<s n="prn"/><s n="ind"/></l><r>diğer<s n="adj"/><s n="subst"/></r></p></e>
-      <e><p><l>cümle<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
-      <e><p><l>bazı<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
-      <e><p><l>bu<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-      <e><p><l>o<s n="det"/><s n="dem"/></l><r>o<s n="det"/><s n="dem"/></r></p></e>
-      <e><p><l>qaç<s n="det"/><s n="itg"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
-      <e><p><l>qaysı<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
-      <e><p><l>angi<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
-      <e><p><l>bir<b/>qaç<s n="det"/><s n="ind"/></l><r>birkaç<s n="det"/><s n="ind"/></r></p></e>
-      <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
-      <e><p><l>çoq<s n="det"/></l><r>çok<s n="det"/></r></p></e>
-      <e><p><l>şu<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
-      <e><p><l>işbu<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-      <e><p><l>çoqu<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
-      <e><p><l>çoqusı<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
-
 	  
 	  <!-- SECTION: Postadv -->
 
@@ -242,15 +218,43 @@
       <e><p><l>kim<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
       <e><p><l>ep<s n="prn"/><s n="ind"/></l><r>hep<s n="prn"/><s n="qnt"/></r></p></e>
 
+      <!-- SECTION: Determiners -->
+      <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>iç<b/>bir<s n="det"/><s n="ind"/></l><r>hiç<b/>bir<s n="det"/><s n="neg"/></r></p></e>
+      <e><p><l>ep<s n="det"/><s n="ind"/></l><r>hep<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>er<s n="det"/><s n="ind"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>öz<s n="det"/><s n="ref"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
+      <e><p><l>diger<s n="det"/><s n="ind"/></l><r>diğer<s n="adj"/></r></p></e>
+      <e><p><l>diger<s n="prn"/><s n="ind"/></l><r>diğer<s n="adj"/><s n="subst"/></r></p></e>
+      <e><p><l>cümle<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bazı<s n="det"/><s n="ind"/></l><r>bazı<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>bu<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>o<s n="det"/><s n="dem"/></l><r>o<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>qaç<s n="det"/><s n="itg"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>qaysı<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
+      <e><p><l>angi<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
+      <e><p><l>bir<b/>qaç<s n="det"/><s n="ind"/></l><r>birkaç<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>ekser<s n="det"/></l><r>ekser<s n="det"/></r></p></e>
+      <e><p><l>çoq<s n="det"/></l><r>çok<s n="det"/></r></p></e>
+      <e><p><l>şu<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>işbu<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>çoqu<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
+      <e><p><l>çoqusı<s n="prn"/><s n="qnt"/></l><r>çoğu<s n="prn"/><s n="qnt"/></r></p></e>
+
+
       <!-- SECTION: Numerals -->
       <e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
-      <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
+      <e><p><l>eki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
       <e><p><l>üç<s n="num"/></l><r>üç<s n="num"/></r></p></e>
       <e><p><l>on<s n="num"/></l><r>on<s n="num"/></r></p></e>
       <e><p><l>dört<s n="num"/></l><r>dört<s n="num"/></r></p></e>
       <e><p><l>beş<s n="num"/></l><r>beş<s n="num"/></r></p></e>
+      <e><p><l>altı<s n="num"/></l><r>altı<s n="num"/></r></p></e>
+      <e><p><l>yedi<s n="num"/></l><r>yedi<s n="num"/></r></p></e>
       <e><p><l>sekiz<s n="num"/></l><r>sekiz<s n="num"/></r></p></e>
-      <e><p><l>eki<s n="num"/></l><r>iki<s n="num"/></r></p></e>
+      <e><p><l>doquz<s n="num"/></l><r>dokuz<s n="num"/></r></p></e>
+      <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/></l><r>milyon<s n="num"/><s n="subst"/></r></p></e>
       <e><p><l>biñ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
@@ -3594,6 +3598,22 @@
 <e><p><l>Firkoviç<s n="np"/><s n="pat"/></l><r>Firkov<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
 <e><p><l>Buhareviç<s n="np"/><s n="pat"/></l><r>Buharev<s n="np"/><s n="pat"/></r></p><par n="pat:iç__pat"/></e>
 
+<e><p><l>Roskomnadzor<s n="np"/><s n="al"/></l><r>Roskomnadzor<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Yedinaya Rossiya<s n="np"/><s n="al"/></l><r>Yedinaya Rossiya<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>KrımSOS<s n="np"/><s n="al"/></l><r>KrımSOS<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Krımenergo<s n="np"/><s n="al"/></l><r>Krımenergo<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Rosselhoznadzor<s n="np"/><s n="al"/></l><r>Rosselhoznadzor<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Golos<s n="np"/><s n="al"/></l><r>Golos<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Ukrinform<s n="np"/><s n="al"/></l><r>Ukrinform<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Ukrenergo<s n="np"/><s n="al"/></l><r>Ukrenergo<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Charlie<b/>Hebdo<s n="np"/><s n="al"/></l><r>Charlie<b/>Hebdo<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Simferopol<s n="np"/><s n="al"/></l><r>Simferopol<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Terciman<s n="np"/><s n="al"/></l><r>Terciman<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Zıncırlı<s n="np"/><s n="al"/></l><r>Zıncırlı<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Vikipediya<s n="np"/><s n="al"/></l><r>Vikipediya<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Rossiya<b/>segodnâ<s n="np"/><s n="al"/></l><r>Rossiya<b/>segodnya<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Spravedlivaya<b/>Rossiya<s n="np"/><s n="al"/></l><r>Spravedlivaya<b/>Rossiya<s n="np"/><s n="al"/></r></p></e>
+
 
   <!-- SECTION: Adjectives -->
 	  <e><p><l>fevqulâde<s n="adj"/></l><r>fevkalade<s n="adj"/></r></p></e>
@@ -3826,6 +3846,10 @@
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+
+	  <e><p><l>ne<b/>zaman<s n="adv"/></l><r>ne<b/>zaman<s n="adv"/></r></p></e>
+	  <e><p><l>ne<b/>içün<s n="adv"/></l><r>ne<b/>için<s n="adv"/></r></p></e>
+
 	  <e><p><l>evelâ<s n="adv"/></l><r>evvela<s n="adv"/></r></p></e>
       <e><p><l>baştan<s n="adv"/></l><r>baştan<s n="adv"/></r></p></e>
 
@@ -3893,7 +3917,10 @@
 
       <e><p><l>tur<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>ket<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
+      <e><p><l>kel<s n="vaux"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
+      <e><p><l>bar<s n="vaux"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>otur<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>                   <!-- Transfer -->
+
 <e><p><l>raatlan<s n="v"/><s n="iv"/></l><r>rahatla<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>soy<s n="v"/><s n="tv"/></l><r>soy<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sıqıştır<s n="v"/><s n="tv"/></l><r>sıkıştır<s n="v"/><s n="tv"/></r></p></e>
@@ -4532,13 +4559,44 @@
 
       <!-- SECTION: Abbreviations -->
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
+      <e r="LR"><p><l>ss.<s n="abbr"/></l><r>sene<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>km<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
+<e><p><l>m<s n="abbr"/></l><r>m<s n="n"/></r></p></e>
+<e><p><l>mm<s n="abbr"/></l><r>mm<s n="abbr"/></r></p></e>
+<e><p><l>sm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
+<e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
+
+<e><p><l>Dr.<s n="abbr"/></l><r>Dr.<s n="abbr"/></r></p></e>
+
+<e><p><l>A.<s n="abbr"/></l><r>A.<s n="abbr"/></r></p></e>
+<e><p><l>B.<s n="abbr"/></l><r>B.<s n="abbr"/></r></p></e>
+<e><p><l>C.<s n="abbr"/></l><r>C.<s n="abbr"/></r></p></e>
+<e><p><l>D.<s n="abbr"/></l><r>D.<s n="abbr"/></r></p></e>
+<e><p><l>E.<s n="abbr"/></l><r>E.<s n="abbr"/></r></p></e>
+<e><p><l>F.<s n="abbr"/></l><r>F.<s n="abbr"/></r></p></e>
+<e><p><l>G.<s n="abbr"/></l><r>G.<s n="abbr"/></r></p></e>
+<e><p><l>H.<s n="abbr"/></l><r>H.<s n="abbr"/></r></p></e>
+<e><p><l>I.<s n="abbr"/></l><r>I.<s n="abbr"/></r></p></e>
+<e><p><l>K.<s n="abbr"/></l><r>K.<s n="abbr"/></r></p></e>
+<e><p><l>M.<s n="abbr"/></l><r>M.<s n="abbr"/></r></p></e>
+<e><p><l>N.<s n="abbr"/></l><r>N.<s n="abbr"/></r></p></e>
+<e><p><l>O.<s n="abbr"/></l><r>O.<s n="abbr"/></r></p></e>
+<e><p><l>P.<s n="abbr"/></l><r>P.<s n="abbr"/></r></p></e>
+<e><p><l>R.<s n="abbr"/></l><r>R.<s n="abbr"/></r></p></e>
+<e><p><l>T.<s n="abbr"/></l><r>T.<s n="abbr"/></r></p></e>
+<e><p><l>V.<s n="abbr"/></l><r>V.<s n="abbr"/></r></p></e>
+<e><p><l>Y.<s n="abbr"/></l><r>Y.<s n="abbr"/></r></p></e>
+<e><p><l>Z.<s n="abbr"/></l><r>Z.<s n="abbr"/></r></p></e>
+<e><p><l>Ş.<s n="abbr"/></l><r>Ş.<s n="abbr"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><p><l>...<s n="sent"/></l><r>...<s n="sent"/></r></p></e>
       <e><re>[IVXMC]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
       <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e r="LR"><p><l>№</l><r></r></p><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e r="LR"><p><l>№<b/></l><r></r></p><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
       <e><p><l>)<s n="rpar"/></l>  <r>)<s n="rpar"/></r></p></e>
       <e><p><l>(<s n="lpar"/></l>  <r>(<s n="lpar"/></r></p></e>
@@ -5442,6 +5500,7 @@
 <e><p><l>qanuniyet<s n="n"/></l><r>kanunilik<s n="n"/></r></p></e>
 <e><p><l>mesüliyet<s n="n"/></l><r>mesuliyet<s n="n"/></r></p></e>
 <e><p><l>niyetlen<s n="v"/><s n="iv"/></l><r>niyetlen<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>bar<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>tabiat<s n="n"/></l><r>tabiat<s n="n"/></r></p></e>
 <e><p><l>tabiat<s n="n"/></l><r>doğa<s n="n"/></r></p></e>
 <e><p><l>kâtibiyet<s n="n"/></l><r>katiplik<s n="n"/></r></p></e>
