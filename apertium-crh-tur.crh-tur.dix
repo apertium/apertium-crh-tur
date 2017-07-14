@@ -6391,6 +6391,7 @@
 <e><p><l>energetik<s n="adj"/></l><r>enerjik<s n="adj"/></r></p></e> 
 <e><p><l>yerli<s n="adj"/></l><r>yerli<s n="adj"/></r></p></e> 
 
+<e><p><l>yerli<s n="n"/></l><r>yerli<s n="adj"/><s n="subst"/></r></p></e> 
 <e><p><l>kiriş<s n="n"/></l><r>giriş<s n="n"/></r></p></e>
 <e><p><l>körüşüv<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
 <e><p><l>körüşüv<s n="n"/></l><r>görüşme<s n="n"/></r></p></e>
@@ -6430,13 +6431,12 @@
 
 <e><p><l>emiyet<s n="n"/></l><r>nicelik<s n="n"/></r></p></e>
 <e><p><l>emiyet<s n="n"/></l><r>toplum<s n="n"/></r></p></e>
+<e><p><l>saylav<s n="n"/></l><r>seçim<s n="n"/></r></p></e>
 
 <e><p><l>kiriş<s n="v"/><s n="iv"/></l><r>giriş<s n="v"/><s n="iv"/></r></p></e>
 
 <!-- make something go back / return something -->
-<e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>geri<b/>gönder<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>geri<b/>gittir<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>geri<b/>yolla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>döndür<s n="v"/><s n="tv"/></r></p></e>
 
    </section>
 </dictionary>
