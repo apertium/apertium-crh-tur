@@ -264,6 +264,9 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+
+<e><p><l>ihtiyacı<s n="n"/></l><r>ihtiyacı<s n="n"/></r></p></e>
+
 <e><p><l>yetekçi<s n="n"/></l><r>yedek<s n="n"/></r></p></e>
 <e><p><l>saylav<s n="n"/></l><r>seçim<s n="n"/></r></p></e>
 <e><p><l>patlav<s n="n"/></l><r>patlama<s n="n"/></r></p></e>
@@ -5091,6 +5094,7 @@
       <e><p><l>toquştır<s n="v"/><s n="tv"/></l><r>çatıştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>toydur<s n="v"/><s n="tv"/></l><r>doyur<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>töle<s n="v"/><s n="tv"/></l><r>öde<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>öde<s n="v"/><s n="tv"/></l><r>öde<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tüzet<s n="v"/><s n="tv"/></l><r>düzelt<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tüzet<s n="v"/><s n="tv"/></l><r>düz<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tüzleştir<s n="v"/><s n="tv"/></l><r>düzleştir<s n="v"/><s n="tv"/></r></p></e>
@@ -6405,7 +6409,7 @@
 <e><p><l>kiriş<s n="n"/></l><r>giriş<s n="n"/></r></p></e>
 <e><p><l>körüşüv<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
 <e><p><l>körüşüv<s n="n"/></l><r>görüşme<s n="n"/></r></p></e>
-<e><p><l>yal<s n="n"/></l><r>tatıl<s n="n"/></r></p></e>
+<e><p><l>yal<s n="n"/></l><r>tatil<s n="n"/></r></p></e>
 <e><p><l>programma<s n="n"/></l><r>program<s n="n"/></r></p></e>
 <e><p><l>mal<s n="n"/></l><r>mal<s n="n"/></r></p></e>
 <e><p><l>alâqa<s n="n"/></l><r>halka<s n="n"/></r></p></e>
@@ -7085,6 +7089,7 @@
 <e><p><l>peyğamber<s n="n"/></l><r>peygamber<s n="n"/></r></p></e>
 <e><p><l>qırımçak<s n="n"/></l><r>kırımçak<s n="n"/></r></p></e>
 <e><p><l>voyevodalıq<s n="n"/></l><r>voyvodalık<s n="n"/></r></p></e>
+<e><p><l>ödev<s n="n"/></l><r>ödev<s n="n"/></r></p></e>
 <e><p><l>maalle<s n="n"/></l><r>mahalle<s n="n"/></r></p></e>
 
 <e><p><l>yapıl<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
