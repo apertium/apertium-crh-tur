@@ -7,7 +7,7 @@ lang2=`printf "%s\n"  "$dir" | cut -f2 -d'-'`
 lang2dir=`cat ../config.log | grep ^AP_SRC2 | cut -f2 -d\'`
 analysator=$lang2dir"/"$lang2".automorf.bin"
 
-lt-expand ../$dix | sed 's/\(<[^>]\+>\)\(<[^>]\+>\)\+/\1/g' | sed 's/:[><]:/:/g'  | grep -v ':\([[:punct:]]\|[[:space:]]\)' | grep -v -- '-<' | grep -v '\/' | sort -u > /tmp/$dir.exp
+lt-expand ../$dix | sed 's/\(<[^>]\+>\)\(<[^>]\+>\)\+/&/g' | sed 's/:[><]:/:/g'  | grep -v ':\([[:punct:]]\|[[:space:]]\)' | grep -v -- '-<' | grep -v '\/' | sort -u > /tmp/$dir.exp
 
 cat /tmp/$dir.exp | cut -f2- -d':' | cut -f1 -d'<' | lt-proc -w $analysator > /tmp/$dir.a
 
