@@ -925,6 +925,7 @@
       <e><p><l>söz<s n="n"/></l><r>söz<s n="n"/></r></p></e>
       <e><p><l>flot<s n="n"/></l><r>donanma<s n="n"/></r></p></e>
       <e><p><l>islâm<s n="n"/></l><r>islam<s n="n"/></r></p></e>
+      <e><p><l>islam<s n="n"/></l><r>islam<s n="n"/></r></p></e>
       <e><p><l>saba<s n="n"/></l><r>sabah<s n="n"/></r></p></e>
       <e><p><l>oğul<s n="n"/></l><r>oğul<s n="n"/></r></p></e>
       <e><p><l>tarif<s n="n"/></l><r>tarif<s n="n"/></r></p></e>
@@ -5759,6 +5760,7 @@
 <e><p><l>aviatsiya<s n="n"/></l><r>havacılık<s n="n"/></r></p></e>
 <e><p><l>palata<s n="n"/></l><r>oda<s n="n"/></r></p></e>
 <e><p><l>palata<s n="n"/></l><r>saray<s n="n"/></r></p></e>
+<e><p><l>saray<s n="n"/></l><r>saray<s n="n"/></r></p></e>
 <e><p><l>inauguratsiya<s n="n"/></l><r>açılış<s n="n"/></r></p></e>
 <e><p><l>separatizm<s n="n"/></l><r>ayrılıkçılık<s n="n"/></r></p></e>
 <e><p><l>separatizm<s n="n"/></l><r>özerkçilik<s n="n"/></r></p></e>
@@ -6427,14 +6429,22 @@
 <e><p><l>usul<s n="n"/></l><r>yöntemi<s n="n"/></r></p></e>
 <e><p><l>yaz<s n="n"/></l><r>yaz<s n="n"/></r></p></e>
 <e><p><l>oquv<s n="n"/></l><r>okuma<s n="n"/></r></p></e>
+<e><p><l>kiyev<s n="n"/></l><r>damat<s n="n"/></r></p></e>
 
 <e><p><l>emiyet<s n="n"/></l><r>nicelik<s n="n"/></r></p></e>
 <e><p><l>emiyet<s n="n"/></l><r>toplum<s n="n"/></r></p></e>
 <e><p><l>saylav<s n="n"/></l><r>seçim<s n="n"/></r></p></e>
+<e><p><l>fond<s n="n"/></l><r>fon<s n="n"/></r></p></e>
+<e><p><l>misal<s n="n"/></l><r>misal<s n="n"/></r></p></e>
+<e><p><l>buçuq<s n="n"/></l><r>buçuk<s n="n"/></r></p></e>
+<e><p><l>sessiya<s n="n"/></l><r>dönem<s n="n"/></r></p></e>
+<e><p><l>elçihane<s n="n"/></l><r>elçilik<s n="n"/></r></p></e>
+<e><p><l>birleşme<s n="n"/></l><r>birleşme<s n="n"/></r></p></e>
+<e><p><l>oda<s n="n"/></l><r>oda<s n="n"/></r></p></e>
+<e><p><l>energiya<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
 
 <e><p><l>kiriş<s n="v"/><s n="iv"/></l><r>giriş<s n="v"/><s n="iv"/></r></p></e>
 
-<!-- make something go back / return something -->
 <e><p><l>qaytar<s n="v"/><s n="tv"/></l><r>döndür<s n="v"/><s n="tv"/></r></p></e>
 
    </section>
