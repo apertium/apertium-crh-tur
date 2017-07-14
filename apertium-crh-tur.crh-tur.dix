@@ -7005,6 +7005,9 @@
 <e><p><l>monarhiya<s n="n"/></l><r>padişah<s n="n"/></r></p></e>
 <e><p><l>qarşılıq<s n="n"/></l><r>karşılık<s n="n"/></r></p></e>
 
+<e><p><l>uyezd<s n="n"/></l><r>köy<s n="n"/></r></p></e>
+<e><p><l>uyezd<s n="n"/></l><r>uyezd<s n="n"/></r></p></e>
+
 <e><p><l>oğuz<s n="adj"/></l><r>oğuz<s n="adj"/></r></p></e>
 
 <e><p><l>yaş<s n="adj"/></l><r>yaş<s n="adj"/></r></p></e>
@@ -7076,6 +7079,8 @@
 <e><p><l>becerikli<s n="adj"/></l><r>becerikli<s n="adj"/></r></p></e>
 <e><p><l>ayazlı<s n="adj"/></l><r>ayazlı<s n="adj"/></r></p></e>
 <e><p><l>aciz<s n="adj"/></l><r>aciz<s n="adj"/></r></p></e>
+
+<e><p><l>peyğamber<s n="n"/></l><r>peygamber<s n="n"/></r></p></e>
 
 <e><p><l>qırım<s n="n"/><s n="attr"/></l><r>Kırım<s n="np"/><s n="top"/><s n="attr"/></r></p></e>
 <e><p><l>qırım<s n="n"/><s n="nom"/></l><r>Kırım<s n="np"/><s n="top"/><s n="nom"/></r></p></e>
