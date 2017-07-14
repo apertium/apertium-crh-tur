@@ -1462,6 +1462,7 @@
       <e><p><l>Simonov<s n="np"/><s n="cog"/></l><r>Simonov</r></p><par n="cog:ov__cog"/></e>
 
       <e><p><l>İlbav<s n="np"/><s n="top"/></l><r>İlbav<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Stockholm<s n="np"/><s n="top"/></l><r>Stockholm<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Tatarstan<s n="np"/><s n="top"/></l><r>Tataristan<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>İvano-Frankivsk<s n="np"/><s n="top"/></l><r>İvano-Frankivsk<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Terek<s n="np"/><s n="top"/></l><r>Terek<s n="np"/><s n="top"/></r></p></e>
@@ -7093,6 +7094,8 @@
 <e><p><l>ödev<s n="n"/></l><r>ödev<s n="n"/></r></p></e>
 <e><p><l>maalle<s n="n"/></l><r>mahalle<s n="n"/></r></p></e>
 <e><p><l>naqıt<s n="n"/></l><r>nakit<s n="n"/></r></p></e>
+<e><p><l>kredit<s n="n"/></l><r>kredi<s n="n"/></r></p></e>
+<e><p><l>arbitraj<s n="n"/></l><r>arbitraj<s n="n"/></r></p></e>
 
 <e><p><l>yapıl<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
 
