@@ -223,7 +223,7 @@
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
         <let>
-          <clip pos="1" side="tl" part="a_fin"/><lit-tag v="fut"/>
+          <clip pos="1" side="tl" part="tags"/><lit-tag v="num.subst.px3sp.nom"/>
         </let>
         <let>
           <clip pos="2" side="tl" part="whole"/>
@@ -237,9 +237,7 @@
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
-            <lu>
-				<b/>
-            </lu>
+	<b pos="1"/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
