@@ -4493,7 +4493,7 @@
 	  <e><p><l>keçici<s n="adj"/></l><r>geçici<s n="adj"/></r></p></e>
 	  <e><p><l>fevqulâde<s n="adj"/></l><r>fevkalade<s n="adj"/></r></p></e>
 	  <e><p><l>bedava<s n="adj"/></l><r>bedava<s n="adj"/></r></p></e>
-      <e><p><l>metin<s n="adj"/></l><r>metin<s n="adj"/></r></p></e>
+      <e><p><l>metin<s n="adj"/></l><r>güçlü<s n="adj"/></r></p></e>
       <e><p><l>etnik<s n="adj"/></l><r>etnik<s n="adj"/></r></p></e>
       <e><p><l>tam<s n="adj"/></l><r>tam<s n="adj"/></r></p></e>
       <e><p><l>elektrik<s n="adj"/></l><r>elektrik<s n="adj"/></r></p></e>
@@ -4511,8 +4511,8 @@
       <e><p><l>imtiyazlı<s n="adj"/></l><r>imtiyazlı<s n="adj"/></r></p></e>
       <e><p><l>tipik<s n="adj"/></l><r>tipik<s n="adj"/></r></p></e>
       <e><p><l>hatalı<s n="adj"/></l><r>hatalı<s n="adj"/></r></p></e>
-      <e><p><l>taktik<s n="adj"/></l><r>taktik<s n="adj"/></r></p></e>
-      <e><p><l>matematik<s n="adj"/></l><r>matematik<s n="adj"/></r></p></e>
+      <e><p><l>taktik<s n="adj"/></l><r>taktiksel<s n="adj"/></r></p></e>
+      <e><p><l>matematik<s n="adj"/></l><r>matematiksel<s n="adj"/></r></p></e>
       <e><p><l>mert<s n="adj"/></l><r>mert<s n="adj"/></r></p></e>
       <e><p><l>hoşnut<s n="adj"/></l><r>hoşnut<s n="adj"/></r></p></e>
       <e><p><l>ücretli<s n="adj"/></l><r>ücretli<s n="adj"/></r></p></e>
@@ -6405,7 +6405,6 @@
 <e><p><l>kurort<s n="n"/></l><r>kurort<s n="n"/></r></p></e> <!-- health resort -->
 <e><p><l>vekâletli<s n="adj"/></l><r>tam<b/>yetkili<s n="adj"/></r></p></e> 
 <e><p><l>vekâletli<s n="adj"/></l><r>mutlak<s n="adj"/></r></p></e> 
-<e><p><l>energetik<s n="adj"/></l><r>enerjik<s n="adj"/></r></p></e> 
 <e><p><l>yerli<s n="adj"/></l><r>yerli<s n="adj"/></r></p></e> 
 
 <e><p><l>yerli<s n="n"/></l><r>yerli<s n="adj"/><s n="subst"/></r></p></e> 
