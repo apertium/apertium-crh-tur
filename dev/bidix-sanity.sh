@@ -5,7 +5,7 @@ dir=`printf "%s\n" "$pair" | grep -o  -- '-[a-z][a-z][a-z]-[a-z][a-z][a-z]' | se
 dix=$pair.$dir.dix
 lang2=`printf "%s\n"  "$dir" | cut -f2 -d'-'`
 lang2dir=`cat ../config.log | grep ^AP_SRC2 | cut -f2 -d\'`
-analysator=$lang2dir"/"$lang2".automorf.bin"
+analysator=../$lang2dir"/"$lang2".automorf.bin"
 
 lt-expand ../$dix | sed 's/\(<[^>]\+>\)\(<[^>]\+>\)\+/&/g' | sed 's/:[><]:/:/g'  | grep -v ':\([[:punct:]]\|[[:space:]]\)' | grep -v -- '-<' | grep -v '\/' | sort -u > /tmp/$dir.exp
 

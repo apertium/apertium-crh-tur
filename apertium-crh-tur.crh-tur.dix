@@ -2414,32 +2414,32 @@
 <e><p><l>Manay<s n="np"/><s n="top"/></l><r>Manay<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Çerkez<s n="np"/><s n="top"/></l><r>Çerkez<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Karadeniz<s n="np"/><s n="top"/></l><r>Karadeniz<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>PA<s n="np"/><s n="al"/>-ABBR </l><r>PA<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>KGB<s n="np"/><s n="al"/>-ABBR </l><r>KGB<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>FSB<s n="np"/><s n="al"/>-ABBR </l><r>FSB<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>FSB<s n="np"/><s n="al"/>-ABBR </l><r>FSB<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>BBC<s n="np"/><s n="al"/>-ABBR </l><r>BBC<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>LHC<s n="np"/><s n="al"/>-ABBR </l><r>LHC<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>SSC<s n="np"/><s n="al"/>-ABBR </l><r>SSC<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>PACE<s n="np"/><s n="al"/>-ABBR </l><r>PACE<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>OSCE<s n="np"/><s n="al"/>-ABBR </l><r>OSCE<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>BSE<s n="np"/><s n="al"/>-ABBR </l><r>BSE<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>MSK<s n="np"/><s n="al"/>-ABBR </l><r>MSK<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>TSK<s n="np"/><s n="al"/>-ABBR </l><r>TSK<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>FM<s n="np"/><s n="al"/>-ABBR </l><r>FM<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>PEN<s n="np"/><s n="al"/>-ABBR </l><r>PEN<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>ICAO<s n="np"/><s n="al"/>-ABBR </l><r>ICAO<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>UNESCO<s n="np"/><s n="al"/>-ABBR </l><r>UNESCO<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>ISO<s n="np"/><s n="al"/>-ABBR </l><r>ISO<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>ATO<s n="np"/><s n="al"/>-ABBR </l><r>ATO<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>NATO<s n="np"/><s n="al"/>-ABBR </l><r>NATO<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>ATR<s n="np"/><s n="al"/>-ABBR </l><r>ATR<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>ATR<s n="np"/><s n="al"/>-ABBR </l><r>ATR<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>BTR<s n="np"/><s n="al"/>-ABBR </l><r>BTR<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>SOS<s n="np"/><s n="al"/>-ABBR </l><r>SOS<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>MTS<s n="np"/><s n="al"/>-ABBR </l><r>MTS<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>TV<s n="np"/><s n="al"/>-ABBR </l><r>TV<s n="np"/><s n="al"/>-ABBR </r></p></e>
-<e><p><l>NTV<s n="np"/><s n="al"/>-ABBR </l><r>NTV<s n="np"/><s n="al"/>-ABBR </r></p></e>
+<e><p><l>PA<s n="np"/><s n="al"/></l><r>PA<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>KGB<s n="np"/><s n="al"/></l><r>KGB<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>FSB<s n="np"/><s n="al"/></l><r>FSB<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>FSB<s n="np"/><s n="al"/></l><r>FSB<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>BBC<s n="np"/><s n="al"/></l><r>BBC<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>LHC<s n="np"/><s n="al"/></l><r>LHC<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>SSC<s n="np"/><s n="al"/></l><r>SSC<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>PACE<s n="np"/><s n="al"/></l><r>PACE<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>OSCE<s n="np"/><s n="al"/></l><r>OSCE<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>BSE<s n="np"/><s n="al"/></l><r>BSE<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>MSK<s n="np"/><s n="al"/></l><r>MSK<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>TSK<s n="np"/><s n="al"/></l><r>TSK<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>FM<s n="np"/><s n="al"/></l><r>FM<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>PEN<s n="np"/><s n="al"/></l><r>PEN<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>ICAO<s n="np"/><s n="al"/></l><r>ICAO<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>UNESCO<s n="np"/><s n="al"/></l><r>UNESCO<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>ISO<s n="np"/><s n="al"/></l><r>ISO<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>ATO<s n="np"/><s n="al"/></l><r>ATO<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>NATO<s n="np"/><s n="al"/></l><r>NATO<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>ATR<s n="np"/><s n="al"/></l><r>ATR<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>ATR<s n="np"/><s n="al"/></l><r>ATR<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>BTR<s n="np"/><s n="al"/></l><r>BTR<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>SOS<s n="np"/><s n="al"/></l><r>SOS<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>MTS<s n="np"/><s n="al"/></l><r>MTS<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>TV<s n="np"/><s n="al"/></l><r>TV<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>NTV<s n="np"/><s n="al"/></l><r>NTV<s n="np"/><s n="al"/></r></p></e>
 
 <e><p><l>Medvedev<s n="np"/><s n="cog"/></l><r>Medvedev</r></p><par n="cog:ov__cog"/></e>
 <e><p><l>Görev<s n="np"/><s n="cog"/></l><r>Görev</r></p><par n="cog:ov__cog"/></e>
