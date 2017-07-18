@@ -1045,7 +1045,6 @@
       <e><p><l>mimarcılıq<s n="n"/></l><r>mimarlık<s n="n"/></r></p></e>
       <e><p><l>abide<s n="n"/></l><r>abide<s n="n"/></r></p></e>
       <e><p><l>memleket<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
-      <e><p><l>memleket<s n="n"/></l><r>milli<s n="n"/></r></p></e>
       <e><p><l>memleket<s n="n"/></l><r>ülke<s n="n"/></r></p></e>
       <e><p><l>sıra<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
       <e><p><l>asır<s n="n"/></l><r>asır<s n="n"/></r></p></e>
@@ -4923,7 +4922,7 @@
       <e><p><l>bas<s n="v"/><s n="tv"/></l><r>bas<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>bastır<s n="v"/><s n="tv"/></l><r>bastır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>batır<s n="v"/><s n="tv"/></l><r>batır<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>bağır<s n="v"/><s n="tv"/></l><r>bağır<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>bağır<s n="v"/><s n="iv"/></l><r>bağır<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bekle<s n="v"/><s n="tv"/></l><r>bekle<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>belgile<s n="v"/><s n="tv"/></l><r>belirt<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ber<s n="v"/><s n="tv"/></l><r>bırak<s n="v"/><s n="tv"/></r></p></e>
@@ -4941,7 +4940,7 @@
       <e><p><l>bitir<s n="v"/><s n="tv"/></l><r>tekmille<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>bit<s n="v"/><s n="iv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bit<s n="v"/><s n="tv"/></l><r>yetiş<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>boldur<s n="v"/><s n="tv"/></l><r>yorul<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>boldur<s n="v"/><s n="iv"/></l><r>yorul<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>boz<s n="v"/><s n="tv"/></l><r>boz<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>bulandır<s n="v"/><s n="tv"/></l><r>bulandır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qorçala<s n="v"/><s n="tv"/></l><r>koru<s n="v"/><s n="tv"/></r></p></e>
@@ -4987,8 +4986,8 @@
       <e><p><l>hatırla<s n="v"/><s n="tv"/></l><r>hatırla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>hatırlat<s n="v"/><s n="tv"/></l><r>hatırlat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>haçlaştır<s n="v"/><s n="tv"/></l><r>tırmala<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>ilindir<s n="v"/><s n="tv"/></l><r>iliş<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>iliştir<s n="v"/><s n="tv"/></l><r>iliş<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>ilindir<s n="v"/><s n="tv"/></l><r>iliştir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>iliştir<s n="v"/><s n="tv"/></l><r>iliştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>imzala<s n="v"/><s n="tv"/></l><r>imzala<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>inan<s n="v"/><s n="tv"/></l><r>inan<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>iste<s n="v"/><s n="tv"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
@@ -4998,7 +4997,6 @@
       <e><p><l>ketir<s n="v"/><s n="tv"/></l><r>getir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ketir<s n="v"/><s n="tv"/></l><r>ver<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ketir<s n="v"/><s n="tv"/></l><r>götür<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>kezindir<s n="v"/><s n="tv"/></l><r>gezin<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>kezindir<s n="v"/><s n="tv"/></l><r>gezdir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>keçindir<s n="v"/><s n="tv"/></l><r>geçindir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>keçindir<s n="v"/><s n="tv"/></l><r>yedir<s n="v"/><s n="tv"/></r></p></e>
@@ -5021,7 +5019,6 @@
       <e><p><l>milliyleştir<s n="v"/><s n="tv"/></l><r>devletleştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>muabbetleştir<s n="v"/><s n="tv"/></l><r>barıştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>muabbetleştir<s n="v"/><s n="tv"/></l><r>uzlaştır<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>musaviyleştir<s n="v"/><s n="tv"/></l><r>eşitleştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>musaviyleştir<s n="v"/><s n="tv"/></l><r>eşitle<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>mükemmelleştir<s n="v"/><s n="tv"/></l><r>mükemmelleştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>mükemmelleştir<s n="v"/><s n="tv"/></l><r>yetkinleştir<s n="v"/><s n="tv"/></r></p></e>
@@ -5037,7 +5034,7 @@
       <e><p><l>pişir<s n="v"/><s n="tv"/></l><r>pişir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>pişir<s n="v"/><s n="tv"/></l><r>ye<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>piş<s n="v"/><s n="iv"/></l><r>piş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>piş<s n="v"/><s n="tv"/></l><r>eriş<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>piş<s n="v"/><s n="tv"/></l><r>eriş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>planlaştır<s n="v"/><s n="tv"/></l><r>planlaştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qaldır<s n="v"/><s n="tv"/></l><r>kaldır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qarıştır<s n="v"/><s n="tv"/></l><r>karıştır<s n="v"/><s n="tv"/></r></p></e>
@@ -5057,7 +5054,6 @@
       <e><p><l>qıstır<s n="v"/><s n="tv"/></l><r>sıkıştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qıstır<s n="v"/><s n="tv"/></l><r>kıstır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qızıqtır<s n="v"/><s n="tv"/></l><r>kışkırt<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>rastketir<s n="v"/><s n="tv"/></l><r>rastla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sadeleştir<s n="v"/><s n="tv"/></l><r>sadeleştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>septir<s n="v"/><s n="tv"/></l><r>püskürt<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sevindir<s n="v"/><s n="tv"/></l><r>sevindir<s n="v"/><s n="tv"/></r></p></e>
@@ -5080,12 +5076,12 @@
       <e><p><l>sür<s n="v"/><s n="tv"/></l><r>sürgüle<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>süy<s n="v"/><s n="tv"/></l><r>sev<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sıdır<s n="v"/><s n="tv"/></l><r>sıyır<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>sıla<s n="v"/><s n="tv"/></l><r>ıslan<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>sıla<s n="v"/><s n="tv"/></l><r>ıslat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sımarla<s n="v"/><s n="tv"/></l><r>ısmarla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tamamla<s n="v"/><s n="tv"/></l><r>tamamla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tanı<s n="v"/><s n="tv"/></l><r>tanı<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>taşlan<s n="v"/><s n="tv"/></l><r>katılaş<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>taşlan<s n="v"/><s n="tv"/></l><r>taşlaş<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>taşlan<s n="v"/><s n="tv"/></l><r>katılaş<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>taşlan<s n="v"/><s n="tv"/></l><r>taşlaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>temelleştir<s n="v"/><s n="tv"/></l><r>pekiştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>temelleştir<s n="v"/><s n="tv"/></l><r>kuvvetlendir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>temelleştir<s n="v"/><s n="tv"/></l><r>pekit<s n="v"/><s n="tv"/></r></p></e>
@@ -5095,7 +5091,7 @@
       <e><p><l>teşkilâtlandır<s n="v"/><s n="tv"/></l><r>teşkilatlandır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tile<s n="v"/><s n="tv"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>toldur<s n="v"/><s n="tv"/></l><r>doldur<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>topla<s n="v"/><s n="tv"/></l><r>toparlan<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>topla<s n="v"/><s n="tv"/></l><r>toparla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>toquştır<s n="v"/><s n="tv"/></l><r>çatıştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>toydur<s n="v"/><s n="tv"/></l><r>doyur<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>töle<s n="v"/><s n="tv"/></l><r>öde<s n="v"/><s n="tv"/></r></p></e>
@@ -5134,7 +5130,6 @@
       <e><p><l>yıq<s n="v"/><s n="tv"/></l><r>yık<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>zenginleştir<s n="v"/><s n="tv"/></l><r>kıymetlendir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çal<s n="v"/><s n="tv"/></l><r>çal<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>çap<s n="v"/><s n="tv"/></l><r>çap<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çağır<s n="v"/><s n="tv"/></l><r>çağır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çekiştir<s n="v"/><s n="tv"/></l><r>çekiştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çekiştir<s n="v"/><s n="tv"/></l><r>bitir<s n="v"/><s n="tv"/></r></p></e>
@@ -5147,7 +5142,7 @@
       <e><p><l>çert<s n="v"/><s n="tv"/></l><r>kirlet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çez<s n="v"/><s n="tv"/></l><r>çöz<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>çiftleştir<s n="v"/><s n="tv"/></l><r>çiftleştir<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>çıldır<s n="v"/><s n="tv"/></l><r>çıldır<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>çıldır<s n="v"/><s n="iv"/></l><r>çıldır<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>çıqar<s n="v"/><s n="tv"/></l><r>çağır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ögret<s n="v"/><s n="tv"/></l><r>öğret<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>öldür<s n="v"/><s n="tv"/></l><r>öldür<s n="v"/><s n="tv"/></r></p></e>
@@ -5173,8 +5168,8 @@
       <e><p><l>avalan<s n="v"/><s n="iv"/></l><r>havalan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>avdarıl<s n="v"/><s n="iv"/></l><r>devrol<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>aveslen<s n="v"/><s n="iv"/></l><r>alevlen<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>avla<s n="v"/><s n="iv"/></l><r>avla<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>avlan<s n="v"/><s n="iv"/></l><r>avla<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>avla<s n="v"/><s n="tv"/></l><r>avla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>avlan<s n="v"/><s n="iv"/></l><r>avlan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ayretlen<s n="v"/><s n="iv"/></l><r>tansıkla<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ayırıl<s n="v"/><s n="iv"/></l><r>ayrıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ağla<s n="v"/><s n="iv"/></l><r>ağla<s n="v"/><s n="iv"/></r></p></e>
@@ -5185,12 +5180,10 @@
       <e><p><l>bat<s n="v"/><s n="iv"/></l><r>bat<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>başaqlan<s n="v"/><s n="iv"/></l><r>başaklan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>başqalaş<s n="v"/><s n="iv"/></l><r>başkalaş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>begen<s n="v"/><s n="iv"/></l><r>beğen<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>berçlen<s n="v"/><s n="iv"/></l><r>derilen<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>biraderleş<s n="v"/><s n="iv"/></l><r>kardeşleş<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>begen<s n="v"/><s n="tv"/></l><r>beğen<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>birik<s n="v"/><s n="iv"/></l><r>birleş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>birleş<s n="v"/><s n="iv"/></l><r>birleş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>boşa<s n="v"/><s n="iv"/></l><r>boşalt<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>boşa<s n="v"/><s n="tv"/></l><r>boşal<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bulaş<s n="v"/><s n="iv"/></l><r>bulan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>buzavla<s n="v"/><s n="iv"/></l><r>buzağıla<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>bükül<s n="v"/><s n="iv"/></l><r>bükül<s n="v"/><s n="iv"/></r></p></e>
@@ -5230,27 +5223,21 @@
       <e><p><l>fısıldaş<s n="v"/><s n="iv"/></l><r>fısıldaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>gecele<s n="v"/><s n="iv"/></l><r>gecele<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>horazlan<s n="v"/><s n="iv"/></l><r>horozlan<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>ilerilet<s n="v"/><s n="iv"/></l><r>ilerlet<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>ilerilet<s n="v"/><s n="tv"/></l><r>ilerlet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ilin<s n="v"/><s n="iv"/></l><r>iliş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>iri<s n="v"/><s n="iv"/></l><r>eri<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>iri<s n="v"/><s n="iv"/></l><r>ergi<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>irkil<s n="v"/><s n="iv"/></l><r>birik<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>iteş<s n="v"/><s n="iv"/></l><r>dürtüş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>iteş<s n="v"/><s n="iv"/></l><r>elleş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>iteş<s n="v"/><s n="iv"/></l><r>itiş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kederlen<s n="v"/><s n="iv"/></l><r>düşün<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>keliş<s n="v"/><s n="iv"/></l><r>sözleş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>kel<s n="v"/><s n="iv"/></l><r>gelin<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kemalatlan<s n="v"/><s n="iv"/></l><r>yetkinleş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kenişle<s n="v"/><s n="iv"/></l><r>genişle<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerile<s n="v"/><s n="iv"/></l><r>çekil<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kerile<s n="v"/><s n="iv"/></l><r>gerile<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>kerile<s n="v"/><s n="iv"/></l><r>tersin<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kesil<s n="v"/><s n="iv"/></l><r>kesil<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kesil<s n="v"/><s n="iv"/></l><r>devril<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kesil<s n="v"/><s n="iv"/></l><r>fosilleş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>ket<s n="v"/><s n="iv"/></l><r>yürüt<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>ket<s n="v"/><s n="iv"/></l><r>ilet<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kezin<s n="v"/><s n="iv"/></l><r>gezin<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>keç<s n="v"/><s n="iv"/></l><r>geç<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kibirlen<s n="v"/><s n="iv"/></l><r>böbürlen<s n="v"/><s n="iv"/></r></p></e>
@@ -5259,7 +5246,6 @@
       <e><p><l>kiyikleş<s n="v"/><s n="iv"/></l><r>yabanileş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kiyikleş<s n="v"/><s n="iv"/></l><r>vahşileş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kiyin<s n="v"/><s n="iv"/></l><r>giyin<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>kiyin<s n="v"/><s n="iv"/></l><r>giy<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>kömül<s n="v"/><s n="iv"/></l><r>gömül<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>köpükle<s n="v"/><s n="iv"/></l><r>köpür<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>köpür<s n="v"/><s n="iv"/></l><r>köpür<s n="v"/><s n="iv"/></r></p></e>
@@ -5315,7 +5301,7 @@
       <e><p><l>sarın<s n="v"/><s n="iv"/></l><r>sarıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>seril<s n="v"/><s n="iv"/></l><r>geril<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>seril<s n="v"/><s n="iv"/></l><r>seril<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>serinleş<s n="v"/><s n="iv"/></l><r>serinleş<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>serinleş<s n="v"/><s n="iv"/></l><r>serinle<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>serinleş<s n="v"/><s n="iv"/></l><r>şiddetlen<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sertleş<s n="v"/><s n="iv"/></l><r>sertleş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sertleş<s n="v"/><s n="iv"/></l><r>nasırlaş<s n="v"/><s n="iv"/></r></p></e>
@@ -5332,7 +5318,6 @@
       <e><p><l>sıqıl<s n="v"/><s n="iv"/></l><r>kısıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sıqıl<s n="v"/><s n="iv"/></l><r>sıkıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>sığ<s n="v"/><s n="iv"/></l><r>sığ<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>sığ<s n="v"/><s n="iv"/></l><r>sığış<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>taclan<s n="v"/><s n="iv"/></l><r>taçlan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tal<s n="v"/><s n="iv"/></l><r>çatla<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>taran<s n="v"/><s n="iv"/></l><r>taran<s n="v"/><s n="iv"/></r></p></e>
@@ -5348,14 +5333,12 @@
       <e><p><l>tutaş<s n="v"/><s n="iv"/></l><r>tutuş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tutul<s n="v"/><s n="iv"/></l><r>tutul<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tut<s n="v"/><s n="tv"/></l><r>tuttur<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>tut<s n="v"/><s n="tv"/></l><r>unutma<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tökül<s n="v"/><s n="iv"/></l><r>dökül<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tüken<s n="v"/><s n="iv"/></l><r>tüken<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tüzen<s n="v"/><s n="iv"/></l><r>süslen<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>tüzlen<s n="v"/><s n="iv"/></l><r>düzlen<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>tüzlen<s n="v"/><s n="iv"/></l><r>düzel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tüzlen<s n="v"/><s n="iv"/></l><r>düzleş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tüş<s n="v"/><s n="iv"/></l><r>düş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>tüş<s n="v"/><s n="iv"/></l><r>kötüle<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tınış<s n="v"/><s n="iv"/></l><r>yatış<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tıqıl<s n="v"/><s n="iv"/></l><r>tıkıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>tırmaş<s n="v"/><s n="iv"/></l><r>tırman<s n="v"/><s n="iv"/></r></p></e>
@@ -5388,7 +5371,6 @@
       <e><p><l>yañıl<s n="v"/><s n="iv"/></l><r>yanıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yağ<s n="v"/><s n="iv"/></l><r>yağ<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yet<s n="v"/><s n="iv"/></l><r>yetiş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>yet<s n="v"/><s n="iv"/></l><r>yetiştir<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yollan<s n="v"/><s n="iv"/></l><r>yollan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yorul<s n="v"/><s n="iv"/></l><r>yorul<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yuqla<s n="v"/><s n="iv"/></l><r>uyu<s n="v"/><s n="iv"/></r></p></e>
@@ -5989,9 +5971,9 @@
 <e><p><l>svetofor<s n="n"/></l><r>trafik<b/>ışığı<s n="n"/></r></p></e>
 <e><p><l>stereotip<s n="n"/></l><r>stereotip<s n="n"/></r></p></e>
 <e><p><l>sektsiya<s n="n"/></l><r>kesit<s n="n"/></r></p></e>
-<e><p><l>sektsiya<s n="n"/></l><r>bölün<s n="n"/></r></p></e>
+<e><p><l>sektsiya<s n="n"/></l><r>bölüm<s n="n"/></r></p></e>
 <e><p><l>retsept<s n="n"/></l><r>fiş<s n="n"/></r></p></e>
-<e><p><l>reanimatsion<s n="n"/></l><r>acil<b/>servis<s n="n"/></r></p></e>
+<e><p><l>reanimatsion<s n="n"/></l><r>acil<b/>yardım<s n="n"/></r></p></e>
 <e><p><l>pistolet<s n="n"/></l><r>tabanca<s n="n"/></r></p></e>
 <e><p><l>korrespondent<s n="n"/></l><r>muhabir<s n="n"/></r></p></e>
 <e><p><l>kommunikatsion<s n="n"/></l><r>iletişim<s n="n"/></r></p></e>
@@ -6005,7 +5987,7 @@
 <e><p><l>tecavuz<s n="adj"/></l><r>mütecaviz<s n="adj"/></r></p></e>
 <e><p><l>suratlı<s n="adj"/></l><r>süratli<s n="adj"/></r></p></e>
 <e><p><l>revolütsiya<s n="n"/></l><r>devrim<s n="n"/></r></p></e>
-<e><p><l>reanimatsiya<s n="n"/></l><r>acil<b/>servis<s n="n"/></r></p></e>
+<e><p><l>reanimatsiya<s n="n"/></l><r>acil<b/>yardım<s n="n"/></r></p></e>
 <e><p><l>politehnik<s n="adj"/></l><r>politeknik<s n="adj"/></r></p></e>
 <e><p><l>oblast<s n="n"/></l><r>oblast<s n="n"/></r></p></e>
 <e><p><l>lâqaytlıq<s n="n"/></l><r>lakaytlık<s n="n"/></r></p></e>
@@ -6528,7 +6510,7 @@
 <e><p><l>örnek<s n="n"/></l><r>örnek<s n="n"/></r></p></e>
 <e><p><l>oğlan<s n="n"/></l><r>oğlan<s n="n"/></r></p></e>
 <e><p><l>mezar<s n="n"/></l><r>mezar<s n="n"/></r></p></e>
-<e><p><l>köylüler<s n="n"/></l><r>köylüler<s n="n"/></r></p></e>
+<e><p><l>köylü<s n="n"/></l><r>köylü<s n="n"/></r></p></e>
 <e><p><l>kişilik<s n="n"/></l><r>kişilik<s n="n"/></r></p></e>
 <e><p><l>isyan<s n="n"/></l><r>isyan<s n="n"/></r></p></e>
 <e><p><l>inanç<s n="n"/></l><r>inanç<s n="n"/></r></p></e>
@@ -6617,10 +6599,10 @@
 <e><p><l>cihaz<s n="n"/></l><r>cihaz<s n="n"/></r></p></e>
 <e><p><l>çapraz<s n="n"/></l><r>çapraz<s n="n"/></r></p></e>
 <e><p><l>Amerikan<s n="n"/></l><r>Amerikan<s n="n"/></r></p></e>
-<e><p><l>resimler<s n="n"/></l><r>resimler<s n="n"/></r></p></e>
+<e><p><l>resim<s n="n"/></l><r>resim<s n="n"/></r></p></e>
 <e><p><l>ramazan<s n="n"/></l><r>ramazan<s n="n"/></r></p></e>
 <e><p><l>park<s n="n"/></l><r>park<s n="n"/></r></p></e>
-<e><p><l>norma<s n="n"/></l><r>norma<s n="n"/></r></p></e>
+<e><p><l>norma<s n="n"/></l><r>norm<s n="n"/></r></p></e>
 <e><p><l>nebi<s n="n"/></l><r>nebi<s n="n"/></r></p></e>
 <e><p><l>mesafe<s n="n"/></l><r>mesafe<s n="n"/></r></p></e>
 <e><p><l>mermer<s n="n"/></l><r>mermer<s n="n"/></r></p></e>
@@ -6637,7 +6619,7 @@
 <e><p><l>ceryan<s n="n"/></l><r>ceryan<s n="n"/></r></p></e>
 <e><p><l>cam<s n="n"/></l><r>cam<s n="n"/></r></p></e>
 <e><p><l>çağ<s n="n"/></l><r>çağ<s n="n"/></r></p></e>
-<e><p><l>ayvan<s n="n"/></l><r>ayvan<s n="n"/></r></p></e>
+<e><p><l>ayvan<s n="n"/></l><r>hayvan<s n="n"/></r></p></e>
 <e><p><l>almanca<s n="n"/></l><r>almanca<s n="n"/></r></p></e>
 <e><p><l>alay<s n="n"/></l><r>alay<s n="n"/></r></p></e>
 <e><p><l>yün<s n="n"/></l><r>yün<s n="n"/></r></p></e>
@@ -6672,7 +6654,7 @@
 <e><p><l>Çinli<s n="n"/></l><r>Çinli<s n="n"/></r></p></e>
 <e><p><l>çil<s n="n"/></l><r>çil<s n="n"/></r></p></e>
 <e><p><l>çevre<s n="n"/></l><r>çevre<s n="n"/></r></p></e>
-<e><p><l>çeke<s n="n"/></l><r>çeke<s n="n"/></r></p></e>
+<e><p><l>çeke<s n="n"/></l><r>silah<s n="n"/></r></p></e>
 <e><p><l>ar<s n="n"/></l><r>ar<s n="n"/></r></p></e>
 <e><p><l>zulüm<s n="n"/></l><r>zulüm<s n="n"/></r></p></e>
 <e><p><l>zarf<s n="n"/></l><r>zarf<s n="n"/></r></p></e>
@@ -6721,7 +6703,6 @@
 <e><p><l>beşer<s n="n"/></l><r>beşer<s n="n"/></r></p></e>
 <e><p><l>belgi<s n="n"/></l><r>belgi<s n="n"/></r></p></e>
 <e><p><l>bayrak<s n="n"/></l><r>bayrak<s n="n"/></r></p></e>
-<e><p><l>bağlar<s n="n"/></l><r>bağlar<s n="n"/></r></p></e>
 <e><p><l>azap<s n="n"/></l><r>azap<s n="n"/></r></p></e>
 <e><p><l>aşk<s n="n"/></l><r>aşk<s n="n"/></r></p></e>
 <e><p><l>arz<s n="n"/></l><r>arz<s n="n"/></r></p></e>
@@ -7081,7 +7062,7 @@
 <e><p><l>hayırsız<s n="adj"/></l><r>hayırsız<s n="adj"/></r></p></e>
 <e><p><l>güllü<s n="adj"/></l><r>güllü<s n="adj"/></r></p></e>
 <e><p><l>fena<s n="adj"/></l><r>fena<s n="adj"/></r></p></e>
-<e><p><l>fedakâr<s n="adj"/></l><r>fedakar<s n="adj"/></r></p></e>
+<e><p><l>fedakâr<s n="adj"/></l><r>fedakâr<s n="adj"/></r></p></e>
 <e><p><l>çiçekli<s n="adj"/></l><r>çiçekli<s n="adj"/></r></p></e>
 <e><p><l>canlı<s n="adj"/></l><r>canlı<s n="adj"/></r></p></e>
 <e><p><l>becerikli<s n="adj"/></l><r>becerikli<s n="adj"/></r></p></e>
