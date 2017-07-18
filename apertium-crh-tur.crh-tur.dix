@@ -327,7 +327,7 @@
 <e><p><l>printsipial<s n="adj"/></l><r>ana<s n="adj"/></r></p></e>
 <e><p><l>mevcutlıq<s n="n"/></l><r>mevcut<s n="n"/></r></p></e>
 <e><p><l>sakinleştir<s n="v"/><s n="tv"/></l><r>sakinleştir<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>avstriyalı<s n="n"/></l><r>avusturyalı<s n="n"/></r></p></e>
+<e><p><l>avstriyalı<s n="n"/></l><r>Avusturyalı<s n="n"/></r></p></e>
 <e><p><l>tilşınas<s n="n"/></l><r>dilbilimci<s n="n"/></r></p></e>
 <e><p><l>qalq<s n="v"/><s n="iv"/></l><r>kalk<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>populârlaştır<s n="v"/><s n="tv"/></l><r>popülerleştir<s n="v"/><s n="tv"/></r></p></e>
@@ -6281,7 +6281,7 @@
 <e><p><l>ğurbetlik<s n="n"/></l><r>gurbet<s n="n"/></r></p></e>
 <e><p><l>tranzit<s n="n"/></l><r>transit<s n="n"/></r></p></e>
 <e><p><l>tamırlı<s n="adj"/></l><r>kökenli<s n="adj"/></r></p></e>
-<e><p><l>radiostantsiya<s n="n"/></l><r>radio istasyonu<s n="n"/></r></p></e>
+<e><p><l>radiostantsiya<s n="n"/></l><r>radyo<b/>istasyonu<s n="n"/></r></p></e>
 <e><p><l>rekonstruktsiya<s n="n"/></l><r>kalkınma<s n="n"/></r></p></e>
 <e><p><l>bitaraf<s n="adj"/></l><r>tarafsız<s n="adj"/></r></p></e>
 <e><p><l>assimilâtsiya<s n="n"/></l><r>asimilasyon<s n="n"/></r></p></e>
@@ -6450,7 +6450,7 @@
 <e><p><l>saylav<s n="n"/></l><r>seçim<s n="n"/></r></p></e>
 <e><p><l>fond<s n="n"/></l><r>fon<s n="n"/></r></p></e>
 <e><p><l>misal<s n="n"/></l><r>misal<s n="n"/></r></p></e>
-<e><p><l>buçuq<s n="n"/></l><r>buçuk<s n="n"/></r></p></e>
+<e><p><l>buçuq<s n="n"/></l><r>buçuk<s n="num"/><s n="subst"/></r></p></e>
 <e><p><l>sessiya<s n="n"/></l><r>dönem<s n="n"/></r></p></e>
 <e><p><l>elçihane<s n="n"/></l><r>elçilik<s n="n"/></r></p></e>
 <e><p><l>birleşme<s n="n"/></l><r>birleşme<s n="n"/></r></p></e>
@@ -6458,6 +6458,7 @@
 <e><p><l>punkt<s n="n"/></l><r>nokta<s n="n"/></r></p></e>
 <e><p><l>oda<s n="n"/></l><r>oda<s n="n"/></r></p></e>
 <e><p><l>energiya<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
+      <e><p><l>akt<s n="n"/></l><r>faaliyet<s n="n"/></r></p></e>
 
 <e><p><l>hacı<s n="n"/></l><r>hacı<s n="n"/></r></p></e>
 <e><p><l>yazı<s n="n"/></l><r>yazı<s n="n"/></r></p></e>
@@ -6575,7 +6576,7 @@
 <e><p><l>anane<s n="n"/></l><r>anane<s n="n"/></r></p></e>
 <e><p><l>ziyalı<s n="n"/></l><r>ziyalı<s n="n"/></r></p></e>
 <e><p><l>ziyalılar<s n="n"/></l><r>ziyalılar<s n="n"/></r></p></e>
-<e><p><l>yunanca<s n="n"/></l><r>yunanca<s n="n"/></r></p></e>
+<e><p><l>yunanca<s n="n"/></l><r>Yunanca<s n="n"/></r></p></e>
 <e><p><l>yad<s n="n"/></l><r>yad<s n="n"/></r></p></e>
 <e><p><l>yabancı<s n="n"/></l><r>yabancı<s n="n"/></r></p></e>
 <e><p><l>sahra<s n="n"/></l><r>sahra<s n="n"/></r></p></e>
@@ -6708,7 +6709,6 @@
 <e><p><l>emekli<s n="n"/></l><r>emekli<s n="n"/></r></p></e>
 <e><p><l>emekçi<s n="n"/></l><r>emekçi<s n="n"/></r></p></e>
 <e><p><l>elli<s n="n"/></l><r>elli<s n="n"/></r></p></e>
-<e><p><l>diyalekti<s n="n"/></l><r>diyalekt<s n="n"/></r></p></e>
 <e><p><l>deli<s n="n"/></l><r>deli<s n="n"/></r></p></e>
 <e><p><l>delil<s n="n"/></l><r>delil<s n="n"/></r></p></e>
 <e><p><l>cisim<s n="n"/></l><r>cisim<s n="n"/></r></p></e>
@@ -6795,7 +6795,7 @@
 <e><p><l>çivi<s n="n"/></l><r>çivi<s n="n"/></r></p></e>
 <e><p><l>cin<s n="n"/></l><r>cin<s n="n"/></r></p></e>
 <e><p><l>ceviz<s n="n"/></l><r>ceviz<s n="n"/></r></p></e>
-<e><p><l>cenkçi<s n="n"/></l><r>cenkçi<s n="n"/></r></p></e>
+<e><p><l>cenkçi<s n="n"/></l><r>savaşçı<s n="n"/></r></p></e>
 <e><p><l>çek<s n="n"/></l><r>çek<s n="n"/></r></p></e>
 <e><p><l>çarşaf<s n="n"/></l><r>çarşaf<s n="n"/></r></p></e>
 <e><p><l>çalı<s n="n"/></l><r>çalı<s n="n"/></r></p></e>
@@ -6947,6 +6947,7 @@
 <e><p><l>forum<s n="n"/></l><r>forum<s n="n"/></r></p></e>
 <e><p><l>feza<s n="n"/></l><r>feza<s n="n"/></r></p></e>
 <e><p><l>felsefeci<s n="n"/></l><r>felsefeci<s n="n"/></r></p></e>
+<e><p><l>felsefeci<s n="n"/></l><r>filozof<s n="n"/></r></p></e>
 <e><p><l>faşizm<s n="n"/></l><r>faşizm<s n="n"/></r></p></e>
 <e><p><l>euro<s n="n"/></l><r>euro<s n="n"/></r></p></e>
 <e><p><l>erik<s n="n"/></l><r>erik<s n="n"/></r></p></e>
