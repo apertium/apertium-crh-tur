@@ -19,8 +19,7 @@
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.*.aor.*"/>
-      <cat-item tags="vaux.*.aor.*"/>
-      <cat-item tags="vaux.*.*.aor.*"/>
+      <cat-item tags="vaux.aor.*"/>
     </def-cat>
     <def-cat n="fut">
       <cat-item tags="v.*.fut.*"/>
