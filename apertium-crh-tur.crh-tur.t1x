@@ -61,6 +61,14 @@
       <cat-item tags="v.*.*.prc_impf.*"/>
     </def-cat>
 
+    <def-cat n="prc_perf">
+      <cat-item tags="v.*.prc_perf"/>
+      <cat-item tags="v.*.prc_perf.*"/>
+      <cat-item tags="v.*.*.prc_perf"/>
+      <cat-item tags="v.*.*.prc_perf.*"/>
+    </def-cat>
+
+
     <def-cat n="gpr_fut2">
       <cat-item tags="v.*.gpr_fut2"/>
       <cat-item tags="v.*.gpr_fut2.*"/>
@@ -156,6 +164,7 @@
       <attr-item tags="prc_past"/>
       <attr-item tags="prc_fut"/>
       <attr-item tags="prc_impf"/>
+      <attr-item tags="prc_perf"/>
     </def-attr>
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
@@ -400,21 +409,8 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-<choose>
-   <when>
-       <!-- IF: a_pers_nbr IS p2.frm.sg -->
-      <test><equal><clip pos="2" side="tl" part="a_pers_nbr"/> 
-                             <lit-tag v="p2.frm.sg"/></equal></test>
-        <!-- THEN: LET a_pers_nbr BE p2.pl -->
-      <let><clip pos="2" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
-    </when>
-</choose>
         <let>
-          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="aor"/>
-        </let>
-        <let>
-          <clip pos="2" side="tl" part="whole"/>
-          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="gna_perf"/>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -423,7 +419,6 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-              <clip pos="2" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
@@ -489,6 +484,32 @@
             <lu>
               <clip pos="1" side="tl" part="whole"/>
               <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="REGLA: prc_perf ">
+      <pattern>
+        <pattern-item n="prc_perf"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit v=""/></let>
+        <let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
