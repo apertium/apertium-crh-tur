@@ -820,17 +820,17 @@
       <e><p><l>latin<s n="n"/></l><r>latin<s n="n"/></r></p></e>
       <e><p><l>rok<s n="n"/></l><r>rock<s n="n"/></r></p></e>
 
-      <e><p><l>yanvar<s n="n"/></l><r>Ocak<s n="n"/></r></p></e>
-      <e><p><l>fevral<s n="n"/></l><r>Şubat<s n="n"/></r></p></e>
-      <e><p><l>aprel<s n="n"/></l><r>Nisan<s n="n"/></r></p></e>
-      <e><p><l>mayıs<s n="n"/></l><r>Mayıs<s n="n"/></r></p></e>
-      <e><p><l>iyün<s n="n"/></l><r>Haziran<s n="n"/></r></p></e>
-      <e><p><l>iyül<s n="n"/></l><r>Temmuz<s n="n"/></r></p></e>
-      <e><p><l>avgust<s n="n"/></l><r>Ağustos<s n="n"/></r></p></e>
-      <e><p><l>sentâbr<s n="n"/></l><r>Eylül<s n="n"/></r></p></e>
-      <e><p><l>noyabr<s n="n"/></l><r>Kasım<s n="n"/></r></p></e>
-      <e><p><l>oktâbr<s n="n"/></l><r>Ekim<s n="n"/></r></p></e>
-      <e><p><l>dekabr<s n="n"/></l><r>Aralık¹<s n="n"/></r></p></e>
+      <e><p><l>yanvar<s n="n"/></l><r>ocak¹<s n="n"/></r></p></e>
+      <e><p><l>fevral<s n="n"/></l><r>şubat<s n="n"/></r></p></e>
+      <e><p><l>aprel<s n="n"/></l><r>nisan<s n="n"/></r></p></e>
+      <e><p><l>mayıs<s n="n"/></l><r>mayıs<s n="n"/></r></p></e>
+      <e><p><l>iyün<s n="n"/></l><r>haziran<s n="n"/></r></p></e>
+      <e><p><l>iyül<s n="n"/></l><r>temmuz<s n="n"/></r></p></e>
+      <e><p><l>avgust<s n="n"/></l><r>ağustos<s n="n"/></r></p></e>
+      <e><p><l>sentâbr<s n="n"/></l><r>eylül<s n="n"/></r></p></e>
+      <e><p><l>noyabr<s n="n"/></l><r>kasım<s n="n"/></r></p></e>
+      <e><p><l>oktâbr<s n="n"/></l><r>ekim<s n="n"/></r></p></e>
+      <e><p><l>dekabr<s n="n"/></l><r>aralık¹<s n="n"/></r></p></e>
 
       <e><p><l>maarifçi<s n="n"/></l><r>alim<s n="n"/></r></p></e>
       <e><p><l>matem<s n="n"/></l><r>yas<s n="n"/></r></p></e>
@@ -2171,6 +2171,7 @@
 <e><p><l>Abdülhamit<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdülhamit<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Albert<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Vladislav<s n="np"/><s n="ant"/><s n="m"/></l><r>Vladislav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Vladıslav<s n="np"/><s n="ant"/><s n="m"/></l><r>Vladislav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Stanislav<s n="np"/><s n="ant"/><s n="m"/></l><r>Stanislav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Jay<s n="np"/><s n="ant"/><s n="m"/></l><r>Jay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Nikolay<s n="np"/><s n="ant"/><s n="m"/></l><r>Nikolay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -4256,26 +4257,26 @@
 <e><p><l>Çaykovskiy<s n="np"/><s n="cog"/></l><r>Çaykovsk</r></p><par n="cog:skiy__cog"/></e>
 <e><p><l>Ayvazovskiy<s n="np"/><s n="cog"/></l><r>Ayvazovsk</r></p><par n="cog:skiy__cog"/></e>
 <e><p><l>Bahçisarayskiy<s n="np"/><s n="cog"/></l><r>Bahçisaraysk</r></p><par n="cog:skiy__cog"/></e>
-<e><p><l>Mustafayevna<s n="np"/><s n="cog"/></l><r>Mustafayevna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Nikolayevna<s n="np"/><s n="cog"/></l><r>Nikolayevna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Vasilyevna<s n="np"/><s n="cog"/></l><r>Vasilyevna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Yüryevna<s n="np"/><s n="cog"/></l><r>Yüryevna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Leontyevna<s n="np"/><s n="cog"/></l><r>Leontyevna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Leonidovna<s n="np"/><s n="cog"/></l><r>Leonidovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>İsaakovna<s n="np"/><s n="cog"/></l><r>İsaakovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Samuilovna<s n="np"/><s n="cog"/></l><r>Samuilovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Mihaylovna<s n="np"/><s n="cog"/></l><r>Mihaylovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Germanovna<s n="np"/><s n="cog"/></l><r>Germanovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Stepanovna<s n="np"/><s n="cog"/></l><r>Stepanovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>İvanovna<s n="np"/><s n="cog"/></l><r>İvanovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Konstântinovna<s n="np"/><s n="cog"/></l><r>Konstantinovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Valentinovna<s n="np"/><s n="cog"/></l><r>Valentinovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Aleksandrovna<s n="np"/><s n="cog"/></l><r>Aleksandrovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Vladimirovna<s n="np"/><s n="cog"/></l><r>Vladimirovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Viktorovna<s n="np"/><s n="cog"/></l><r>Viktorovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Petrovna<s n="np"/><s n="cog"/></l><r>Petrovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Yaroslavovna<s n="np"/><s n="cog"/></l><r>Yaroslavovna<s n="np"/><s n="cog"/></r></p></e>
-<e><p><l>Miroslavovna<s n="np"/><s n="cog"/></l><r>Miroslavovna<s n="np"/><s n="cog"/></r></p></e>
+<!--<e><p><l>Mustafayevna<s n="np"/><s n="cog"/></l><r>Mustafayevna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Nikolayevna<s n="np"/><s n="cog"/></l><r>Nikolayevna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Vasilyevna<s n="np"/><s n="cog"/></l><r>Vasilyevna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Yüryevna<s n="np"/><s n="cog"/></l><r>Yüryevna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Leontyevna<s n="np"/><s n="cog"/></l><r>Leontyevna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Leonidovna<s n="np"/><s n="cog"/></l><r>Leonidovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>İsaakovna<s n="np"/><s n="cog"/></l><r>İsaakovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Samuilovna<s n="np"/><s n="cog"/></l><r>Samuilovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Mihaylovna<s n="np"/><s n="cog"/></l><r>Mihaylovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Germanovna<s n="np"/><s n="cog"/></l><r>Germanovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Stepanovna<s n="np"/><s n="cog"/></l><r>Stepanovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>İvanovna<s n="np"/><s n="cog"/></l><r>İvanovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Konstântinovna<s n="np"/><s n="cog"/></l><r>Konstantinovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Valentinovna<s n="np"/><s n="cog"/></l><r>Valentinovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Aleksandrovna<s n="np"/><s n="cog"/></l><r>Aleksandrovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Vladimirovna<s n="np"/><s n="cog"/></l><r>Vladimirovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Viktorovna<s n="np"/><s n="cog"/></l><r>Viktorovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Petrovna<s n="np"/><s n="cog"/></l><r>Petrovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Yaroslavovna<s n="np"/><s n="cog"/></l><r>Yaroslavovna<s n="np"/><s n="cog"/></r></p></e>-->
+<!--<e><p><l>Miroslavovna<s n="np"/><s n="cog"/></l><r>Miroslavovna<s n="np"/><s n="cog"/></r></p></e>-->
 <e><p><l>Şehzade<s n="np"/><s n="cog"/></l><r>Şehzade<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Şem’izade<s n="np"/><s n="cog"/></l><r>Şem’izade<s n="np"/><s n="cog"/></r></p></e>
 <e><p><l>Şemizade<s n="np"/><s n="cog"/></l><r>Şemizade<s n="np"/><s n="cog"/></r></p></e>
@@ -6731,7 +6732,7 @@
 <e><p><l>örmek<s n="n"/></l><r>örmek<s n="n"/></r></p></e>
 <e><p><l>olay<s n="n"/></l><r>olay<s n="n"/></r></p></e>
 <e><p><l>ödünç<s n="n"/></l><r>ödünç<s n="n"/></r></p></e>
-<e><p><l>ocak<s n="n"/></l><r>ocak<s n="n"/></r></p></e>
+<e><p><l>ocak<s n="n"/></l><r>ocak¹<s n="n"/></r></p></e>
 <e><p><l>nesne<s n="n"/></l><r>nesne<s n="n"/></r></p></e>
 <e><p><l>nefer<s n="n"/></l><r>nefer<s n="n"/></r></p></e>
 <e><p><l>mizah<s n="n"/></l><r>mizah<s n="n"/></r></p></e>
