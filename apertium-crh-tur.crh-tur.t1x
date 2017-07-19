@@ -498,11 +498,7 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-        <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit v=""/></let>
-        <let>
-          <clip pos="2" side="tl" part="whole"/>
-          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
-        </let>
+        <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="gna_perf"/></let>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
