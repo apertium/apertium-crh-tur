@@ -23,7 +23,7 @@ TODOstripwords="the The of oblast in In it if ki any will his this who we right 
 
 
 ### Do the translation:
-apertium-deshtml | apertium -f none -d ../../ crh-tur-postchunk2-postchunk | apertium-cleanstream -n | tee "$transfout" | lt-proc -g ../../crh-tur.autogen.bin | lt-proc -p ../../crh-tur.autopgen.bin > "$genout"
+apertium-deshtml | apertium -f none -d ../../ crh-tur-postchunk2-postchunk | apertium-transfer -n ../../apertium-crh-tur.crh-tur.t4x ../../crh-tur.t4x.bin | apertium-cleanstream -n | tee "$transfout" | lt-proc -g ../../crh-tur.autogen.bin | lt-proc -p ../../crh-tur.autopgen.bin > "$genout"
 #apertium-deshtml | apertium -f none -d ../../ tur-crh-postchunk2-postchunk | apertium-cleanstream -n | tee "$transfout" | lt-proc -g ../../tur-crh.autogen.bin | lt-proc -p ../../tur-crh.autopgen.bin > "$genout"
 
 
