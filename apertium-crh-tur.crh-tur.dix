@@ -1347,6 +1347,7 @@
 <e><p><l>rejim<s n="n"/></l><r>rejim<s n="n"/></r></p></e>
 <e><p><l>problem<s n="n"/></l><r>problem<s n="n"/></r></p></e>
 <e><p><l>ekstremist<s n="n"/></l><r>aşırılıkçı<s n="n"/></r></p></e>
+<e><p><l>ferma<s n="n"/></l><r>çiftlik<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns-->
       <e><p><l>Kezlev<s n="np"/><s n="cog"/><s n="m"/></l><r>Kezlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -5865,12 +5866,12 @@
 <e><p><l>tavuq<s n="n"/></l><r>tavuk<s n="n"/></r></p></e>
 <e><p><l>serjant<s n="n"/></l><r>çavuş<s n="n"/></r></p></e>
 <e><p><l>otrâd<s n="n"/></l><r>takım<s n="n"/></r></p></e>
-<e><p><l>aeronavigatsion<s n="n"/></l><r>hava<b/>gemiciliği<s n="n"/></r></p></e>
+<e><p><l>aeronavigatsion<s n="n"/></l><r>hava<b/>gemiciliği<s n="n"/></r></p><par n="n1__n2"/></e>
 <e><p><l>kategoriya<s n="n"/></l><r>kategori<s n="n"/></r></p></e>
 <e><p><l>istiqbal<s n="n"/></l><r>istikbal<s n="n"/></r></p></e>
-<e><p><l>aeroport<s n="n"/></l><r>havalımanı<s n="n"/></r></p></e>
-<e><p><l>aeroport<s n="n"/></l><r>havaalanı<s n="n"/></r></p></e>
-<e><p><l>aeronavigatsiya<s n="n"/></l><r>hava<b/>gemiciliği<s n="n"/></r></p></e>
+<e><p><l>aeroport<s n="n"/></l><r>havalımanı<s n="n"/></r></p><par n="n1__n2"/></e>
+<e><p><l>aeroport<s n="n"/></l><r>havaalanı<s n="n"/></r></p><par n="n1__n2"/></e>
+<e><p><l>aeronavigatsiya<s n="n"/></l><r>hava<b/>gemiciliği<s n="n"/></r></p><par n="n1__n2"/></e>
 <e><p><l>ürmetli<s n="adj"/></l><r>hürmetli<s n="adj"/></r></p></e>
 <e><p><l>ortaqlıq<s n="n"/></l><r>ortaklık<s n="n"/></r></p></e>
 <e><p><l>laboratoriya<s n="n"/></l><r>laboratuvar<s n="n"/></r></p></e>
