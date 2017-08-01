@@ -38,6 +38,7 @@
     <sdef n="advl"           c="Attributive"/>
     <sdef n="attr"            c="Attributive"/>
     <sdef n="loc"            c="Locative"/>
+    <sdef n="abl"            c="Ablative"/>
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
     <sdef n="pat"             c="Patronymic"/>
@@ -192,6 +193,7 @@
       <e><p><l>evel<s n="post"/></l><r>önce<s n="post"/></r></p></e>
       <e><p><l>evel<s n="post"/></l><r>evvel<s n="post"/></r></p></e>
       <e><p><l>ğayrı<s n="post"/></l><r>hariç<s n="post"/></r></p></e>
+      <e><p><l>ğayrı<s n="post"/></l><r>gayrı<s n="adv"/></r></p></e>
       <e><p><l>sebep<s n="post"/></l><r>dolayı<s n="post"/></r></p></e>
       <e><p><l>sebep<s n="post"/></l><r>ötürü<s n="post"/></r></p></e>
 
@@ -4731,7 +4733,7 @@
 	  <e><p><l>ne<b/>içün<s n="adv"/></l><r>niçin<s n="adv"/></r></p></e>
 
 	  <e><p><l>evelâ<s n="adv"/></l><r>evvela<s n="adv"/></r></p></e>
-      <e><p><l>baştan<s n="adv"/></l><r>baştan<s n="adv"/></r></p></e>
+	  <e><p><l>ğayrıdan<s n="adv"/></l><r>dışarı<s n="n"/><s n="abl"/></r></p></e>
 
 	  <e><p><l>binayen<s n="adv"/></l><r>binaen<s n="adv"/></r></p></e>
 	  <e><p><l>bütünley<s n="adv"/></l><r>tamamen<s n="adv"/></r></p></e>
