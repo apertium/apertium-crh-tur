@@ -5,6 +5,9 @@
       <cat-item tags="v.*.past.*"/>
       <cat-item tags="v.*.*.past.*"/>
     </def-cat>
+     <def-cat n="bil">
+      <cat-item lemma="bil" tags="v.*"/>
+    </def-cat>
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
     </def-cat>
@@ -400,6 +403,42 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: Abil ">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <let>
+	      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil"/>
+      </let>
+	<let>
+	      <clip pos="1" side="tl" part="whole"/>
+	      <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_fin"/></concat>
+	</let>
+	<!-- The rule needs some kind of conditional for certain tenses -->
+	<let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+  </let> 
+       <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
 
     <rule comment="REGLA: prc_past ">
