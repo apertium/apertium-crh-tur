@@ -411,6 +411,15 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+ <choose>
+   <when>
+       <!-- IF: a_fin = fut2 -->
+      <test><equal><clip pos="2" side="tl" part="a_fin"/> 
+                             <lit-tag v="fut2"/></equal></test>
+        <!-- THEN: LET a_fin be fut -->
+      <let><clip pos="2" side="tl" part="a_fin"/><lit-tag v="fut"/></let>
+    </when>
+</choose>
       <let>
 	      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil"/>
       </let>
