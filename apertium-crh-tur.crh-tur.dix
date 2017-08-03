@@ -302,7 +302,7 @@
 <e><p><l>kerçekten<s n="adv"/></l><r>gerçekten<s n="adv"/></r></p></e>
 <e><p><l>avtomat<s n="n"/></l><r>otomat<s n="n"/></r></p></e>
 <e><p><l>tedaviylev<s n="n"/></l><r>tedavi<s n="n"/></r></p></e>
-<e><p><l>peyda et<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>peyda<b/>et<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>küçleştir<s n="v"/><s n="tv"/></l><r>güçlendir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>tök<s n="v"/><s n="tv"/></l><r>dök<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>muqayt<s n="adj"/></l><r>mukayyet<s n="adj"/></r></p></e>
@@ -4481,7 +4481,7 @@
 
 
 <e><p><l>Roskomnadzor<s n="np"/><s n="al"/></l><r>Roskomnadzor<s n="np"/><s n="al"/></r></p></e>
-<e><p><l>Yedinaya Rossiya<s n="np"/><s n="al"/></l><r>Yedinaya Rossiya<s n="np"/><s n="al"/></r></p></e>
+<e><p><l>Yedinaya<b/>Rossiya<s n="np"/><s n="al"/></l><r>Yedinaya<b/>Rossiya<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>KrımSOS<s n="np"/><s n="al"/></l><r>KrımSOS<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>Krımenergo<s n="np"/><s n="al"/></l><r>Krımenergo<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>Rosselhoznadzor<s n="np"/><s n="al"/></l><r>Rosselhoznadzor<s n="np"/><s n="al"/></r></p></e>
