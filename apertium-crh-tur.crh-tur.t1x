@@ -8,6 +8,9 @@
      <def-cat n="bil">
       <cat-item lemma="bil" tags="v.*"/>
     </def-cat>
+      <def-cat n="bil_ifi">
+      <cat-item lemma="bil" tags="v.*.ifi.*"/>
+    </def-cat>
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
     </def-cat>
@@ -101,6 +104,13 @@
       <cat-item tags="v.*.*.gpr_past"/>
     </def-cat>
 
+    <def-cat n="ger-dat">
+      <cat-item tags="v.*.ger.dat"/>
+      <cat-item tags="v.*.ger.dat.*"/>
+      <cat-item tags="v.*.*.ger.dat"/>
+      <cat-item tags="v.*.*.ger.dat.*"/>
+    </def-cat>
+ 
     <def-cat n="ger-loc">
       <cat-item tags="v.*.ger.loc"/>
       <cat-item tags="v.*.ger.loc.*"/>
@@ -404,6 +414,43 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: Abil-ifi ">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil_ifi"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+ <choose>
+   <when>
+       <!-- IF: a_fin = fut2 -->
+      <test><equal><clip pos="2" side="tl" part="a_fin"/> 
+                             <lit-tag v="fut2"/></equal></test>
+        <!-- THEN: LET a_fin be fut -->
+      <let><clip pos="2" side="tl" part="a_fin"/><lit-tag v="fut"/></let>
+    </when>
+</choose>
+      <let>
+	      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil.ifi"/>
+      </let>
+	<let>
+	      <clip pos="1" side="tl" part="whole"/>
+	      <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+	</let>
+       <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: Abil ">
       <pattern>
         <pattern-item n="prc_impf"/>
@@ -445,6 +492,8 @@
         </out>
       </action>
     </rule>
+
+
 
 
 
