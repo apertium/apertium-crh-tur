@@ -222,6 +222,7 @@
 
       <!-- SECTION: Determiners -->
       <e><p><l>bütün<s n="det"/><s n="ind"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
+      <e><p><l>boyle<s n="det"/><s n="ind"/></l><r>böyle<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>iç<b/>bir<s n="det"/><s n="ind"/></l><r>hiç<b/>bir<s n="det"/><s n="neg"/></r></p></e>
       <e><p><l>ep<s n="det"/><s n="ind"/></l><r>hep<s n="det"/><s n="qnt"/></r></p></e>
@@ -5772,9 +5773,10 @@
 <e><p><l>separatizm<s n="n"/></l><r>ayrılıkçılık<s n="n"/></r></p></e>
 <e><p><l>separatizm<s n="n"/></l><r>özerkçilik<s n="n"/></r></p></e>
 <e><p><l>printsip<s n="n"/></l><r>prensip<s n="n"/></r></p></e>
+<e><p><l>ucüm<s n="n"/></l><r>saldırı<s n="n"/></r></p></e>
 <e><p><l>printsip<s n="n"/></l><r>ilke<s n="n"/></r></p></e>
 <e><p><l>printsip<s n="n"/></l><r>ana<s n="n"/></r></p></e>
-<e><p><l>ne vaqıt<s n="adv"/></l><r>ne zaman<s n="adv"/></r></p></e>
+<e><p><l>ne<b/>vaqıt<s n="adv"/></l><r>ne<b/>zaman<s n="adv"/></r></p></e>
 <e><p><l>stsenariy<s n="n"/></l><r>sahne<s n="n"/></r></p></e>
 <e><p><l>kilometr<s n="n"/></l><r>kilometre<s n="n"/></r></p></e>
 <e><p><l>trolleybus<s n="n"/></l><r>tramvay<s n="n"/></r></p></e>
