@@ -613,6 +613,27 @@
 
 
 
+    <rule comment="REGLA: prc_impf">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="gna_aor"/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: prc_perf ">
       <pattern>
         <pattern-item n="prc_perf"/>
