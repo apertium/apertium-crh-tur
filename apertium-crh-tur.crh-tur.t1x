@@ -8,6 +8,9 @@
      <def-cat n="bil">
       <cat-item lemma="bil" tags="v.*"/>
     </def-cat>
+     <def-cat n="içün">
+      <cat-item lemma="içün" tags="post"/>
+    </def-cat>
       <def-cat n="bil_ifi">
       <cat-item lemma="bil" tags="v.*.ifi.*"/>
     </def-cat>
@@ -111,6 +114,14 @@
       <cat-item tags="v.*.gpr_past"/>
       <cat-item tags="v.*.*.gpr_past"/>
     </def-cat>
+
+    <def-cat n="ger-nom">
+      <cat-item tags="v.*.ger-nom"/>
+      <cat-item tags="v.*.ger.nom.*"/>
+      <cat-item tags="v.*.*.ger.nom"/>
+      <cat-item tags="v.*.*.ger.nom.*"/>
+    </def-cat>
+ 
 
     <def-cat n="ger-dat">
       <cat-item tags="v.*.ger.dat"/>
@@ -246,6 +257,35 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="REGLA: ger içün">
+      <pattern>
+        <pattern-item n="ger-nom"/>
+        <pattern-item n="içün"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="ger_inf"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseSecondWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+	<b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: perc">
       <pattern>
