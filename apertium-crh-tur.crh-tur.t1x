@@ -38,6 +38,14 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="nomin">
+      <cat-item tags="n.nom"/>
+    </def-cat>
+    <def-cat n="gen">
+      <cat-item tags="n.*.gen"/>
+      <cat-item tags="n.gen"/>
+      <cat-item tags="prn.*.gen"/>
+    </def-cat>
     <def-cat n="perc">
       <cat-item lemma="fayız" tags="n.*"/>
     </def-cat>
@@ -193,6 +201,7 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="px"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -413,6 +422,57 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="REGLA: gen nomin ">
+      <pattern>
+        <pattern-item n="gen"/>
+        <pattern-item n="nomin"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <let><var n="px"/><lit-tag v="px3sp"/></let>
+      <choose>
+    <when><test><equal><clip pos="1" side="sl" part="a_pers_nbr"/><lit-tag v="p1.sg"/></equal></test>
+            <let><var n="px"/><lit-tag v="px1sg"/></let></when>
+
+    <when><test><equal><clip pos="1" side="sl" part="a_pers_nbr"/><lit-tag v="p1.pl"/></equal></test>
+            <let><var n="px"/><lit-tag v="px1pl"/></let></when>
+
+    <when><test><equal><clip pos="1" side="sl" part="a_pers_nbr"/><lit-tag v="p2.sg"/></equal></test>
+            <let><var n="px"/><lit-tag v="px2sg"/></let></when>
+
+    <when><test><equal><clip pos="1" side="sl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></equal></test>
+            <let><var n="px"/><lit-tag v="px2pl"/></let></when>
+      </choose>
+
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="past"/>
+        </let>
+        <let>
+          <clip pos="2" side="tl" part="a_cas"/>
+	  <concat><var n="px"/><clip pos="2" side="tl" part="a_cas"/></concat>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+	<b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
 
     <rule comment="REGLA: Abil-ifi ">
       <pattern>
