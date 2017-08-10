@@ -257,8 +257,15 @@
       <e><p><l>sekiz<s n="num"/></l><r>sekiz<s n="num"/></r></p></e>
       <e><p><l>doquz<s n="num"/></l><r>dokuz<s n="num"/></r></p></e>
       <e><p><l>on<s n="num"/></l><r>on<s n="num"/></r></p></e>
-
+      <e><p><l>yigirmi<s n="num"/></l><r>yetmiş<s n="num"/></r></p></e>
+      <e><p><l>otuz<s n="num"/></l><r>otuz<s n="num"/></r></p></e>
       <e><p><l>qırq<s n="num"/></l><r>kırk<s n="num"/></r></p></e>
+      <e><p><l>elli<s n="num"/></l><r>elli<s n="num"/></r></p></e>
+      <e><p><l>altmış<s n="num"/></l><r>altmış<s n="num"/></r></p></e>
+      <e><p><l>yetmiş<s n="num"/></l><r>yetmiş<s n="num"/></r></p></e>
+      <e><p><l>seksen<s n="num"/></l><r>seksen<s n="num"/></r></p></e>
+      <e><p><l>doqsan<s n="num"/></l><r>doksan<s n="num"/></r></p></e>
+
 
       <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
       <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
