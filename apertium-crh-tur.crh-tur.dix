@@ -614,7 +614,8 @@
       <e><p><l>hakimiyet<s n="n"/></l><r>hakimiyet<s n="n"/></r></p></e>
       <e><p><l>emanet<s n="n"/></l><r>emanet<s n="n"/></r></p></e>
       <e><p><l>aktivist<s n="n"/></l><r>aktivist<s n="n"/></r></p></e>
-      <e><p><l>turmuş<s n="n"/></l><r>turmuş<s n="n"/></r></p></e>
+      <e><p><l>turmuş<s n="n"/></l><r>hayat<s n="n"/></r></p></e>
+      <e><p><l>turmuş<s n="n"/></l><r>varlık<s n="n"/></r></p></e>
       <e><p><l>hububat<s n="n"/></l><r>hububat<s n="n"/></r></p></e>
       <e><p><l>teşekkül<s n="n"/></l><r>teşekkül<s n="n"/></r></p></e>
       <e><p><l>telef<s n="n"/></l><r>telef<s n="n"/></r></p></e>
@@ -4742,6 +4743,7 @@
 	  <e><p><l>ne<b/>içün<s n="adv"/></l><r>niçin<s n="adv"/></r></p></e>
 
 	  <e><p><l>evelâ<s n="adv"/></l><r>evvela<s n="adv"/></r></p></e>
+      <e><p><l>asılında<s n="adv"/></l><r>aslında<s n="adv"/></r></p></e>
 	  <e><p><l>ğayrıdan<s n="adv"/></l><r>dışarı<s n="n"/><s n="abl"/></r></p></e>
 
 	  <e><p><l>binayen<s n="adv"/></l><r>binaen<s n="adv"/></r></p></e>
@@ -6758,7 +6760,7 @@
       <e><p><l>memeliler<s n="n"/></l><r>memeliler<s n="n"/></r></p></e>
       <e><p><l>mebus<s n="n"/></l><r>mebus<s n="n"/></r></p></e>
       <e><p><l>masa<s n="n"/></l><r>masa<s n="n"/></r></p></e>
-      <e><p><l>maruza<s n="n"/></l><r>maruza<s n="n"/></r></p></e>
+      <e><p><l>maruza<s n="n"/></l><r>rapor<s n="n"/></r></p></e>
       <e><p><l>malzeme<s n="n"/></l><r>malzeme<s n="n"/></r></p></e>
       <e><p><l>malik<s n="n"/></l><r>malik<s n="n"/></r></p></e>
       <e><p><l>mahsul<s n="n"/></l><r>mahsul<s n="n"/></r></p></e>
