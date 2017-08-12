@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interchunk>
   <section-def-cats>
-    <def-cat n="BIL">
-      <cat-item lemma="bil" tags="SV.*"/>
+    <def-cat n="ISTE">
+      <cat-item lemma="iste" tags="SV.*"/>
     </def-cat>
     <def-cat n="GER-DAT">
       <cat-item tags="SV.ger.dat"/>
@@ -37,10 +37,10 @@
 
   <section-rules>
 
-    <rule comment="REGLA: GER-DAT BIL">
+    <rule comment="REGLA: GER-DAT ISTE">
       <pattern>
         <pattern-item n="GER-DAT"/>
-        <pattern-item n="BIL"/>
+        <pattern-item n="ISTE"/>
       </pattern>
       <action>
         <let><clip pos="1" part="a_cas"/><lit-tag v="nom"/></let>
