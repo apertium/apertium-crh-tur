@@ -7,6 +7,9 @@
     </def-cat>
      <def-cat n="bil">
       <cat-item lemma="bil" tags="v.*"/>
+    </def-cat>     
+    <def-cat n="iste">
+      <cat-item lemma="iste" tags="v.*"/>
     </def-cat>
      <def-cat n="içün">
       <cat-item lemma="içün" tags="post"/>
