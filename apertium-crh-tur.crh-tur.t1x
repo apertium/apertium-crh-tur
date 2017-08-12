@@ -33,6 +33,11 @@
       <cat-item tags="v.*.*.aor.*"/>
       <cat-item tags="vaux.aor.*"/>
     </def-cat>
+    <def-cat n="prog">
+      <cat-item tags="v.*.prog.*"/>
+      <cat-item tags="v.*.*.prog.*"/>
+      <cat-item tags="vaux.prog.*"/>
+    </def-cat>
     <def-cat n="fut">
       <cat-item tags="v.*.fut.*"/>
       <cat-item tags="v.*.fut2.*"/>
@@ -366,6 +371,44 @@
         <let><var n="verb-lemma"/><lit v=""/></let>
       </action>
     </rule>
+
+    <rule comment="REGLA: PROG">
+      <pattern>
+        <pattern-item n="prog"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+<let>
+<clip pos="1" side="tl" part="a_aspect"/><lit-tag v="prog"/>
+</let>
+        <let>
+          <clip pos="1" side="tl" part="a_pers_nbr"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <let><var n="verb-lemma"/><clip pos="1" side="tl" part="lem"/></let>
+        <out>
+          <chunk namefrom="verb-lemma" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+        <let><var n="verb-lemma"/><lit v=""/></let>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: AOR">
       <pattern>
