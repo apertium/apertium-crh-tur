@@ -174,6 +174,11 @@
     </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="loc"/>
+      <attr-item tags="abl"/>
+      <attr-item tags="acc"/>
     </def-attr>
     <def-attr n="a_fin">
       <attr-item tags="fut"/>
@@ -216,9 +221,11 @@
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="px"/>
+    <def-var n="verb-lemma"/>
   </section-def-vars>
 
   <section-def-macros>
+
     <def-macro n="f_strip_tags" npar="1">
           <let>
             <clip pos="1" side="tl" part="a_err"/>
@@ -344,16 +351,19 @@
           <clip pos="1" side="tl" part="a_pers_nbr"/>
           <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
         </let>
+        <let><var n="verb-lemma"/><clip pos="1" side="tl" part="lem"/></let>
         <out>
-          <chunk name="v" case="caseFirstWord">
+          <chunk namefrom="verb-lemma" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_fin"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
+        <let><var n="verb-lemma"/><lit v=""/></let>
       </action>
     </rule>
 
@@ -379,8 +389,9 @@
           <clip pos="1" side="tl" part="a_pers_nbr"/>
           <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="1" side="tl" part="a_pers_nbr"/></concat>
         </let>
+        <let><var n="verb-lemma"/><clip pos="1" side="tl" part="lem"/></let>
         <out>
-          <chunk name="v" case="caseFirstWord">
+          <chunk namefrom="verb-lemma" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
@@ -389,6 +400,7 @@
             </lu>
           </chunk>
         </out>
+        <let><var n="verb-lemma"/><lit v=""/></let>
       </action>
     </rule>
 
@@ -1014,6 +1026,29 @@
             </tags>
             <lu>
               <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.gna_ken"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: ger-dat">
+      <pattern>
+        <pattern-item n="ger-dat"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="2"/></let>
+      <let><clip pos="1" side="tl" part="a_cas"/><lit-tag v="3"/></let>
+        <out>
+          <chunk name="ger" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="sl" part="a_non_fin"/></tag>
+              <tag><clip pos="1" side="sl" part="a_cas"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>

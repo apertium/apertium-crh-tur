@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interchunk>
   <section-def-cats>
-    <def-cat n="SN">
-      <cat-item tags="SN"/>
-      <cat-item tags="SN.*"/>
+    <def-cat n="BIL">
+      <cat-item lemma="bil" tags="SV.*"/>
+    </def-cat>
+    <def-cat n="GER-DAT">
+      <cat-item tags="SV.ger.dat"/>
     </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_nbr">
-      <attr-item tags="sg"/>
+    <def-attr n="a_ger">
+      <attr-item tags="ger"/>
+      <attr-item tags="ger_inf"/>
+    </def-attr>
+    <def-attr n="a_cas">
+      <attr-item tags="nom"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="gen"/>
     </def-attr>
   </section-def-attrs>
 
@@ -27,16 +36,26 @@
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: SN">
+
+    <rule comment="REGLA: GER-DAT BIL">
       <pattern>
-        <pattern-item n="SN"/>
+        <pattern-item n="GER-DAT"/>
+        <pattern-item n="BIL"/>
       </pattern>
       <action>
+        <let><clip pos="1" part="a_cas"/><lit-tag v="nom"/></let>
+        <let><clip pos="1" part="a_ger"/><lit-tag v="ger_inf"/></let>
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
             <clip pos="1" part="tags"/>
             <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
           </chunk>
         </out>
       </action>
