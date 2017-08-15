@@ -250,6 +250,17 @@
             <lit v=""/>
           </let>
     </def-macro>
+    <def-macro n="f_poss_xd1" npar="1">
+        <choose>
+         <when><test><equal><clip pos="1" side="tl" part="a_poss"/><lit v=""/></equal></test>
+        <let><clip pos="1" side="tl" part="a_xd"/><lit-tag v="px3sp"/></let>
+        </when>
+        <otherwise>
+        <let><clip pos="1" side="tl" part="a_xd"/><lit v=""/></let>
+        </otherwise></choose>
+    </def-macro>
+
+
   </section-def-macros>
 
   <section-rules>
@@ -597,6 +608,7 @@
 	  <concat><var n="px"/><clip pos="2" side="tl" part="a_cas"/></concat>
         </let>
         <let><clip pos="2" side="tl" part="a_xd"/><lit v=""/></let>
+      <call-macro n="f_poss_xd1"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
@@ -987,14 +999,7 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-         
-        <choose>
-         <when><test><equal><clip pos="1" side="tl" part="a_poss"/><lit v=""/></equal></test>
-        <let><clip pos="1" side="tl" part="a_xd"/><lit-tag v="px3sp"/></let>
-        </when>
-        <otherwise>
-        <let><clip pos="1" side="tl" part="a_xd"/><lit v=""/></let>
-        </otherwise></choose>
+      <call-macro n="f_poss_xd1"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
