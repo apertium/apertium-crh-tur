@@ -11,7 +11,11 @@
     <def-cat n="iste">
       <cat-item lemma="iste" tags="v.*"/>
     </def-cat>
-     <def-cat n="içün">
+    <def-cat n="percent">
+      <cat-item tags="num.percent"/>
+      <cat-item tags="num.percent.*"/>
+    </def-cat>
+    <def-cat n="içün">
       <cat-item lemma="içün" tags="post"/>
     </def-cat>
       <def-cat n="bil_ifi">
@@ -164,6 +168,9 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_percent">
+      <attr-item tags="percent"/>
+    </def-attr>
     <def-attr n="a_err">
       <attr-item tags="err_orth"/>
     </def-attr>
@@ -1090,6 +1097,28 @@
               <tag><clip pos="1" side="sl" part="a_non_fin"/></tag>
               <tag><clip pos="1" side="sl" part="a_cas"/></tag>
             </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: percent">
+      <pattern>
+        <pattern-item n="percent"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <let><clip pos="1" side="tl" part="a_percent"/><lit v=""/></let>
+        <out>
+          <chunk name="yuzde_z" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu><lit v="yüzde"/><lit-tag v="sym"/></lu> <!-- This is a hack until the lt-print compilation thing is sorted -->
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>

@@ -5443,6 +5443,9 @@
       <e><p><l>°C<s n="sym"/></l><r>°C<s n="sym"/></r></p></e>
 
       <!-- SECTION: Abbreviations -->
+      <e r="LR"><p><l>ş.<s n="abbr"/></l><r></r></p></e>
+      <e r="LR"><p><l>soq.<s n="abbr"/></l><r>sokak<s n="n"/><s n="nom"/></r></p></e>
+      <e r="LR"><p><l>ss.<s n="abbr"/></l><r>sene<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
       <e r="LR"><p><l>ss.<s n="abbr"/></l><r>sene<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>km<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
