@@ -715,7 +715,6 @@
 
 
 
-
     <rule comment="REGLA: prc_past ">
       <pattern>
         <pattern-item n="prc_past"/>
@@ -737,7 +736,6 @@
         </out>
       </action>
     </rule>
-
 
 
     <rule comment="REGLA: prc_impf cop-ifi ">

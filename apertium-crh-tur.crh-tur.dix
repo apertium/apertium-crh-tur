@@ -5452,7 +5452,7 @@
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
       <e r="LR"><p><l>ss.<s n="abbr"/></l><r>sene<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>km<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
-      <e><p><l>m<s n="abbr"/></l><r>m<s n="n"/></r></p></e>
+      <e><p><l>m<s n="abbr"/></l><r>m/s<s n="abbr"/></r></p></e>
       <e><p><l>mm<s n="abbr"/></l><r>mm<s n="abbr"/></r></p></e>
       <e><p><l>sm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
       <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
