@@ -1162,7 +1162,7 @@
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
-            <lu><lit v="yüzde"/><lit-tag v="sym"/></lu> <!-- This is a hack until the lt-print compilation thing is sorted -->
+            <lu><lit v="yüz"/><lit-tag v="num.subst.loc"/></lu> <!-- This is a hack until the lt-print compilation thing is sorted -->
 	<b pos="1"/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
