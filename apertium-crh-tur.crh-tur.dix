@@ -1360,7 +1360,9 @@
       <e><p><l>problem<s n="n"/></l><r>problem<s n="n"/></r></p></e>
       <e><p><l>ekstremist<s n="n"/></l><r>aşırılıkçı<s n="n"/></r></p></e>
       <e><p><l>ferma<s n="n"/></l><r>çiftlik<s n="n"/></r></p></e>
-
+      <e><p><l>rok<s n="n"/></l><r>rock<s n="n"/></r></p></e>
+      <e><p><l>menba<s n="n"/></l><r>kaynak<s n="n"/></r></p></e>
+      
       <!-- SECTION: Proper nouns-->
       <e><p><l>Kezlev<s n="np"/><s n="cog"/><s n="m"/></l><r>Kezlev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Sultan<s n="np"/><s n="cog"/></l><r>Sultan<s n="np"/><s n="cog"/></r></p></e>
@@ -4736,7 +4738,8 @@
       <e><p><l>xoş<s n="adj"/></l><r>hoş<s n="adj"/></r></p></e>
       <e><p><l>marum<s n="adj"/></l><r>mahrum<s n="adj"/></r></p></e>
       <e><p><l>ibaret<s n="adj"/></l><r>ibaret<s n="adj"/></r></p></e>
-
+      <e><p><l>muqaddes<s n="adj"/></l><r>mukaddes<s n="adj"/></r></p></e>
+      
       <!-- SECTION: Adverbs -->
 
 	  <e><p><l>ne<b/>zaman<s n="adv"/></l><r>ne<b/>zaman<s n="adv"/></r></p></e>
