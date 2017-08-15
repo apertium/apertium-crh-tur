@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="opt">
+      <cat-item tags="v.*.opt.*"/>
+      <cat-item tags="v.*.*.opt.*"/>
+    </def-cat>
     <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
       <cat-item tags="v.*.*.past.*"/>
@@ -193,6 +197,8 @@
       <attr-item tags="acc"/>
     </def-attr>
     <def-attr n="a_fin">
+      <attr-item tags="imp"/>
+      <attr-item tags="opt"/>
       <attr-item tags="fut"/>
       <attr-item tags="fut2"/>
       <attr-item tags="aor"/>
@@ -247,6 +253,38 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: opt">
+      <pattern>
+        <pattern-item n="opt"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+<choose>
+   <when>
+       <!-- IF: a_pers_nbr IS p2.frm.sg -->
+      <test><equal><clip pos="1" side="tl" part="a_pers_nbr"/> 
+                             <lit-tag v="p2.frm.sg"/></equal></test>
+        <!-- THEN: LET a_pers_nbr BE p2.pl -->
+      <let><clip pos="1" side="tl" part="a_pers_nbr"/><lit-tag v="p2.pl"/></let>
+    </when>
+</choose>
+        <let>
+          <clip pos="1" side="tl" part="a_fin"/><lit-tag v="imp"/>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: past">
       <pattern>
