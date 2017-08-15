@@ -596,6 +596,7 @@
           <clip pos="2" side="tl" part="a_cas"/>
 	  <concat><var n="px"/><clip pos="2" side="tl" part="a_cas"/></concat>
         </let>
+        <let><clip pos="2" side="tl" part="a_xd"/><lit v=""/></let>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
