@@ -86,6 +86,7 @@
       <cat-item tags="v.*.prc_past.*"/>
       <cat-item tags="v.*.*.prc_past"/>
       <cat-item tags="v.*.*.prc_past.*"/>
+      <cat-item tags="vaux.prc_past"/>
     </def-cat>
 
     <def-cat n="prc_impf">
