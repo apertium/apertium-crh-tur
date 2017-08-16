@@ -33,6 +33,10 @@
       <cat-item tags="v.*.*.prc_fut"/>
       <cat-item tags="vaux.*.prc_fut"/>
       <cat-item tags="vaux.prc_fut"/>
+      <cat-item tags="v.*.prc_fut.*"/>
+      <cat-item tags="v.*.*.prc_fut.*"/>
+      <cat-item tags="vaux.*.prc_fut.*"/>
+      <cat-item tags="vaux.prc_fut.*"/>
     </def-cat>
 
 
