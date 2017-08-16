@@ -136,6 +136,16 @@
       <cat-item tags="vaux.prc_impf"/>
     </def-cat>
 
+
+    <def-cat n="prc_impf_neg">
+      <cat-item tags="v.*.neg.prc_impf"/>
+      <cat-item tags="v.*.neg.prc_impf.*"/>
+      <cat-item tags="v.*.*.neg.prc_impf"/>
+      <cat-item tags="v.*.*.neg.prc_impf.*"/>
+      <cat-item tags="vaux.neg.prc_impf"/>
+    </def-cat>
+
+
     <def-cat n="prc_perf">
       <cat-item tags="v.*.prc_perf"/>
       <cat-item tags="v.*.prc_perf.*"/>
@@ -236,6 +246,9 @@
       <attr-item tags="loc"/>
       <attr-item tags="abl"/>
       <attr-item tags="acc"/>
+    </def-attr>
+    <def-attr n="a_neg">
+      <attr-item tags="neg"/>
     </def-attr>
     <def-attr n="a_fin">
       <attr-item tags="imp"/>
@@ -779,6 +792,52 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: Abil_neg ">
+      <pattern>
+        <pattern-item n="prc_impf_neg"/>
+        <pattern-item n="bil"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+ <choose>
+   <when>
+       <!-- IF: a_fin = fut2 -->
+      <test><equal><clip pos="2" side="tl" part="a_fin"/> 
+                             <lit-tag v="fut2"/></equal></test>
+        <!-- THEN: LET a_fin be fut -->
+      <let><clip pos="2" side="tl" part="a_fin"/><lit-tag v="fut"/></let>
+    </when>
+</choose>
+      <let>
+	      <clip pos="1" side="tl" part="a_neg"/><lit v=""/>
+      </let>
+      <let>
+	      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="pot.neg"/>
+      </let>
+	<let>
+	      <clip pos="1" side="tl" part="whole"/>
+	      <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_fin"/></concat>
+	</let>
+	<!-- The rule needs some kind of conditional for certain tenses -->
+	<let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+  </let> 
+       <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: Abil ">
