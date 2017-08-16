@@ -129,6 +129,7 @@
       <cat-item tags="v.*.prc_impf.*"/>
       <cat-item tags="v.*.*.prc_impf"/>
       <cat-item tags="v.*.*.prc_impf.*"/>
+      <cat-item tags="vaux.prc_impf"/>
     </def-cat>
 
     <def-cat n="prc_perf">
