@@ -63,6 +63,16 @@
     <def-cat n="post">
       <cat-item tags="post"/>
     </def-cat>
+    <def-cat n="punct">
+      <cat-item tags="apos"/>
+      <cat-item tags="cm"/>
+      <cat-item tags="guio"/>
+      <cat-item tags="lpar"/>
+      <cat-item tags="lquot"/>
+      <cat-item tags="rpar"/>
+      <cat-item tags="rquot"/>
+      <cat-item tags="sent"/>
+    </def-cat>
     <def-cat n="default">
       <cat-item tags="*"/>
     </def-cat>
@@ -139,6 +149,24 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="punct"/>
+        <pattern-item n="cop-ifi-ken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <b pos="1"/>
+          <lu><clip pos="2" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="">
       <pattern>
