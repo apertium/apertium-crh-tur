@@ -44,6 +44,7 @@
     </def-cat>
     <def-cat n="cond">
       <cat-item tags="v.*.gna_cond.*"/>
+      <cat-item tags="v.*.*.prc_cond.*"/>
       <cat-item tags="v.*.prc_cond.*"/>
     </def-cat>
     <def-cat n="aor">
