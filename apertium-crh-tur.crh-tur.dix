@@ -385,7 +385,7 @@
 
 
 
-      <e><p><l>elektroteminlev<s n="n"/></l><r>elektrik<b/>teminatı<s n="n"/></r></p></e>
+      <e><p><l>elektroteminlev<s n="n"/></l><r>elektrik<b/>teminatı<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>tükân<s n="n"/></l><r>dükkan<s n="n"/></r></p></e>
       <e><p><l>advokat<s n="n"/></l><r>avukat<s n="n"/></r></p></e>
       <e><p><l>erkek<s n="n"/></l><r>erkek<s n="n"/></r></p></e>
@@ -5852,7 +5852,7 @@
       <e><p><l>yımırta<s n="n"/></l><r>yumurta<s n="n"/></r></p></e>
       <e><p><l>yigit<s n="n"/></l><r>yiğit<s n="n"/></r></p></e>
       <e><p><l>qurtulış<s n="n"/></l><r>qurtuluş<s n="n"/></r></p></e>
-      <e><p><l>kinofestival<s n="n"/></l><r>film festivali<s n="n"/></r></p></e>
+      <e><p><l>kinofestival<s n="n"/></l><r>film<b/>festivali<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>diplomatiya<s n="n"/></l><r>diplomasi<s n="n"/></r></p></e>
       <e><p><l>taraq<s n="n"/></l><r>tarak<s n="n"/></r></p></e>
       <e><p><l>mobilizatsiya<s n="n"/></l><r>seferberlik<s n="n"/></r></p></e>
