@@ -28,6 +28,16 @@
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
     </def-cat>
+    <def-cat n="er">
+      <cat-item tags="v.*.prc_fut"/>
+      <cat-item tags="v.*.gpr_fut"/>
+    </def-cat>
+
+     <def-cat n="eken">
+      <cat-item lemma="e" tags="cop.aor.evid.*"/>
+      <cat-item lemma="e" tags="cop.ger_past"/>
+      <cat-item lemma="e" tags="vaux.ger_past"/>
+    </def-cat>  
     <def-cat n="dep">
       <cat-item lemma="de" tags="v.*.gna_perf"/>
       <cat-item lemma="de" tags="v.*.gna_perf.*"/>
@@ -88,6 +98,15 @@
       <cat-item tags="v.*.*.prc_past.*"/>
       <cat-item tags="vaux.prc_past"/>
     </def-cat>
+
+    <def-cat n="prc_cond">
+      <cat-item tags="v.*.prc_cond"/>
+      <cat-item tags="v.*.prc_cond.*"/>
+      <cat-item tags="v.*.*.prc_cond"/>
+      <cat-item tags="v.*.*.prc_cond.*"/>
+      <cat-item tags="vaux.prc_cond"/>
+    </def-cat>
+
 
     <def-cat n="prc_impf">
       <cat-item tags="v.*.prc_impf"/>
@@ -266,6 +285,41 @@
 
   <section-rules>
 
+    <rule comment="REGLA: er eken ">
+      <pattern>
+        <pattern-item n="er"/>
+        <pattern-item n="eken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="ger_aor"/>
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="nom"/></concat>
+        </let>
+        <let>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.gna_ken"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
     <rule comment="REGLA: opt">
       <pattern>
         <pattern-item n="opt"/>
@@ -296,7 +350,6 @@
         </out>
       </action>
     </rule>
-
 
     <rule comment="REGLA: past">
       <pattern>
@@ -504,6 +557,7 @@
       </action>
     </rule>
 
+
     <rule comment="REGLA: gpr_fut cop-ifi ">
       <pattern>
         <pattern-item n="gpr_fut"/>
@@ -709,8 +763,6 @@
         </out>
       </action>
     </rule>
-
-
 
 
 

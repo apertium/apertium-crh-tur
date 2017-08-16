@@ -4293,7 +4293,7 @@
 <!--<e><p><l>Yaroslavovna<s n="np"/><s n="cog"/></l><r>Yaroslavovna<s n="np"/><s n="cog"/></r></p></e>-->
 <!--<e><p><l>Miroslavovna<s n="np"/><s n="cog"/></l><r>Miroslavovna<s n="np"/><s n="cog"/></r></p></e>-->
       <e><p><l>Şehzade<s n="np"/><s n="cog"/></l><r>Şehzade<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Şem’izade<s n="np"/><s n="cog"/></l><r>Şem’izade<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Şem’izade<s n="np"/><s n="cog"/></l><r>Şemizade<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Şemizade<s n="np"/><s n="cog"/></l><r>Şemizade<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Qadrizade<s n="np"/><s n="cog"/></l><r>Qadrizade<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Emirzade<s n="np"/><s n="cog"/></l><r>Emirzade<s n="np"/><s n="cog"/></r></p></e>
@@ -5304,7 +5304,7 @@
       <e><p><l>qattılaş<s n="v"/><s n="iv"/></l><r>katılaş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qavurıl<s n="v"/><s n="iv"/></l><r>kavrul<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qavuş<s n="v"/><s n="iv"/></l><r>kavuş<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>qavşa<s n="v"/><s n="iv"/></l><r>kavşa<s n="v"/><s n="iv"/></r></p></e>
+<!--  <e><p><l>qavşa<s n="v"/><s n="iv"/></l><r>kavşa<s n="v"/><s n="iv"/></r></p></e> -->
       <e><p><l>qon<s n="v"/><s n="iv"/></l><r>kon<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qop<s n="v"/><s n="iv"/></l><r>kop<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qorq<s n="v"/><s n="iv"/></l><r>kork<s n="v"/><s n="iv"/></r></p></e>
@@ -5367,7 +5367,7 @@
       <e><p><l>tırmaş<s n="v"/><s n="iv"/></l><r>tırman<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ufal<s n="v"/><s n="iv"/></l><r>ufalan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ufan<s n="v"/><s n="iv"/></l><r>ufalan<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>um<s n="v"/><s n="iv"/></l><r>um<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>um<s n="v"/><s n="iv"/></l><r>um<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>uslan<s n="v"/><s n="iv"/></l><r>uslan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>utan<s n="v"/><s n="iv"/></l><r>utan<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>uyan<s n="v"/><s n="iv"/></l><r>uyan<s n="v"/><s n="iv"/></r></p></e>
@@ -6522,7 +6522,7 @@
       <e><p><l>divan<s n="n"/></l><r>divan<s n="n"/></r></p></e>
       <e><p><l>muallimlik<s n="n"/></l><r>muallimlik<s n="n"/></r></p></e>
       <e><p><l>nesir<s n="n"/></l><r>nesir<s n="n"/></r></p></e>
-      <e><p><l>kölem<s n="n"/></l><r>kölem<s n="n"/></r></p></e>
+<!--      <e><p><l>kölem<s n="n"/></l><r>kölem<s n="n"/></r></p></e> -->
       <e><p><l>bölge<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
       <e><p><l>boğaz<s n="n"/></l><r>boğaz<s n="n"/></r></p></e>
       <e><p><l>alan<s n="n"/></l><r>alan<s n="n"/></r></p></e>
