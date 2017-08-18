@@ -72,6 +72,7 @@
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.*.aor.*"/>
       <cat-item tags="vaux.aor.*"/>
+      <cat-item tags="vaux.*.aor.*"/>
       <cat-item tags="v.*.*.*.aor.*"/>
     </def-cat>
     <def-cat n="prog">
