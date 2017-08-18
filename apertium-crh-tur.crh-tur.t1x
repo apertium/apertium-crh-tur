@@ -153,6 +153,18 @@
       <cat-item tags="v.*.*.prc_perf.*"/>
     </def-cat>
 
+    <def-cat n="ger_fut">
+      <cat-item tags="v.*.ger_fut"/>
+      <cat-item tags="v.*.ger_fut.*"/>
+      <cat-item tags="v.*.*.ger_fut"/>
+      <cat-item tags="v.*.*.ger_fut.*"/>
+      <cat-item tags="vaux.*.ger_fut.*"/>
+      <cat-item tags="vaux.ger_fut.*"/>
+      <cat-item tags="vaux.*.ger_fut"/>
+      <cat-item tags="vaux.ger_fut"/>
+    </def-cat>
+
+
 
     <def-cat n="gpr_fut2">
       <cat-item tags="v.*.gpr_fut2"/>
@@ -1189,6 +1201,36 @@
         </out>
       </action>
     </rule>
+
+
+
+    <rule comment="REGLA: ger_fut">
+      <pattern>
+        <pattern-item n="ger_fut"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+		<let>
+          <clip pos="1" side="tl" part="a_neg"/><lit v=""/>
+		</let>
+		<let>
+          <clip pos="1" side="tl" part="a_non_fin"/>
+		  <lit-tag v="gpr_aor.neg.subst"/>	
+		</let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: ger_past">
       <pattern>
