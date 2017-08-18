@@ -153,15 +153,15 @@
       <cat-item tags="v.*.*.prc_perf.*"/>
     </def-cat>
 
-    <def-cat n="ger_fut">
-      <cat-item tags="v.*.ger_fut"/>
-      <cat-item tags="v.*.ger_fut.*"/>
-      <cat-item tags="v.*.*.ger_fut"/>
-      <cat-item tags="v.*.*.ger_fut.*"/>
-      <cat-item tags="vaux.*.ger_fut.*"/>
-      <cat-item tags="vaux.ger_fut.*"/>
-      <cat-item tags="vaux.*.ger_fut"/>
-      <cat-item tags="vaux.ger_fut"/>
+    <def-cat n="ger_fut_neg">
+      <cat-item tags="v.*.neg.ger_fut"/>
+      <cat-item tags="v.*.neg.ger_fut.*"/>
+      <cat-item tags="v.*.*.neg.ger_fut"/>
+      <cat-item tags="v.*.*.neg.ger_fut.*"/>
+      <cat-item tags="vaux.*.neg.ger_fut.*"/>
+      <cat-item tags="vaux.neg.ger_fut.*"/>
+      <cat-item tags="vaux.*.neg.ger_fut"/>
+      <cat-item tags="vaux.neg.ger_fut"/>
     </def-cat>
 
 
@@ -1204,9 +1204,9 @@
 
 
 
-    <rule comment="REGLA: ger_fut">
+    <rule comment="REGLA: ger_fut_neg">
       <pattern>
-        <pattern-item n="ger_fut"/>
+        <pattern-item n="ger_fut_neg"/>
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
