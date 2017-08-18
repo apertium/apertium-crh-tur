@@ -28,6 +28,9 @@
     <def-cat n="bil_ger_fut2">
       <cat-item lemma="bil" tags="v.*.*.ger_fut2.*"/>
     </def-cat>
+     <def-cat n="bil_ger_past">
+      <cat-item lemma="bil" tags="v.*.ger_past.*"/>
+    </def-cat>
  
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
@@ -244,6 +247,10 @@
     </def-attr>
     <def-attr n="a_err">
       <attr-item tags="err_orth"/>
+    </def-attr>
+    <def-attr n="a_tra">
+      <attr-item tags="iv"/>
+      <attr-item tags="tv"/>
     </def-attr>
     <def-attr n="a_xd">
       <attr-item tags="XD"/>
@@ -732,6 +739,34 @@
     </rule>
 
 
+    <rule comment="REGLA: Abil-ger_past">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil_ger_past"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+      <clip pos="1" side="tl" part="tags"/>
+	<concat><lit-tag v="v"/><clip pos="1" side="tl" part="a_tra"/><lit-tag v="abil.ger"/>
+	<clip pos="2" side="tl" part="a_poss"/><clip pos="2" side="tl" part="a_cas"/>
+	</concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
 
     <rule comment="REGLA: Abil-ger_fut2 ">
@@ -897,8 +932,6 @@
         </out>
       </action>
     </rule>
-
-
 
 
     <rule comment="REGLA: prc_fut">
