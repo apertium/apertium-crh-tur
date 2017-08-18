@@ -213,6 +213,10 @@
     </def-cat>
     <def-cat n="ger_fut2">
       <cat-item tags="v.*.ger_fut2.*"/>
+      <cat-item tags="vaux.ger_fut2.*"/>
+      <cat-item tags="vaux.ger_fut2"/>
+      <cat-item tags="vaux.*.ger_fut2.*"/>
+      <cat-item tags="vaux.*.ger_fut2"/>
       <cat-item tags="v.*.*.ger_fut2.*"/>
     </def-cat>
 
