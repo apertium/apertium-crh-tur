@@ -66,6 +66,10 @@
       <cat-item lemma="de" tags="v.*.gna_perf"/>
       <cat-item lemma="de" tags="v.*.gna_perf.*"/>
     </def-cat>
+    <def-cat n="bil_cond">
+      <cat-item tags="v.tv.gna_cond.*"/>
+      <cat-item tags="v.tv.prc_cond.*"/>
+    </def-cat>
     <def-cat n="cond">
       <cat-item tags="v.*.gna_cond.*"/>
       <cat-item tags="v.*.prc_cond.*"/>
@@ -778,6 +782,59 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: Abil-cond-cop">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil_cond"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil.cond"/></let>
+        <let>
+      <clip pos="3" side="tl" part="lem"/><lit v="+i"/>
+	</let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: Abil-cond">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil_cond"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+      <clip pos="1" side="tl" part="a_non_fin"/>
+	<concat><lit-tag v="abil.cond"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: Abil-ger_past">
