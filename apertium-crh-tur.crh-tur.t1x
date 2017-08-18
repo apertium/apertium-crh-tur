@@ -8,6 +8,8 @@
     <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
       <cat-item tags="v.*.*.past.*"/>
+      <cat-item tags="vaux.past.*"/>
+      <cat-item tags="vaux.*.past.*"/>
     </def-cat>
      <def-cat n="bil">
       <cat-item lemma="bil" tags="v.*"/>
@@ -50,6 +52,9 @@
     <def-cat n="er">
       <cat-item tags="v.*.prc_fut"/>
       <cat-item tags="v.*.gpr_fut"/>
+      <cat-item tags="vaux.prc_fut"/>
+      <cat-item tags="vaux.gpr_fut"/>
+   
     </def-cat>
 
      <def-cat n="eken">
@@ -66,7 +71,8 @@
       <cat-item tags="v.*.prc_cond.*"/>
       <cat-item tags="v.*.*.gna_cond.*"/>
       <cat-item tags="v.*.*.prc_cond.*"/>
-      <cat-item tags="vaux.*.prc_cond.*"/>
+      <cat-item tags="vaux.prc_cond.*"/>
+      <cat-item tags="vaux.gna_cond.*"/>
     </def-cat>
     <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
@@ -83,10 +89,20 @@
     <def-cat n="fut">
       <cat-item tags="v.*.fut.*"/>
       <cat-item tags="v.*.fut2.*"/>
+      <cat-item tags="v.*.fut.*"/>
+      <cat-item tags="v.*.fut2.*"/>
       <cat-item tags="v.*.*.fut.*"/>
       <cat-item tags="v.*.*.fut2.*"/>
       <cat-item tags="v.*.*.*.fut.*"/>
       <cat-item tags="v.*.*.*.fut2.*"/>
+      <cat-item tags="vaux.fut.*"/>
+      <cat-item tags="vaux.fut2.*"/>
+      <cat-item tags="vaux.fut.*"/>
+      <cat-item tags="vaux.fut2.*"/>
+      <cat-item tags="vaux.*.fut.*"/>
+      <cat-item tags="vaux.*.fut2.*"/>
+      <cat-item tags="vaux.*.*.fut.*"/>
+      <cat-item tags="vaux.*.*.fut2.*"/>
     </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
@@ -121,6 +137,8 @@
       <cat-item tags="v.*.*.prc_past"/>
       <cat-item tags="v.*.*.prc_past.*"/>
       <cat-item tags="vaux.prc_past"/>
+      <cat-item tags="vaux.*.prc_past"/>
+      <cat-item tags="vaux.*.*.prc_past"/>
     </def-cat>
 
     <def-cat n="prc_cond">
@@ -129,6 +147,7 @@
       <cat-item tags="v.*.*.prc_cond"/>
       <cat-item tags="v.*.*.prc_cond.*"/>
       <cat-item tags="vaux.prc_cond"/>
+      <cat-item tags="vaux.*.prc_cond"/>
     </def-cat>
 
 
@@ -138,6 +157,8 @@
       <cat-item tags="v.*.*.prc_impf"/>
       <cat-item tags="v.*.*.prc_impf.*"/>
       <cat-item tags="vaux.prc_impf"/>
+      <cat-item tags="vaux.*.prc_impf"/>
+      <cat-item tags="vaux.*.*.prc_impf"/>
     </def-cat>
 
 
@@ -155,6 +176,9 @@
       <cat-item tags="v.*.prc_perf.*"/>
       <cat-item tags="v.*.*.prc_perf"/>
       <cat-item tags="v.*.*.prc_perf.*"/>
+      <cat-item tags="vaux.prc_perf"/>
+      <cat-item tags="vaux.*.prc_perf"/>
+      <cat-item tags="vaux.*.*.prc_perf"/>
     </def-cat>
 
     <def-cat n="ger_fut_neg">
@@ -179,6 +203,14 @@
       <cat-item tags="v.*.prc_fut2.*"/>
       <cat-item tags="v.*.*.prc_fut2"/>
       <cat-item tags="v.*.*.prc_fut2.*"/>
+      <cat-item tags="vaux.gpr_fut2"/>
+      <cat-item tags="vaux.gpr_fut2.*"/>
+      <cat-item tags="vaux.*.gpr_fut2"/>
+      <cat-item tags="vaux.*.gpr_fut2.*"/>
+      <cat-item tags="vaux.prc_fut2"/>
+      <cat-item tags="vaux.prc_fut2.*"/>
+      <cat-item tags="vaux.*.prc_fut2"/>
+      <cat-item tags="vaux.*.prc_fut2.*"/>
     </def-cat>
 
 
@@ -191,6 +223,14 @@
       <cat-item tags="v.*.prc_fut.*"/>
       <cat-item tags="v.*.*.prc_fut"/>
       <cat-item tags="v.*.*.prc_fut.*"/>
+      <cat-item tags="vaux.gpr_fut"/>
+      <cat-item tags="vaux.gpr_fut.*"/>
+      <cat-item tags="vaux.*.gpr_fut"/>
+      <cat-item tags="vaux.*.gpr_fut.*"/>
+      <cat-item tags="vaux.prc_fut"/>
+      <cat-item tags="vaux.prc_fut.*"/>
+      <cat-item tags="vaux.*.prc_fut"/>
+      <cat-item tags="vaux.*.prc_fut.*"/>
     </def-cat>
 
     <def-cat n="gpr_past">
