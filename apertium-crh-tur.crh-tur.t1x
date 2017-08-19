@@ -34,6 +34,9 @@
       <cat-item lemma="bil" tags="v.*.ger_past.*"/>
     </def-cat>
  
+     <def-cat n="bil_ger">
+      <cat-item lemma="bil" tags="v.*.ger.*"/>
+    </def-cat>
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
     </def-cat>
@@ -346,6 +349,9 @@
       <attr-item tags="prc_fut"/>
       <attr-item tags="prc_impf"/>
       <attr-item tags="prc_perf"/>
+    </def-attr>
+    <def-attr n="a_pl">
+      <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
@@ -835,8 +841,6 @@
       </action>
     </rule>
 
-
-
     <rule comment="REGLA: Abil-ger_past">
       <pattern>
         <pattern-item n="prc_impf"/>
@@ -847,7 +851,9 @@
         <let>
       <clip pos="1" side="tl" part="tags"/>
 	<concat><lit-tag v="v"/><clip pos="1" side="tl" part="a_tra"/><lit-tag v="abil.ger"/>
-	<clip pos="2" side="tl" part="a_poss"/><clip pos="2" side="tl" part="a_cas"/>
+	<clip pos="2" side="tl" part="a_pl"/>
+	<clip pos="2" side="tl" part="a_poss"/>
+<clip pos="2" side="tl" part="a_cas"/>
 	</concat>
         </let>
         <out>
@@ -862,6 +868,40 @@
         </out>
       </action>
     </rule>
+
+
+
+
+
+
+    <rule comment="REGLA: Abil-ger">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil_ger"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+      <clip pos="1" side="tl" part="tags"/>
+	<concat><lit-tag v="v"/><clip pos="1" side="tl" part="a_tra"/><lit-tag v="abil.ger"/>
+	<clip pos="2" side="tl" part="a_pl"/>
+	<clip pos="2" side="tl" part="a_poss"/>
+<clip pos="2" side="tl" part="a_cas"/>
+	</concat>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 
