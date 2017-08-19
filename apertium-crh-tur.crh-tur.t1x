@@ -290,6 +290,9 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_abil">
+      <attr-item tags="abil"/>
+    </def-attr>
     <def-attr n="a_percent">
       <attr-item tags="percent"/>
     </def-attr>
@@ -924,11 +927,15 @@
     </when>
 </choose>
       <let>
-	      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil.ger_fut"/>
+	      <clip pos="1" side="tl" part="a_neg"/><lit v=""/>
+      </let>
+      <let>
+	      <clip pos="1" side="tl" part="a_non_fin"/>
+		<concat><lit-tag v="pot"/><clip pos="1" side="sl" part="a_neg"/><lit-tag v="ger_fut"/></concat>
       </let>
 	<let>
 	      <clip pos="1" side="tl" part="whole"/>
-<concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_poss"/><clip pos="2" side="tl" part="a_cas"/></concat>
+<concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pl"/><clip pos="2" side="tl" part="a_poss"/><clip pos="2" side="tl" part="a_cas"/></concat>
 	</let>
        <out>
           <chunk name="v" case="caseFirstWord">
