@@ -620,6 +620,7 @@
       <e><p><l>turmuş<s n="n"/></l><r>varlık<s n="n"/></r></p></e>
       <e><p><l>hububat<s n="n"/></l><r>hububat<s n="n"/></r></p></e>
       <e><p><l>teşekkül<s n="n"/></l><r>teşekkül<s n="n"/></r></p></e>
+      <e><p><l>imal<s n="n"/></l><r>imal<s n="n"/></r></p></e>
       <e><p><l>telef<s n="n"/></l><r>telef<s n="n"/></r></p></e>
       <e><p><l>rağbet<s n="n"/></l><r>rağbet<s n="n"/></r></p></e>
       <e><p><l>mezuniyet<s n="n"/></l><r>mezuniyet<s n="n"/></r></p></e>
@@ -2863,6 +2864,7 @@
       <e><p><l>Yaroslav<s n="np"/><s n="ant"/><s n="m"/></l><r>Yaroslav<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Serğiy<s n="np"/><s n="ant"/><s n="m"/></l><r>Serğiy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Georgiy<s n="np"/><s n="ant"/><s n="m"/></l><r>Georgiy<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Çarli<s n="np"/><s n="ant"/><s n="m"/></l><r>Çarli<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Cınğız<s n="np"/><s n="ant"/><s n="m"/></l><r>Cengiz<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
 
@@ -4490,6 +4492,7 @@
       <e><p><l>Behramoğlu<s n="np"/><s n="cog"/></l><r>Behramoğlu<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Kırımoğlu<s n="np"/><s n="cog"/></l><r>Kırımoğlu<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Yaqupoğlu<s n="np"/><s n="cog"/></l><r>Yakupoğlu<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Köprülü<s n="np"/><s n="cog"/></l><r>Köprülü<s n="np"/><s n="cog"/></r></p></e>
 
 
       <e><p><l>Roskomnadzor<s n="np"/><s n="al"/></l><r>Roskomnadzor<s n="np"/><s n="al"/></r></p></e>
@@ -4510,8 +4513,13 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>tuzlı<s n="adj"/></l><r>tuzlu<s n="adj"/></r></p></e>
       <e><p><l>aynı<s n="adj"/></l><r>aynı<s n="adj"/></r></p></e>
+      <e><p><l>tarihlı<s n="adj"/></l><r>tarihli<s n="adj"/></r></p></e>
+      <e><p><l>adli<s n="adj"/></l><r>adlı<s n="adj"/></r></p></e>
       <e><p><l>borclu<s n="adj"/></l><r>borçlu<s n="adj"/></r></p></e>
+      <e><p><l>kodlı<s n="adj"/></l><r>kodlu<s n="adj"/></r></p></e>
+      <e><p><l>namuslu<s n="adj"/></l><r>namuslu<s n="adj"/></r></p></e>
       <e><p><l>başqa<s n="adj"/></l><r>başka<s n="adj"/></r></p></e>
       <e><p><l>yuqarı<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>açuvlı<s n="adj"/></l><r>öfkeli<s n="adj"/></r></p></e>
@@ -6902,7 +6910,7 @@
       <e><p><l>minare<s n="n"/></l><r>minare<s n="n"/></r></p></e>
       <e><p><l>meyil<s n="n"/></l><r>meyil<s n="n"/></r></p></e>
       <e><p><l>mesleki<s n="n"/></l><r>mesleki<s n="n"/></r></p></e>
-      <e><p><l>meselen<s n="n"/></l><r>meselen<s n="n"/></r></p></e>
+      <e><p><l>mesele<s n="n"/></l><r>mesele<s n="n"/></r></p></e>
       <e><p><l>merhum<s n="n"/></l><r>merhum<s n="n"/></r></p></e>
       <e><p><l>merdiven<s n="n"/></l><r>merdiven<s n="n"/></r></p></e>
       <e><p><l>may<s n="n"/></l><r>may<s n="n"/></r></p></e>
@@ -6952,7 +6960,7 @@
       <e><p><l>hakim<s n="n"/></l><r>hakim<s n="n"/></r></p></e>
       <e><p><l>hain<s n="n"/></l><r>hain<s n="n"/></r></p></e>
       <e><p><l>hainlik<s n="n"/></l><r>hainlik<s n="n"/></r></p></e>
-      <e><p><l>gönce<s n="n"/></l><r>gönce<s n="n"/></r></p></e>
+      <e><p><l>gönce<s n="n"/></l><r>günce<s n="n"/></r></p></e>
       <e><p><l>global<s n="n"/></l><r>global<s n="n"/></r></p></e>
       <e><p><l>gen<s n="n"/></l><r>gen<s n="n"/></r></p></e>
       <e><p><l>gelir<s n="n"/></l><r>gelir<s n="n"/></r></p></e>
