@@ -62,8 +62,11 @@
 
      <def-cat n="eken">
       <cat-item lemma="e" tags="cop.aor.evid.*"/>
+      <cat-item lemma="e" tags="vaux.aor.evid.*"/>
       <cat-item lemma="e" tags="cop.ger_past"/>
+      <cat-item lemma="e" tags="cop.ger_past.*"/>
       <cat-item lemma="e" tags="vaux.ger_past"/>
+      <cat-item lemma="e" tags="vaux.ger_past.*"/>
     </def-cat>  
     <def-cat n="dep">
       <cat-item lemma="de" tags="v.*.gna_perf"/>
