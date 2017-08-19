@@ -51,6 +51,11 @@
       <cat-item tags="vaux.prc_fut.*"/>
     </def-cat>
 
+    <def-cat n="np_non_cog">
+      <cat-item tags="np.top.*"/>
+      <cat-item tags="np.al.*"/>
+      <cat-item tags="np.org.*"/>
+    </def-cat>
 
     <def-cat n="er">
       <cat-item tags="v.*.prc_fut"/>
@@ -1080,6 +1085,29 @@
             <lu>
               <clip pos="1" side="tl" part="whole"/>
               <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+     <rule comment="REGLA: np_non_cog">
+      <pattern>
+        <pattern-item n="np_non_cog"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+      <clip pos="1" side="tl" part="a_pl"/><lit v=""/>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
