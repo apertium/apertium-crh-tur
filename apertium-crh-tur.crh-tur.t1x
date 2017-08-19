@@ -276,6 +276,8 @@
     <def-cat n="ger_past">
       <cat-item tags="v.*.ger_past.*"/>
       <cat-item tags="v.*.*.ger_past.*"/>
+      <cat-item tags="vaux.ger_past.*"/>
+      <cat-item tags="vaux.*.ger_past.*"/>
     </def-cat>
     <def-cat n="ger_fut2">
       <cat-item tags="v.*.ger_fut2.*"/>
@@ -308,6 +310,9 @@
     </def-attr>
     <def-attr n="a_xd">
       <attr-item tags="XD"/>
+    </def-attr>
+    <def-attr n="a_subst">
+      <attr-item tags="subst"/>
     </def-attr>
     <def-attr n="a_poss">
       <attr-item tags="px1sg"/>
@@ -1421,7 +1426,7 @@
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
 		<let>
           <clip pos="1" side="tl" part="a_non_fin"/>
-		  <lit-tag v="ger_past"/>	
+		 <lit-tag v="gpr_past.subst"/>
 		</let>
         <out>
           <chunk name="v" case="caseFirstWord">

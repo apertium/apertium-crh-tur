@@ -171,6 +171,7 @@
 
       <!-- SECTION: Postpositions -->
       <e><p><l>doğru<s n="post"/></l><r>doğru<s n="post"/></r></p></e>
+      <e><p><l>üzere<s n="post"/></l><r>üzere<s n="post"/></r></p></e>
       <e><p><l>başqa<s n="post"/></l><r>başka<s n="post"/></r></p></e>
       <e><p><l>qarşı<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
       <e><p><l>sayın<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
@@ -274,6 +275,7 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>köpür<s n="n"/></l><r>köprü<s n="n"/></r></p></e>
       <e><p><l>muessise<s n="n"/></l><r>müessese<s n="n"/></r></p></e>
       <e><p><l>konvoy<s n="n"/></l><r>konvoy<s n="n"/></r></p></e>
 
@@ -4508,6 +4510,9 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>aynı<s n="adj"/></l><r>aynı<s n="adj"/></r></p></e>
+      <e><p><l>borclu<s n="adj"/></l><r>borçlu<s n="adj"/></r></p></e>
+      <e><p><l>başqa<s n="adj"/></l><r>başka<s n="adj"/></r></p></e>
       <e><p><l>yuqarı<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>açuvlı<s n="adj"/></l><r>öfkeli<s n="adj"/></r></p></e>
       <e><p><l>oquvlı<s n="adj"/></l><r>okunan<s n="adj"/></r></p></e>
@@ -4748,7 +4753,7 @@
 
 	  <e><p><l>ne<b/>zaman<s n="adv"/></l><r>ne<b/>zaman<s n="adv"/></r></p></e>
 	  <e><p><l>ne<b/>içün<s n="adv"/></l><r>niçin<s n="adv"/></r></p></e>
-
+      <e><p><l>olduqça<s n="adv"/></l><r>oldukça<s n="adv"/></r></p></e>
 	  <e><p><l>evelâ<s n="adv"/></l><r>evvela<s n="adv"/></r></p></e>
       <e><p><l>asılında<s n="adv"/></l><r>aslında<s n="adv"/></r></p></e>
 	  <e><p><l>ğayrıdan<s n="adv"/></l><r>dışarı<s n="n"/><s n="abl"/></r></p></e>
@@ -4823,6 +4828,7 @@
       <e><p><l>otur<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>                   <!-- Transfer -->
 
       <e><p><l>raatlan<s n="v"/><s n="iv"/></l><r>rahatla<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>qızın<s n="v"/><s n="iv"/></l><r>ısın<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>soy<s n="v"/><s n="tv"/></l><r>soy<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qızdır<s n="v"/><s n="tv"/></l><r>ısıt<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sıqıştır<s n="v"/><s n="tv"/></l><r>sıkıştır<s n="v"/><s n="tv"/></r></p></e>
@@ -5455,7 +5461,7 @@
       <e r="LR"><p><l>ss.<s n="abbr"/></l><r>sene<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
       <e r="LR"><p><l>s.<s n="abbr"/></l><r>sene<s n="n"/><s n="nom"/></r></p></e>
       <e r="LR"><p><l>ss.<s n="abbr"/></l><r>sene<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>km<s n="abbr"/></l><r>km<s n="n"/><s n="nom"/></r></p></e>
+      <e><p><l>km<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
       <e><p><l>m<s n="abbr"/></l><r>m/s<s n="abbr"/></r></p></e>
       <e><p><l>mm<s n="abbr"/></l><r>mm<s n="abbr"/></r></p></e>
       <e><p><l>sm<s n="abbr"/></l><r>cm<s n="abbr"/></r></p></e>
@@ -6303,7 +6309,7 @@
       <e><p><l>bitaraf<s n="adj"/></l><r>tarafsız<s n="adj"/></r></p></e>
       <e><p><l>assimilâtsiya<s n="n"/></l><r>asimilasyon<s n="n"/></r></p></e>
       <e><p><l>assimilâtsiya<s n="n"/></l><r>özümseme<s n="n"/></r></p></e>
-      <e><p><l>ustahane<s n="n"/></l><r>işyeri<s n="n"/></r></p></e>
+      <e><p><l>ustahane<s n="n"/></l><r>işyeri<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>türkçe<s n="adv"/></l><r>türkçe<s n="adv"/></r></p></e>
       <e><p><l>telâş<s n="n"/></l><r>telaş<s n="n"/></r></p></e>
       <e><p><l>internatsionalizm<s n="n"/></l><r>enternasyonalizm<s n="n"/></r></p></e>
@@ -6636,7 +6642,6 @@
       <e><p><l>mermer<s n="n"/></l><r>mermer<s n="n"/></r></p></e>
       <e><p><l>merasim<s n="n"/></l><r>merasim<s n="n"/></r></p></e>
       <e><p><l>marş<s n="n"/></l><r>marş<s n="n"/></r></p></e>
-      <e><p><l>komanda<s n="n"/></l><r>komanda<s n="n"/></r></p></e>
       <e><p><l>kermen<s n="n"/></l><r>kermen<s n="n"/></r></p></e>
       <e><p><l>iman<s n="n"/></l><r>iman<s n="n"/></r></p></e>
       <e><p><l>esna<s n="n"/></l><r>esna<s n="n"/></r></p></e>
@@ -6782,7 +6787,6 @@
       <e><p><l>kemane<s n="n"/></l><r>kemane<s n="n"/></r></p></e>
       <e><p><l>iz<s n="n"/></l><r>iz<s n="n"/></r></p></e>
       <e><p><l>işlev<s n="n"/></l><r>işlev<s n="n"/></r></p></e>
-      <e><p><l>ine<s n="n"/></l><r>ine<s n="n"/></r></p></e>
       <e><p><l>inci<s n="n"/></l><r>inci<s n="n"/></r></p></e>
       <e><p><l>içer<s n="n"/></l><r>içer<s n="n"/></r></p></e>
       <e><p><l>iblis<s n="n"/></l><r>iblis<s n="n"/></r></p></e>
@@ -6874,7 +6878,6 @@
       <e><p><l>saygı<s n="n"/></l><r>saygı<s n="n"/></r></p></e>
       <e><p><l>sarım<s n="n"/></l><r>sarım<s n="n"/></r></p></e>
       <e><p><l>saniye<s n="n"/></l><r>saniye<s n="n"/></r></p></e>
-      <e><p><l>saki<s n="n"/></l><r>saki<s n="n"/></r></p></e>
       <e><p><l>realizm<s n="n"/></l><r>realizm<s n="n"/></r></p></e>
       <e><p><l>piyano<s n="n"/></l><r>piyano<s n="n"/></r></p></e>
       <e><p><l>pişkinlik<s n="n"/></l><r>pişkinlik<s n="n"/></r></p></e>
