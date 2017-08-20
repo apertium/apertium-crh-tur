@@ -76,7 +76,8 @@
       <cat-item tags="rpar"/>
       <cat-item tags="rquot"/>
       <cat-item tags="sent"/>
-      <cat-item tags="num"/>
+      <cat-item tags="num"/> <!-- 7 idi -->
+      <cat-item tags="num.ord"/>
     </def-cat>
     <def-cat n="default">
       <cat-item tags="*"/>
