@@ -63,6 +63,8 @@
     <def-cat n="a-post">
       <cat-item lemma="sız" tags="post"/>
       <cat-item lemma="lı" tags="post"/>
+      <cat-item lemma="sız" tags="post.*"/>
+      <cat-item lemma="lı" tags="post.*"/>
     </def-cat>
     <def-cat n="post">
       <cat-item tags="post"/>
@@ -345,6 +347,26 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj-subst"/>
+        <pattern-item n="a-post"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
 
 
 
