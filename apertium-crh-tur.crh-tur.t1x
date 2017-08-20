@@ -262,6 +262,11 @@
       <cat-item tags="v.*.*.gpr_past"/>
     </def-cat>
 
+    <def-cat n="ger_sim">
+      <cat-item tags="v.*.ger.sim"/>
+      <cat-item tags="vaux.ger.sim"/>
+    </def-cat>
+
     <def-cat n="ger-nom">
       <cat-item tags="v.*.ger-nom"/>
       <cat-item tags="v.*.ger.nom.*"/>
@@ -309,6 +314,9 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_sim">
+      <attr-item tags="sim"/>
+    </def-attr>
     <def-attr n="a_abil">
       <attr-item tags="abil"/>
     </def-attr>
@@ -531,6 +539,31 @@
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: ger sim">
+      <pattern>
+        <pattern-item n="ger_sim"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="gna_impf"/>
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="a_sim"/><lit v=""/>
+        </let>
+        <out>
+          <chunk name="n" case="caseSecondWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
