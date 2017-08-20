@@ -4516,6 +4516,7 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>milyonlı<s n="adj"/></l><r>milyonlu<s n="adj"/></r></p></e>
       <e><p><l>ikili<s n="adj"/></l><r>ekili<s n="adj"/></r></p></e>
       <e><p><l>üçlü<s n="adj"/></l><r>üçlü<s n="adj"/></r></p></e>
       <e><p><l>biñli<s n="adj"/></l><r>kalabalık<s n="adj"/></r></p></e>
@@ -4764,6 +4765,8 @@
       <e><p><l>muqaddes<s n="adj"/></l><r>mukaddes<s n="adj"/></r></p></e>
       
       <!-- SECTION: Adverbs -->
+      <e><p><l>aytmaqçe<s n="adv"/></l><r>sözde<s n="adv"/></r></p></e>
+
 
 	  <e><p><l>ne<b/>zaman<s n="adv"/></l><r>ne<b/>zaman<s n="adv"/></r></p></e>
 	  <e><p><l>ne<b/>içün<s n="adv"/></l><r>niçin<s n="adv"/></r></p></e>
