@@ -401,6 +401,17 @@
       </action>
     </rule>
 
+    <rule comment="">
+      <pattern>
+        <pattern-item n="a-post"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+
 
 
 
