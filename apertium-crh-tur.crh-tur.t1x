@@ -1636,28 +1636,6 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: cop-aor-evid">
-      <pattern>
-        <pattern-item n="cop-aor-evid"/>
-      </pattern>
-      <action>
-      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-        <out>
-          <chunk name="ekende" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.dub.aor"/>
-              <clip pos="1" side="tl" part="a_pers_nbr"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-
     <rule comment="REGLA: ekende">
       <pattern>
         <pattern-item n="ekende"/>
@@ -1676,6 +1654,28 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: cop-aor-evid">
+      <pattern>
+        <pattern-item n="eken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="eken" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.dub.aor"/>
+              <clip pos="1" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: ger-dat">
       <pattern>
