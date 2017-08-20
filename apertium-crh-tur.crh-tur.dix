@@ -170,6 +170,9 @@
       <e><p><l>yoqsa<s n="cnjadv"/></l><r>yoksa<s n="cnjadv"/></r></p></e>
 
       <!-- SECTION: Postpositions -->
+      <e><p><l>sız<s n="post"/></l><r>sız<s n="post"/></r></p></e>
+      <e><p><l>lı<s n="post"/></l><r>lı<s n="post"/></r></p></e>
+
       <e><p><l>doğru<s n="post"/></l><r>doğru<s n="post"/></r></p></e>
       <e><p><l>üzere<s n="post"/></l><r>üzere<s n="post"/></r></p></e>
       <e><p><l>başqa<s n="post"/></l><r>başka<s n="post"/></r></p></e>
@@ -178,10 +181,8 @@
       <e><p><l>berli<s n="post"/></l><r>beri<s n="post"/></r></p></e>
       <e><p><l>ögüne<s n="post"/></l><r>ön<s n="n"/><s n="px3sp"/><s n="dat"/></r></p></e>
       <e><p><l>taba<s n="post"/></l><r>doğru<s n="post"/></r></p></e>
-      <e><p><l>sız<s n="post"/></l><r>sız<s n="post"/></r></p></e>
       <e><p><l>sebep<s n="post"/></l><r>dolayı<s n="post"/></r></p></e>
       <e><p><l>sebep<s n="post"/></l><r>ötürü<s n="post"/></r></p></e>
-      <e><p><l>lı<s n="post"/></l><r>lı<s n="post"/></r></p></e>
       <e><p><l>itibaren<s n="post"/></l><r>itibaren<s n="post"/></r></p></e>
       <e><p><l>soñ<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
       <e><p><l>soñra<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
