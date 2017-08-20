@@ -1931,7 +1931,6 @@
       <e><p><l>Putin<s n="np"/><s n="cog"/><s n="m"/></l><r>Putin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Cemilev<s n="np"/><s n="cog"/><s n="m"/></l><r>Cemilev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
       <e><p><l>Çiygoz<s n="np"/><s n="cog"/><s n="mf"/></l><r>Çiygöz<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-      <e><p><l>Lenin<s n="np"/><s n="cog"/><s n="m"/></l><r>Lenin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 
       <e><p><l>Afrika<s n="np"/><s n="top"/></l><r>Afrika<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>Volın<s n="np"/><s n="top"/></l><r>Volın<s n="np"/><s n="top"/></r></p></e>
@@ -4307,7 +4306,8 @@
       <e><p><l>Hollande<s n="np"/><s n="cog"/></l><r>Hollande<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Skripnik<s n="np"/><s n="cog"/></l><r>Skripnik<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Osman<s n="np"/><s n="cog"/></l><r>Osman<s n="np"/><s n="cog"/></r></p></e>
-      <e><p><l>Lenin<s n="np"/><s n="cog"/></l><r>Lenin<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Lenin<s n="np"/><s n="cog"/><s n="m"/></l><r>Lenin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>Lenin<s n="np"/><s n="cog"/></l><r>Lenin</r></p><par n="cog:ov__cog"/></e>
       <e><p><l>Babenko<s n="np"/><s n="cog"/></l><r>Babenko<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Trubaçenko<s n="np"/><s n="cog"/></l><r>Trubaçenko<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Dâçenko<s n="np"/><s n="cog"/></l><r>Daçenko<s n="np"/><s n="cog"/></r></p></e>
