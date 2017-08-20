@@ -34,6 +34,9 @@
       <cat-item lemma="bil" tags="v.*.ger_past.*"/>
     </def-cat>
  
+     <def-cat n="vaux_ger_past">
+      <cat-item lemma="e" tags="vaux.ger_past.nom"/>
+    </def-cat>
      <def-cat n="bil_ger">
       <cat-item lemma="bil" tags="v.*.ger.*"/>
     </def-cat>
@@ -561,6 +564,32 @@
         </let>
         <let>
           <clip pos="1" side="tl" part="a_sim"/><lit v=""/>
+        </let>
+        <out>
+          <chunk name="n" case="caseSecondWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: vaux_ger_past ">
+      <pattern>
+        <pattern-item n="vaux_ger_past"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="dub.aor"/>
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="a_cas"/><lit-tag v="p3.sg"/>
         </let>
         <out>
           <chunk name="n" case="caseSecondWord">
