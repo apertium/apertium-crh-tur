@@ -28,6 +28,11 @@
       <cat-item lemma="i" tags="cop.ger_past.*"/>
       <cat-item lemma="i" tags="vaux.ger_past.*"/>
     </def-cat>
+    <def-cat n="imper">
+      <cat-item tags="v.*.imp.*"/>
+      <cat-item tags="v.*.*.imp.*"/>
+      <cat-item tags="v.*.*.*.imp.*"/>
+    </def-cat>
     <def-cat n="qst">
       <cat-item lemma="mı" tags="qst"/>
     </def-cat>
@@ -154,6 +159,23 @@
             <lu><clip pos="1" side="sl" part="whole"/></lu>
             <lu><clip pos="2" side="sl" part="whole"/></lu>
           </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="imper"/>
+        <pattern-item n="cop-ifi-ken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <b pos="1"/>
+          <lu><clip pos="2" side="sl" part="whole"/></lu>
         </out>
       </action>
     </rule>
