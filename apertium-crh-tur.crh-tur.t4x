@@ -36,6 +36,10 @@
       <cat-item tags="v.*.*.nec"/>
       <cat-item tags="v.*.*.*.nec"/>
     </def-cat>
+    <def-cat n="nom-adj-subst">
+      <cat-item tags="n"/>
+      <cat-item tags="adj.subst"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n"/>
       <cat-item tags="n.*"/>
@@ -325,6 +329,21 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj-subst"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/><lit-tag v="nom"/></lu>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="">
