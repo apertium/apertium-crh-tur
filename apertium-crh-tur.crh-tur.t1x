@@ -40,6 +40,16 @@
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
     </def-cat>
+    <def-cat n="ifi">
+      <cat-item tags="v.*.ifi.*"/>
+      <cat-item tags="v.*.ifi"/>
+      <cat-item tags="vaux.ifi.*"/>
+      <cat-item tags="vaux.ifi"/>
+      <cat-item tags="vaux.*.ifi.*"/>
+      <cat-item tags="vaux.*.ifi"/>
+    </def-cat>
+
+ 
     <def-cat n="prc_fut">
       <cat-item tags="v.*.prc_fut"/>
       <cat-item tags="v.*.*.prc_fut"/>
@@ -62,7 +72,6 @@
       <cat-item tags="v.*.gpr_fut"/>
       <cat-item tags="vaux.prc_fut"/>
       <cat-item tags="vaux.gpr_fut"/>
-   
     </def-cat>
 
      <def-cat n="eken">
@@ -409,6 +418,32 @@
 
   <section-rules>
 
+    <rule comment="REGLA: ifi cop-ifi">
+      <pattern>
+        <pattern-item n="ifi"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_tags"/>
+<concat><lit-tag v="v"/><clip pos="1" side="tl" part="a_tra"/><lit-tag v="past"/></concat>
+        </let>
+        <out>
+          <chunk namefrom="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_fin"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: er eken ">
       <pattern>
         <pattern-item n="er"/>
@@ -566,6 +601,7 @@
         </out>
       </action>
     </rule>
+
 
 
     <rule comment="REGLA: fut">
