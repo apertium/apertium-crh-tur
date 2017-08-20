@@ -276,7 +276,7 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
-      <e><p><l>gelecek<s n="n"/></l><r>kelecek<s n="n"/></r></p></e>
+      <e><p><l>kelecek<s n="n"/></l><r>gelecek<s n="n"/></r></p></e>
       <e><p><l>tama<s n="n"/></l><r>arma<s n="n"/></r></p></e>
       <e><p><l>köpür<s n="n"/></l><r>köprü<s n="n"/></r></p></e>
       <e><p><l>muessise<s n="n"/></l><r>müessese<s n="n"/></r></p></e>
@@ -4496,6 +4496,7 @@
       <e><p><l>Kırımoğlu<s n="np"/><s n="cog"/></l><r>Kırımoğlu<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Yaqupoğlu<s n="np"/><s n="cog"/></l><r>Yakupoğlu<s n="np"/><s n="cog"/></r></p></e>
       <e><p><l>Köprülü<s n="np"/><s n="cog"/></l><r>Köprülü<s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l>Karaca<s n="np"/><s n="cog"/></l><r>Karaca<s n="np"/><s n="cog"/></r></p></e>
 
 
       <e><p><l>Roskomnadzor<s n="np"/><s n="al"/></l><r>Roskomnadzor<s n="np"/><s n="al"/></r></p></e>
@@ -6950,7 +6951,6 @@
       <e><p><l>kap<s n="n"/></l><r>kap<s n="n"/></r></p></e>
       <e><p><l>kapı<s n="n"/></l><r>kapı<s n="n"/></r></p></e>
       <e><p><l>kapik<s n="n"/></l><r>kapik<s n="n"/></r></p></e>
-      <e><p><l>kapa<s n="n"/></l><r>kapa<s n="n"/></r></p></e>
       <e><p><l>kamera<s n="n"/></l><r>kamera<s n="n"/></r></p></e>
       <e><p><l>kabul<s n="n"/></l><r>kabul<s n="n"/></r></p></e>
       <e><p><l>jüri<s n="n"/></l><r>jüri<s n="n"/></r></p></e>
