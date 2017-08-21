@@ -45,6 +45,9 @@
     </def-cat>
     <def-cat n="ekende">
       <cat-item lemma="e" tags="cop.ger_past.loc"/>
+      <cat-item lemma="e" tags="vaux.ger_past.loc"/>
+      <cat-item lemma="e" tags="cop.gpr_past.subst.loc"/>
+      <cat-item lemma="e" tags="vaux.gpr_past.subst.loc"/>
     </def-cat>
     <def-cat n="ifi">
       <cat-item tags="v.*.ifi.*"/>
@@ -93,8 +96,8 @@
       <cat-item lemma="de" tags="v.*.gna_perf.*"/>
     </def-cat>
     <def-cat n="bil_cond">
-      <cat-item tags="v.tv.gna_cond.*"/>
-      <cat-item tags="v.tv.prc_cond.*"/>
+      <cat-item lemma="bil" tags="v.tv.gna_cond.*"/>
+      <cat-item lemma="bil" tags="v.tv.prc_cond.*"/>
     </def-cat>
     <def-cat n="cond">
       <cat-item tags="v.*.gna_cond.*"/>
@@ -209,8 +212,11 @@
       <cat-item tags="v.*.*.prc_perf"/>
       <cat-item tags="v.*.*.prc_perf.*"/>
       <cat-item tags="vaux.prc_perf"/>
+      <cat-item tags="vaux.prc_perf.*"/>
       <cat-item tags="vaux.*.prc_perf"/>
       <cat-item tags="vaux.*.*.prc_perf"/>
+      <cat-item tags="vaux.*.prc_perf.*"/>
+      <cat-item tags="vaux.*.*.prc_perf.*"/>
     </def-cat>
 
     <def-cat n="ger_fut_neg">
@@ -356,6 +362,7 @@
       <attr-item tags="gen"/>
       <attr-item tags="dat"/>
       <attr-item tags="loc"/>
+      <attr-item tags="ins"/>
       <attr-item tags="abl"/>
       <attr-item tags="acc"/>
     </def-attr>
@@ -1677,6 +1684,26 @@
     </rule>
 
 
+    <rule comment="REGLA: ekende">
+      <pattern>
+        <pattern-item n="ekende"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="ekende" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.gna_ken"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: ger_past">
       <pattern>
@@ -1769,26 +1796,6 @@
       </action>
     </rule>
 
-
-
-    <rule comment="REGLA: ekende">
-      <pattern>
-        <pattern-item n="ekende"/>
-      </pattern>
-      <action>
-      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-        <out>
-          <chunk name="ekende" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu>
-              <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.gna_ken"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: cop-aor-evid">
       <pattern>

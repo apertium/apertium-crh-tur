@@ -270,8 +270,7 @@
 
 
       <e><p><l>yüz<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
-      <e><p><l>million<s n="n"/><s n="attr"/></l><r>milyon<s n="num"/></r></p></e>
-      <e><p><l>million<s n="n"/></l><r>milyon<s n="num"/><s n="subst"/></r></p></e>
+      <e><p><l>million<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>biñ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
@@ -357,6 +356,8 @@
       <e><p><l>teşviqat<s n="n"/></l><r>teşvik<s n="n"/></r></p></e>
       <e><p><l>teminlev<s n="n"/></l><r>teminlat<s n="n"/></r></p></e>
       <e><p><l>ekstremizm<s n="n"/></l><r>aşırılıkçılık<s n="n"/></r></p></e>
+      <e><p><l>imperializm<s n="n"/></l><r>emperyalizm<s n="n"/></r></p></e>
+      <e><p><l>imperializm<s n="n"/></l><r>yayılımcılık<s n="n"/></r></p></e>
       <e><p><l>siyasetşınas<s n="n"/></l><r>siyasetbilimci<s n="n"/></r></p></e>
       <e><p><l>közetici<s n="n"/></l><r>gözetmen<s n="n"/></r></p></e>
       <e><p><l>muhtac<s n="n"/></l><r>muhtaç<s n="n"/></r></p></e>
