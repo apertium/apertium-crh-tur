@@ -30,6 +30,9 @@
     <def-cat n="bil_ger_fut2">
       <cat-item lemma="bil" tags="v.*.*.ger_fut2.*"/>
     </def-cat>
+    <def-cat n="bil_ger_fut2_ins">
+      <cat-item lemma="bil" tags="v.*.*.ger_fut2.*.ıns"/>
+    </def-cat>
      <def-cat n="bil_ger_past">
       <cat-item lemma="bil" tags="v.*.ger_past.*"/>
     </def-cat>
@@ -1004,6 +1007,39 @@
 	</concat>
         </let>
         <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="REGLA: Abil-ger_fut2_ins ">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil_ger_fut2_ins"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <let>
+	      <clip pos="1" side="tl" part="a_neg"/><lit v=""/>
+      </let>
+      <let>
+	      <clip pos="1" side="tl" part="a_non_fin"/>
+		<concat><lit-tag v="pot"/><clip pos="1" side="sl" part="a_neg"/><lit-tag v="ger_fut"/></concat>
+      </let>
+	<let>
+	      <clip pos="1" side="tl" part="whole"/>
+<concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_pl"/><clip pos="2" side="tl" part="a_poss"/><lit-tag v="dat"/></concat>
+	</let>
+       <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
