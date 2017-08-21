@@ -166,6 +166,8 @@
       <cat-item tags="v.*.prc_past.*"/>
       <cat-item tags="v.*.*.prc_past"/>
       <cat-item tags="v.*.*.prc_past.*"/>
+      <cat-item tags="v.*.*.*.prc_past"/>
+      <cat-item tags="v.*.*.*.prc_past.*"/>
       <cat-item tags="vaux.prc_past"/>
       <cat-item tags="vaux.*.prc_past"/>
       <cat-item tags="vaux.*.*.prc_past"/>
@@ -404,6 +406,7 @@
   </section-def-attrs>
 
   <section-def-vars>
+    <def-var n="pers-nbr"/>
     <def-var n="number"/>
     <def-var n="px"/>
     <def-var n="verb-lemma"/>
@@ -427,6 +430,16 @@
         </otherwise></choose>
     </def-macro>
 
+    <def-macro n="f_3sg_if_empty1" npar="1">
+      <let><var n="pers-nbr"/><lit v=""/></let>
+      <choose>
+        <when><test><equal><clip pos="1" side="tl" part="a_pers_nbr"/><lit v=""/></equal></test>
+              <let><var n="pers-nbr"/><lit-tag v="p3.sg"/></let></when>
+        <otherwise>
+              <let><var n="pers-nbr"/><clip pos="1" side="tl" part="a_pers_nbr"/></let>
+        </otherwise>
+      </choose>
+    </def-macro>
 
   </section-def-macros>
 
@@ -1328,13 +1341,12 @@
         <pattern-item n="eken"/>
       </pattern>
       <action>
-      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <call-macro n="f_3sg_if_empty1"><with-param pos="2"/></call-macro>
+        <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="past"/></let>
         <let>
-      <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="past"/>
-        </let>
-        <let>
-      <clip pos="2" side="tl" part="whole"/>
-          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          <clip pos="2" side="tl" part="whole"/>
+          <concat><lit v="+i"/><lit-tag v="cop.ifi"/><var n="pers-nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -1358,12 +1370,13 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <call-macro n="f_3sg_if_empty1"><with-param pos="2"/></call-macro>
         <let>
       <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="past"/>
         </let>
         <let>
       <clip pos="2" side="tl" part="whole"/>
-          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><var n="pers-nbr"/></concat>
         </let>
         <out>
           <chunk name="v" case="caseFirstWord">
@@ -1783,6 +1796,7 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_3sg_if_empty1"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="eken" case="caseFirstWord">
             <tags>
@@ -1790,7 +1804,7 @@
             </tags>
             <lu>
               <get-case-from pos="1"><lit v="i"/></get-case-from><lit-tag v="cop.dub.aor"/>
-              <clip pos="1" side="tl" part="a_pers_nbr"/>
+              <var n="pers-nbr"/>
             </lu>
           </chunk>
         </out>

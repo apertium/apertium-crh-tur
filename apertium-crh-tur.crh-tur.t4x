@@ -80,6 +80,7 @@
       <cat-item tags="guio"/>
       <cat-item tags="lpar"/>
       <cat-item tags="lquot"/>
+      <cat-item tags="quot"/>
       <cat-item tags="rpar"/>
       <cat-item tags="rquot"/>
       <cat-item tags="sent"/>
