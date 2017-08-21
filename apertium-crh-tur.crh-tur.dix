@@ -276,6 +276,7 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>Kezlevli<s n="n"/></l><r>Kezlevli<s n="n"/></r></p></e>
       <e><p><l>kelecek<s n="n"/></l><r>gelecek<s n="n"/></r></p></e>
       <e><p><l>tama<s n="n"/></l><r>arma<s n="n"/></r></p></e>
       <e><p><l>köpür<s n="n"/></l><r>köprü<s n="n"/></r></p></e>
@@ -4518,6 +4519,7 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>qanunsuz<s n="adj"/></l><r>hukuksuz<s n="adj"/></r></p></e>
       <e><p><l>milyonlı<s n="adj"/></l><r>milyonlu<s n="adj"/></r></p></e>
       <e><p><l>ikili<s n="adj"/></l><r>ekili<s n="adj"/></r></p></e>
       <e><p><l>üçlü<s n="adj"/></l><r>üçlü<s n="adj"/></r></p></e>

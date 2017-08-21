@@ -1258,7 +1258,33 @@
       </action>
     </rule>
 
-
+    <rule comment="REGLA: prc_impf ekende">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="ekende"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+	<let>
+		<clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="ger_aor.nom"/>
+	</let>
+	<let>
+		<clip pos="2" side="tl" part="whole"/>
+<concat><lit v="+i"/><lit-tag v="cop.gna_ken"/></concat>
+	</let>
+        <out>
+          <chunk name="ekende" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: prc_impf eken ">
       <pattern>
@@ -1664,6 +1690,8 @@
         </out>
       </action>
     </rule>
+
+
 
     <rule comment="REGLA: ekende">
       <pattern>
