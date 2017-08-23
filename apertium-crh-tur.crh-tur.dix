@@ -275,6 +275,48 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>konkurs<s n="n"/></l><r>yarışma<s n="n"/></r></p></e>
+      <e><p><l>boyevik<s n="n"/></l><r>savaşçı<s n="n"/></r></p></e>
+      <e><p><l>ansambl<s n="n"/></l><r>topluluk<s n="n"/></r></p></e>
+      <e><p><l>qıdır<s n="n"/></l><r>ara<s n="n"/></r></p></e>
+      <e><p><l>radiokomitet<s n="n"/></l><r>radyo<b/>komisyonu<s n="n"/></r></p></e>
+      <e><p><l>klarnet<s n="n"/></l><r>klarnet<s n="n"/></r></p></e>
+      <e><p><l>kemane<s n="n"/></l><r>keman<s n="n"/></r></p></e>
+      <e><p><l>diktor<s n="n"/></l><r>spiker<s n="n"/></r></p></e>
+      <e><p><l>qışlaq<s n="n"/></l><r>köy<s n="n"/></r></p></e>
+      <e><p><l>estrada<s n="n"/></l><r>sahne<s n="n"/></r></p></e>
+      <e><p><l>yır<s n="n"/></l><r>şarkı<s n="n"/></r></p></e>
+      <e><p><l>deportatsiya<s n="n"/></l><r>sürgün<s n="n"/></r></p></e>
+      <e><p><l>bediiy<s n="n"/></l><r>sanatsal<s n="n"/></r></p></e>
+      <e><p><l>orkestr<s n="n"/></l><r>orkestra<s n="n"/></r></p></e>
+      <e><p><l>direktor<s n="n"/></l><r>yönetici<s n="n"/></r></p></e>
+      <e><p><l>coy<s n="n"/></l><r>kaybet<s n="n"/></r></p></e>
+      <e><p><l>cıyıntıq<s n="n"/></l><r>derleme<s n="n"/></r></p></e>
+      <e><p><l>şay<s n="n"/></l><r>böyle<s n="n"/></r></p></e>
+      <e><p><l>umumtasil<s n="n"/></l><r>ilköğretim<s n="n"/></r></p></e>
+      <e><p><l>zal<s n="n"/></l><r>salon<s n="n"/></r></p></e>
+      <e><p><l>çalğıcı<s n="n"/></l><r>müzisyen<s n="n"/></r></p></e>
+      <e><p><l>spektakl<s n="n"/></l><r>gösteri<s n="n"/></r></p></e>
+      <e><p><l>uran<s n="n"/></l><r>uranyum<s n="n"/></r></p></e>
+      <e><p><l>pyesa<s n="n"/></l><r>piyes<s n="n"/></r></p></e>
+      <e><p><l>truppa<s n="n"/></l><r>grup<s n="n"/></r></p></e>
+      <e><p><l>quv<s n="n"/></l><r>kov<s n="n"/></r></p></e>
+      <e><p><l>vokal<s n="n"/></l><r>vokal<s n="n"/></r></p></e>
+      <e><p><l>kadr<s n="n"/></l><r>kadro<s n="n"/></r></p></e>
+      <e><p><l>meraqlı<s n="n"/></l><r>ilginç<s n="n"/></r></p></e>
+      <e><p><l>albuki<s n="n"/></l><r>halbuki<s n="n"/></r></p></e>
+      <e><p><l>zanaat<s n="n"/></l><r>zanaat<s n="n"/></r></p></e>
+      <e><p><l>qurucılıq<s n="n"/></l><r>tasarım<s n="n"/></r></p></e>
+      <e><p><l>körümli<s n="n"/></l><r>önemli<s n="n"/></r></p></e>
+      <e><p><l>dirijor<s n="n"/></l><r>orkestra şefi<s n="n"/></r></p></e>
+      <e><p><l>ajiotaj<s n="n"/></l><r>furya<s n="n"/></r></p></e>
+      <e><p><l>yetişmemezlik<s n="n"/></l><r>kıtlık<s n="n"/></r></p></e>
+      <e><p><l>abituryent<s n="n"/></l><r>mezun<s n="n"/></r></p></e>
+      <e><p><l>informatika<s n="n"/></l><r>bilişim<s n="n"/></r></p></e>
+      <e><p><l>uzat<s n="n"/></l><r>uzat<s n="n"/></r></p></e>
+
+
+
       <e><p><l>Kezlevli<s n="n"/></l><r>Kezlevli<s n="n"/></r></p></e>
       <e><p><l>kelecek<s n="n"/></l><r>gelecek<s n="n"/></r></p></e>
       <e><p><l>tama<s n="n"/></l><r>arma<s n="n"/></r></p></e>
@@ -4521,6 +4563,8 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>körümli<s n="adj"/></l><r>önemli<s n="adj"/></r></p></e>
+      <e><p><l>bediiy<s n="adj"/></l><r>sanatsal<s n="adj"/></r></p></e>
       <e><p><l>qanunsuz<s n="adj"/></l><r>hukuksuz<s n="adj"/></r></p></e>
       <e><p><l>milyonlı<s n="adj"/></l><r>milyonlu<s n="adj"/></r></p></e>
       <e><p><l>ikili<s n="adj"/></l><r>ekili<s n="adj"/></r></p></e>
@@ -4866,6 +4910,9 @@
       <e><p><l>tap<s n="v"/><s n="tv"/></l><r>bul<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>cıy<s n="v"/><s n="tv"/></l><r>topla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qabaatla<s n="v"/><s n="tv"/></l><r>suçla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>qıdır<s n="v"/><s n="tv"/></l><r>ara<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>quv<s n="v"/><s n="tv"/></l><r>kov<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>uzat<s n="v"/><s n="tv"/></l><r>uzat<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tasdıqla<s n="v"/><s n="tv"/></l><r>onayla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tırış<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>işğal<b/>et<s n="v"/><s n="tv"/></l><r>işgal<b/>et<s n="v"/><s n="tv"/></r></p></e>
