@@ -448,6 +448,18 @@
       </choose>
     </def-macro>
 
+    <def-macro n="f_fut2_fut1" npar="1">
+ <choose>
+   <when>
+       <!-- IF: a_fin = fut2 -->
+      <test><equal><clip pos="1" side="tl" part="a_fin"/> 
+                             <lit-tag v="fut2"/></equal></test>
+        <!-- THEN: LET a_fin be fut -->
+      <let><clip pos="1" side="tl" part="a_fin"/><lit-tag v="fut"/></let>
+    </when>
+</choose>
+    </def-macro>
+
   </section-def-macros>
 
   <section-rules>
@@ -1244,6 +1256,41 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: prc_impf bil cop-ifi">
+      <pattern>
+        <pattern-item n="prc_impf"/>
+        <pattern-item n="bil"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_fut2_fut1"><with-param pos="3"/></call-macro>
+      <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil"/></let>
+
+      <let>
+	      <clip pos="1" side="tl" part="whole"/>
+	      <!--<concat><clip pos="1" side="tl" part="whole"/><clip pos="3" side="tl" part="a_fin"/></concat>-->
+	      <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="aor"/></concat> <!-- tenses -->
+	</let>
+	<!-- The rule needs some kind of conditional for certain tenses -->
+	<let>
+          <clip pos="1" side="tl" part="whole"/>
+          <concat><clip pos="1" side="tl" part="whole"/><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="3" side="tl" part="a_pers_nbr"/></concat>
+  </let> 
+       <out>
+          <chunk name="abil" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
      <rule comment="REGLA: np_non_cog">
