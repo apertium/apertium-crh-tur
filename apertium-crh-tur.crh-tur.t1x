@@ -1222,6 +1222,7 @@
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_3sg_if_empty1"><with-param pos="2"/></call-macro>
  <choose>
    <when>
        <!-- IF: a_fin = fut2 -->
@@ -1236,12 +1237,12 @@
       </let>
 	<let>
 	      <clip pos="1" side="tl" part="whole"/>
-	      <concat><clip pos="1" side="tl" part="whole"/><clip pos="2" side="tl" part="a_fin"/></concat>
+	      <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="aor"/></concat> <!-- Other tenses -->
 	</let>
 	<!-- The rule needs some kind of conditional for certain tenses -->
 	<let>
           <clip pos="2" side="tl" part="whole"/>
-          <concat><lit v="+i"/><lit-tag v="cop.aor"/><clip pos="2" side="tl" part="a_pers_nbr"/></concat>
+          <concat><lit v="+i"/><lit-tag v="cop.aor"/><var n="pers-nbr"/></concat>
   </let> 
        <out>
           <chunk name="v" case="caseFirstWord">
@@ -1266,6 +1267,7 @@
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
       <call-macro n="f_fut2_fut1"><with-param pos="3"/></call-macro>
+      <call-macro n="f_3sg_if_empty1"><with-param pos="3"/></call-macro>
       <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil"/></let>
 
       <let>
@@ -1276,7 +1278,7 @@
 	<!-- The rule needs some kind of conditional for certain tenses -->
 	<let>
           <clip pos="1" side="tl" part="whole"/>
-          <concat><clip pos="1" side="tl" part="whole"/><lit v="+i"/><lit-tag v="cop.ifi"/><clip pos="3" side="tl" part="a_pers_nbr"/></concat>
+          <concat><clip pos="1" side="tl" part="whole"/><lit v="+i"/><lit-tag v="cop.ifi"/><var n="pers-nbr"/></concat>
   </let> 
        <out>
           <chunk name="abil" case="caseFirstWord">
