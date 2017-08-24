@@ -275,13 +275,13 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
-      <e><p><l>esaplama<s n="n"/></l><r>hesaplama<s n="n"/></r></p></e>
+      <e><p><l>yaqlı<s n="n"/></l><r>yanlısı<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>polkovnik<s n="n"/></l><r>albay<s n="n"/></r></p></e>
       <e><p><l>semetdeş<s n="n"/></l><r>hemşehri<s n="n"/></r></p></e>
       <e><p><l>poyezd<s n="n"/></l><r>tren<s n="n"/></r></p></e>
       <e><p><l>press<s n="n"/></l><r>basın<s n="n"/></r></p></e>
       <e><p><l>serleva<s n="n"/></l><r>başlık<s n="n"/></r></p></e>
-      <e><p><l>loqsahane<s n="n"/></l><r>doğumevi<s n="n"/></r></p></e>
+      <e><p><l>loqsahane<s n="n"/></l><r>doğumevi<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>grant<s n="n"/></l><r>hibe<s n="n"/></r></p></e>
       <e><p><l>anneksiya<s n="n"/></l><r>ilhak<s n="n"/></r></p></e>
       <e><p><l>derc<s n="n"/></l><r>yayın<s n="n"/></r></p></e>
@@ -405,7 +405,7 @@
       <e><p><l>orkestr<s n="n"/></l><r>orkestra<s n="n"/></r></p></e>
       <e><p><l>direktor<s n="n"/></l><r>yönetici<s n="n"/></r></p></e>
       <e><p><l>cıyıntıq<s n="n"/></l><r>derleme<s n="n"/></r></p></e>
-      <e><p><l>şay<s n="n"/></l><r>böyle<s n="n"/></r></p></e>
+      <e><p><l>şay<s n="adv"/></l><r>böyle<s n="adv"/></r></p></e>
       <e><p><l>umumtasil<s n="n"/></l><r>ilköğretim<s n="n"/></r></p></e>
       <e><p><l>zal<s n="n"/></l><r>salon<s n="n"/></r></p></e>
       <e><p><l>çalğıcı<s n="n"/></l><r>müzisyen<s n="n"/></r></p></e>
@@ -426,7 +426,6 @@
       <e><p><l>yetişmemezlik<s n="n"/></l><r>kıtlık<s n="n"/></r></p></e>
       <e><p><l>abituryent<s n="n"/></l><r>mezun<s n="n"/></r></p></e>
       <e><p><l>informatika<s n="n"/></l><r>bilişim<s n="n"/></r></p></e>
-      <e><p><l>uzat<s n="n"/></l><r>uzat<s n="n"/></r></p></e>
 
 
 
@@ -4708,7 +4707,6 @@
       <e><p><l>maküm<s n="adj"/></l><r>mahkum<s n="adj"/></r></p></e>
       <e><p><l>adetiy<s n="adj"/></l><r>geleneksel<s n="adj"/></r></p></e>
       <e><p><l>qazaiy<s n="adj"/></l><r>acil<s n="adj"/></r></p></e>
-      <e><p><l>yaqlı<s n="adj"/></l><r>yanlı<s n="adj"/></r></p></e>
       <e><p><l>ameliy<s n="adj"/></l><r>pratik<s n="adj"/></r></p></e>
       <e><p><l>şübesiz<s n="adj"/></l><r>şüphesiz<s n="adj"/></r></p></e>
       <e><p><l>suniy<s n="adj"/></l><r>suni<s n="adj"/></r></p></e>
