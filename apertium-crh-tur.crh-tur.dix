@@ -393,7 +393,7 @@
       <e><p><l>boyevik<s n="n"/></l><r>savaşçı<s n="n"/></r></p></e>
       <e><p><l>ansambl<s n="n"/></l><r>topluluk<s n="n"/></r></p></e>
       <e><p><l>qıdır<s n="n"/></l><r>ara<s n="n"/></r></p></e>
-      <e><p><l>radiokomitet<s n="n"/></l><r>radyo<b/>komisyonu<s n="n"/></r></p></e>
+      <e><p><l>radiokomitet<s n="n"/></l><r>radyo<b/>komisyonu<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>klarnet<s n="n"/></l><r>klarnet<s n="n"/></r></p></e>
       <e><p><l>kemane<s n="n"/></l><r>keman<s n="n"/></r></p></e>
       <e><p><l>diktor<s n="n"/></l><r>spiker<s n="n"/></r></p></e>
@@ -421,7 +421,7 @@
       <e><p><l>zanaat<s n="n"/></l><r>zanaat<s n="n"/></r></p></e>
       <e><p><l>qurucılıq<s n="n"/></l><r>tasarım<s n="n"/></r></p></e>
       <e><p><l>körümli<s n="n"/></l><r>önemli<s n="n"/></r></p></e>
-      <e><p><l>dirijor<s n="n"/></l><r>orkestra şefi<s n="n"/></r></p></e>
+      <e><p><l>dirijor<s n="n"/></l><r>orkestra<b/>şefi<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>ajiotaj<s n="n"/></l><r>furya<s n="n"/></r></p></e>
       <e><p><l>yetişmemezlik<s n="n"/></l><r>kıtlık<s n="n"/></r></p></e>
       <e><p><l>abituryent<s n="n"/></l><r>mezun<s n="n"/></r></p></e>
