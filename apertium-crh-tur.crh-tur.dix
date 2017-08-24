@@ -275,6 +275,7 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>esaplama<s n="n"/></l><r>hesaplama<s n="n"/></r></p></e>
       <e><p><l>semetdeş<s n="n"/></l><r>hemşehri<s n="n"/></r></p></e>
       <e><p><l>poyezd<s n="n"/></l><r>tren<s n="n"/></r></p></e>
       <e><p><l>press<s n="n"/></l><r>basın<s n="n"/></r></p></e>
@@ -402,7 +403,6 @@
       <e><p><l>bediiy<s n="n"/></l><r>sanatsal<s n="n"/></r></p></e>
       <e><p><l>orkestr<s n="n"/></l><r>orkestra<s n="n"/></r></p></e>
       <e><p><l>direktor<s n="n"/></l><r>yönetici<s n="n"/></r></p></e>
-      <e><p><l>coy<s n="n"/></l><r>kaybet<s n="n"/></r></p></e>
       <e><p><l>cıyıntıq<s n="n"/></l><r>derleme<s n="n"/></r></p></e>
       <e><p><l>şay<s n="n"/></l><r>böyle<s n="n"/></r></p></e>
       <e><p><l>umumtasil<s n="n"/></l><r>ilköğretim<s n="n"/></r></p></e>
@@ -5071,6 +5071,7 @@
       <e><p><l>raatlan<s n="v"/><s n="iv"/></l><r>rahatla<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qızın<s n="v"/><s n="iv"/></l><r>ısın<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>soy<s n="v"/><s n="tv"/></l><r>soy<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>coy<s n="v"/><s n="tv"/></l><r>kaybet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>qızdır<s n="v"/><s n="tv"/></l><r>ısıt<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>sıqıştır<s n="v"/><s n="tv"/></l><r>sıkıştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>beterleş<s n="v"/><s n="iv"/></l><r>kötüleş<s n="v"/><s n="iv"/></r></p></e>
