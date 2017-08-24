@@ -1268,7 +1268,14 @@
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
       <call-macro n="f_fut2_fut1"><with-param pos="3"/></call-macro>
       <call-macro n="f_3sg_if_empty1"><with-param pos="3"/></call-macro>
-      <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil"/></let>
+      <choose>
+        <when><test><equal><clip pos="1" side="tl" part="a_neg"/><lit-tag v="neg"/></equal></test>
+              <let><clip pos="1" side="tl" part="a_neg"/><lit v=""/></let>
+              <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="pot.neg"/></let></when>
+        <otherwise>
+              <let><clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="abil"/></let>
+        </otherwise>
+      </choose>
 
       <let>
 	      <clip pos="1" side="tl" part="whole"/>
