@@ -275,6 +275,7 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>mırza<s n="n"/></l><r>bey<s n="n"/></r></p></e>
       <e><p><l>kefil<s n="n"/></l><r>garanti<s n="n"/></r></p></e>
       <e><p><l>apay<s n="n"/></l><r>eş<s n="n"/></r></p></e>
       <e><p><l>reberlik<s n="n"/></l><r>yönetim<s n="n"/></r></p></e>
@@ -4684,6 +4685,7 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>teren<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>muayyen<s n="adj"/></l><r>belli<s n="adj"/></r></p></e>
       <e><p><l>kergin<s n="adj"/></l><r>gergin<s n="adj"/></r></p></e>
       <e><p><l>zaruriy<s n="adj"/></l><r>zorunlu<s n="adj"/></r></p></e>
