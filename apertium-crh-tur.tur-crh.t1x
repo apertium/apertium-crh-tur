@@ -7,6 +7,9 @@
     <def-cat n="prog">
       <cat-item tags="v.*.prog"/>
     </def-cat>
+    <def-cat n="fut">
+      <cat-item tags="v.*.fut"/>
+    </def-cat>
     <def-cat n="aor">
       <cat-item tags="v.*.aor"/>
     </def-cat>
@@ -21,6 +24,12 @@
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="a_tns">
+      <attr-item tags="fut"/>
+      <attr-item tags="aor"/>
+      <attr-item tags="past"/>
+      <attr-item tags="ifi"/>
     </def-attr>
     <def-attr n="a_pers_nbr">
       <attr-item tags="p1.sg"/>
@@ -39,6 +48,16 @@
   </section-def-vars>
 
   <section-def-macros>
+    <def-macro n="pers-to-1" npar="2">
+          <let>
+		<clip pos="1" side="tl" part="whole"/>
+		<concat>
+		<clip pos="1" side="tl" part="whole"/>
+                <clip pos="2" side="tl" part="a_pers_nbr"/>
+		</concat>
+          </let>
+    </def-macro>
+ 
     <def-macro n="test" npar="1">
           <let>
             <var n="number"/>
@@ -54,6 +73,7 @@
         <pattern-item n="cop-aor"/>
       </pattern>
       <action>
+	<call-macro n="pers-to-1"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
           <chunk name="sent" case="caseFirstWord">
             <tags>
@@ -61,19 +81,20 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-              <clip pos="2" side="tl" part="a_pers_nbr"/>
             </lu>
           </chunk>
         </out>
       </action>
     </rule>
 
-    <rule comment="REGLA: AOR">
+    <rule comment="REGLA: FUT">
       <pattern>
-        <pattern-item n="prog"/>
+        <pattern-item n="fut"/>
         <pattern-item n="cop-aor"/>
       </pattern>
       <action>
+	<let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="fut2"/></let>
+	<call-macro n="pers-to-1"><with-param pos="1"/><with-param pos="2"/></call-macro>
         <out>
           <chunk name="sent" case="caseFirstWord">
             <tags>
@@ -81,7 +102,27 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
-              <clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: PROG">
+      <pattern>
+        <pattern-item n="prog"/>
+        <pattern-item n="cop-aor"/>
+      </pattern>
+      <action>
+	<call-macro n="pers-to-1"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
