@@ -10,6 +10,9 @@
     <def-cat n="fut">
       <cat-item tags="v.*.fut"/>
     </def-cat>
+    <def-cat n="past">
+      <cat-item tags="v.*.past"/>
+    </def-cat>
     <def-cat n="aor">
       <cat-item tags="v.*.aor"/>
     </def-cat>
@@ -86,6 +89,27 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: PAST">
+      <pattern>
+        <pattern-item n="past"/>
+        <pattern-item n="cop-aor"/>
+      </pattern>
+      <action>
+	<call-macro n="pers-to-1"><with-param pos="1"/><with-param pos="2"/></call-macro>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: FUT">
       <pattern>
