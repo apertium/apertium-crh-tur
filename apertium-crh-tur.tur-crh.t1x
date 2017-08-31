@@ -4,6 +4,15 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="prog">
+      <cat-item tags="v.*.prog"/>
+    </def-cat>
+    <def-cat n="aor">
+      <cat-item tags="v.*.aor"/>
+    </def-cat>
+    <def-cat n="cop-aor">
+      <cat-item tags="cop.aor.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -13,6 +22,16 @@
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
+    <def-attr n="a_pers_nbr">
+      <attr-item tags="p1.sg"/>
+      <attr-item tags="p2.sg"/>
+      <attr-item tags="p3.sg"/>
+      <attr-item tags="p1.pl"/>
+      <attr-item tags="p2.pl"/>
+      <attr-item tags="p3.pl"/>
+          <attr-item tags="p2.frm.sg"/> 
+    </def-attr>
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -29,6 +48,48 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="REGLA: AOR">
+      <pattern>
+        <pattern-item n="aor"/>
+        <pattern-item n="cop-aor"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: AOR">
+      <pattern>
+        <pattern-item n="prog"/>
+        <pattern-item n="cop-aor"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
