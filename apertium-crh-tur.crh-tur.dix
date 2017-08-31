@@ -118,6 +118,7 @@
 	  <pardefs>
 
 <pardef n="n1__n2">
+<e>       <p><l>NON_ANALYSIS</l>          <r>DUE_TO_LT_PROC_HANG</r></p></e>
   <e r="LR"><p><l></l><r><s n="XD"/></r></p></e>
 <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/><s n="XD"/></r></p></e>
 <e r="RL"><p><l></l><r></r></p></e>
@@ -337,7 +338,7 @@
       <e><p><l>cemaatçılıq<s n="n"/></l><r>kamu<s n="n"/></r></p></e>
       <e><p><l>gümrük<s n="n"/></l><r>gümrük<s n="n"/></r></p></e>
       <e><p><l>duma<s n="n"/></l><r>meclis<s n="n"/></r></p></e>
-      <e><p><l>teleleyha<s n="n"/></l><r>televizyon<b/>programı<s n="n"/></r></p></e>
+      <e><p><l>teleleyha<s n="n"/></l><r>televizyon<b/>programı<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>zorbalıq<s n="n"/></l><r>zulüm<s n="n"/></r></p></e>
       <e><p><l>yolaq<s n="n"/></l><r>yol<s n="n"/></r></p></e>
       <e><p><l>yolaq<s n="n"/></l><r>kanal<s n="n"/></r></p></e>
