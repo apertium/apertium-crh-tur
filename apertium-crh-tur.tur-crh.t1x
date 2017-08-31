@@ -19,6 +19,9 @@
     <def-cat n="cop-aor">
       <cat-item tags="cop.aor.*"/>
     </def-cat>
+    <def-cat n="cop-ifi">
+      <cat-item tags="cop.ifi.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -89,6 +92,31 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: PLU ">
+      <pattern>
+        <pattern-item n="past"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+	<let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="prc_past"/></let>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+		<b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: PAST">
       <pattern>
