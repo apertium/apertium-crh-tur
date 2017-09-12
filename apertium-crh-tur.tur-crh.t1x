@@ -16,6 +16,10 @@
     <def-cat n="aor">
       <cat-item tags="v.*.aor"/>
     </def-cat>
+    <def-cat n="cond">
+      <cat-item tags="v.*.gna_cond.*"/>
+      <cat-item tags="v.*.cond.*"/>
+    </def-cat>
     <def-cat n="cop-aor">
       <cat-item tags="cop.aor.*"/>
     </def-cat>
@@ -28,6 +32,10 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_cnd">
+      <attr-item tags="cond"/>
+      <attr-item tags="gna_cond"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
@@ -92,6 +100,51 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: COND">
+      <pattern>
+        <pattern-item n="cond"/>
+      </pattern>
+      <action>
+	<let><clip pos="1" side="tl" part="a_cnd"/><lit-tag v="gna_cond"/></let>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: -ır edi ">
+      <pattern>
+        <pattern-item n="aor"/>
+        <pattern-item n="cop-ifi"/>
+      </pattern>
+      <action>
+	<let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="prc_fut"/></let>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+		<b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: PLU ">
       <pattern>

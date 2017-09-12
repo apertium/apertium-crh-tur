@@ -276,6 +276,13 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>baar<s n="n"/></l><r>bahar<s n="n"/></r></p></e>
+
+      <e r="LR"><p><l>gvardiya<s n="n"/></l><r>muhafız<s n="n"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>gvardiya<s n="n"/><s n="pl"/></l><r>muhafız<s n="n"/><s n="pl"/></r></p></e>
+      <e><p><l>aydavcı<s n="n"/></l><r>şoför<s n="n"/></r></p></e>
+      <e><p><l>birdemlik<s n="n"/></l><r>dayanışma<s n="n"/></r></p></e>
+      <e><p><l>müür<s n="n"/></l><r>mühür<s n="n"/></r></p></e>
       <e><p><l>mırza<s n="n"/></l><r>bey<s n="n"/></r></p></e>
       <e><p><l>kefil<s n="n"/></l><r>garanti<s n="n"/></r></p></e>
       <e><p><l>apay<s n="n"/></l><r>eş<s n="n"/></r></p></e>
@@ -4686,6 +4693,13 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>qavmiy<s n="adj"/></l><r>ulusal<s n="adj"/></r></p></e>
+      <e><p><l>qavmiy<s n="adj"/></l><r>milli<s n="adj"/></r></p></e>
+      <e><p><l>qart<s n="adj"/></l><r>yaşlı<s n="adj"/></r></p></e>
+      <e><p><l>qart<s n="adj"/></l><r>ihtiyar<s n="adj"/></r></p></e>
+      <e><p><l>tuvğan<s n="adj"/></l><r>yerli<s n="adj"/></r></p></e>
+      <e r="LR"><p><l>tuvğan<s n="adj"/></l><r>kendi<s n="det"/><s n="ref"/></r></p></e>
+      <e><p><l>uyğun<s n="adj"/></l><r>uygun<s n="adj"/></r></p></e>
       <e><p><l>teren<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>muayyen<s n="adj"/></l><r>belli<s n="adj"/></r></p></e>
       <e><p><l>kergin<s n="adj"/></l><r>gergin<s n="adj"/></r></p></e>
@@ -5009,7 +5023,7 @@
       <e><p><l>olduqça<s n="adv"/></l><r>oldukça<s n="adv"/></r></p></e>
 	  <e><p><l>evelâ<s n="adv"/></l><r>evvela<s n="adv"/></r></p></e>
       <e><p><l>asılında<s n="adv"/></l><r>aslında<s n="adv"/></r></p></e>
-	  <e><p><l>ğayrıdan<s n="adv"/></l><r>dışarı<s n="n"/><s n="abl"/></r></p></e>
+	  <e><p><l>ğayrıdan<s n="adv"/></l><r>yeniden<s n="adv"/></r></p></e>
 
 	  <e><p><l>binayen<s n="adv"/></l><r>binaen<s n="adv"/></r></p></e>
 	  <e><p><l>bütünley<s n="adv"/></l><r>tamamen<s n="adv"/></r></p></e>
@@ -5081,6 +5095,9 @@
       <e><p><l>qal<s n="vaux"/></l><r>kal<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>otur<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>                   <!-- Transfer -->
 
+      <e><p><l>tikle<s n="v"/><s n="tv"/></l><r>kur<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>izaatla<s n="v"/><s n="tv"/></l><r>açıkla<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>şekle<s n="v"/><s n="iv"/></l><r>şüphelen<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>raatlan<s n="v"/><s n="iv"/></l><r>rahatla<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qızın<s n="v"/><s n="iv"/></l><r>ısın<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>soy<s n="v"/><s n="tv"/></l><r>soy<s n="v"/><s n="tv"/></r></p></e>

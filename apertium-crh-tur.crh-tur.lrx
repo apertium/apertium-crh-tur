@@ -5,7 +5,15 @@
       <select lemma="bildir" tags="v.*"/>
     </match>
   </rule>
-
+  
+  <rule weight="1.0">
+    <match lemma="yaş" tags="n.*"/>
+    <match lemma="lı" tags="post"/>
+    <match lemma="qart" tags="adj.*">
+      <select lemma="ihtiyar" tags="adj.*"/>
+    </match>
+  </rule>
+  
   <rule weight="1.0">
   <or><match lemma="köy"/><match lemma="şeer"/></or>
     <match lemma="hocalıq" tags="n.*">
@@ -51,6 +59,7 @@
       <select lemma="aile" tags="n.*"/>
     </match>
   </rule>
+ 
   
   <rule weight="1.0">
     <match lemma="malümat" tags="n.pl.*">
