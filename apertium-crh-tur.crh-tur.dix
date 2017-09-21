@@ -172,6 +172,7 @@
 
       <!-- SECTION: Postpositions -->
       <e><p><l>sız<s n="post"/></l><r>sız<s n="post"/></r></p></e>
+      <e><p><l>binaen<s n="post"/></l><r>göre<s n="post"/></r></p></e>
       <e><p><l>lı<s n="post"/></l><r>lı<s n="post"/></r></p></e>
 
       <e><p><l>doğru<s n="post"/></l><r>doğru<s n="post"/></r></p></e>
@@ -276,6 +277,7 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>rada<s n="n"/></l><r>şura<s n="n"/></r></p></e>
       <e><p><l>baar<s n="n"/></l><r>bahar<s n="n"/></r></p></e>
 
       <e r="LR"><p><l>gvardiya<s n="n"/></l><r>muhafız<s n="n"/><s n="pl"/></r></p></e>
@@ -4693,6 +4695,8 @@
 
 
   <!-- SECTION: Adjectives -->
+      <e><p><l>hususiy<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
+      <e><p><l>teşkiliy<s n="adj"/></l><r>düzenleyici<s n="adj"/></r></p></e>
       <e><p><l>qavmiy<s n="adj"/></l><r>ulusal<s n="adj"/></r></p></e>
       <e><p><l>qavmiy<s n="adj"/></l><r>milli<s n="adj"/></r></p></e>
       <e><p><l>qart<s n="adj"/></l><r>yaşlı<s n="adj"/></r></p></e>
@@ -4955,6 +4959,7 @@
       <e><p><l>belli<s n="adj"/></l><r>ünlü<s n="adj"/></r></p></e>
       <e><p><l>muhtar<s n="adj"/></l><r>özerk<s n="adj"/></r></p></e>
       <e><p><l>aliy<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
+      <e><p><l>özek<s n="adj"/></l><r>nükleer<s n="adj"/></r></p></e>
       <e><p><l>şimaliy<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
       <e><p><l>arbiy<s n="adj"/></l><r>harbi<s n="adj"/></r></p></e>
       <e><p><l>ağır<s n="adj"/></l><r>ağır<s n="adj"/></r></p></e>
@@ -4995,6 +5000,7 @@
       <e><p><l>muqaddes<s n="adj"/></l><r>mukaddes<s n="adj"/></r></p></e>
       
       <!-- SECTION: Adverbs -->
+      <e><p><l>ilâhre<s n="adv"/></l><r>vesaire<s n="adv"/></r></p></e>
       <e><p><l>er<b/>daim<s n="adv"/></l><r>sürekli<s n="adv"/></r></p></e>
       <e><p><l>umumen<s n="adv"/></l><r>genelde<s n="adv"/></r></p></e>
       <e><p><l>evelâ<s n="adv"/></l><r>öncelikle<s n="adv"/></r></p></e>
@@ -5084,6 +5090,7 @@
 	  <e><p><l>öyle<s n="adv"/></l><r>öyle<s n="adv"/></r></p></e>
 	
       <!-- SECTION: Verbs -->
+      <e><p><l>oşa<s n="v"/><s n="iv"/></l><r>benze<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>e<s n="vaux"/></l><r>i<s n="vaux"/></r></p></e>
       <!--<e><p><l>laş<s n="v"/><s n="iv"/></l><r>laş<s n="v"/><s n="iv"/></r></p></e>-->
@@ -5109,6 +5116,7 @@
       <e><p><l>ruslaştır<s n="v"/><s n="tv"/></l><r>ruslaştır<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>mahsuslaştır<s n="v"/><s n="tv"/></l><r>özelleştir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>aktualleştir<s n="v"/><s n="tv"/></l><r>gerçekleştir<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>ös<s n="v"/><s n="iv"/></l><r>büyü<s n="v"/><s n="iv"/></r></p></e>
 
 
       <e><p><l>quvan<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>

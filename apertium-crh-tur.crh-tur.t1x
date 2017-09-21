@@ -58,7 +58,14 @@
       <cat-item tags="vaux.*.ifi"/>
     </def-cat>
 
+    <def-cat n="ve">
+      <cat-item lemma="ve" tags="cnjcoo"/>
+    </def-cat>
  
+    <def-cat n="ilâhre">
+      <cat-item lemma="ilâhre" tags="adv"/>
+    </def-cat>
+
     <def-cat n="prc_fut">
       <cat-item tags="v.*.prc_fut"/>
       <cat-item tags="v.*.*.prc_fut"/>
@@ -463,6 +470,32 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: ve ilâhre ">
+      <pattern>
+        <pattern-item n="ve"/>
+        <pattern-item n="ilâhre"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <let>
+          <clip pos="1" side="tl" part="a_non_fin"/><lit-tag v="dub.aor"/>
+        </let>
+        <let>
+          <clip pos="1" side="tl" part="a_cas"/><lit-tag v="p3.sg"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseSecondWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: vaux_ger_past ">
       <pattern>
