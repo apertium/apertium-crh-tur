@@ -277,6 +277,7 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>mevam<s n="n"/></l><r>durum<s n="n"/></r></p></e>
       <e><p><l>rada<s n="n"/></l><r>şura<s n="n"/></r></p></e>
       <e><p><l>baar<s n="n"/></l><r>bahar<s n="n"/></r></p></e>
 
@@ -5090,6 +5091,9 @@
 	  <e><p><l>öyle<s n="adv"/></l><r>öyle<s n="adv"/></r></p></e>
 	
       <!-- SECTION: Verbs -->
+      <e><p><l>qatna<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>yür<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>qoltut<s n="v"/><s n="iv"/></l><r>destek<b/>ver<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>oşa<s n="v"/><s n="iv"/></l><r>benze<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>e<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e><p><l>e<s n="vaux"/></l><r>i<s n="vaux"/></r></p></e>
@@ -5102,6 +5106,7 @@
       <e><p><l>qal<s n="vaux"/></l><r>kal<s n="v"/><s n="iv"/></r></p></e>                     <!-- Transfer -->
       <e><p><l>otur<s n="vaux"/></l><r>otur<s n="v"/><s n="iv"/></r></p></e>                   <!-- Transfer -->
 
+      <e><p><l>isbatla<s n="v"/><s n="tv"/></l><r>kanıtla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>tikle<s n="v"/><s n="tv"/></l><r>kur<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>izaatla<s n="v"/><s n="tv"/></l><r>açıkla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>şekle<s n="v"/><s n="iv"/></l><r>şüphelen<s n="v"/><s n="iv"/></r></p></e>
