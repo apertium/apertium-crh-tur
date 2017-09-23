@@ -277,6 +277,9 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>tögerek<s n="n"/></l><r>yuvarlak<s n="n"/></r></p></e>
+      <e><p><l>energetika<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
+      <e><p><l>timsal<s n="n"/></l><r>sembol<s n="n"/></r></p></e>
       <e><p><l>mevam<s n="n"/></l><r>durum<s n="n"/></r></p></e>
       <e><p><l>rada<s n="n"/></l><r>şura<s n="n"/></r></p></e>
       <e><p><l>baar<s n="n"/></l><r>bahar<s n="n"/></r></p></e>
@@ -5001,6 +5004,7 @@
       <e><p><l>muqaddes<s n="adj"/></l><r>mukaddes<s n="adj"/></r></p></e>
       
       <!-- SECTION: Adverbs -->
+      <e><p><l>bazıda<s n="adv"/></l><r>bazen<s n="adv"/></r></p></e>
       <e><p><l>ilâhre<s n="adv"/></l><r>vesaire<s n="adv"/></r></p></e>
       <e><p><l>er<b/>daim<s n="adv"/></l><r>sürekli<s n="adv"/></r></p></e>
       <e><p><l>umumen<s n="adv"/></l><r>genelde<s n="adv"/></r></p></e>
@@ -6787,7 +6791,7 @@
       <e><p><l>lager<s n="n"/></l><r>kamp<s n="n"/></r></p></e>
       <e><p><l>ingliz<s n="n"/></l><r>ingiliz<s n="n"/></r></p></e>
       <e><p><l>rusça<s n="n"/></l><r>Rusça<s n="n"/></r></p></e>
-      <e><p><l>portugalca<s n="adv"/></l><r>Portekizce<s n="n"/></r></p></e>
+      <e><p><l>portugalca<s n="adv"/></l><r>Portekizce<s n="n"/><s n="nom"/></r></p></e>
       <e><p><l>özbek<s n="n"/></l><r>özbek<s n="n"/></r></p></e>
       <e><p><l>çuvaş<s n="n"/></l><r>çuvaş<s n="n"/></r></p></e>
 
