@@ -277,6 +277,8 @@
 	  <e><p><l>milliard<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <e><p><l>teprenüv<s n="n"/></l><r>sarsılma<s n="n"/></r></p></e>
+      <e><p><l>eykel<s n="n"/></l><r>heykel<s n="n"/></r></p></e>
       <e><p><l>tögerek<s n="n"/></l><r>yuvarlak<s n="n"/></r></p></e>
       <e><p><l>energetika<s n="n"/></l><r>enerji<s n="n"/></r></p></e>
       <e><p><l>timsal<s n="n"/></l><r>sembol<s n="n"/></r></p></e>
@@ -5096,6 +5098,7 @@
 	  <e><p><l>öyle<s n="adv"/></l><r>öyle<s n="adv"/></r></p></e>
 	
       <!-- SECTION: Verbs -->
+      <e><p><l>tizil<s n="v"/><s n="iv"/></l><r>dizil<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qatna<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>yür<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>qoltut<s n="v"/><s n="iv"/></l><r>destek<b/>ver<s n="v"/><s n="iv"/></r></p></e>
@@ -7145,7 +7148,7 @@
       <e><p><l>ziyan<s n="n"/></l><r>ziyan<s n="n"/></r></p></e>
       <e><p><l>zikir<s n="n"/></l><r>zikir<s n="n"/></r></p></e>
       <e><p><l>zerdali<s n="n"/></l><r>zerdali<s n="n"/></r></p></e>
-      <e><p><l>zelzele<s n="n"/></l><r>zelzele<s n="n"/></r></p></e>
+      <e><p><l>zelzele<s n="n"/></l><r>deprem<s n="n"/></r></p></e>
       <e><p><l>zar<s n="n"/></l><r>zar<s n="n"/></r></p></e>
       <e><p><l>zahire<s n="n"/></l><r>zahire<s n="n"/></r></p></e>
       <e><p><l>zafer<s n="n"/></l><r>zafer<s n="n"/></r></p></e>
