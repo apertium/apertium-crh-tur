@@ -6962,7 +6962,7 @@
       <e><p><l>yün<s n="n"/></l><r>yün<s n="n"/></r></p></e>
       <e><p><l>yoldaş<s n="n"/></l><r>yoldaş<s n="n"/></r></p></e>
       <e><p><l>yerleşim<s n="n"/></l><r>yerleşim<s n="n"/></r></p></e>
-      <e><p><l>yanlısı<s n="n"/></l><r>yanlısı<s n="n"/></r></p></e>
+      <e r="LR"><p><l>yanlısı<s n="n"/></l><r>yanlısı<s n="n"/></r></p><par n="n1__n2"/></e>
       <e><p><l>yağmur<s n="n"/></l><r>yağmur<s n="n"/></r></p></e>
       <e><p><l>tayama<s n="n"/></l><r>tayama<s n="n"/></r></p></e>
       <e><p><l>sürü<s n="n"/></l><r>sürü<s n="n"/></r></p></e>
