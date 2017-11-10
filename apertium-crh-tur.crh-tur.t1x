@@ -14,6 +14,11 @@
      <def-cat n="bil">
       <cat-item lemma="bil" tags="v.*"/>
     </def-cat>     
+
+    <def-cat n="soñ">
+      <cat-item lemma="soñ" tags="post"/>
+    </def-cat>     
+
     <def-cat n="iste">
       <cat-item lemma="iste" tags="v.*"/>
     </def-cat>
@@ -470,6 +475,33 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: GAn soñ ">
+      <pattern>
+        <pattern-item n="gpr_past"/>
+        <pattern-item n="soñ"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+<let><clip pos="1" side="tl" part="whole"/>
+<concat><clip pos="1" side="tl" part="whole"/><lit-tag v="subst.abl"/></concat></let>
+       <out>
+          <chunk name="n" case="caseSecondWord">
+            <tags>
+              <tag><lit-tag v="SP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+	<b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: ve ilâhre ">
       <pattern>
