@@ -2,7 +2,7 @@
 ## Makefile for Crimean Turkish--Turkish
 ###############################################################################
 
-VERSION=0.1.0
+VERSION=0.2.0
 LANG1=crh
 LANG2=tur
 PREFIX1=$(LANG1)-$(LANG2)
