@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Crimean Turkish-Turkish], [0.2.0], [memduhg@gmail.com], [apertium-crh-tur], [http://wiki.apertium.org/wiki/Apertium-crh-tur])
+AC_INIT([Apertium Crimean Turkish-Turkish], [0.3.0], [memduhg@gmail.com], [apertium-crh-tur], [http://wiki.apertium.org/wiki/Apertium-crh-tur])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
