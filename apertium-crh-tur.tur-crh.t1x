@@ -42,6 +42,7 @@
     <def-attr n="a_tns">
       <attr-item tags="fut"/>
       <attr-item tags="aor"/>
+      <attr-item tags="prog"/>
       <attr-item tags="past"/>
       <attr-item tags="ifi"/>
     </def-attr>
@@ -221,6 +222,7 @@
       </pattern>
       <action>
 	<call-macro n="pers-to-1"><with-param pos="1"/><with-param pos="2"/></call-macro>
+	<let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="aor"/></let>
         <out>
           <chunk name="sent" case="caseFirstWord">
             <tags>
