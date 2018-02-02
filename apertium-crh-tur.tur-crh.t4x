@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+<transfer>
+  <section-def-cats>
+    <def-cat n="cop-aor-3">
+      <cat-item lemma="i" tags="cop.aor.p3.sg"/>
+      <cat-item lemma="i" tags="cop.aor.p3.sg.*"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.sg"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.sg.*"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.pl"/>
+      <cat-item lemma="i" tags="cop.aor.gno.p3.pl.*"/>
+    </def-cat>
+    <def-cat n="cop-aor-3pl">
+      <cat-item lemma="i" tags="cop.aor.p3.pl"/>
+      <cat-item lemma="i" tags="cop.aor.p3.pl.*"/>
+    </def-cat>
+    <def-cat n="cop-aor_ifi-12">
+      <cat-item lemma="i" tags="cop.aor.p1.*"/>
+      <cat-item lemma="i" tags="cop.aor.p2.*"/>
+      <cat-item lemma="i" tags="cop.ifi.p1.*"/>
+      <cat-item lemma="i" tags="cop.ifi.p2.*"/>
+    </def-cat>
+    <def-cat n="cop-ifi-ken">
+      <cat-item lemma="i" tags="cop.ifi.*"/>
+      <cat-item lemma="i" tags="cop.gna_ken"/>
+    </def-cat>
+    <def-cat n="cop-ger_past">
+      <cat-item lemma="i" tags="cop.ger_past.*"/>
+      <cat-item lemma="i" tags="vaux.ger_past.*"/>
+    </def-cat>
+    <def-cat n="imper">
+      <cat-item tags="v.*.imp.*"/>
+      <cat-item tags="v.*.*.imp.*"/>
+      <cat-item tags="v.*.*.*.imp.*"/>
+    </def-cat>
+    <def-cat n="qst">
+      <cat-item lemma="mı" tags="qst"/>
+    </def-cat>
+    <def-cat n="non-fin">
+      <cat-item tags="v.*.nec"/>
+      <cat-item tags="v.*.*.nec"/>
+      <cat-item tags="v.*.*.*.nec"/>
+    </def-cat>
+    <def-cat n="nom-adj-subst">
+      <cat-item tags="n"/>
+      <cat-item tags="adj.subst"/>
+    </def-cat>
+    <def-cat n="nom">
+      <cat-item tags="n"/>
+      <cat-item tags="n.*"/>
+    </def-cat>
+    <def-cat n="nom-adj">
+      <cat-item tags="n"/>
+      <cat-item tags="n.*"/>
+      <cat-item tags="adj"/>
+      <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="open-class">
+      <cat-item tags="n.*"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adv.*"/>
+      <cat-item tags="v.*"/>
+      <cat-item tags="num.*"/>
+    </def-cat>
+    <def-cat n="laş">
+      <cat-item lemma="laş" tags="v.iv.*"/>
+    </def-cat>
+    <def-cat n="a-post">
+      <cat-item lemma="sız" tags="post"/>
+      <cat-item lemma="lı" tags="post"/>
+      <cat-item lemma="sız" tags="post.*"/>
+      <cat-item lemma="lı" tags="post.*"/>
+    </def-cat>
+    <def-cat n="post">
+      <cat-item tags="post"/>
+    </def-cat>
+    <def-cat n="punct">
+      <cat-item tags="apos"/>
+      <cat-item tags="cm"/>
+      <cat-item tags="guio"/>
+      <cat-item tags="lpar"/>
+      <cat-item tags="lquot"/>
+      <cat-item tags="quot"/>
+      <cat-item tags="rpar"/>
+      <cat-item tags="rquot"/>
+      <cat-item tags="sent"/>
+      <cat-item tags="num"/> <!-- 7 idi -->
+      <cat-item tags="num.ord"/>
+    </def-cat>
+    <def-cat n="default">
+      <cat-item tags="*"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="a_err">
+      <attr-item tags="err_orth"/>
+    </def-attr>
+    <def-attr n="attrstub">
+      <attr-item tags="attrstub"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="varstub"/>
+  </section-def-vars>
+
+
+  <section-def-macros>
+
+    <def-macro n="f_replace_tags" npar="1">
+          <choose>
+            <when>
+              <test><or><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.sg"/></equal>
+                        <equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.sg.err_orth"/></equal></or></test>
+              <let><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.p3.frm.sg"/></let>
+            </when>
+            <when>
+              <test><or><equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.pl"/></equal>
+                        <equal><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.gno.p3.pl.err_orth"/></equal></or></test>
+              <let><clip pos="1" side="sl" part="tags"/><lit-tag v="cop.aor.p3.frm.pl"/></let>
+            </when>
+          </choose>
+    </def-macro>
+
+    <def-macro n="f_strip_tags" npar="1">
+          <let>
+            <clip pos="1" side="sl" part="a_err"/>
+            <lit v=""/>
+          </let>
+    </def-macro>
+
+  </section-def-macros>
+
+
+  <section-rules>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-ger_past"/>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="a-post"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="imper"/>
+        <pattern-item n="cop-ifi-ken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <b pos="1"/>
+          <lu><clip pos="2" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="punct"/>
+        <pattern-item n="cop-ifi-ken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <b pos="1"/>
+          <lu><clip pos="2" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="post"/>
+        <pattern-item n="cop-ifi-ken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+          <b pos="1"/>
+          <lu><clip pos="2" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="cop-ifi-ken"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="cop-aor_ifi-12"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj"/>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj"/>
+        <pattern-item n="cop-aor_ifi-12"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj"/>
+        <pattern-item n="cop-aor_ifi-12"/>
+        <pattern-item n="qst"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="3" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="laş"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+        <pattern-item n="cop-aor-3"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj-subst"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/><lit-tag v="nom"/></lu>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="nom-adj-subst"/>
+        <pattern-item n="a-post"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+      <call-macro n="f_strip_tags"><with-param pos="2"/></call-macro>
+
+        <out>
+          <mlu>
+            <lu><clip pos="1" side="sl" part="whole"/></lu>
+            <lu><clip pos="2" side="sl" part="whole"/></lu>
+          </mlu>
+        </out>
+      </action>
+    </rule>
+
+
+
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="default"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+
+        <out>
+          <lu><clip pos="1" side="sl" part="whole"/></lu>
+        </out>
+      </action>
+    </rule>
+
+    <!-- SECTION: Lowest priority rules -->
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-aor_ifi-12"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-aor-3"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-aor-3pl"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="cop-ger_past"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+    <rule comment="">
+      <pattern>
+        <pattern-item n="a-post"/>
+      </pattern>
+      <action>
+      <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
+        <out><b pos="0"/></out>
+      </action>
+    </rule>
+
+
+
+
+
+
+
+  </section-rules>
+
+</transfer>

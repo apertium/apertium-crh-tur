@@ -15,6 +15,7 @@
 /apertium-crh-tur.tur-crh.t1x -text
 /apertium-crh-tur.tur-crh.t2x -text
 /apertium-crh-tur.tur-crh.t3x -text
+/apertium-crh-tur.tur-crh.t4x -text
 /autogen.sh -text
 /configure.ac -text
 dev/bidix-sanity.sh -text

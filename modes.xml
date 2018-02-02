@@ -128,5 +128,45 @@
       </program>
     </pipeline>
   </mode>
+
+  <mode name="tur-crh-postchunk2" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="tur-crh.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-crh.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -u 2 -g $2">
+        <file name="tur-crh.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-crh.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="tur-crh.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-crh-tur.tur-crh.t1x"/>
+        <file name="tur-crh.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-crh-tur.tur-crh.t2x"/>
+        <file name="tur-crh.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-crh-tur.tur-crh.t3x"/>
+        <file name="tur-crh.t3x.bin"/>
+      </program>
+      <program name="apertium-transfer -t -n">
+        <file name="apertium-crh-tur.tur-crh.t4x"/>
+        <file name="tur-crh.t4x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+
 </modes>
 
