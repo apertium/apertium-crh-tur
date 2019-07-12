@@ -21,21 +21,9 @@
       <program name="lrx-proc -m">
         <file name="crh-tur.autolex.bin"/>
       </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-crh-tur.crh-tur.t1x"/>
-        <file name="crh-tur.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-crh-tur.crh-tur.t2x"/>
-        <file name="crh-tur.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-crh-tur.crh-tur.t3x"/>
-        <file name="crh-tur.t3x.bin"/>
-      </program>
-      <program name="apertium-transfer -n">
-        <file name="apertium-crh-tur.crh-tur.t4x"/>
-        <file name="crh-tur.t4x.bin"/>
+      <program name="rtx-proc">
+        <file name="crh-tur.rtx.bin2"/>
+        <file name="crh-tur.rtx.bin"/>
       </program>
       <program name="lt-proc $1">
         <file name="crh-tur.autogen.bin"/>
@@ -107,17 +95,10 @@
       <program name="lrx-proc -m">
         <file name="tur-crh.autolex.bin"/>
       </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-crh-tur.tur-crh.t1x"/>
-        <file name="tur-crh.t1x.bin"/>
+      <program name="rtx-proc">
+        <file name="tur-crh.rtx.bin2"/>
+        <file name="tur-crh.rtx.bin"/>
       </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-crh-tur.tur-crh.t2x"/>
-        <file name="tur-crh.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-crh-tur.tur-crh.t3x"/>
-        <file name="tur-crh.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
         <file name="tur-crh.autogen.bin"/>

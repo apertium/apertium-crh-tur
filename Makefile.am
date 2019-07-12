@@ -22,6 +22,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).t2x.bin	\
 	$(PREFIX1).t3x.bin	\
 	$(PREFIX1).t4x.bin	\
+	$(PREFIX1).rtx.bin	\
 	$(PREFIX2).automorf.bin	\
 	$(PREFIX2).prob		\
 	$(PREFIX2).rlx.bin	\
@@ -32,7 +33,8 @@ TARGETS_COMMON =		\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t2x.bin	\
 	$(PREFIX2).t4x.bin	\
-	$(PREFIX2).t3x.bin
+	$(PREFIX2).t3x.bin	\
+	$(PREFIX2).rtx.bin
 
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
@@ -190,6 +192,15 @@ $(PREFIX2).t4x.bin: $(BASENAME).$(PREFIX2).t4x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
 
+###############################################################################
+## Recursive transfer rules
+###############################################################################
+
+$(PREFIX1).rtx.bin: $(BASENAME).$(PREFIX1).rtx
+	rtx-comp $< $@ $(PREFIX1).rtx.bin2
+
+$(PREFIX2).rtx.bin: $(BASENAME).$(PREFIX2).rtx
+	rtx-comp $< $@ $(PREFIX2).rtx.bin2
 
 ###############################################################################
 ## Postgeneration dictionaries
