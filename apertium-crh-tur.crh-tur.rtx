@@ -17,7 +17,7 @@ number = (ND sg) sg pl sp ND;
 !! Rules
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-NP -> n {1} |
-      adj n {2 _1 1(gender=2.gender, number=2.number)} ;
+NP -> n.$number {1} |
+      adj n.$number {2 _1 1(gender=2.gender, number=2.number)} ;
 
 ! http://wiki.apertium.org/wiki/User:Popcorndude/Recursive_Transfer/Formalism
