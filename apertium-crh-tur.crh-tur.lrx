@@ -46,10 +46,16 @@
 	<or><match lemma="daa"/><match lemma="da"/></or>
   </rule>
 
-   <rule weight="1.0">
+   <rule weight="1.2">
     <match lemma="bir"/>
     <match lemma="vaqıt" tags="n.*">
       <select lemma="süre" tags="n.*"/>
+    </match>
+  </rule>
+
+   <rule weight="1.0">
+    <match lemma="vaqıt" tags="n.*">
+      <select lemma="vakit" tags="n.*"/>
     </match>
   </rule>
  
