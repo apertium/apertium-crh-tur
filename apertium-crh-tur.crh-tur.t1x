@@ -478,13 +478,17 @@
 
     <rule comment="REGLA: GAn soñ ">
       <pattern>
-        <pattern-item n="gpr_past"/>
+        <pattern-item n="ger_past"/>
         <pattern-item n="soñ"/>
       </pattern>
       <action>
       <call-macro n="f_strip_tags"><with-param pos="1"/></call-macro>
-<let><clip pos="1" side="tl" part="whole"/>
-<concat><clip pos="1" side="tl" part="whole"/><lit-tag v="subst.abl"/></concat></let>
+      <!-- let><clip pos="1" side="tl" part="whole"/>
+        <concat><clip pos="1" side="tl" part="whole"/><lit-tag v="subst.abl"/></concat>
+       </let -->
+       <let><clip pos="1" side="tl" part="a_cas"/>
+         <lit-tag v="abl"/>
+       </let>
        <out>
           <chunk name="n" case="caseSecondWord">
             <tags>
@@ -493,7 +497,7 @@
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
-	<b/>
+            <b/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
             </lu>
