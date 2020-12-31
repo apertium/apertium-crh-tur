@@ -2,7 +2,6 @@
 ## Makefile for Crimean Turkish--Turkish
 ###############################################################################
 
-VERSION=0.3.0
 LANG1=crh
 LANG2=tur
 PREFIX1=$(LANG1)-$(LANG2)
@@ -262,4 +261,3 @@ test: all
 	@echo "house" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
