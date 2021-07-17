@@ -1,0 +1,18 @@
+[DJpFwRoV09wr#0] ^*Yipnin/*Yipnin$ ^*uzunu/*uzunu$ ^*yaxşı/*yaxşı$^,<cm>/,<cm>$ ^söz<n><gen><err_orth>/söz<n><gen><err_orth>$ ^qısqa<adj><subst><px3sp><nom>/kısa<adj><subst><px3sp><nom>$^.<sent>/.<sent>$
+[/DJpFwRoV09wr]
+[E3g6Cxztkm7g#0] ^Yigit<n><gen><err_orth>/Yiğit<n><gen><err_orth>$ ^söz<n><px3sp><nom>/söz<n><px3sp><nom>$ ^bir<num><subst><nom>/bir<num><subst><nom>$ ^e<cop><aor><gno><p3><pl>/i<cop><aor><gno><p3><pl>$^.<sent>/.<sent>$
+[/E3g6Cxztkm7g]
+[Mf36QA5Af3pm#0] ^Söz<n><px3sp><ins><err_orth>/Söz<n><px3sp><ins><err_orth>$ ^iş<n><px3sp><nom><err_orth>/iş<n><px3sp><nom><err_orth>$ ^bir<det><ind>/bir<det><ind>$ ^ol<v><iv><imp><p3><sg>/ol<v><iv><imp><p3><sg>$^.<sent>/.<sent>$
+[/Mf36QA5Af3pm]
+[Qykp7ffvVwdE#0] ^At<v><tv><pass><prc_past>/At<v><tv><pass><prc_past>$ ^*oq/*oq$ ^keri<adv>/geri<adv>$ ^qayt<v><iv><neg><fut><p3><sg>/dön<v><iv><neg><fut><p3><sg>$^,<cm>/,<cm>$ ^ayt<v><tv><pass><gpr_past>/de<v><tv><pass><gpr_past>$ ^söz<n><nom>/söz<n><nom>$^.<sent>/.<sent>$
+[/Qykp7ffvVwdE]
+[Spl1Lnx0nFET#0] ^Uzaqtan<adv>/Uzaktan<adv>$ ^davul<n><gen><err_orth>/davul<n><gen><err_orth>$ ^ses<n><px3sp><nom>/ses<n><px3sp><nom>$ ^xoş<adj>/hoş<adj>$ ^kelir<n><nom>/@kelir<n><nom>$^.<sent>/.<sent>$
+[/Spl1Lnx0nFET]
+[TLzp9R8Hn1r2#0] ^Qız<n><px1sg><nom>/Kız<n><px1sg><nom>$ ^san<n><dat><err_orth>/san<n><dat><err_orth>$ ^*aytamın/*aytamın$^,<cm>/,<cm>$ ^keli<n><px2sg><nom>/@keli<n><px2sg><nom>$ ^e<cop><aor><p1><sg><err_orth>/i<cop><aor><p1><sg><err_orth>$ ^sen<prn><pers><p2><sg><nom>/sen<prn><pers><p2><sg><nom>$ ^diñle<v><tv><imp><p2><sg><err_orth>/dinle<v><tv><imp><p2><sg><err_orth>$^.<sent>/.<sent>$
+[/TLzp9R8Hn1r2]
+[WYto43fI9JmV#0] ^Adam<n><acc>/Adam<n><acc>$ ^küldür<v><tv><ger_past><nom>/güldür<v><tv><ger_past><nom>$ ^da<postadv><err_orth>/da<postadv><err_orth>$ ^til<n><nom>/dil<n><nom>$^,<cm>/,<cm>$ ^küydür<v><tv><ger_past><nom>/@küydür<v><tv><ger_past><nom>$ ^e<cop><aor><p3><sg>/i<cop><aor><p3><sg>$ ^da<postadv><err_orth>/da<postadv><err_orth>$^.<sent>/.<sent>$
+[/WYto43fI9JmV]
+[aG79QpqbMyzt#0] ^Nazir<n><nom>/Bakan<n><nom>$ ^anda<adv>/ora<prn><adv><loc>$ ^yaşa<v><iv><prc_past>/yaşa<v><iv><prc_past>$ ^qırımtatar<n><pl><gen>/Kırım Tatarı<n><pl><XD><gen>$ ^ayat<n><px3sp><dat>/hayat<n><px3sp><dat>$ ^qıymet kes<v><iv><fut2><p3><sg>/değerlendir<v><tv><fut2><p3><sg>$^.<sent>/.<sent>$
+[/aG79QpqbMyzt]
+[chyIjFwnSQHa#0] ^Prokuratura<n><gen>/Savcılık<n><gen>$ ^taqiq et<v><tv><prc_past>/araştır<v><tv><prc_past>/soruştur<v><tv><prc_past>$ ^areket<n><pl><acc>/hareket<n><pl><acc>$ ^ögren<v><tv><ger><nom>/öğren<v><tv><ger><nom>$ ^kerek<adj>/gerek<adj>$^.<sent>/.<sent>$
+[/chyIjFwnSQHa]

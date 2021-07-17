@@ -1,0 +1,2 @@
+[nCZNE4OXc3tG#0] ^v<SV>{^Ol<v><iv><cond>+i<cop><ifi><p3><sg>$}$^default<default>{^,<cm>$}$ ^n<SN>{^sürgün<n><nom>$}$ ^v<SV>{^et<v><tv><aor>+i<cop><ifi><p3><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^ama<cnjcoo>$}$ ^n<SN>{^@tehnik<n><nom>$}$ ^n<SN>{^imkan<n><pl><px3sp><nom>$}$ ^default<default>{^@sıñırlı<adj>$}$ ^default<default>{^i<cop><ifi><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/nCZNE4OXc3tG]

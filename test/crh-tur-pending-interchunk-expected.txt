@@ -1,0 +1,18 @@
+[DJpFwRoV09wr#0] ^unknown<unknown>{^*Yipnin$}$ ^unknown<unknown>{^*uzunu$}$ ^unknown<unknown>{^*yaxşı$}$^default<default>{^,<cm>$}$ ^n<SN>{^söz<n><gen>$}$ ^default<default>{^kısa<adj><subst><px3sp><nom>$}$^sent<SENT>{^.<sent>$}$
+[/DJpFwRoV09wr]
+[E3g6Cxztkm7g#0] ^n<SN>{^Yiğit<n><gen>$}$ ^n<SN>{^söz<n><px3sp><nom>$}$ ^default<default>{^bir<num><subst><nom>$}$ ^default<default>{^i<cop><aor><gno><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/E3g6Cxztkm7g]
+[Mf36QA5Af3pm#0] ^n<SN>{^Söz<n><px3sp><ins>$}$ ^n<SN>{^iş<n><px3sp><nom>$}$ ^default<default>{^bir<det><ind>$}$ ^default<default>{^ol<v><iv><imp><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Mf36QA5Af3pm]
+[Qykp7ffvVwdE#0] ^v<SV>{^At<v><tv><pass><gpr_rsub>$}$ ^unknown<unknown>{^*oq$}$ ^default<default>{^geri<adv>$}$ ^dön<SV><fut>{^dön<v><iv><neg><fut>+i<cop><aor><p3><sg>$}$^default<default>{^,<cm>$}$ ^v<SV>{^de<v><tv><pass><gpr_past><subst><px3sp><nom>$}$ ^n<SN>{^söz<n><nom>$}$^sent<SENT>{^.<sent>$}$
+[/Qykp7ffvVwdE]
+[Spl1Lnx0nFET#0] ^default<default>{^Uzaktan<adv>$}$ ^n<SN>{^davul<n><gen>$}$ ^n<SN>{^ses<n><px3sp><nom>$}$ ^default<default>{^hoş<adj>$}$ ^n<SN>{^@kelir<n><nom>$}$^sent<SENT>{^.<sent>$}$
+[/Spl1Lnx0nFET]
+[TLzp9R8Hn1r2#0] ^n<SN>{^Kız<n><px1sg><nom>$}$ ^n<SN>{^san<n><dat>$}$ ^unknown<unknown>{^*aytamın$}$^default<default>{^,<cm>$}$ ^n<SN>{^@keli<n><px2sg><nom>$}$ ^default<default>{^i<cop><aor><p1><sg><err_orth>$}$ ^default<default>{^sen<prn><pers><p2><sg><nom>$}$ ^default<default>{^dinle<v><tv><imp><p2><sg><err_orth>$}$^sent<SENT>{^.<sent>$}$
+[/TLzp9R8Hn1r2]
+[WYto43fI9JmV#0] ^n<SN>{^Adam<n><acc>$}$ ^v<SV>{^güldür<v><tv><gpr_past><subst><nom>$}$ ^default<default>{^da<postadv><err_orth>$}$ ^n<SN>{^dil<n><nom>$}$^default<default>{^,<cm>$}$ ^v<SV>{^@küydür<v><tv><gpr_past><subst><nom>$}$ ^default<default>{^i<cop><aor><p3><sg>$}$ ^default<default>{^da<postadv><err_orth>$}$^sent<SENT>{^.<sent>$}$
+[/WYto43fI9JmV]
+[aG79QpqbMyzt#0] ^n<SN>{^Bakan<n><nom>$}$ ^default<default>{^ora<prn><adv><loc>$}$ ^v<SV>{^yaşa<v><iv><gpr_rsub>$}$ ^n<SN>{^Kırım Tatarı<n><pl><px3sp><gen>$}$ ^n<SN>{^hayat<n><px3sp><dat>$}$ ^değerlendir<SV><fut>{^değerlendir<v><tv><fut>+i<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/aG79QpqbMyzt]
+[chyIjFwnSQHa#0] ^n<SN>{^Savcılık<n><gen>$}$ ^v<SV>{^araştır<v><tv><gpr_rsub>$}$ ^n<SN>{^hareket<n><pl><acc>$}$ ^default<default>{^öğren<v><tv><ger><nom>$}$ ^default<default>{^gerek<adj>$}$^sent<SENT>{^.<sent>$}$
+[/chyIjFwnSQHa]

@@ -1,0 +1,18 @@
+[DJpFwRoV09wr#0] ^*Yipnin$ ^*uzunu$ ^*yaxşı$^,<cm>$ ^söz<n><gen><err_orth>$ ^qısqa<adj><subst><px3sp><nom>$^.<sent>$
+[/DJpFwRoV09wr]
+[E3g6Cxztkm7g#0] ^Yigit<n><gen><err_orth>$ ^söz<n><px3sp><nom>$ ^bir<num><subst><nom>$ ^e<cop><aor><gno><p3><pl>$^.<sent>$
+[/E3g6Cxztkm7g]
+[Mf36QA5Af3pm#0] ^Söz<n><px3sp><ins><err_orth>$ ^iş<n><px3sp><nom><err_orth>$ ^bir<det><ind>$ ^ol<v><iv><imp><p3><sg>$^.<sent>$
+[/Mf36QA5Af3pm]
+[Qykp7ffvVwdE#0] ^At<v><tv><pass><prc_past>$ ^*oq$ ^keri<adv>$ ^qayt<v><iv><neg><fut><p3><sg>$^,<cm>$ ^ayt<v><tv><pass><gpr_past>$ ^söz<n><nom>$^.<sent>$
+[/Qykp7ffvVwdE]
+[Spl1Lnx0nFET#0] ^Uzaqtan<adv>$ ^davul<n><gen><err_orth>$ ^ses<n><px3sp><nom>$ ^xoş<adj>$ ^kelir<n><nom>$^.<sent>$
+[/Spl1Lnx0nFET]
+[TLzp9R8Hn1r2#0] ^Qız<n><px1sg><nom>$ ^san<n><dat><err_orth>$ ^*aytamın$^,<cm>$ ^keli<n><px2sg><nom>$ ^e<cop><aor><p1><sg><err_orth>$ ^sen<prn><pers><p2><sg><nom>$ ^diñle<v><tv><imp><p2><sg><err_orth>$^.<sent>$
+[/TLzp9R8Hn1r2]
+[WYto43fI9JmV#0] ^Adam<n><acc>$ ^küldür<v><tv><ger_past><nom>$ ^da<postadv><err_orth>$ ^til<n><nom>$^,<cm>$ ^küydür<v><tv><ger_past><nom>$ ^e<cop><aor><p3><sg>$ ^da<postadv><err_orth>$^.<sent>$
+[/WYto43fI9JmV]
+[aG79QpqbMyzt#0] ^Nazir<n><nom>$ ^anda<adv>$ ^yaşa<v><iv><prc_past>$ ^qırımtatar<n><pl><gen>$ ^ayat<n><px3sp><dat>$ ^qıymet kes<v><iv><fut2><p3><sg>$^.<sent>$
+[/aG79QpqbMyzt]
+[chyIjFwnSQHa#0] ^Prokuratura<n><gen>$ ^taqiq et<v><tv><prc_past>$ ^areket<n><pl><acc>$ ^ögren<v><tv><ger><nom>$ ^kerek<adj>$^.<sent>$
+[/chyIjFwnSQHa]

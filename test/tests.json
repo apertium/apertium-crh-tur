@@ -1,0 +1,10 @@
+{
+    "crh-tur-pending": {
+        "input": "crh-tur-pending-input.txt",
+        "mode": "crh-tur"
+    },
+    "crh-tur-regression": {
+        "input": "crh-tur-regression-input.txt",
+        "mode": "crh-tur"
+    }
+}

@@ -1,0 +1,2 @@
+[nCZNE4OXc3tG#0] ^Olsa/Ol<v><iv><prc_cond><p3><sg>$ ^edi/e<cop><ifi><p3><sg>/e<vaux><ifi><p3><sg>/yedi<num>$^,/,<cm>$ ^sürgün/sürgün<adj>/sürgün<n><nom>$ ^eter/et<v><tv><prc_fut>$ ^edi/e<cop><ifi><p3><sg>/e<vaux><ifi><p3><sg>/yedi<num>$^,/,<cm>$ ^amma/amma<cnjcoo>$ ^tehnik/tehnik<n><nom>/tehnik<n><attr>$ ^imkânları/imkân<n><pl><px3sp><nom>$ ^sıñırlı/sıñırlı<adj>$ ^edi/e<cop><ifi><p3><sg>/yedi<num>$^./.<sent>$
+[/nCZNE4OXc3tG]
